@@ -1,0 +1,40 @@
+name: Tägliches News Update
+
+on:
+  schedule:
+    # Führt den Workflow jeden Morgen um 06:00 Uhr (UTC) aus
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Dieser Button erlaubt das manuelle Starten über die GitHub Website
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    
+    # Erlaubt dem Workflow, Änderungen wieder ins Repository zu pushen
+    permissions:
+      contents: write
+
+    steps:
+      - name: 1. Code aus dem Repository herunterladen
+        uses: actions/checkout@v4
+
+      - name: 2. Node.js Umgebung einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 3. Datenabruf-Skript ausführen (fetch-news.js)
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: node fetch-news.js
+        
+      - name: 4. Aktualisierte Daten (news.json) speichern und pushen
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Wir fügen die Datei hinzu
+          git add news.json
+          
+          # Wir überprüfen, ob es überhaupt neue Änderungen gab
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automatisches Update: Neue News von API geladen" && git push)
