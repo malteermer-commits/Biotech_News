@@ -34,9 +34,8 @@ async function loadNews() {
 
         allArticles = await response.json();
 
-        // Überprüfen, ob Artikel vorhanden sind
         if (!allArticles || allArticles.length === 0) {
-            document.getElementById('top-news').innerHTML = '<div class="p-12 text-center text-xl text-gray-500">Aktuell keine Nachrichten verfügbar.</div>';
+            document.getElementById('top-news').innerHTML = '<div class="p-16 text-center text-2xl text-forest font-bold">Aktuell keine Nachrichten verfügbar.</div>';
             return;
         }
 
@@ -46,10 +45,9 @@ async function loadNews() {
         console.error('Fehler beim Laden der Nachrichten:', error);
         
         document.getElementById('top-news').innerHTML = `
-            <div class="p-12 text-center text-red-500">
-                <h3 class="text-2xl font-bold mb-2">Daten nicht gefunden!</h3>
-                <p>Hast du die Datei <code>news.json</code> bereits durch das Node-Skript generieren lassen?</p>
-                <p class="text-sm mt-4 text-gray-500">(Lokal zum Testen ausführen: <code>node fetch-news.js</code> in deinem Terminal)</p>
+            <div class="p-16 text-center text-red-700 bg-mint rounded-[2.5rem]">
+                <h3 class="text-3xl font-black mb-4">Daten nicht gefunden!</h3>
+                <p class="text-forest text-lg font-medium">Hast du die Datei <code>news.json</code> bereits generieren lassen?</p>
             </div>
         `;
     }
@@ -68,15 +66,13 @@ function renderNews() {
 
     if (articlesToDisplay.length === 0) {
         if (showBookmarksOnly) {
-            topNewsContainer.innerHTML = '<div class="p-12 text-center text-xl text-gray-500">Du hast noch keine Artikel gespeichert.</div>';
+            topNewsContainer.innerHTML = '<div class="p-16 text-center text-2xl text-forest font-bold">Du hast noch keine Artikel gespeichert.</div>';
         } else {
-            topNewsContainer.innerHTML = '<div class="p-12 text-center text-xl text-gray-500">Aktuell keine Nachrichten verfügbar.</div>';
+            topNewsContainer.innerHTML = '<div class="p-16 text-center text-2xl text-forest font-bold">Aktuell keine Nachrichten verfügbar.</div>';
         }
         return;
     }
 
-    // Wenn wir nur Bookmarks anzeigen, gibt es ggf. keine "Top-News" in diesem Sinne,
-    // aber wir behalten das Layout bei.
     renderTopNews(articlesToDisplay[0]);
     
     if (articlesToDisplay.length > 1) {
@@ -97,12 +93,9 @@ function toggleBookmark(article) {
     
     localStorage.setItem('biotech_bookmarks', JSON.stringify(bookmarkedArticles));
     updateBookmarkCount();
-    
-    // UI neu rendern
     renderNews();
 }
 
-// Wird vom HTML (onclick) aufgerufen
 window.handleBookmarkClick = function(encodedUrl) {
     const url = decodeURIComponent(encodedUrl);
     const article = allArticles.find(a => a.url === url);
@@ -118,14 +111,12 @@ function updateBookmarkCount() {
 function getBookmarkButtonHtml(article) {
     const isSaved = isBookmarked(article.url);
     const fillClass = isSaved ? 'currentColor' : 'none';
-    const textClass = isSaved ? 'text-indigo-600' : 'text-gray-400 hover:text-indigo-600';
-    
-    // Url encodieren, um sie sicher an die Funktion zu übergeben
+    const textClass = isSaved ? 'text-forest' : 'text-forest/40 hover:text-forest';
     const encodedUrl = encodeURIComponent(article.url);
     
     return `
-        <button onclick="handleBookmarkClick('${encodedUrl}')" class="${textClass} transition-colors p-2 rounded-full hover:bg-indigo-50 focus:outline-none" title="${isSaved ? 'Lesezeichen entfernen' : 'Lesezeichen hinzufügen'}">
-            <svg class="w-6 h-6" fill="${fillClass}" stroke="currentColor" viewBox="0 0 24 24">
+        <button onclick="handleBookmarkClick('${encodedUrl}')" class="${textClass} transition-colors p-2.5 rounded-full hover:bg-black/5 focus:outline-none" title="${isSaved ? 'Lesezeichen entfernen' : 'Lesezeichen hinzufügen'}">
+            <svg class="w-7 h-7" fill="${fillClass}" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z"></path>
             </svg>
         </button>
@@ -140,25 +131,24 @@ function renderTopNews(article) {
     topNewsContainer.innerHTML = `
         <div class="flex flex-col md:flex-row h-full">
             <div class="md:w-1/2 relative overflow-hidden">
-                <img src="${imageUrl}" alt="${article.title}" class="w-full h-72 md:h-full object-cover transition-transform duration-700 hover:scale-105">
+                <img src="${imageUrl}" alt="${article.title}" class="w-full h-80 md:h-full object-cover transition-transform duration-1000 hover:scale-105">
             </div>
-            <div class="p-8 md:w-1/2 flex flex-col justify-center relative">
-                <div class="absolute top-4 right-4">
+            <div class="p-10 md:p-14 md:w-1/2 flex flex-col justify-center relative bg-mint">
+                <div class="absolute top-6 right-6 bg-mint/90 backdrop-blur shadow-sm rounded-full">
                     ${getBookmarkButtonHtml(article)}
                 </div>
-                <div class="flex items-center mb-3 mt-4 md:mt-0">
-                    <span class="bg-blue-100 text-blue-800 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">${article.source.name}</span>
-                    <span class="text-gray-400 text-sm ml-4">${publishDate}</span>
+                <div class="flex items-center mb-6 mt-4 md:mt-0">
+                    <span class="bg-forest text-mint text-xs font-black px-4 py-1.5 rounded-full tracking-wider uppercase">${article.source.name}</span>
+                    <span class="text-forest/60 font-bold text-sm ml-4">${publishDate}</span>
                 </div>
-                <h3 class="text-3xl font-extrabold text-gray-900 mb-4 line-clamp-3 leading-tight hover:text-blue-700 transition-colors">
+                <h3 class="text-4xl md:text-5xl font-black text-forest mb-6 line-clamp-3 leading-[1.1] tracking-tight hover:text-forest/80 transition-colors">
                     <a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a>
                 </h3>
-                <p class="text-gray-600 text-lg mb-8 line-clamp-4">${article.description || 'Keine Zusammenfassung verfügbar.'}</p>
+                <p class="text-forest/80 text-xl mb-10 line-clamp-4 font-medium leading-relaxed">${article.description || 'Keine Zusammenfassung verfügbar.'}</p>
                 <div class="mt-auto">
                     <a href="${article.url}" target="_blank" rel="noopener noreferrer" 
-                       class="inline-flex items-center justify-center bg-blue-600 text-white px-8 py-3 rounded-xl font-semibold hover:bg-blue-700 transition-colors shadow-md hover:shadow-lg transform hover:-translate-y-0.5">
-                        Artikel lesen
-                        <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                       class="inline-flex items-center justify-center border-2 border-forest text-forest px-8 py-3.5 rounded-full font-bold hover:bg-forest hover:text-mint transition-all duration-300">
+                        Read Article <span class="ml-2 font-bold text-xl leading-none">›</span>
                     </a>
                 </div>
             </div>
@@ -172,32 +162,29 @@ function renderNewsGrid(articles) {
 
     articles.forEach(article => {
         const imageUrl = article.urlToImage || 'https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80';
-        const publishDate = new Date(article.publishedAt).toLocaleDateString('de-DE');
         
         const card = document.createElement('div');
-        card.className = 'bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden flex flex-col hover:shadow-xl transition-all duration-300 hover:-translate-y-1 group';
+        card.className = 'bg-mint rounded-3xl overflow-hidden flex flex-col group relative transform transition-all duration-300 hover:-translate-y-2 hover:shadow-xl';
         
         card.innerHTML = `
-            <div class="h-48 overflow-hidden relative">
-                <img src="${imageUrl}" alt="${article.title}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
-                <div class="absolute top-2 right-2 bg-white/90 backdrop-blur-sm rounded-full shadow-sm">
+            <div class="h-56 overflow-hidden relative m-2.5 rounded-[1.5rem]">
+                <img src="${imageUrl}" alt="${article.title}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                <div class="absolute top-3 right-3 bg-mint/90 backdrop-blur-sm rounded-full shadow-sm">
                     ${getBookmarkButtonHtml(article)}
                 </div>
             </div>
             <div class="p-6 flex flex-col flex-grow">
-                <div class="flex justify-between items-center mb-3">
-                    <span class="text-xs font-bold text-indigo-600 uppercase tracking-wider bg-indigo-50 px-2 py-1 rounded">${article.source.name}</span>
-                    <span class="text-gray-400 text-xs">${publishDate}</span>
-                </div>
-                <h4 class="text-xl font-bold text-gray-900 mb-3 line-clamp-2 leading-snug group-hover:text-indigo-600 transition-colors">
+                <h4 class="text-xl font-black text-forest mb-3 line-clamp-2 leading-tight group-hover:text-forest/70 transition-colors">
                     <a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a>
                 </h4>
-                <p class="text-gray-600 text-sm mb-6 line-clamp-3 flex-grow">${article.description || 'Keine Zusammenfassung verfügbar.'}</p>
-                <a href="${article.url}" target="_blank" rel="noopener noreferrer" 
-                   class="text-indigo-600 font-semibold hover:text-indigo-800 flex items-center mt-auto">
-                    Weiterlesen 
-                    <svg class="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
-                </a>
+                <div class="flex justify-between items-center mt-auto pt-4">
+                    <div class="text-forest/70 font-bold text-xs bg-forest/5 px-3 py-1.5 rounded-lg uppercase tracking-wide">
+                        ${article.source.name}
+                    </div>
+                    <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="bg-forest text-mint rounded-full w-9 h-9 flex items-center justify-center hover:bg-forest/80 transition-colors shadow-md">
+                        <span class="font-bold text-lg leading-none mt-0.5">›</span>
+                    </a>
+                </div>
             </div>
         `;
         
