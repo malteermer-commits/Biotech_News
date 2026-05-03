@@ -1,262 +1,262 @@
 [
   {
     "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ETimes.in",
+    "title": "The love between Krishna and Yashoda holds 5 lessons every mother should know",
+    "description": "There are some bonds that feel larger than mythology. Krishna and Yashoda are one of them. Their relationship is remembered not only because it is tender, playful and full of wonder, but because it captures something deeply human: the way a mother loves beyon…",
+    "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/the-love-between-krishna-and-yashoda-holds-5-lessons-every-mother-should-know/photostory/130713120.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-130713140,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-05-02T09:45:00Z",
+    "content": "Yashodas love was not loud in the way legends often are. It was lived in daily acts, feeding, holding, worrying, searching, forgiving. And yet it became immortal. That is one of the most moving truth… [+1009 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "https://www.mindbodygreen.com/wc/sela-breen",
+    "title": "Reproductive Organs Age Differently—Now Science Can Track It",
+    "description": "A blood test could one day predict your menopause timeline.",
+    "url": "https://www.mindbodygreen.com/articles/reproductive-organs-age-differently-and-now-science-can-track-it",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/m021ziomokdrjqqnl.jpg",
+    "publishedAt": "2026-05-02T09:42:00Z",
+    "content": "We've long treated menopause as a singular biological event, marked by the moment the ovaries stop working. But any women who has gone through menopause could tell you that it is much more than that,… [+3260 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TheJournal.ie"
+    },
+    "author": "Olivia Kelleher",
+    "title": "Man had 'actively hissing' chest wound after alleged stabbing by his brother, court hears",
+    "description": "William Brennan (32) of Longbridge, Ballyhalwick, Dunmanway, Co Cork denies assault causing serious harm.",
+    "url": "https://www.thejournal.ie/man-stabbed-bothers-cork-7029650-May2026/",
+    "urlToImage": "https://img2.thejournal.ie/article/7029650/river/?height=400&version=7029666",
+    "publishedAt": "2026-05-02T09:33:27Z",
+    "content": "A CONSULTANT IN emergency medicine has said that he thought a man who was allegedly stabbed by his brother would die as he had a wound to his chest which was actively hissing.\r\nWilliam Brennan (32) o… [+4332 chars]"
+  },
+  {
+    "source": {
       "id": "the-irish-times",
       "name": "The Irish Times"
     },
-    "author": "Niamh Browne, Katie Mellett",
-    "title": "Seven Irish activists on Gaza flotilla detained by Israel released in Greece",
-    "description": "Seven Irish citizens are being held by Israel after boats from the flotilla were intercepted in international waters off of Greece",
-    "url": "https://www.irishtimes.com/ireland/2026/05/01/seven-irish-activists-on-gaza-flotilla-detained-by-israel-released-in-greece/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/HUP5FFEE4ZF2PMEJIQOP2TK6CU.JPG?smart=true&auth=0c914e9d0077a7714d0bcc1a64830ca78c532a386ff83e9f94fc053e35da0d5f&width=1200&height=630",
-    "publishedAt": "2026-05-01T09:34:28Z",
-    "content": "The seven Irish citizens who were detained after Israeli forces intercepted the Global Sumud Flotilla have been handed over to the Greek authorities, its organisers have said.\r\nThe seven were taken a… [+7903 chars]"
+    "author": "Olivia Kelleher",
+    "title": "Consultant tells court of ‘chaotic’ scene as victim’s chest wound was ‘hissing’",
+    "description": "Dr Jason van der Velde told a trial at Cork Circuit Criminal Court that he thought the pleural cavity surrounding the lungs of John Brennan had been breached",
+    "url": "https://www.irishtimes.com/crime-law/courts/2026/05/02/consultant-tells-court-of-chaotic-scene-as-victims-chest-wound-was-hissing/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/TDREEIMUBZGHXBRG6MXIDKE6JQ.png?smart=true&auth=3001edf19705265247b9dbd2f43d81276658272f4087be85e6115e9e83c7da6c&width=1200&height=630",
+    "publishedAt": "2026-05-02T09:05:32Z",
+    "content": "A consultant in emergency medicine has said that he thought that a man who was allegedly stabbed by his brother would die as he had a wound to his chest which was actively hissing.\r\nWilliam Brennan (… [+4367 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Freerepublic.com"
     },
-    "author": null,
-    "title": "fpembed added to PyPI",
-    "description": "Generalized fingerprint embedding library",
-    "url": "https://pypi.org/project/fpembed/",
-    "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-    "publishedAt": "2026-05-01T09:22:01Z",
-    "content": "A lightweight Python package for generating compressed molecular fingerprint embeddings, backed by scikit-fingerprints. Supports six binary fingerprint types through a single unified class.\r\nFPembed … [+15520 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "arghyac@umich.edu, donald.chung@stfc.ac.uk, sarah.fegan@stfc.ac.uk, james.gebbie@stfc.ac.uk, sarah.harris@sheffield.ac.uk, rhen7213@uni.sydney.edu.au, j.higham4@lancaster.ac.uk, jas.kalayan@stfc.ac.uk, iapapa1@sheffield.ac.uk",
-    "title": "CodeEntropy 2.2.2",
-    "description": "CodeEntropy is a Python package for computing the configurational entropy of macromolecular systems using forces sampled from molecular dynamics (MD) simulations. It implements the multiscale cell correlation method to provide accurate and efficient entropy e…",
-    "url": "https://pypi.org/project/codeentropy/2.2.2/",
+    "author": "NY Post",
+    "title": "Trump hangs with seniors in Florida’s Villages – touts everything he’s done to make life more affordable",
+    "description": "President Trump on Friday addressed seniors at The Villages in Florida and touted his second-term achievements that have made life more affordable for those in their golden years. “I’m much, much younger than the people in this room, but I feel I can relate t…",
+    "url": "https://freerepublic.com/focus/f-chat/4377323/posts",
     "urlToImage": null,
-    "publishedAt": "2026-05-01T09:09:31Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": "medical-news-today",
-      "name": "Medical News Today"
-    },
-    "author": "Katharine Lang",
-    "title": "Obesity increases heart failure risk but weight loss can reverse it, study finds",
-    "description": "Can weight loss reverse heart failure? A new study shows that heart muscle cells regain strength and muscle contractions improve after treatment with GLP-1s in people with severe obesity.",
-    "url": "https://www.medicalnewstoday.com/articles/severe-obesity-may-weaken-heart-health-but-weight-loss-may-help-reverse-this",
-    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/05/heart-muscle-Stocksy_txpc9984bdcrJy300_Medium_585930-Facebook.jpg",
-    "publishedAt": "2026-05-01T09:09:27Z",
-    "content": "<ul><li>Worldwide, the number of people with obesity has more than doubled since 1990, with at least 16% of all adults now having the condition.</li><li>Many health conditions are linked to obesity, … [+7346 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "ywatanabe@scitex.ai",
-    "title": "scitex-dataset 0.3.7",
-    "description": "Multi-domain scientific dataset fetcher — neuroscience, biology, pharmacology, medical (OpenNeuro, DANDI, PhysioNet, GEO, ChEMBL, ClinicalTrials.gov)",
-    "url": "https://pypi.org/project/scitex-dataset/0.3.7/",
-    "urlToImage": null,
-    "publishedAt": "2026-05-01T09:02:59Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "DR. BEN CARSON: I know how bad the SPLC was, it came after me and put me at risk",
-    "description": "The SPLC faces an 11-count Justice Department indictment alleging fraud and money laundering, including allegedly bankrolling white supremacist groups.",
-    "url": "https://www.foxnews.com/opinion/dr-ben-carson-know-bad-splc-came-put-risk",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/todd-blanche-kash-patel-splc-fox-news.jpeg",
-    "publishedAt": "2026-05-01T09:00:16Z",
-    "content": "For years now, the only question worth asking about the Southern Poverty Law Center has been whether the SPLC had become a cynical grift for the radical left or a hate group itself. The latest findin… [+4667 chars]"
-  },
-  {
-    "source": {
-      "id": "cbs-news",
-      "name": "CBS News"
-    },
-    "author": null,
-    "title": "Delays in visa program threaten placement of hundreds of doctors in underserved areas",
-    "description": "Hundreds of foreign doctors about to complete training in the U.S. will have to leave the country if the federal government doesn't rapidly process their visa waiver applications, immigration attorneys say.",
-    "url": "https://www.cbsnews.com/news/h1b-visa-program-doctors-delays/",
-    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/01/d404ee2c-13ec-4d9d-b528-8b8551e8597e/thumbnail/1200x630g2/f2a8552bc3a2923862d62c0a3339f4b1/gettyimages-1424868032.jpg",
-    "publishedAt": "2026-05-01T09:00:13Z",
-    "content": "Hundreds of foreign doctors about to complete training in the U.S. will have to leave the country if the federal government doesn't rapidly process their visa waiver applications, which have been lan… [+9593 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NPR"
-    },
-    "author": "Phil Galewitz",
-    "title": "It's Day 1 of Medicaid work requirements in Nebraska. People are worried",
-    "description": "Starting May 1, many people covered by Medicaid in Nebraska have to prove they are working. It's a requirement most states will have to implement under President Trump's budget law, beginning in January.",
-    "url": "https://www.npr.org/2026/05/01/nx-s1-5806260/trump-medicaid-work-requirements-nebraska-big-beautiful-bill-hr1-obbba",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5127x2884+0+534/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F30%2F2cb872914d528cfd4899dc681072%2Fap25198776044421.jpg",
-    "publishedAt": "2026-05-01T09:00:00Z",
-    "content": "Schmeeka Simpson of Omaha works as a patient navigator for the American Civil Liberties Union and an administrative assistant at Nebraskans for Peace, plus picks up shifts at a Dunkin' shop.\r\nStill, … [+10988 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thenation.com"
-    },
-    "author": "Gregg Gonsalves",
-    "title": "The Rise of the Vichy Scientists",
-    "description": "Gregg Gonsalves\n\n\n\nToo many scientists are willing to collaborate with Trumpism in the mistaken assumption that obedience will save their own necks.\r\n\n\r\n\n\nThe post The Rise of the Vichy Scientists appeared first on The Nation.",
-    "url": "https://www.thenation.com/?post_type=article&p=595983",
-    "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/04/GettyImages-2268358556-1.jpg",
-    "publishedAt": "2026-05-01T09:00:00Z",
-    "content": "Too many scientists are willing to collaborate with Trumpism in the mistaken assumption that obedience will save their own necks.\r\nAd Policy\r\nJayanta Bhattacharya, director of the US National Institu… [+8271 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Nasser Kazeminy",
-    "title": "America at 250: immigration and the making of an innovative nation",
-    "description": "The chairman of the Ellis Island Honors Society says we would do well to build an immigration system worthy of this legacy of immigration and innovation.",
-    "url": "https://fortune.com/2026/05/01/america-at-250-immigration-and-the-making-of-an-innovative-nation/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2261854982-e1777493840250.jpg?resize=1200,600",
-    "publishedAt": "2026-05-01T09:00:00Z",
-    "content": "Since Americas founding, legal immigration has been debated, enforced, contested, and redefined. It runs through our national story and will continue to do so as we pursue our nations second 250 year… [+5808 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Kffhealthnews.org"
-    },
-    "author": "Arielle Zionts",
-    "title": "Delays in Visa Program Threaten Placement of Hundreds of Doctors in Underserved Areas",
-    "description": "A federal agency has dramatically slowed its review of visa waiver applications that allow international physicians completing U.S. training programs to stay in the country to work in underserved areas. The delay may send hundreds of doctors back to their hom…",
-    "url": "https://kffhealthnews.org/health-industry/hhs-exchange-visitor-program-visa-waiver-j1-h1b-delays-foreign-doctors-deadline/",
-    "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/04/2026-04-29_H1-B_Dearth_3x2.jpg",
-    "publishedAt": "2026-05-01T09:00:00Z",
-    "content": "Hundreds of foreign doctors about to complete training in the U.S. will have to leave the country if the federal government doesn’t rapidly process their visa waiver applications, which have been lan… [+9342 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lithub.com"
-    },
-    "author": "Lauren Groff",
-    "title": "Lauren Groff: There is No Such Thing as Boredom, Only Noticing",
-    "description": "My soul is so full that we are here together tonight. Thank you, Hannah and Maribeth for your loving, clear and steady vision for One Story. I can’t believe it has been eighteen years since I had the giddy delight",
-    "url": "https://lithub.com/lauren-groff-there-is-no-such-thing-as-boredom-only-noticing/",
-    "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2026/04/ZZZ1493-scaled.jpg",
-    "publishedAt": "2026-05-01T08:59:12Z",
-    "content": "My soul is so full that we are here together tonight. Thank you, Hannah and Maribeth for your loving, clear and steady vision for One Story. I cant believe it has been eighteen years since I had the … [+7445 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Techtarget.com"
-    },
-    "author": "Rosa Heaton",
-    "title": "Weekly news roundup: Musk vs. Altman, Google’s Pentagon AI deal, China and EU hit Meta",
-    "description": "Stay up to date with the latest U.S. tech news, IPOs and executive moves shaping the industry each week.",
-    "url": "https://www.techtarget.com/searchcio/news/366642350/Weekly-news-roundup-Musk-vs-Altman-Googles-Pentagon-AI-deal-China-and-EU-hit-Meta",
-    "urlToImage": "https://www.techtarget.com/rms/onlineimages/maze_g467037520.jpg",
-    "publishedAt": "2026-05-01T08:59:00Z",
-    "content": "This week in tech saw Elon Musk and Sam Altman face off in court, Google deepen its ties with the Pentagon through expanded AI access, Meta ordered by China to unwind a $2 billion AI acquisition and … [+5751 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "National Observer"
-    },
-    "author": "Aimee Gabay",
-    "title": "Indigenous health can’t be separated from environmental health, leaders tell UN",
-    "description": "At the Permanent Forum, leaders connect climate change, mining and deforestation to mounting health crisis and demand a coordinated approach to land rights.",
-    "url": "https://www.nationalobserver.com/2026/05/01/news/indigenous-health-environment-united-nations",
-    "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2026/04/30/unfpii-2026-health.png",
-    "publishedAt": "2026-05-01T08:55:53Z",
-    "content": "This story was originally published by Grist and appears here as part of the Climate Desk collaboration. This story is published through the Indigenous News Alliance.\r\nOn the second day of the United… [+9481 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ibtimes.com.au"
-    },
-    "author": "Chris Walker",
-    "title": "Anthony Edwards Knee Injury Update: Can Timberwolves Star Walk Right Now?",
-    "description": "MINNEAPOLIS — Minnesota Timberwolves superstar Anthony Edwards remains week-to-week with a left knee hyperextension and bone bruise sustained during the playoffs, raising questions about his mobility and potential return as the team pushes through the postsea…",
-    "url": "https://www.ibtimes.com.au/anthony-edwards-knee-injury-update-can-timberwolves-star-walk-right-now-1867934",
-    "urlToImage": "https://d.ibtimes.com.au/en/full/1894142/anthony-edwards.jpg",
-    "publishedAt": "2026-05-01T08:54:59Z",
-    "content": "MINNEAPOLIS — Minnesota Timberwolves superstar Anthony Edwards remains week-to-week with a left knee hyperextension and bone bruise sustained during the playoffs, raising questions about his mobility… [+4961 chars]"
+    "publishedAt": "2026-05-02T09:05:13Z",
+    "content": "Skip to comments.\r\nTrump hangs with seniors in Floridas Villages touts everything hes done to make life more affordableNY Post ^\r\n | 5/01/26\r\n | Victor Nava\r\nPosted on 05/02/2026 2:05:13 AM PDT by Li… [+2005 chars]"
   },
   {
     "source": {
       "id": "business-insider",
       "name": "Business Insider"
     },
-    "author": "Kim Schewitz,Kashmira Gander,Hilary Brueck,Noah Sheidlower,Julia Pugachevsky,Gabby Landsverk",
-    "title": "3 common longevity mistakes doctors and scientists say to avoid",
-    "description": "It's hard to tell which longevity trends actually work. Doctors and scientists shared what they wish people would stop doing in the hope of optimizing their health.",
-    "url": "https://www.businessinsider.com/aging-mistakes-longevity-experts-doctors-scientists-avoid-2026-4",
-    "urlToImage": "https://i.insider.com/69ef998ea98bc8fdc096f55f?width=1200&format=jpeg",
-    "publishedAt": "2026-05-01T08:51:01Z",
-    "content": "Peter Fedichev, Evelyne Bischof, and Dylan Livingston: three of Business Insider's Rising Stars of Longevity.Coursey of Peter Fedichev, Evelyne Bischof, and Dylan Livingston; Alyssa Powell/BI\r\n<ul><l… [+4727 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "Noor Ul Ain Rehman",
-    "title": "Cantor Fitzgerald Initiates Coverage of Shattuck Labs (STTK)",
-    "description": "Shattuck Labs, Inc. (NASDAQ:STTK) is one of the best performing small cap stocks so far in 2026. Cantor Fitzgerald initiated coverage of Shattuck Labs, Inc. ...",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-initiates-coverage-shattuck-081752393.html",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/RL6BFHZByz.9lL9JQgdmZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/ab3672f9e3058faa3d540de1bd383fa6",
-    "publishedAt": "2026-05-01T08:17:52Z",
-    "content": "Shattuck Labs, Inc. (NASDAQ:STTK) is one of the best performing small cap stocks so far in 2026. Cantor Fitzgerald initiated coverage of Shattuck Labs, Inc. (NASDAQ:STTK) with an Overweight rating on… [+1647 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "Noor Ul Ain Rehman",
-    "title": "Why Climb Bio (CLYM) is One of the Best Performing Small Cap Stocks So Far in 2026",
-    "description": "Climb Bio Inc (NASDAQ:CLYM) is one of the best performing small cap stocks so far in 2026. Oppenheimer lifted the price target on Climb Bio Inc (NASDAQ:CLYM)...",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/why-climb-bio-clym-one-081743387.html",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9Vlcv5YvOatuygcCr21_KA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzM-/https://media.zenfs.com/en/insidermonkey.com/6c88ca84cdb3d710c8965a6f593285f5",
-    "publishedAt": "2026-05-01T08:17:43Z",
-    "content": "Climb Bio Inc (NASDAQ:CLYM) is one of the best performing small cap stocks so far in 2026. Oppenheimer lifted the price target on Climb Bio Inc (NASDAQ:CLYM) to $18 from $10 on April 12, maintaining … [+1959 chars]"
+    "author": "insider@insider.com (Insider Inc.)",
+    "title": "Welcome to Próspera, the private paradise of libertarians, tech entrepreneurs, and biohackers",
+    "description": "There are tons of palm trees and few rules in Próspera, built on a Honduran island.",
+    "url": "https://www.businessinsider.com/prospera-a-private-city-in-honduras-backed-by-peter-thiel-2026-4",
+    "urlToImage": "https://i.insider.com/69efb0023fecbb42897a4a7c?width=1200&format=jpeg",
+    "publishedAt": "2026-05-02T09:03:01Z",
+    "content": "When Lonis Hamaili steps out of the elevator on the 10th floor of Duna Tower, he looks out over an avenue of palm trees, blue sea stretching to the horizon, and a barrier guarded by a man with a pist… [+26776 chars]"
   },
   {
     "source": {
       "id": "the-next-web",
       "name": "The Next Web"
     },
-    "author": "Alina Maria Stan",
-    "title": "The companies burning the most electricity are buying carbon credits from genetically engineered trees",
-    "description": "Octopus Energy Generation has committed $500 million to Living Carbon, a San Francisco biotech company that plants trees on degraded land to remove carbon dioxide from the atmosphere. The deal, announced on 30 April, will fund reforestation projects across No…",
-    "url": "https://thenextweb.com/news/living-carbon-octopus-reforestation-carbon-credits/",
-    "urlToImage": "https://media.thenextweb.com/2026/05/living-carbon-octopus-reforestation-carbon-credits.avif",
-    "publishedAt": "2026-05-01T08:14:31Z",
-    "content": "TL;DR\r\nOctopus Energy Generation has committed $500 million to Living Carbon, a biotech startup that plants trees on degraded land to remove CO, aiming to remove 50 million tonnes over 40 years. Goog… [+9705 chars]"
+    "author": "Allison Steffens Herrera",
+    "title": "The company that built TikTok’s algorithm is now designing drugs for diseases pharma called undruggable",
+    "description": "The company that built TikTok’s recommendation algorithm, the system that predicts with unsettling accuracy what a person wants to watch next, is now using a related class of AI to predict how molecules will behave inside a human body. ByteDance’s drug discov…",
+    "url": "https://thenextweb.com/news/bytedance-anew-labs-ai-drug-discovery/",
+    "urlToImage": "https://media.thenextweb.com/2026/05/bytedance-anew-labs-ai-drug-discovery.avif",
+    "publishedAt": "2026-05-02T09:01:59Z",
+    "content": "TL;DR\r\nByteDances drug discovery unit Anew Labs presented its first AI-designed therapy at a major immunology conference in Boston, showing a generative-AI-designed small molecule targeting IL-17, a … [+9154 chars]"
   },
   {
     "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
+      "id": "cbc-news",
+      "name": "CBC News"
     },
-    "author": "Trending Desk",
-    "title": "Is Gen Z getting ‘dumber’? Video explains why IQ may be falling for the first time in human history",
-    "description": "Young adults, Gen Z, might be experiencing a decline in cognitive skills compared to their parents. This trend, observed by neuroscientists, suggests a potential shift from the long-standing Flynn effect. Factors like increased smartphone use and digital habi…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/is-gen-z-getting-dumber-video-explains-why-iq-may-be-falling-for-the-first-time-in-human-history/articleshow/130671209.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-130671612,width-1200,height-630,imgsize-63922,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-05-01T08:09:31Z",
-    "content": "In a world buzzing with smartphones and endless scrolls, a provocative claim is making waves: today's young adults, often called Gen Z, might be the first in over a century to trail their parents in … [+3625 chars]"
+    "author": null,
+    "title": "Women’s sports are booming in Toronto with fans at the centre",
+    "description": "The AFC Toronto homeopener is on the horizon, the Tempo played their first-ever game and the Sceptres were shut out from the playoffs, it's a busy time for Toronto women's sports and and, experts say, a rewarding time to be a fan.",
+    "url": "https://www.cbc.ca/news/canada/toronto/womens-sports-boom-toronto-9.7185038",
+    "urlToImage": "https://i.cbc.ca/ais/4dc9bdcb-69e0-458d-8154-39c5144c65d6,1777669492103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C182%2C2016%2C1134%29%3BResize%3D620",
+    "publishedAt": "2026-05-02T09:00:00Z",
+    "content": "The AFC Toronto logo soared high, dancing in the wind outside city hall Friday afternoon as players joined Mayor Olivia Chow to raise the teams flag ahead of its first home game of the season.\r\nAFC T… [+5041 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ProPublica"
+    },
+    "author": "Abrahm Lustgarten",
+    "title": "Event With Links to Oil Industry Teaches Judges “Healthy Skepticism” of Climate Science",
+    "description": "As congressional Republicans accuse climate scholars and lawyers of colluding to influence the judiciary, a symposium hosted by a center funded by the fossil fuel industry educates judges about free-market views of climate science.",
+    "url": "http://www.propublica.org/article/climate-science-oil-gas-fossil-fuel-judges-jim-jordan",
+    "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/05/20260501-climate-change-judicial-wars-OG_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?resize=2000,1050",
+    "publishedAt": "2026-05-02T09:00:00Z",
+    "content": "For many months, conservative lawmakers and political operatives have been targeting the scientists and lawyers behind the Climate Judiciary Project, a program meant to educate the courts about clima… [+13066 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wattsupwiththat.com"
+    },
+    "author": "Guest Blogger",
+    "title": "Net Zero Lunatics Set to Empty Your Medicine Cabinet",
+    "description": "History shows that this type of commanding collectivisation often ends in tears – witness the gulags and starvation of Stalin’s Soviet Union, the deliberate famines in Mao’s China, and not forgetting the mountains of human skulls that arose from Pol Pot’s Cam…",
+    "url": "https://wattsupwiththat.com/2026/05/02/net-zero-lunatics-set-to-empty-your-medicine-cabinet/",
+    "urlToImage": "https://wattsupwiththat.com/wp-content/uploads/2026/05/Gemini_medicine-cabinet.webp",
+    "publishedAt": "2026-05-02T09:00:00Z",
+    "content": "From THE DAILY SCEPTIC\r\nby Chris Morrison\r\nWindy entrepreneur Dale Vince thinks there is no single reason for us to drill more oil and gas in the North Sea, former UK Green leader Caroline Lucas comm… [+5338 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "LancasterOnline"
+    },
+    "author": "MICHAEL LONG | Staff Editor and Writer",
+    "title": "Pennsylvania's retired teachers are struggling without cost-of-living raises [Lancaster Watchdog]",
+    "description": "Inflation hurts, and no one feels the pinch more than senior citizens living on fixed incomes.",
+    "url": "https://lancasteronline.com/news/local/pennsylvanias-retired-teachers-are-struggling-without-cost-of-living-raises-lancaster-watchdog/article_cd89899b-ce30-4439-ae18-c66cb6acb102.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/08/6081c27b-720d-443b-9bc2-2d8d2ed8c052/69f54d530b3a0.image.jpg?crop=1714%2C900%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2026-05-02T09:00:00Z",
+    "content": "Inflation hurts, and no one feels the pinch more than senior citizens living on fixed incomes.\r\nAn 81-year-old Mountville retiree contacted the Watchdog in January to ask why the annual cost-of-livin… [+6554 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Omny.fm"
+    },
+    "author": "Ben Greenfield",
+    "title": "What To Do Before & After A Stem Cell Treatment (Send This To Your Doctor Too!) With Dr. Joseph Purita",
+    "description": "Full Show Notes: https://bengreenfieldlife.com/purita In this episode with Dr. Joseph Purita, Chief Medical Officer of PUR-FORM and a pioneer in regenerative medicine with over 40 years in the field, you'll explore the cutting-edge therapies, protocols, and e…",
+    "url": "https://omny.fm/shows/ben-greenfield-life/purita",
+    "urlToImage": "https://omny.fm/shows/ben-greenfield-life/purita/image.jpg?t=1777024371&size=wideShare",
+    "publishedAt": "2026-05-02T09:00:00Z",
+    "content": "Full Show Notes: https://bengreenfieldlife.com/purita\r\nIn this episode with Dr. Joseph Purita, Chief Medical Officer of PUR-FORM and a pioneer in regenerative medicine with over 40 years in the field… [+3080 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Spacewar.com"
+    },
+    "author": "by Clarence Oxford",
+    "title": "Fruit flies survive, reproduce and recover under gravitational forces up to 13G in UC Riverside centrifuge study",
+    "description": "Los Angeles CA (SPX) May 01, 2026\n\n\nFruit flies subjected to gravitational forces many times stronger than Earth's pull not only survived but mated, reproduced, and eventually returned to normal behavior, according to new research from the University of Calif…",
+    "url": "https://www.spacewar.com/reports/Fruit_flies_survive_reproduce_and_recover_under_gravitational_forces_up_to_13G_in_UC_Riverside_centrifuge_study_999.html",
+    "urlToImage": "https://www.spxdaily.com/images-hg/fruit-fly-drosophila-600-hg.jpg",
+    "publishedAt": "2026-05-02T08:54:37Z",
+    "content": "by Clarence OxfordLos Angeles CA (SPX) May 01, 2026\r\nFruit flies subjected to gravitational forces many times stronger than Earth's pull not only survived but mated, reproduced, and eventually return… [+3867 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gbnews.com"
+    },
+    "author": "Solen Le Net",
+    "title": "Shortage of key blood pressure drug triggers one-month prescription limit for UK patients",
+    "description": "Pharmacists across Britain are now rationing a crucial blood pressure medication after the Government issued a serious shortage notice for ramipril.Patients requiring the 1.25mg capsules will be limited to just one month's supply at a time under the new restr…",
+    "url": "https://www.gbnews.com/health/blood-pressure-drug-shortage-one-month-limit",
+    "urlToImage": "https://www.gbnews.com/media-library/pillls-in-hand.jpg?id=66670182&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+    "publishedAt": "2026-05-02T08:47:23Z",
+    "content": "Pharmacists across Britain are now rationing a crucial blood pressure medication after the Government issued a serious shortage notice for ramipril.\r\nPatients requiring the 1.25mg capsules will be li… [+2815 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Elmira Tanatarova",
+    "title": "What do YOUR feet say about you (and your favourite celeb!)? From 'strong leaders' with protruding toes to sign that you're 'lacking personal freedom'",
+    "description": "Daisy Robinson, founder of holistic Reflexology practice Flow with Daisy, and Chinese medicine expert, Ada Ooi, shared their insights with the Daily Mail.",
+    "url": "https://www.dailymail.com/lifestyle/article-15779823/what-feet-say-expert.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/05/01/15/108309559-0-image-m-57_1777647281326.jpg",
+    "publishedAt": "2026-05-02T08:45:05Z",
+    "content": "We all try to put our best foot forward - but what do they really say about us?\r\nFrom a protruding second toe symbolising 'strong leadership' to overlapping digits that imply a personal struggle for … [+9171 chars]"
+  },
+  {
+    "source": {
+      "id": "rt",
+      "name": "RT"
+    },
+    "author": "RT",
+    "title": "How the West’s war machine runs on calculated lies",
+    "description": "The same machinery of manufactured war that shattered Iraq and Libya is now being recalibrated for Iran Read Full Article at RT.com",
+    "url": "https://www.rt.com/africa/639262-baghdad-to-tehran-interventions-western-media-role/",
+    "urlToImage": "https://mf.b37mrtl.ru/files/2026.04/article/69f3526020302703b0577c0d.jpg",
+    "publishedAt": "2026-05-02T08:30:01Z",
+    "content": "History confirms that major Western-instigated conflicts are cultivated rather than spontaneous. From 19th-century colonial pretexts in North Africa to modern digital campaigns, the manufactured lie … [+8720 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Shawn Tully",
+    "title": "Blackstone’s Steve Schwarzman built a program to teach young leaders about China. It’s harder to get into than Harvard",
+    "description": "Inspired by the Rhodes Scholar program, Schwarzman's philanthropic initiative brings students in their early-to-mid-20s to spend a year immersed in understanding how China works.",
+    "url": "https://fortune.com/2026/05/02/schwarzman-scholars-blackstone-china-tsinghua-university/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Stephen-A-Schwarzman.jpg?resize=1200,600",
+    "publishedAt": "2026-05-02T08:00:00Z",
+    "content": "Steve Schwarzman has spent his career on Wall Streetbut hes also been on a quieter quest on the other side of the globe, a decades-long journey to understanding China. That brought him, in late April… [+12203 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Essentially Sports"
+    },
+    "author": "Caroline John",
+    "title": "“I Need to See His Birth Certificate”: Lakers Legend Stunned by LeBron James as Ex-NBA Player Makes “Scared” Claim",
+    "description": "Following the Los Angeles Lakers’ commanding 98-78 victory to eliminate the Houston Rockets, the conversation surrounding LeBron James has shifted from his longevity to a state of pure disbelief. Despite being the oldest player in the league, James’ dominance…",
+    "url": "https://www.essentiallysports.com/nba-active-basketball-news-i-need-to-see-his-birth-certificate-lakers-legend-james-worthy-stunned-by-lebron-james-as-ex-nba-player-danny-green-makes-scared-claim/",
+    "urlToImage": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
+    "publishedAt": "2026-05-02T07:56:23Z",
+    "content": "Following the Los Angeles Lakers commanding 98-78 victory to eliminate the Houston Rockets, the conversation surrounding LeBron James has shifted from his longevity to a state of pure disbelief. Desp… [+3568 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Whitecoatinvestor.com"
+    },
+    "author": "Josh Katzowitz",
+    "title": "Should I Send My Kid to the Ivy Leagues? A Parent’s Perspective",
+    "description": "Surrounded by other high-income docs, I’ve felt the cultural pull to push my kids to excel. Should that include an Ivy League education?\nThe post Should I Send My Kid to the Ivy Leagues? A Parent’s Perspective appeared first on The White Coat Investor - Inves…",
+    "url": "https://www.whitecoatinvestor.com/are-ivy-leagues-worth-it/",
+    "urlToImage": "https://www.whitecoatinvestor.com/wp-content/uploads/2026/04/ivy-league-schools-img.jpg",
+    "publishedAt": "2026-05-02T06:30:41Z",
+    "content": "The White Coat Investor has produced four books that help everybody from students just beginning their financial journey to wealth-builders who need to protect their assets. And if you want to order … [+14723 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hurriyet Daily News"
+    },
+    "author": "hurriyetdailynews.com",
+    "title": "Sumud flotilla activists return in Istanbul after Israeli detention",
+    "description": "A Turkish Airlines plane carrying 59 activists from the Global Sumud Flotilla, including 18 Turkish citizens, landed at Istanbul Airport after they were detained following Israel’s intervention against the Gaza-bound aid convoy in international waters.",
+    "url": "https://www.hurriyetdailynews.com/sumud-flotilla-activists-return-in-istanbul-after-israeli-detention-221720",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/69f599903a5a98d212b12f65.jpg",
+    "publishedAt": "2026-05-02T06:28:00Z",
+    "content": "ISTANBUL\r\nA Turkish Airlines plane carrying 59 activists from the Global SumudFlotilla, including 18 Turkish citizens, landed at Istanbul Airport on May 1 after they were detained following Israels i… [+3047 chars]"
   }
 ]
