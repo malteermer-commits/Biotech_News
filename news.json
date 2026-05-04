@@ -1,94 +1,185 @@
 [
   {
     "source": {
+      "id": null,
+      "name": "Tomdispatch.com"
+    },
+    "author": "William Debuys",
+    "title": "Trump's Border Wall Is a Destructive Monument to Greed and Fear",
+    "description": "A leading preoccupation of the first Trump administration has all but slipped from view. Except when ostensible conservatives speak out against it, the major media have scarcely breathed a word on the subject. But it’s still there, 30 feet tall, aspirationall…",
+    "url": "https://tomdispatch.com/the-never-ending-nightmare-of-the-border-wall/",
+    "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=66667515&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+    "publishedAt": "2026-05-03T12:07:01Z",
+    "content": "A leading preoccupation of the first Trump administration has all but slipped from view. Except when ostensible conservatives speak out against it, the major media have scarcely breathed a word on th… [+16716 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ZDNet"
+    },
+    "author": "Adrian Kingsley-Hughes",
+    "title": "A common charging habit was quietly killing my iPhone's battery - here's the fix",
+    "description": "By charging my iPhone at one particular spot, I was damaging my battery and shortening its lifespan. Here's what I do now to avoid that.",
+    "url": "https://www.zdnet.com/article/i-stopped-common-charging-habit-killing-iphone-battery/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/e8d7c366493367ddb3157f795639a3688a3c0750/2026/02/08/7bd83fb6-8c5f-4422-865d-626d374f951b/17cdf3db-483a-412c-b681-e36a952a3dd5.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2026-05-03T12:00:41Z",
+    "content": "Adrian Kingsley-Hughes/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Excessive temperature is a key factor in premature battery wear.</li><li>Car charg… [+6964 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TheBlaze"
+    },
+    "author": "Dave Urbanski",
+    "title": "Check out what these heroic middle schoolers do after their bus driver passes out behind the wheel as bus travels down road",
+    "description": "Imagine you're traveling down a road in a bus, and your driver suddenly passes out. What emotions would you and other passengers feel in that moment? Surely it's a terrifying situation.Now imagine that scenario taking place aboard a bus filled with middle sch…",
+    "url": "https://www.theblaze.com/news/check-out-what-these-heroic-middle-schoolers-do-after-their-bus-driver-passes-out-behind-the-wheel-as-bus-travels-down-road",
+    "urlToImage": "https://www.theblaze.com/media-library/check-out-what-these-heroic-middle-schoolers-do-after-their-bus-driver-passes-out-behind-the-wheel-as-bus-travels-down-road.png?id=66667959&width=1200&height=600&coordinates=0%2C90%2C0%2C91",
+    "publishedAt": "2026-05-03T12:00:00Z",
+    "content": "Imagine you're traveling down a road in a bus, and your driver suddenly passes out. What emotions would you and other passengers feel in that moment? Surely it's a terrifying situation.\r\nNow imagine … [+3034 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Newser"
+    },
+    "author": "Jenn Gidman with Newser.AI",
+    "title": "She Helped Bring Down an Elite Nike Coach. Now, Renewal",
+    "description": "Mary Cain wants you to know that hers isn't just a story about a fallen prodigy or a bad coach—it's about a system that she says let both happen. Writing for the Guardian , Maggie Mertens profiles the former teen track phenom, now a 29-year-old Stanford med s…",
+    "url": "https://www.newser.com/story/388156/she-helped-bring-down-an-elite-nike-coach-now-renewal.html",
+    "urlToImage": "https://img2-azrcdn.newser.com/image/1681403-12-20260503070002.jpeg",
+    "publishedAt": "2026-05-03T12:00:00Z",
+    "content": "Mary Cain wants you to know that hers isn't just a story about a fallen prodigy or a bad coach—it's about a system that she says let both happen. Writing for the Guardian, Maggie Mertens profiles the… [+1432 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Atlantic"
+    },
+    "author": "Ellen Cushing",
+    "title": "What if Your Boss Monitored Your Emotions?",
+    "description": "AI has supercharged worker surveillance—not just for productivity but for agreeability.",
+    "url": "https://www.theatlantic.com/culture/2026/05/worker-surveillance-emotion-ai/687029/",
+    "urlToImage": "https://cdn.theatlantic.com/thumbor/D3wb3vYPbfHljNTO32z7zfhaFzA=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_04_25_surveillance_landscape_mpg_1/original.jpg",
+    "publishedAt": "2026-05-03T12:00:00Z",
+    "content": "The good news, for me at least, is that the computer thinks I have a nice personality. According to an app called MorphCast, I was, in a recent meeting with my boss, generally “amused,” “determined,”… [+14858 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Atlantic"
+    },
+    "author": "Andréa Becker",
+    "title": "The Internet Is Obsessed With Ovulation",
+    "description": "What’s so great about a “natural” menstrual cycle?",
+    "url": "https://www.theatlantic.com/health/2026/05/hormones-ovulation-natural-women/687042/",
+    "urlToImage": "https://cdn.theatlantic.com/thumbor/jesdOPgvYgmxASQZbbLMOtHSztM=/0x43:2000x1085/1200x625/media/img/mt/2026/05/2026_04_23_Hormones/original.jpg",
+    "publishedAt": "2026-05-03T12:00:00Z",
+    "content": "Supposedly, the menstrual cycle is a gift. It’s a product of good design. It’s a miraculous dance of hormones that can’t be contained. Such are the messages flooding the internet these days, courtesy… [+8517 chars]"
+  },
+  {
+    "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "ETimes.in",
-    "title": "The love between Krishna and Yashoda holds 5 lessons every mother should know",
-    "description": "There are some bonds that feel larger than mythology. Krishna and Yashoda are one of them. Their relationship is remembered not only because it is tender, playful and full of wonder, but because it captures something deeply human: the way a mother loves beyon…",
-    "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/the-love-between-krishna-and-yashoda-holds-5-lessons-every-mother-should-know/photostory/130713120.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-130713140,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-05-02T09:45:00Z",
-    "content": "Yashodas love was not loud in the way legends often are. It was lived in daily acts, feeding, holding, worrying, searching, forgiving. And yet it became immortal. That is one of the most moving truth… [+1009 chars]"
+    "author": "Trisha Dey",
+    "title": "Quote of the day by Robin Williams: ‘Medicine, law, business, engineering are necessary to sustain life. But poetry, beauty, romance, love, these are what we stay alive for’ - Hollywood star on true meaning of life",
+    "description": "Life is more than just survival. Robin Williams, the beloved actor, emphasized that while practical careers sustain life, it is poetry, beauty, romance, and love that make life worth living. His message encourages balancing professional success with emotional…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-robin-williams-medicine-law-business-engineering-are-necessary-to-sustain-life-but-poetry-beauty-romance-love-these-are-what-we-stay-alive-for-hollywood-star-on-true-meaning-of-life/articleshow/130731898.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-130731907,width-1200,height-630,imgsize-30788,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-05-03T11:45:49Z",
+    "content": "In the rush of building careers, paying bills, and chasing success, it is easy to forget that life is about more than just survival. While professions and responsibilities keep the world running, the… [+3799 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "PTI",
+    "title": "Two separate venues for pharma industry expos in Delhi-NCR",
+    "description": "CPHI India and PMEC India are expanding their pharmaceutical expos to two venues in Delhi-NCR. This move aims to support the rapid growth of India's pharma sector. The events will offer greater business engagement and specialized networking. CPHI India will f…",
+    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/two-separate-venues-for-pharma-industry-expos-in-delhi-ncr/articleshow/130731611.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-130731641,width-1200,height-630,imgsize-636907,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-05-03T11:24:48Z",
+    "content": "CPHI India and PMEC India will hold their pharmaceutical industry expos in two venues across Delhi-NCR this year, in an expansion aimed at accommodating the rapid growth of the country's pharma ecosy… [+2338 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "mindbodygreen.com"
+      "name": "Science X"
     },
-    "author": "https://www.mindbodygreen.com/wc/sela-breen",
-    "title": "Reproductive Organs Age Differently—Now Science Can Track It",
-    "description": "A blood test could one day predict your menopause timeline.",
-    "url": "https://www.mindbodygreen.com/articles/reproductive-organs-age-differently-and-now-science-can-track-it",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/m021ziomokdrjqqnl.jpg",
-    "publishedAt": "2026-05-02T09:42:00Z",
-    "content": "We've long treated menopause as a singular biological event, marked by the moment the ovaries stop working. But any women who has gone through menopause could tell you that it is much more than that,… [+3260 chars]"
+    "author": "Camryn Haines",
+    "title": "Coffee doesn't just wake you up–a biological pathway illuminates health effects",
+    "description": "For decades, research has linked coffee consumption to longer life and lower risk of chronic disease—but exactly how those benefits occur has remained unclear. Now, new research from the Texas A&M College of Veterinary Medicine and Biomedical Sciences (VMBS) …",
+    "url": "https://sciencex.com/news/2026-04-coffee-doesnt-key-biological-pathway.html",
+    "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/coffee-doesnt-just-wak.jpg",
+    "publishedAt": "2026-05-03T11:12:29Z",
+    "content": "For decades, research has linked coffee consumption to longer life and lower risk of chronic diseasebut exactly how those benefits occur has remained unclear. Now, new research from the Texas A&amp;M… [+5177 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "TheJournal.ie"
+      "name": "Kevinmd.com"
     },
-    "author": "Olivia Kelleher",
-    "title": "Man had 'actively hissing' chest wound after alleged stabbing by his brother, court hears",
-    "description": "William Brennan (32) of Longbridge, Ballyhalwick, Dunmanway, Co Cork denies assault causing serious harm.",
-    "url": "https://www.thejournal.ie/man-stabbed-bothers-cork-7029650-May2026/",
-    "urlToImage": "https://img2.thejournal.ie/article/7029650/river/?height=400&version=7029666",
-    "publishedAt": "2026-05-02T09:33:27Z",
-    "content": "A CONSULTANT IN emergency medicine has said that he thought a man who was allegedly stabbed by his brother would die as he had a wound to his chest which was actively hissing.\r\nWilliam Brennan (32) o… [+4332 chars]"
-  },
-  {
-    "source": {
-      "id": "the-irish-times",
-      "name": "The Irish Times"
-    },
-    "author": "Olivia Kelleher",
-    "title": "Consultant tells court of ‘chaotic’ scene as victim’s chest wound was ‘hissing’",
-    "description": "Dr Jason van der Velde told a trial at Cork Circuit Criminal Court that he thought the pleural cavity surrounding the lungs of John Brennan had been breached",
-    "url": "https://www.irishtimes.com/crime-law/courts/2026/05/02/consultant-tells-court-of-chaotic-scene-as-victims-chest-wound-was-hissing/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/TDREEIMUBZGHXBRG6MXIDKE6JQ.png?smart=true&auth=3001edf19705265247b9dbd2f43d81276658272f4087be85e6115e9e83c7da6c&width=1200&height=630",
-    "publishedAt": "2026-05-02T09:05:32Z",
-    "content": "A consultant in emergency medicine has said that he thought that a man who was allegedly stabbed by his brother would die as he had a wound to his chest which was actively hissing.\r\nWilliam Brennan (… [+4367 chars]"
+    "author": "Archana Agarwal, MD",
+    "title": "How childhood scarcity fuels imposter syndrome in medicine",
+    "description": "When I was growing up in Darjeeling, a single pair of school shoes had to last the entire year. They came from Bata, simple, sturdy, and meant to endure more than they reasonably could. My sister, just a year younger than me, had the exact same pair. Side by …",
+    "url": "https://kevinmd.com/2026/05/how-childhood-scarcity-fuels-imposter-syndrome-in-medicine.html",
+    "urlToImage": "https://kevinmd.com/wp-content/uploads/d5fa2062-9d17-4c5d-8e7f-5c86a8793bb6.jpeg",
+    "publishedAt": "2026-05-03T11:00:25Z",
+    "content": "When I was growing up in Darjeeling, a single pair of school shoes had to last the entire year. They came from Bata, simple, sturdy, and meant to endure more than they reasonably could. My sister, ju… [+4631 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Freerepublic.com"
+      "name": "HuffPost"
     },
-    "author": "NY Post",
-    "title": "Trump hangs with seniors in Florida’s Villages – touts everything he’s done to make life more affordable",
-    "description": "President Trump on Friday addressed seniors at The Villages in Florida and touted his second-term achievements that have made life more affordable for those in their golden years. “I’m much, much younger than the people in this room, but I feel I can relate t…",
-    "url": "https://freerepublic.com/focus/f-chat/4377323/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-05-02T09:05:13Z",
-    "content": "Skip to comments.\r\nTrump hangs with seniors in Floridas Villages touts everything hes done to make life more affordableNY Post ^\r\n | 5/01/26\r\n | Victor Nava\r\nPosted on 05/02/2026 2:05:13 AM PDT by Li… [+2005 chars]"
+    "author": "HuffPost",
+    "title": "This 1 Hobby Is Great For An Aging Brain, According To A Study",
+    "description": "And no one is too old to pick it up.",
+    "url": "https://www.huffpost.com/entry/playing-musical-instruments-aging-brain-health-goog_l_69f21ee1e4b0f004aa76bb42",
+    "urlToImage": "https://img.huffingtonpost.com/asset/65dfae0622000037004b73ea.jpeg?ops=1200_630",
+    "publishedAt": "2026-05-03T11:00:18Z",
+    "content": "If youre looking to bolster your cognitive abilities and keep your mind sharp throughout your lifetime, you may want to pick up a musical instrument. A 2024 study published in the International Journ… [+6169 chars]"
   },
   {
     "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
+      "id": null,
+      "name": "Roundtable.io"
     },
-    "author": "insider@insider.com (Insider Inc.)",
-    "title": "Welcome to Próspera, the private paradise of libertarians, tech entrepreneurs, and biohackers",
-    "description": "There are tons of palm trees and few rules in Próspera, built on a Honduran island.",
-    "url": "https://www.businessinsider.com/prospera-a-private-city-in-honduras-backed-by-peter-thiel-2026-4",
-    "urlToImage": "https://i.insider.com/69efb0023fecbb42897a4a7c?width=1200&format=jpeg",
-    "publishedAt": "2026-05-02T09:03:01Z",
-    "content": "When Lonis Hamaili steps out of the elevator on the 10th floor of Duna Tower, he looks out over an avenue of palm trees, blue sea stretching to the horizon, and a barrier guarded by a man with a pist… [+26776 chars]"
+    "author": "Trevor Trowbridge",
+    "title": "Post Spring Takeaways: Notre Dame Quarterback Noah Grubbs",
+    "description": "Noah Grubbs unleashes impressive arm talent and resilience, already battling for the No. 2 quarterback spot. His growth will be key.",
+    "url": "https://roundtable.io/sports/ncaa/notre-dame/news/post-spring-takeaways-notre-dame-quarterback-noah-grubbs",
+    "urlToImage": "https://s.yimg.com/os/en/roundtable_sports_notre_dame_articles_147/101352f27b72bde759e1059a834060cb",
+    "publishedAt": "2026-05-03T11:00:06Z",
+    "content": "For one reason or another, incoming freshman quarterback Noah Grubbs was overlooked coming into the spring. He was one of the first commitments in the 2026 recruiting cycle, won 'Mr. Football' in the… [+3259 chars]"
   },
   {
     "source": {
-      "id": "the-next-web",
-      "name": "The Next Web"
+      "id": "fortune",
+      "name": "Fortune"
     },
-    "author": "Allison Steffens Herrera",
-    "title": "The company that built TikTok’s algorithm is now designing drugs for diseases pharma called undruggable",
-    "description": "The company that built TikTok’s recommendation algorithm, the system that predicts with unsettling accuracy what a person wants to watch next, is now using a related class of AI to predict how molecules will behave inside a human body. ByteDance’s drug discov…",
-    "url": "https://thenextweb.com/news/bytedance-anew-labs-ai-drug-discovery/",
-    "urlToImage": "https://media.thenextweb.com/2026/05/bytedance-anew-labs-ai-drug-discovery.avif",
-    "publishedAt": "2026-05-02T09:01:59Z",
-    "content": "TL;DR\r\nByteDances drug discovery unit Anew Labs presented its first AI-designed therapy at a major immunology conference in Boston, showing a generative-AI-designed small molecule targeting IL-17, a … [+9154 chars]"
+    "author": "Nick Lichtenberg",
+    "title": "America got rich and got sad. A top economist says 2020 broke something that hasn’t healed",
+    "description": "It's not a mystery why everyone got sad in 2020. What is: the fact they never recovered. Sam Peltzman sees a \"segregated happiness society.\"",
+    "url": "https://fortune.com/2026/05/03/america-got-rich-and-got-sad-a-retired-legend-of-economics-sees-a-happiness-crash-of-2020/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-73271344-e1777493486719.jpg?resize=1200,600",
+    "publishedAt": "2026-05-03T11:00:00Z",
+    "content": "For the past several years, Peltzman has been combing through the General Social Survey, a random-sample poll that has asked Americans the same simple question since 1972: Are you happy? What he foun… [+13524 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "STLtoday.com"
+    },
+    "author": "Michael Gulledge | Special to the Post-Dispatch",
+    "title": "St. Joseph's Tatum Smiley follows father into medicine, Navy: Scholar Athlete Spotlight",
+    "description": "Editor’s note: Look for more on the 60th edition of Post-Dispatch Scholar Athletes on Tuesday, May 5, in print and on STLhighschoolsports.com.Tatum Smiley’s inspiration to pursue pediatrics was never far.",
+    "url": "https://www.stltoday.com/sports/high-school/scholar-athletes/article_e4181beb-2c78-43e0-a913-279cc818d93e.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/b8/6b8ebf41-07eb-5fc1-8bca-1a5591dd87ec/69ecfc86d4998.image.jpg?crop=1715%2C900%2C0%2C153&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2026-05-03T11:00:00Z",
+    "content": "Tatum Smiley, St. Josephs Academys 2026 Post-Dispatch Scholar Athlete, poses for a portrait, Saturday, April 25, 2026, outside Cardinal Glennon Childrens Hospital in St. Louis. Smiley, a diver and la… [+79 chars]"
   },
   {
     "source": {
@@ -96,167 +187,76 @@
       "name": "CBC News"
     },
     "author": null,
-    "title": "Women’s sports are booming in Toronto with fans at the centre",
-    "description": "The AFC Toronto homeopener is on the horizon, the Tempo played their first-ever game and the Sceptres were shut out from the playoffs, it's a busy time for Toronto women's sports and and, experts say, a rewarding time to be a fan.",
-    "url": "https://www.cbc.ca/news/canada/toronto/womens-sports-boom-toronto-9.7185038",
-    "urlToImage": "https://i.cbc.ca/ais/4dc9bdcb-69e0-458d-8154-39c5144c65d6,1777669492103/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C182%2C2016%2C1134%29%3BResize%3D620",
-    "publishedAt": "2026-05-02T09:00:00Z",
-    "content": "The AFC Toronto logo soared high, dancing in the wind outside city hall Friday afternoon as players joined Mayor Olivia Chow to raise the teams flag ahead of its first home game of the season.\r\nAFC T… [+5041 chars]"
+    "title": "New drug discovery from University of Saskatchewan could change cattle breeding worldwide",
+    "description": "Calving season, the most labour-intensive part of a beef producer's year, could be shortened thanks to a new innovation out of the University of Saskatchewan.",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/university-cetrorelix-cattle-breeding-9.7185150",
+    "urlToImage": "https://i.cbc.ca/ais/9fa07a57-44e7-4843-aa31-d026607623b5,1777673424022/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C270%2C5184%2C2916%29%3BResize%3D620",
+    "publishedAt": "2026-05-03T11:00:00Z",
+    "content": "Calving season, the most labour-intensive part of a beef producer's year, could be shortened thanks to a new innovation out of the University of Saskatchewan.\r\nCetrorelix, a hormone drug commonly use… [+3195 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "Manitoba's pharmacists want more prescription power",
+    "description": "Manitoba's pharmacists are lobbying the provincial government to bring the province's pharmacists scope of practice up to par with the rest of Canada, and publicly fund more of their work.",
+    "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-pharmacists-legislation-change-assess-prescribe-9.7183318",
+    "urlToImage": "https://i.cbc.ca/ais/f65bdb29-d09a-4d85-918b-6b4dcbd7bd7a,1777655872239/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C28%2C1163%2C654%29%3BResize%3D620",
+    "publishedAt": "2026-05-03T11:00:00Z",
+    "content": "Pharmacists in Manitoba say they want to do more for patients but cant until changes are made by the provincial government.\r\n\"The training that pharmacists have goes pretty far,\" said Brandon pharmac… [+4283 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "ProPublica"
+      "name": "Nakedcapitalism.com"
     },
-    "author": "Abrahm Lustgarten",
-    "title": "Event With Links to Oil Industry Teaches Judges “Healthy Skepticism” of Climate Science",
-    "description": "As congressional Republicans accuse climate scholars and lawyers of colluding to influence the judiciary, a symposium hosted by a center funded by the fossil fuel industry educates judges about free-market views of climate science.",
-    "url": "http://www.propublica.org/article/climate-science-oil-gas-fossil-fuel-judges-jim-jordan",
-    "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/05/20260501-climate-change-judicial-wars-OG_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?resize=2000,1050",
-    "publishedAt": "2026-05-02T09:00:00Z",
-    "content": "For many months, conservative lawmakers and political operatives have been targeting the scientists and lawyers behind the Climate Judiciary Project, a program meant to educate the courts about clima… [+13066 chars]"
+    "author": "Haig Hovaness",
+    "title": "Links 5/3/2026",
+    "description": "Our strategic daily links: close calls, digital price labels, climate migrants, China road work, Lebanon horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles, Mr. market, AI, and wretched excess",
+    "url": "https://www.nakedcapitalism.com/2026/05/links-5-3-2026.html",
+    "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/05/Owl.jpg",
+    "publishedAt": "2026-05-03T10:55:55Z",
+    "content": "Do you believe in guardian angels pic.twitter.com/9J8NTjVWbJ\r\n Science girl (@sciencegirl) April 21, 2026\r\nNew Lithium-Plasma Engine Passes Key Mars Propulsion Test Universe Today\r\nNext-Generation Pr… [+7223 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Wattsupwiththat.com"
+      "name": "mindbodygreen.com"
     },
-    "author": "Guest Blogger",
-    "title": "Net Zero Lunatics Set to Empty Your Medicine Cabinet",
-    "description": "History shows that this type of commanding collectivisation often ends in tears – witness the gulags and starvation of Stalin’s Soviet Union, the deliberate famines in Mao’s China, and not forgetting the mountains of human skulls that arose from Pol Pot’s Cam…",
-    "url": "https://wattsupwiththat.com/2026/05/02/net-zero-lunatics-set-to-empty-your-medicine-cabinet/",
-    "urlToImage": "https://wattsupwiththat.com/wp-content/uploads/2026/05/Gemini_medicine-cabinet.webp",
-    "publishedAt": "2026-05-02T09:00:00Z",
-    "content": "From THE DAILY SCEPTIC\r\nby Chris Morrison\r\nWindy entrepreneur Dale Vince thinks there is no single reason for us to drill more oil and gas in the North Sea, former UK Green leader Caroline Lucas comm… [+5338 chars]"
+    "author": "https://www.mindbodygreen.com/wc/ava-durgin-writer",
+    "title": "This Overlooked Mineral May Play A Role In Protecting Against Alzheimer’s",
+    "description": "Why this decades-old drug is getting a second look for brain health",
+    "url": "https://www.mindbodygreen.com/articles/lithium-deficiency-alzheimers-link",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1776184030598_z1g7ltx6f3c.jpg",
+    "publishedAt": "2026-05-03T10:38:00Z",
+    "content": "Lithium has a long and complicated reputation in medicine. For decades, it has been prescribed as a highly effective mood stabilizer for people with bipolar disorder. But on the mindbodygreen podcast… [+4629 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "LancasterOnline"
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
     },
-    "author": "MICHAEL LONG | Staff Editor and Writer",
-    "title": "Pennsylvania's retired teachers are struggling without cost-of-living raises [Lancaster Watchdog]",
-    "description": "Inflation hurts, and no one feels the pinch more than senior citizens living on fixed incomes.",
-    "url": "https://lancasteronline.com/news/local/pennsylvanias-retired-teachers-are-struggling-without-cost-of-living-raises-lancaster-watchdog/article_cd89899b-ce30-4439-ae18-c66cb6acb102.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/08/6081c27b-720d-443b-9bc2-2d8d2ed8c052/69f54d530b3a0.image.jpg?crop=1714%2C900%2C0%2C155&resize=1200%2C630&order=crop%2Cresize",
-    "publishedAt": "2026-05-02T09:00:00Z",
-    "content": "Inflation hurts, and no one feels the pinch more than senior citizens living on fixed incomes.\r\nAn 81-year-old Mountville retiree contacted the Watchdog in January to ask why the annual cost-of-livin… [+6554 chars]"
+    "author": "Yasmeen Aboujabal, Alanoud Al-Thani",
+    "title": "Strait of Hormuz blockade and other major naval sieges in modern times",
+    "description": "Naval blockades are among the oldest weapons of war, using sea control to cut supplies and force an enemy’s surrender.",
+    "url": "https://www.aljazeera.com/news/2026/5/3/strait-of-hormuz-blockade-and-other-major-naval-sieges-in-modern-times",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/05/INTERACTIVE-Strait-of-Hormuz-blockade-and-other0Dmajor-naval-sieges-in-modern-times-MAY-1-2025-copy-1777796648.png?resize=1200%2C630",
+    "publishedAt": "2026-05-03T10:36:49Z",
+    "content": "The Strait of Hormuz, a narrow waterway once carrying roughly a fifth of the worlds oil and gas, remains effectively closed after the United States and Iran imposed competing blockades.\r\nNaval blocka… [+9750 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Omny.fm"
+      "id": "new-york-magazine",
+      "name": "New York Magazine"
     },
-    "author": "Ben Greenfield",
-    "title": "What To Do Before & After A Stem Cell Treatment (Send This To Your Doctor Too!) With Dr. Joseph Purita",
-    "description": "Full Show Notes: https://bengreenfieldlife.com/purita In this episode with Dr. Joseph Purita, Chief Medical Officer of PUR-FORM and a pioneer in regenerative medicine with over 40 years in the field, you'll explore the cutting-edge therapies, protocols, and e…",
-    "url": "https://omny.fm/shows/ben-greenfield-life/purita",
-    "urlToImage": "https://omny.fm/shows/ben-greenfield-life/purita/image.jpg?t=1777024371&size=wideShare",
-    "publishedAt": "2026-05-02T09:00:00Z",
-    "content": "Full Show Notes: https://bengreenfieldlife.com/purita\r\nIn this episode with Dr. Joseph Purita, Chief Medical Officer of PUR-FORM and a pioneer in regenerative medicine with over 40 years in the field… [+3080 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Spacewar.com"
-    },
-    "author": "by Clarence Oxford",
-    "title": "Fruit flies survive, reproduce and recover under gravitational forces up to 13G in UC Riverside centrifuge study",
-    "description": "Los Angeles CA (SPX) May 01, 2026\n\n\nFruit flies subjected to gravitational forces many times stronger than Earth's pull not only survived but mated, reproduced, and eventually returned to normal behavior, according to new research from the University of Calif…",
-    "url": "https://www.spacewar.com/reports/Fruit_flies_survive_reproduce_and_recover_under_gravitational_forces_up_to_13G_in_UC_Riverside_centrifuge_study_999.html",
-    "urlToImage": "https://www.spxdaily.com/images-hg/fruit-fly-drosophila-600-hg.jpg",
-    "publishedAt": "2026-05-02T08:54:37Z",
-    "content": "by Clarence OxfordLos Angeles CA (SPX) May 01, 2026\r\nFruit flies subjected to gravitational forces many times stronger than Earth's pull not only survived but mated, reproduced, and eventually return… [+3867 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Gbnews.com"
-    },
-    "author": "Solen Le Net",
-    "title": "Shortage of key blood pressure drug triggers one-month prescription limit for UK patients",
-    "description": "Pharmacists across Britain are now rationing a crucial blood pressure medication after the Government issued a serious shortage notice for ramipril.Patients requiring the 1.25mg capsules will be limited to just one month's supply at a time under the new restr…",
-    "url": "https://www.gbnews.com/health/blood-pressure-drug-shortage-one-month-limit",
-    "urlToImage": "https://www.gbnews.com/media-library/pillls-in-hand.jpg?id=66670182&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-    "publishedAt": "2026-05-02T08:47:23Z",
-    "content": "Pharmacists across Britain are now rationing a crucial blood pressure medication after the Government issued a serious shortage notice for ramipril.\r\nPatients requiring the 1.25mg capsules will be li… [+2815 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Elmira Tanatarova",
-    "title": "What do YOUR feet say about you (and your favourite celeb!)? From 'strong leaders' with protruding toes to sign that you're 'lacking personal freedom'",
-    "description": "Daisy Robinson, founder of holistic Reflexology practice Flow with Daisy, and Chinese medicine expert, Ada Ooi, shared their insights with the Daily Mail.",
-    "url": "https://www.dailymail.com/lifestyle/article-15779823/what-feet-say-expert.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/01/15/108309559-0-image-m-57_1777647281326.jpg",
-    "publishedAt": "2026-05-02T08:45:05Z",
-    "content": "We all try to put our best foot forward - but what do they really say about us?\r\nFrom a protruding second toe symbolising 'strong leadership' to overlapping digits that imply a personal struggle for … [+9171 chars]"
-  },
-  {
-    "source": {
-      "id": "rt",
-      "name": "RT"
-    },
-    "author": "RT",
-    "title": "How the West’s war machine runs on calculated lies",
-    "description": "The same machinery of manufactured war that shattered Iraq and Libya is now being recalibrated for Iran Read Full Article at RT.com",
-    "url": "https://www.rt.com/africa/639262-baghdad-to-tehran-interventions-western-media-role/",
-    "urlToImage": "https://mf.b37mrtl.ru/files/2026.04/article/69f3526020302703b0577c0d.jpg",
-    "publishedAt": "2026-05-02T08:30:01Z",
-    "content": "History confirms that major Western-instigated conflicts are cultivated rather than spontaneous. From 19th-century colonial pretexts in North Africa to modern digital campaigns, the manufactured lie … [+8720 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Shawn Tully",
-    "title": "Blackstone’s Steve Schwarzman built a program to teach young leaders about China. It’s harder to get into than Harvard",
-    "description": "Inspired by the Rhodes Scholar program, Schwarzman's philanthropic initiative brings students in their early-to-mid-20s to spend a year immersed in understanding how China works.",
-    "url": "https://fortune.com/2026/05/02/schwarzman-scholars-blackstone-china-tsinghua-university/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Stephen-A-Schwarzman.jpg?resize=1200,600",
-    "publishedAt": "2026-05-02T08:00:00Z",
-    "content": "Steve Schwarzman has spent his career on Wall Streetbut hes also been on a quieter quest on the other side of the globe, a decades-long journey to understanding China. That brought him, in late April… [+12203 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Essentially Sports"
-    },
-    "author": "Caroline John",
-    "title": "“I Need to See His Birth Certificate”: Lakers Legend Stunned by LeBron James as Ex-NBA Player Makes “Scared” Claim",
-    "description": "Following the Los Angeles Lakers’ commanding 98-78 victory to eliminate the Houston Rockets, the conversation surrounding LeBron James has shifted from his longevity to a state of pure disbelief. Despite being the oldest player in the league, James’ dominance…",
-    "url": "https://www.essentiallysports.com/nba-active-basketball-news-i-need-to-see-his-birth-certificate-lakers-legend-james-worthy-stunned-by-lebron-james-as-ex-nba-player-danny-green-makes-scared-claim/",
-    "urlToImage": "https://s.yimg.com/cv/apiv2/sports/share/PD_010626-Social_Share_GENRIC_YAHOO_SPORTS-1200x630.jpg",
-    "publishedAt": "2026-05-02T07:56:23Z",
-    "content": "Following the Los Angeles Lakers commanding 98-78 victory to eliminate the Houston Rockets, the conversation surrounding LeBron James has shifted from his longevity to a state of pure disbelief. Desp… [+3568 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Whitecoatinvestor.com"
-    },
-    "author": "Josh Katzowitz",
-    "title": "Should I Send My Kid to the Ivy Leagues? A Parent’s Perspective",
-    "description": "Surrounded by other high-income docs, I’ve felt the cultural pull to push my kids to excel. Should that include an Ivy League education?\nThe post Should I Send My Kid to the Ivy Leagues? A Parent’s Perspective appeared first on The White Coat Investor - Inves…",
-    "url": "https://www.whitecoatinvestor.com/are-ivy-leagues-worth-it/",
-    "urlToImage": "https://www.whitecoatinvestor.com/wp-content/uploads/2026/04/ivy-league-schools-img.jpg",
-    "publishedAt": "2026-05-02T06:30:41Z",
-    "content": "The White Coat Investor has produced four books that help everybody from students just beginning their financial journey to wealth-builders who need to protect their assets. And if you want to order … [+14723 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hurriyet Daily News"
-    },
-    "author": "hurriyetdailynews.com",
-    "title": "Sumud flotilla activists return in Istanbul after Israeli detention",
-    "description": "A Turkish Airlines plane carrying 59 activists from the Global Sumud Flotilla, including 18 Turkish citizens, landed at Istanbul Airport after they were detained following Israel’s intervention against the Gaza-bound aid convoy in international waters.",
-    "url": "https://www.hurriyetdailynews.com/sumud-flotilla-activists-return-in-istanbul-after-israeli-detention-221720",
-    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/69f599903a5a98d212b12f65.jpg",
-    "publishedAt": "2026-05-02T06:28:00Z",
-    "content": "ISTANBUL\r\nA Turkish Airlines plane carrying 59 activists from the Global SumudFlotilla, including 18 Turkish citizens, landed at Istanbul Airport on May 1 after they were detained following Israels i… [+3047 chars]"
+    "author": "Sarah Jones",
+    "title": "AI Can’t Solve America’s Diagnosis Crisis",
+    "description": "MAHA’s current plan for making the country healthy again involves an AI revolution. But as Alexandra Sifferlin writes in her new book, ‘The Elusive Body,’ that may not solve Americans’ biggest problem: getting diagnosed.",
+    "url": "http://nymag.com/intelligencer/article/ai-maha-america-diagnosis-crisis.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/749/43d/b45d5862119c34a975f03e91de567fa3c2-yearinmaha.1x.rsocial.w1200.jpg",
+    "publishedAt": "2026-05-03T10:00:55Z",
+    "content": "Dr. Mehmet Oz has a plan to fix American health care. Use artificial intelligence, which will save costs and provide superior care, he told staff at the Centers for Medicaid &amp; Medicare Services l… [+9708 chars]"
   }
 ]
