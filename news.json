@@ -1,16 +1,107 @@
 [
   {
     "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Business Wire",
-    "title": "Enveric Biosciences Expands IP Portfolio with New U.S. Patent Issued for Methods of Treating Psychiatric Disorders",
-    "description": "Claims to methods for treating a psychiatric disorder using novel pharmaceutical drug formulations encompass an EVM301 Series of drug candidates of carboxylated psilocybin derivatives, targeting various difficult-to-treat mental health disorders CAMBRIDGE, Ma…",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/enveric-biosciences-expands-ip-portfolio-with-new-u-s-patent-issued-for-methods-of-treating-psychiatric-disorders",
-    "urlToImage": null,
-    "publishedAt": "2026-05-13T12:08:18Z",
-    "content": "THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe O'Connor, Gabriel Friedman, … [+7907 chars]"
+    "author": "Advaita Suresh",
+    "title": "What makes tires so tough has been a mystery for 100 years, scientists just found the surprising answer",
+    "description": "Researchers at the University of South Florida have uncovered the mechanism that makes reinforced rubber exceptionally strong, solving a scientific mystery that has persisted for nearly a century. Using around 1,500 molecular simulations, the team discovered …",
+    "url": "https://economictimes.indiatimes.com/news/international/us/what-makes-tires-so-tough-has-been-a-mystery-for-100-years-scientists-just-found-the-surprising-answer/articleshow/131093097.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131093097,width-1200,height-630,imgsize-1340025,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-05-14T12:20:05Z",
+    "content": "Every time a car brakes suddenly, an airplane lands, or a factory machine runs under intense pressure, one material quietly absorbs enormous stress without falling apart: reinforced rubber. It is use… [+6303 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Aadya Jha",
+    "title": "The body never forgets: How childhood emotional wounds can trigger lifelong health struggles in adulthood",
+    "description": "Childhood adversities like abuse and neglect leave lasting physical and mental health consequences in adulthood, modern medicine now confirms. These early traumas can manifest as chronic pain, anxiety, and even serious illnesses, impacting the nervous system …",
+    "url": "https://timesofindia.indiatimes.com/health/the-body-never-forgets-how-childhood-emotional-wounds-can-trigger-lifelong-health-struggles-in-adulthood/articleshow/131093062.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-131093106,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-05-14T12:19:44Z",
+    "content": "Childhood trauma does not always stay in the past. Studies now show that early experiences such as abuse, neglect, violence, or emotional instability can influence adult physical and mental health in… [+14 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "IPWatchdog.com"
+    },
+    "author": "Kristina M. L. Acri née Lybecker",
+    "title": "The Real Cost of Weakening Drug Patents",
+    "description": "When the Food and Drug Administration (FDA) approved a new, easier-to-administer version of a popular cancer medicine called Keytruda a few months ago, patients celebrated. But critics quickly cried foul, accusing the drug's manufacturer of gaming the patent …",
+    "url": "https://ipwatchdog.com/?p=201535",
+    "urlToImage": "https://ipwatchdog.com/wp-content/uploads/2024/05/Depositphotos_130677098_S.jpg",
+    "publishedAt": "2026-05-14T12:15:12Z",
+    "content": "The current patent system incentivizes companies to offer patients and their doctors more options. It’s tough to see why that’s a bad thing.\r\nWhen the Food and Drug Administration (FDA) approved a ne… [+4170 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Waldencast plc.",
+    "title": "Obagi and Next Health Partner to Launch “The Skin Recharge Station” Pop-Up Experience",
+    "description": "A multi-city pop-up introducing consumers to the future of skincare and longevity innovation A multi-city pop-up introducing consumers to the future of skincare and longevity innovation",
+    "url": "https://www.globenewswire.com/news-release/2026/05/14/3294904/0/en/Obagi-and-Next-Health-Partner-to-Launch-The-Skin-Recharge-Station-Pop-Up-Experience.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/fa49dced-fa33-467c-9066-abc8a626e097",
+    "publishedAt": "2026-05-14T12:15:00Z",
+    "content": "NEW YORK, May 14, 2026 (GLOBE NEWSWIRE) -- Obagi Medical (Obagi), a leader in advanced skincare innovation, the originator of medical-grade skincare and part of Waldencast plc (NASDAQ: WALD) (Waldenc… [+4622 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mediaite"
+    },
+    "author": "Tommy Christopher",
+    "title": "Trump Riffs on Railroad Workers and ‘Chinese Restaurants’ in State Banquet Toast",
+    "description": "Trump riffed on Chinese railroad workers and Chinese restaurants in a toast at the State Banquet with China's President Xi Jinping.\nThe post Trump Riffs on Railroad Workers and ‘Chinese Restaurants’ in State Banquet Toast first appeared on Mediaite.",
+    "url": "https://www.mediaite.com/media/news/trump-riffs-on-railroad-workers-and-chinese-restaurants-in-state-banquet-toast/",
+    "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/05/Trump-Riffs-on-Railroad-Workers-and-Chinese-Restaurants-in-State-Banquet-Toast.jpg",
+    "publishedAt": "2026-05-14T12:14:22Z",
+    "content": "President Donald Trump made some interesting choices as he riffed on Chinese railroad workers and Chinese restaurants in a toast at the State Banquet with China’s President Xi Jinping.\r\nThe president… [+2158 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "CREATE Medicines Strengthens Clinical and Scientific Advisory Board with Appointment of Georg Schett, MD, Margrit Wiesendanger, MD, PhD, and Christopher Jewell, PhD",
+    "description": "Appointments come as CREATE advances CRT-402, its lead in vivo CD19 CAR-T program, to clinical development for B cell-driven autoimmune disease CAMBRIDGE, Mass., May 14, 2026 /PRNewswire/ -- CREATE Medicines, Inc. (\"CREATE\"), a clinical-stage biotechnology co…",
+    "url": "https://www.prnewswire.com/news-releases/create-medicines-strengthens-clinical-and-scientific-advisory-board-with-appointment-of-georg-schett-md-margrit-wiesendanger-md-phd-and-christopher-jewell-phd-302771789.html",
+    "urlToImage": "https://mma.prnewswire.com/media/2959353/CREATE_Medicines__Logo.jpg?p=facebook",
+    "publishedAt": "2026-05-14T12:10:00Z",
+    "content": "<ul><li>Appointments come as CREATE advances CRT-402, its lead in vivo CD19 CAR-T program, to clinical development for B cell-driven autoimmune disease</li></ul>CAMBRIDGE, Mass., May 14, 2026 /PRNews… [+5042 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Anime News Network"
+    },
+    "author": null,
+    "title": "3rd Mononoke Film Streams New Trailer",
+    "description": "Film opens in Japan on May 29 // Twin Engine revealed a new trailer for Gekijōban Mononoke Dai-San-Shō: Hebigami (Mononoke the Movie: Chapter 3: Snake God),...",
+    "url": "https://www.animenewsnetwork.com/news/2026-05-14/3rd-mononoke-film-streams-new-trailer/.237360",
+    "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gRA/youtube/W9KLSySt59M.jpg",
+    "publishedAt": "2026-05-14T12:09:36Z",
+    "content": "Twin Engine revealed a new trailer for Gekijban Mononoke Dai-San-Sh: Hebigami(Mononoke the Movie: Chapter 3: Snake God),the third installment of the Mononokefranchise's film trilogy, on Thursday. \r\nI… [+4021 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Rigel to Present at the 2026 RBC Capital Markets Global Healthcare Conference",
+    "description": "SOUTH SAN FRANCISCO, Calif., May 14, 2026 /PRNewswire/ -- Rigel Pharmaceuticals, Inc. (Nasdaq: RIGL), a commercial stage biotechnology company focused on hematologic disorders and cancer, today announced that Dean Schorno, the company's chief financial office…",
+    "url": "https://www.prnewswire.com/news-releases/rigel-to-present-at-the-2026-rbc-capital-markets-global-healthcare-conference-302771835.html",
+    "urlToImage": "https://mma.prnewswire.com/media/681135/Rigel_R_Logo.jpg?p=facebook",
+    "publishedAt": "2026-05-14T12:05:00Z",
+    "content": "SOUTH SAN FRANCISCO, Calif., May 14, 2026 /PRNewswire/ -- Rigel Pharmaceuticals, Inc. (Nasdaq: RIGL), a commercial stage biotechnology company focused on hematologic disorders and cancer, today annou… [+1082 chars]"
   },
   {
     "source": {
@@ -18,25 +109,90 @@
       "name": "GlobeNewswire"
     },
     "author": "Candel Therapeutics, Inc",
-    "title": "Candel Therapeutics to Present at Upcoming Investor Conferences",
-    "description": "NEEDHAM, Mass., May 13, 2026 (GLOBE NEWSWIRE) --  Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical-stage biopharmaceutical company focused on developing multimodal immunotherapies to improve outcomes for patients with cancer, today…",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293960/0/en/Candel-Therapeutics-to-Present-at-Upcoming-Investor-Conferences.html",
+    "title": "Candel Therapeutics Reports First Quarter 2026 Financial Results and Recent Corporate Highlights",
+    "description": "NEEDHAM, Mass., May 14, 2026 (GLOBE NEWSWIRE) -- Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical-stage biopharmaceutical company focused on developing multimodal immunotherapies to improve outcomes for patients with cancer, today …",
+    "url": "https://www.globenewswire.com/news-release/2026/05/14/3294901/0/en/Candel-Therapeutics-Reports-First-Quarter-2026-Financial-Results-and-Recent-Corporate-Highlights.html",
     "urlToImage": "https://ml.globenewswire.com/Resource/Download/8b82e1e3-4a67-4472-a7c8-05f9d24c9bb0",
-    "publishedAt": "2026-05-13T12:05:00Z",
-    "content": "NEEDHAM, Mass., May 13, 2026 (GLOBE NEWSWIRE) --  Candel Therapeutics, Inc. (Candel or the Company) (Nasdaq: CADL), a clinical-stage biopharmaceutical company focused on developing multimodal immunot… [+6127 chars]"
+    "publishedAt": "2026-05-14T12:05:00Z",
+    "content": "<ul><li>Company plans to submit a Biologics License Application (BLA) for aglatimagene besadenovec (aglatimagene or CAN-2409) in localized, intermediate- to high-risk prostate cancer in Q4 2026</li><… [+24120 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kevinmd.com"
+    },
+    "author": "Gus W. Krucke, MD",
+    "title": "Moral injury in medicine goes beyond simple burnout",
+    "description": "Most young physicians enter medicine with a sincere desire to help people. They expect long hours, difficult training, and personal sacrifice. What many do not expect is how profoundly the environment around them will shape not only how they practice medicine…",
+    "url": "https://kevinmd.com/2026/05/moral-injury-in-medicine-goes-beyond-simple-burnout.html",
+    "urlToImage": "https://kevinmd.com/wp-content/uploads/aa815f77-ec3a-46bd-935f-56aaaa1b3aa0.png",
+    "publishedAt": "2026-05-14T12:00:53Z",
+    "content": "Most young physicians enter medicine with a sincere desire to help people. They expect long hours, difficult training, and personal sacrifice. What many do not expect is how profoundly the environmen… [+7451 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "GlobeNewswire"
     },
-    "author": "Totaligent",
-    "title": "Totaligent Enters APAC Medical Tourism Market at Historic Inflection Point, as Global Healthcare Travel Surges Toward $274 Billion",
-    "description": "Totaligent (OTCID: TGNT) Targets $273B Medical Tourism Market Via Aetherium Acquisition\n...",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293963/0/en/Totaligent-Enters-APAC-Medical-Tourism-Market-at-Historic-Inflection-Point-as-Global-Healthcare-Travel-Surges-Toward-274-Billion.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/02c43ae8-50a0-485b-9542-7606f4a26a10",
-    "publishedAt": "2026-05-13T12:05:00Z",
-    "content": "BOCA RATON, Fla., May 13, 2026 (GLOBE NEWSWIRE) -- Totaligent, Inc. (OTCID: TGNT) (Totaligent or the Company), an emerging leader in specialized infrastructure platform for the blossoming biologics s… [+13482 chars]"
+    "author": "Benitec Biopharma Inc.",
+    "title": "Benitec Biopharma Releases Third Quarter 2026 Financial Results and Provides Operational Update",
+    "description": "Benitec Q3 Earnings Release...",
+    "url": "https://www.globenewswire.com/news-release/2026/05/14/3294843/0/en/Benitec-Biopharma-Releases-Third-Quarter-2026-Financial-Results-and-Provides-Operational-Update.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/627c78fb-57b8-41c6-89da-62599af40dd1",
+    "publishedAt": "2026-05-14T12:00:00Z",
+    "content": "<ul><li>Late-breaking abstract for BB-301 presented at the Muscular Dystrophy Association (MDA) Clinical and Scientific Conference in March demonstrated durable responses to low dose BB-301 at 12-mon… [+20165 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "INmune Bio, Inc.",
+    "title": "INmune Bio Receives FDA Fast Track Designation for XPro1595 in Early Alzheimer's Disease",
+    "description": "BOCA RATON, FL, May 14, 2026 (GLOBE NEWSWIRE) -- INmune Bio Inc. (NASDAQ: INMB), a late-stage biotechnology company focused on inflammation and immunology, today announced that the U.S. Food and Drug Administration (FDA) has granted Fast Track designation to …",
+    "url": "https://www.globenewswire.com/news-release/2026/05/14/3294832/0/en/INmune-Bio-Receives-FDA-Fast-Track-Designation-for-XPro1595-in-Early-Alzheimer-s-Disease.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/64035ec0-9fc2-414d-a693-27f1b1e90a31",
+    "publishedAt": "2026-05-14T12:00:00Z",
+    "content": "BOCA RATON, FL, May 14, 2026 (GLOBE NEWSWIRE) -- INmune Bio Inc. (NASDAQ: INMB), a late-stage biotechnology company focused on inflammation and immunology, today announced that the U.S. Food and Drug… [+8372 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TODAY"
+    },
+    "author": "A. Pawlowski",
+    "title": "Is Beef Tallow Healthy? What Cardiologists Want You to Know",
+    "description": "Beef tallow has a lot of fans touting its purported benefits over seed oils, alarming some doctors. Cardiologists weigh in on whether beef tallow is healthy.",
+    "url": "https://www.today.com/health/diet-fitness/beef-tallow-heart-health-cardiologists-rcna344902",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-05/beef-tallow-healthy-mh-05142026-5ad13c.jpg",
+    "publishedAt": "2026-05-14T12:00:00Z",
+    "content": "Beef tallow has a lot of fans touting its purported health benefits over seed oils.\r\nIt even has a place in the Dietary Guidelines for Americans, 20252030, the U.S. governments official advice on wha… [+3661 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Teen Vogue"
+    },
+    "author": "Emily Blumberg",
+    "title": "Gen Z Was Told We Could Save the World. Is It Silly to Think We Still Can?",
+    "description": "Thinking about the cult-favorite childhood game Poptropica triggered my existential crisis about what Gen Z’s future could be.",
+    "url": "https://www.teenvogue.com/story/gen-z-was-told-we-could-save-the-world-is-it-silly-to-think-we-still-can",
+    "urlToImage": "https://assets.teenvogue.com/photos/6a04da9055daeebde2a1e4c5/16:9/w_1280,c_limit/poptropica_headerv1.jpg",
+    "publishedAt": "2026-05-14T12:00:00Z",
+    "content": "When my high school graduation was canceled in 2020, parents in my school district lamented the unfortunate timing for our class. We'd been born into a shattered country reeling from the existential … [+3230 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Chemomab Therapeutics Ltd.",
+    "title": "Chemomab Therapeutics Announces First Quarter 2026 Financial Results and Provides Corporate Update",
+    "description": "Chemomab announced financial and operating results for the first quarter and provided a corporate update, including 4 presentations at DDW and EASL 2026....",
+    "url": "https://www.globenewswire.com/news-release/2026/05/14/3294834/0/en/Chemomab-Therapeutics-Announces-First-Quarter-2026-Financial-Results-and-Provides-Corporate-Update.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/07e28ce3-bf66-48fd-a935-293d63b15b7e",
+    "publishedAt": "2026-05-14T12:00:00Z",
+    "content": "New Clinical and Translational Data Presented at Major Medical Meetings Further Confirms the Disease-Modifying Potential of Nebokitug in Primary Sclerosing Cholangitis and Suggests Possible Additiona… [+22688 chars]"
   },
   {
     "source": {
@@ -44,103 +200,12 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "ERS Genomics and Aurigene Sign CRISPR/Cas9 License Agreement to Advance Precision Genome Editing in Drug Discovery",
-    "description": "Agreement strengthens Aurigene's discovery platforms with access to foundational CRISPR/Cas9 intellectual property, enabling responsible innovation and enhanced global partner support DUBLIN and BANGALORE, India, May 13, 2026 /PRNewswire/ -- ERS Genomics Limi…",
-    "url": "https://www.prnewswire.com/news-releases/ers-genomics-and-aurigene-sign-crisprcas9-license-agreement-to-advance-precision-genome-editing-in-drug-discovery-302770886.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2818566/ERS_Genomics_Logo.jpg?p=facebook",
-    "publishedAt": "2026-05-13T12:04:00Z",
-    "content": "Agreement strengthens Aurigene's discovery platforms with access to foundational CRISPR/Cas9 intellectual property, enabling responsible innovation and enhanced global partner support\r\nDUBLIN and BAN… [+5222 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Andelyn Biosciences Receives Dark Horse Consulting Certification of Gene Therapy Manufacturing Systems and Capabilities within its Initiative for Certification of Manufacturing Capabilities (ICMC™) Program",
-    "description": "Independent certification recognizes Andelyn as a verified, compliant manufacturer of advanced-therapy medical products. COLUMBUS, Ohio, May 13, 2026 /PRNewswire/ -- Andelyn Biosciences, a leading cell and gene therapy Contract Development and Manufacturing O…",
-    "url": "https://www.prnewswire.com/news-releases/andelyn-biosciences-receives-dark-horse-consulting-certification-of-gene-therapy-manufacturing-systems-and-capabilities-within-its-initiative-for-certification-of-manufacturing-capabilities-icmc-program-302769792.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2420707/Andelyn_Biosciences_Logo.jpg?p=facebook",
-    "publishedAt": "2026-05-13T12:00:00Z",
-    "content": "Independent certification recognizes Andelyn as a verified, compliant manufacturer of advanced-therapy medical products.\r\nCOLUMBUS, Ohio, May 13, 2026 /PRNewswire/ -- Andelyn Biosciences, a leading c… [+5897 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Silexion Therapeutics Corp",
-    "title": "Silexion Therapeutics Announces Initiation of GMP Clinical Supply Manufacturing of SIL204 with Leading Global CDMO, and New Approval of Phase 2/3 Trial From Tel Aviv Sourasky Medical Center",
-    "description": "Silexion advances toward Phase 2/3 trial in KRAS-driven pancreatic cancer, as SIL204 begins GMP clinical manufacturing in collaboration with global leading manufacturing partner Catalent at its European center of excellence",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293916/0/en/Silexion-Therapeutics-Announces-Initiation-of-GMP-Clinical-Supply-Manufacturing-of-SIL204-with-Leading-Global-CDMO-and-New-Approval-of-Phase-2-3-Trial-From-Tel-Aviv-Sourasky-Medica.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1070dc42-db79-4712-af48-38ffbdf3b140",
-    "publishedAt": "2026-05-13T12:00:00Z",
-    "content": "Silexion advances toward Phase 2/3 trial in KRAS-driven pancreatic cancer, as SIL204 begins GMP clinical manufacturing in collaboration with global leading manufacturing partner Catalent at its Europ… [+9026 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Century Therapeutics, Inc.",
-    "title": "Century Therapeutics Reports First Quarter Financial Results and Business Updates",
-    "description": "PHILADELPHIA, May 13, 2026 (GLOBE NEWSWIRE) -- Century Therapeutics, Inc. (‘Century’, NASDAQ: IPSC), a biotechnology company developing induced pluripotent stem cell (iPSC)-derived cell therapies for autoimmune diseases, including type 1 diabetes, and cancer,…",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293915/0/en/Century-Therapeutics-Reports-First-Quarter-Financial-Results-and-Business-Updates.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/0c4efad5-3786-4f61-b572-f2b723ecedaa",
-    "publishedAt": "2026-05-13T12:00:00Z",
-    "content": "<ul><li>CNTY-813, Centurys type 1 diabetes iPSC-derived islet therapy with functional-cure potential, remains on track for IND in 4Q 2026; initial clinical data expected in 2H 2027</li><li>Upcoming o… [+17260 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Writersdigest.com"
-    },
-    "author": "Robert Lee Brewer",
-    "title": "April Henry: On a Rabbit Hole Leading to a Thriller Novel",
-    "description": "In this interview, author April Henry discusses how digging deep into family history helped inspire her new YA thriller, In the Blood.\nThe post April Henry: On a Rabbit Hole Leading to a Thriller Novel appeared first on Writer's Digest.",
-    "url": "https://www.writersdigest.com/april-henry-on-a-rabbit-hole-leading-to-a-thriller-novel#article",
-    "urlToImage": "https://www.writersdigest.com/uploads/2026/04/WD-Web-Images-14.png?auto=webp",
-    "publishedAt": "2026-05-13T12:00:00Z",
-    "content": "April Henry is the New York Times-bestselling author of many acclaimed mysteries for adults and over 15 novels for teens, including the bestselling Girl, Stolen; Girl Forgotten, which won the Edgar A… [+4568 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Retractionwatch.com"
-    },
-    "author": "Avery Orrall",
-    "title": "Elsevier journal removes two 42-year-old papers on cesium as a cancer treatment",
-    "description": "An Elsevier journal has removed two papers on a discredited alternative treatment for cancer nearly half a century after they were published, after researchers found a quarter of patients in case reports of the therapy, cesium chloride, died from taking the s…",
-    "url": "https://retractionwatch.com/2026/05/13/elsevier-journal-removes-two-42-year-old-papers-on-cesium-as-a-cancer-treatment/",
-    "urlToImage": "https://retractionwatch.com/wp-content/uploads/2026/05/cesium-cancer-removals-main.png",
-    "publishedAt": "2026-05-13T12:00:00Z",
-    "content": "An Elsevier journal has removed two papers on a discredited alternative treatment for cancer nearly half a century after they were published, after researchers found a quarter of patients in case rep… [+5019 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Smithsonian.com"
-    },
-    "author": "REPRINT AUTHOR PLACEHOLDER",
-    "title": "How 'Seabird Sue' Blends Art and Science to Attract Birds Back to Lost Habitat",
-    "description": "For the past decade, Sue Schubel has been making detailed decoys of terns, puffins and other seabirds to entice real ones to restored or new homes",
-    "url": "https://www.smithsonianmag.com/innovation/how-seabird-sue-blends-art-and-science-to-attract-birds-back-to-lost-habitat-180988724/",
-    "urlToImage": "https://th-thumbnailer.cdn-si-edu.com/6itLnGW9poillfoUbNTJ1BTsquM=/fit-in/1600x0/filters:focal(1200x800:1201x801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/69/d3/69d39088-9d98-41fa-b7d4-e121bed64976/header-bird-decoys.jpg",
-    "publishedAt": "2026-05-13T12:00:00Z",
-    "content": "Sue Schubel hand-paints around 500 a year from her workshop in a converted barn steps from the ocean in Bremen, Maine, a tiny town in the lower third of the state’s craggy coast.\r\n Jean Hall/National… [+13509 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "The cost of standing still: Dublin ranks third out of seven European capitals for freight efficiency",
-    "description": "Geotab's new Index reveals major performance gap between Europe's capital cities DUBLIN, May 13, 2026 /PRNewswire/ -- Geotab, a global leader in connected vehicle and asset management solutions, today published its first European Freight Efficiency Index titl…",
-    "url": "https://www.prnewswire.com/news-releases/the-cost-of-standing-still-dublin-ranks-third-out-of-seven-european-capitals-for-freight-efficiency-302770463.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2978260/Geotab_Inc__The_cost_of_standing_still__Dublin_ranks_third_out_o.jpg?p=facebook",
-    "publishedAt": "2026-05-13T12:00:00Z",
-    "content": "Geotab's new Index reveals major performance gap between Europe's capital cities\r\nDUBLIN, May 13, 2026 /PRNewswire/ -- Geotab, a global leader in connected vehicle and asset management solutions, tod… [+7418 chars]"
+    "title": "Rice Biotech Launch Pad to Sponsor 2nd Edition of the BioElectronic Therapeutics (BETx) Event hosted by the Rice Global Paris Center in June",
+    "description": "The event at the Club de la Chasse et de la Nature in Paris June 10-12 will feature over 20 guest speakers from industry, academia, and investment communities HOUSTON, May 14, 2026 /PRNewswire/ -- The Rice Biotech Launch Pad, a Houston-based accelerator focus…",
+    "url": "https://www.prnewswire.com/news-releases/rice-biotech-launch-pad-to-sponsor-2nd-edition-of-the-bioelectronic-therapeutics-betx-event-hosted-by-the-rice-global-paris-center-in-june-302771157.html",
+    "urlToImage": null,
+    "publishedAt": "2026-05-14T12:00:00Z",
+    "content": "The event at the Club de la Chasse et de la Nature in Paris June 10-12 will feature over 20 guest speakers from industry, academia, and investment communities\r\nHOUSTON, May 14, 2026 /PRNewswire/ -- T… [+4414 chars]"
   },
   {
     "source": {
@@ -148,115 +213,50 @@
       "name": "Pypi.org"
     },
     "author": null,
-    "title": "molcrafts-molrs 0.0.16",
-    "description": "Python bindings for molrs molecular simulation library",
-    "url": "https://pypi.org/project/molcrafts-molrs/0.0.16/",
+    "title": "mdw-zhong 0.1.2",
+    "description": "Internal molecular dynamics workflow utilities for MD Workbench.",
+    "url": "https://pypi.org/project/mdw-zhong/0.1.2/",
     "urlToImage": null,
-    "publishedAt": "2026-05-13T11:57:01Z",
+    "publishedAt": "2026-05-14T11:49:31Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Attackmagazine.com"
+      "name": "PRNewswire"
     },
-    "author": "ericadmin",
-    "title": "AlphaTheta-Backed Study Examines Electronic Music’s Effect On Stress And Recovery",
-    "description": "<!-- wp:paragraph -->\nResearch conducted at Drumsheds suggests guided movement sessions paired with electronic music may support nervous system regulation and post-exercise recovery.\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\nA new study supported by Alpha…",
-    "url": "https://www.attackmagazine.com/news/alphatheta-backed-study-examines-electronic-musics-effect-on-stress-and-recovery/",
+    "author": null,
+    "title": "Allegheny Health Network's Cardiovascular Institute Sees Positive Outcomes from Groundbreaking Therapy for Treatment-Resistant Hypertension",
+    "description": "PITTSBURGH, May 14, 2026 /PRNewswire/ -- Interventional cardiologists across Allegheny Health Network's (AHN) Cardiovascular Institute have realized positive health outcomes in patients who have exhibited severe, medication-resistant hypertension after perfor…",
+    "url": "https://www.prnewswire.com/news-releases/allegheny-health-networks-cardiovascular-institute-sees-positive-outcomes-from-groundbreaking-therapy-for-treatment-resistant-hypertension-302771871.html",
+    "urlToImage": "https://mma.prnewswire.com/media/2594752/AHN_Logo.jpg?p=facebook",
+    "publishedAt": "2026-05-14T11:35:00Z",
+    "content": "PITTSBURGH, May 14, 2026 /PRNewswire/ -- Interventional cardiologists across Allegheny Health Network's (AHN) Cardiovascular Institute have realized positive health outcomes in patients who have exhi… [+5676 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "Business Wire",
+    "title": "Triple Hair Expands Global Phase III Program for TH07 with Launch of 500-Patient Trial in India",
+    "description": "Phase III trial in India expected to enroll 500 male patients with androgenic alopecia Study forms part of Triple Hair’s coordinated international Phase III program for TH07 Harmonized clinical design supports development of a robust global data package and e…",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/triple-hair-expands-global-phase-iii-program-for-th07-with-launch-of-500-patient-trial-in-india",
     "urlToImage": null,
-    "publishedAt": "2026-05-13T11:52:37Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "publishedAt": "2026-05-14T11:31:20Z",
+    "content": "THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe O'Connor, Gabriel Friedman, … [+7708 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "The Indian Express"
+      "id": "financial-post",
+      "name": "Financial Post"
     },
-    "author": "Anonna Dutt",
-    "title": "India gets its first Alzheimer’s therapy, will cost nearly a lakh per dose",
-    "description": "The drug is likely to remain out of reach for most, with the current cost standing at R 91,688 for a single vial.",
-    "url": "https://indianexpress.com/article/health-wellness/india-first-alzheimers-drug-lormalzi-price-eli-lilly-donanemab-cost-10687646/",
-    "urlToImage": "https://images.indianexpress.com/2026/05/Alzheimers.jpg",
-    "publishedAt": "2026-05-13T11:47:16Z",
-    "content": "Alzheimers patients in the country will now have the option of receiving a new treatment, with pharmaceutical giant Eli Lilly launching donanemab in the Indian market under the brand name Lormalzi. T… [+5209 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Ingeborg Van Lotringen",
-    "title": "I'm slim and sporty but like millions of women have suffered from cellulite all of my life. I've tried 100 treatments to smooth my orange-peel thighs. THIS is the only one which works",
-    "description": "I've always despised my 'orange peel', and have never been able to get on board with the 'body positivity' movement when it comes to my less-than-flawless thighs.",
-    "url": "https://www.dailymail.com/lifestyle/article-15813907/Cellulite-treatments-orange-peel-thighs-one-works.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/13/11/108573083-0-image-m-35_1778666468688.jpg",
-    "publishedAt": "2026-05-13T11:38:45Z",
-    "content": "I have Sharon Stone to thank for helping me to summon the bravery to show these pictures of my thigh.\r\nThe 68-year-old star recently posted an Instagram snap of herself in a bikini by the pool. She l… [+5060 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Altimmune, Inc",
-    "title": "Altimmune Announces First Quarter 2026 Financial Results and Business Update",
-    "description": "Initiation of PERFORMA Phase 3 MASH trial planned for second half 2026  $535 million in cash, cash equivalents and short-term investments as of April 30,...",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293891/0/en/Altimmune-Announces-First-Quarter-2026-Financial-Results-and-Business-Update.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/362fbdfa-dc07-456c-9908-9e042540158a",
-    "publishedAt": "2026-05-13T11:30:00Z",
-    "content": "Initiation of PERFORMA Phase 3 MASH trial planned for second half 2026\r\n$535 million in cash, cash equivalents and short-term investments as of April 30, 2026\r\nWebcast to be held today at 8:30 a.m. E… [+18111 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Kailera Therapeutics, Inc.",
-    "title": "Hengrui Pharma and Kailera Therapeutics Announce Clinical Data Presentations at the American Diabetes Association 86th Scientific Sessions",
-    "description": "Hengrui Pharma and Kailera Therapeutics announce clinical data presentations at the American Diabetes Association 86th Scientific Sessions...",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293890/0/en/Hengrui-Pharma-and-Kailera-Therapeutics-Announce-Clinical-Data-Presentations-at-the-American-Diabetes-Association-86th-Scientific-Sessions.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/c0b33a3d-0c2b-45b0-ace8-6ff585b41339",
-    "publishedAt": "2026-05-13T11:30:00Z",
-    "content": "SHANGHAI and WALTHAM, Mass., May 13, 2026 (GLOBE NEWSWIRE) -- Hengrui Pharma (Hengrui), a global pharmaceutical company focused on scientific and technological innovation, and Kailera Therapeutics, I… [+3977 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "MediPharm Labs Corp.",
-    "title": "MediPharm Labs Reports First Quarter 2026 Results Achieving Positive Adjusted EBITDA",
-    "description": "MediPharm Labs Reports First Quarter 2026 Results Achieving Positive Adjusted EBITDA....",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293892/0/en/MediPharm-Labs-Reports-First-Quarter-2026-Results-Achieving-Positive-Adjusted-EBITDA.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/7a534238-60aa-4187-979d-8f4d83fa58c1",
-    "publishedAt": "2026-05-13T11:30:00Z",
-    "content": "<ul><li>Q1 2026 Positive Adjusted EBITDA(1)</li><li>Net Revenue of $9M with strong gross margins of 37%</li><li>OPEX decreased 28% in Q1 2026 versus Q4 2025</li><li>Company is virtually debt free, wi… [+16054 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Abeona Therapeutics Inc.",
-    "title": "Abeona Therapeutics® Reports First Quarter 2026 Results and Provides Pipeline Update",
-    "description": "- Three patients treated with ZEVASKYN® in Q1 2026 -  - QTC network expands to six sites, with two new additions on the East Coast -   - In-licensed...",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293883/0/en/Abeona-Therapeutics-Reports-First-Quarter-2026-Results-and-Provides-Pipeline-Update.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/f11f9f14-9744-4666-aef3-9771488c41bd",
-    "publishedAt": "2026-05-13T11:30:00Z",
-    "content": "- Three patients treated with ZEVASKYN® in Q1 2026 -\r\n- QTC network expands to six sites, with two new additions on the East Coast - \r\n- In-licensed radically novel engineered T-cell technology with … [+18850 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "BriaCell Therapeutics Corp.",
-    "title": "BriaCell Adds Penn Medicine’s Abramson Cancer Center as Clinical Site in Pivotal Phase 3 Breast Cancer Study",
-    "description": "PHILADELPHIA and VANCOUVER, British Columbia, May 13, 2026 (GLOBE NEWSWIRE) -- BriaCell Therapeutics Corp. (Nasdaq: BCTX, BCTXL) (TSX: BCT) (“BriaCell” or the “Company”), a clinical-stage biotechnology company developing novel immunotherapies to transform can…",
-    "url": "https://www.globenewswire.com/news-release/2026/05/13/3293887/0/en/BriaCell-Adds-Penn-Medicine-s-Abramson-Cancer-Center-as-Clinical-Site-in-Pivotal-Phase-3-Breast-Cancer-Study.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/88b9408d-31d4-4afd-beff-f855719a15d8",
-    "publishedAt": "2026-05-13T11:30:00Z",
-    "content": "<ul><li>Other recently activated sites include Indiana University Melvin and Bren Simon Comprehensive Cancer Center, University of Virginia (UVA) Comprehensive Cancer Center, Baptist Health South Flo… [+5168 chars]"
+    "author": "Business Wire",
+    "title": "NEUPATH HEALTH REPORTS FIRST QUARTER 2026 RESULTS",
+    "description": "Record first quarter total revenue of $21.5 million, up 11% year-over-year Positive cash flows, with Adjusted EBITDA(1) of $1.5 million, up 15% year-over-year On April 1, Stephen Lemieux assumed the role of Chief Executive Officer Investor webinar scheduled f…",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/neupath-health-reports-first-quarter-2026-results",
+    "urlToImage": null,
+    "publishedAt": "2026-05-14T11:31:13Z",
+    "content": "THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles from Barbara Shecter, Joe O'Connor, Gabriel Friedman, … [+8323 chars]"
   }
 ]
