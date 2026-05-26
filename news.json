@@ -1,236 +1,249 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Kevinmd.com"
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
     },
-    "author": "Oluyemisi Famuyiwa, MD",
-    "title": "Polycystic ovary syndrome is more than ovarian",
-    "description": "The name polycystic ovary syndrome may have unintentionally narrowed how medicine understood one of the most common endocrine disorders affecting women. The ovaries were visible. The deeper physiology was not. For decades, the syndrome was largely framed arou…",
-    "url": "https://kevinmd.com/2026/05/polycystic-ovary-syndrome-is-more-than-ovarian.html",
-    "urlToImage": "https://kevinmd.com/wp-content/uploads/8385221e-e7a1-4d63-9605-fcd8169ae42e.png",
-    "publishedAt": "2026-05-24T16:00:51Z",
-    "content": "The name polycystic ovary syndrome may have unintentionally narrowed how medicine understood one of the most common endocrine disorders affecting women. The ovaries were visible. The deeper physiolog… [+8116 chars]"
+    "author": "Mohammad Mansour",
+    "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+    "description": "Analysts warn Netanyahu is exploiting a failing \"ceasefire\" to prolong the destruction of Gaza ahead of Israeli election",
+    "url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a1432be9b57d-1779708606.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-05-25T17:46:09Z",
+    "content": "Seven months after a ceasefire was brokered to halt Israels genocide in Gaza, the agreement has morphed into a deadly cover for continued Israeli military operations in the enclave.\r\nIsraeli forces h… [+3972 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "One type of sitting may pose greater dementia risk than another, study suggests",
+    "description": "New research suggests the type of sitting matters for dementia risk, with mentally engaging activities linked to a significant reduction in risk.",
+    "url": "https://www.foxnews.com/health/one-type-sitting-may-pose-greater-dementia-risk-than-another-study-suggests",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/fox-news-health-dementia-study-sitting.jpg",
+    "publishedAt": "2026-05-25T17:32:40Z",
+    "content": "For years, researchers have believed prolonged sitting could raise dementia risk but new findings suggest the type of sitting may matter more than previously thought.\r\nThe research, which was publish… [+2784 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Ryan King",
+    "title": "Hasan Piker looks shaken on stream as feds probe Cuba trip, Rep. Jasmine Crockett piles on",
+    "description": "Notorious far-left streamer Hasan Piker appeared visibly rattled by the feds' probe into whether his jaunt to Cuba with a cohort of lefties back in March violated sanctions.",
+    "url": "https://nypost.com/2026/05/25/us-news/hasan-piker-looks-shaken-on-stream-as-feds-probe-cuba-trip-rep-jasmine-crockett-piles-on/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/05/128711082.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-05-25T17:28:04Z",
+    "content": "WASHINGTON  Far-left streamer Hasan Piker has been visibly rattled by the federal investigation into whether his jaunt to Cuba back in March violated US sanctions.\r\n“This is not great,” Piker bluntly… [+3196 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": null,
+    "title": "fastmdxplorer 0.2.0",
+    "description": "FastMDXplorer: Fully Automated SysTem for Molecular Dynamics eXploration",
+    "url": "https://pypi.org/project/fastmdxplorer/0.2.0/",
+    "urlToImage": null,
+    "publishedAt": "2026-05-25T17:18:42Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New Zealand Herald"
+    },
+    "author": "Varsha Anjali",
+    "title": "How much does Auckland earn?",
+    "description": "The Herald asks Aucklanders how much money they make and how they feel about it.",
+    "url": "https://www.nzherald.co.nz/lifestyle/how-much-does-auckland-earn/premium/HAUZUXX6GVHURBB7EMN2PYV524/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/OIDDAJEWBBH7FEXI2EDBWW3WVM.gif?auth=7c32ddd76ee3709484f24fdd9b4db79f76a96d74bafc0734aac58ca1afa8162d&width=1200&height=675&quality=70&smart=true",
+    "publishedAt": "2026-05-25T17:00:00Z",
+    "content": "This is how much 25 Aucklanders make and how they feel about money right now, in their own words.\r\n$76,000\r\nIm 48. I live with my husband and my 6-year-old. My older child goes to university in the S… [+19580 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Max Winters",
+    "title": "Wild moment French Open tennis star sprints to the bathroom mid-match after desperate plea to umpire: 'I can't move anymore'",
+    "description": "Frenchman Arthur Gea was trailing 13th-seeded Karen Khachanov 4-2 in Paris when he started to suffer with stomach problems during his match on Sunday.",
+    "url": "https://www.dailymail.com/sport/tennis/article-15847089/french-open-arthur-gea-bathroom-break.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/05/25/17/108855399-0-image-m-13_1779727156848.jpg",
+    "publishedAt": "2026-05-25T16:59:26Z",
+    "content": "A French Open tennis star was forced to dramatically run off court for an emergency bathroom break during his match on Sunday.\r\nFrenchman Arthur Gea was trailing 13th-seeded Karen Khachanov 4-2 in Pa… [+1706 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sporting News"
+    },
+    "author": "Ritabrata_Banerjee",
+    "title": "Full list of Indian cricketers to win Padma Shri award by year",
+    "description": "Rohit Sharma and Harmanpreet Kaur will be conferred with the Padma Shri award in 2026.",
+    "url": "https://www.sportingnews.com/in/cricket/news/full-list-indian-cricketers-win-padma-shri-award-year/22d6a4eecca4e2913ed0dfaf",
+    "urlToImage": "https://s.yimg.com/os/en/the_sporting_news_articles_584/73434b829050f946ec0e85b88bf0bae8",
+    "publishedAt": "2026-05-25T16:56:00Z",
+    "content": "The Padma Shri is the fourth-highest civilian award after the Bharat Ratna, Padma Vibhushan, Padma Bhushan awards, which the Government of India confers in recognition of 'distinguished contribution … [+1845 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Princeton University"
+    },
+    "author": "Rebekah Schroeder, Office of Communications",
+    "title": "Students honored for leadership and service at Class Day",
+    "description": "At its Class Day ceremony, the Class of 2026 celebrated the achievements and leadership of some of its most outstanding members.",
+    "url": "https://www.princeton.edu/news/2026/05/25/students-honored-leadership-and-service-class-day",
+    "urlToImage": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2026/05/20250526_ClassDay_DJA_411.jpg?itok=0jiTdN6H",
+    "publishedAt": "2026-05-25T16:45:00Z",
+    "content": "Members of Princeton Universitys Class of 2026 celebrated the end of their undergraduate careers with a Class Day ceremony honoring their achievements and leadership on Monday, May 25. Recipients of … [+12550 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Streetartutopia.com"
+    },
+    "author": "Vidar",
+    "title": "14 Street Art Illusions That Are Actually Real",
+    "description": "These are not renders. They are real walls, pavements, corners, and buildings turned into optical illusions by perspective, shadow, scale, and architecture. Some look like portals. Some look like creatures. Some make flat walls forget how walls work.  Untit…",
+    "url": "https://streetartutopia.com/2026/05/25/this-is-not-ai-14-street-art-illusions-that-are-real/",
+    "urlToImage": "https://i0.wp.com/streetartutopia.com/wp-content/uploads/2026/05/real-world-3d-art.jpeg?fit=1200%2C700&ssl=1",
+    "publishedAt": "2026-05-25T16:34:56Z",
+    "content": "Most liked mode is active for this post: images are ranked by community likes.\r\nSome look like portals. Some look like creatures. Some make flat walls forget how walls work.\r\nStadt.Wand.Kunst lists t… [+8247 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Indian Express"
+    },
+    "author": "Lifestyle Desk",
+    "title": "Morning vs. afternoon sun: When is the best time for Indians to get Vitamin D?",
+    "description": "For most healthy adults, about 15–30 minutes of sunlight exposure on the face, arms, or legs several times a week is generally adequate, said Dr Aniket Mule, consultant, internal medicine, KIMS Hospitals, Thane.",
+    "url": "https://indianexpress.com/article/lifestyle/health/vitamin-d-early-morning-sunlight-better-afternoon-sun-indians-expert-10695711/",
+    "urlToImage": "https://images.indianexpress.com/2026/05/sun-exposure_600_freepik.jpg",
+    "publishedAt": "2026-05-25T16:30:59Z",
+    "content": "Should you soak in early morning sunlight or peak afternoon sun for better vitamin D absorption? We asked an expert about this, who affirmed that early morning sunlight is considered safer and more b… [+2790 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "cnn",
+    "title": "Young men storm a Congo hospital treating Ebola patients to demand bodies of their relatives (3rd attack)",
+    "description": "Angry young men stormed a hospital treating Ebola patients at the heart of the latest outbreak of the disease in eastern Congo on Sunday evening, forcing the medical staff to scramble to evacuate the patients as gunfire rang out in the area. It was not immedi…",
+    "url": "https://freerepublic.com/focus/f-news/4380903/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-05-25T16:25:05Z",
+    "content": "Skip to comments.\r\nYoung men storm a Congo hospital treating Ebola patients to demand bodies of their relatives (3rd attack)cnn ^\r\n | 5-25-26\r\n | Associated Press\r\nPosted on 05/25/2026 9:25:05 AM PDT… [+4286 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Richard Littlejohn",
+    "title": "RICHARD LITTLEJOHN: However did we survive summer without amber UV alerts and Nanny ordering us to stay indoors, keep hydrated and wear sunscreen?",
+    "description": "Mayday, Mayday, Mayday! Tins hats on, curtains drawn, stay hydrated, or YOU'RE ALL GOING TO DIE!",
+    "url": "https://www.dailymail.com/debate/article-15847075/RICHARD-LITTLEJOHN-heatwave-survive-summer-amber-UV-alerts-hydrated-sunscreen.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/05/25/17/108855177-0-image-a-11_1779725486147.jpg",
+    "publishedAt": "2026-05-25T16:18:16Z",
+    "content": "Mayday, Mayday, Mayday! Tins hats on, curtains drawn, stay hydrated, or YOURE ALL GOING TO DIE!\r\nIf you must go out, wear appropriate clothing. A burka and a sombrero should do the trick. But avoid t… [+5011 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pounding The Rock "
+    },
+    "author": "Daniel Sprague",
+    "title": "Highlights: Spurs dominate Thunder in Game 4 behind Wembanyama’s 33 points",
+    "description": "The Spurs held OKC to their lowest scoring total (82) since December 2021.",
+    "url": "https://www.poundingtherock.com/spurs-highlights/102941/highlights-spurs-dominate-thunder-in-game-4-behind-wembanyamas-33-points",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6VBbO7P9BhUnf6RNtR7ZmA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/8b25ff288ac418eb79fb51c3daf1ca2b",
+    "publishedAt": "2026-05-25T16:18:02Z",
+    "content": "Coming off a tough loss against the Oklahoma City Thunder in Game 3, the Spurs looked to regroup and even the series in Game 4. Even though they were not listed on the injury report, DeAaron Fox and … [+5717 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Frontofficesports.com"
+    },
+    "author": "Lisa Scherzer",
+    "title": "Clean Athletes Stole the Show at the Enhanced Games",
+    "description": "Three clean athletes won events against performance-enhancing peers.",
+    "url": "https://frontofficesports.com/clean-athletes-stole-the-show-at-the-enhanced-games/",
+    "urlToImage": "https://s.yimg.com/os/en/front_office_sports_190/acb0ddf07d57d0fa2f656fd0ab9aa321",
+    "publishedAt": "2026-05-25T16:17:47Z",
+    "content": "The inaugural Enhanced Games produced one unofficial world record while others were nearly broken, but one unexpected result stood out: Athletes who said they were competing without performance-enhan… [+3496 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Shreya Biswas",
+    "title": "Quote of the day by Thomas Paine: 'To argue with a man who has renounced the use and authority of reason, and whose philosophy consists in...' - why some arguments are impossible to win and what it reveals about human behavior by author of Common Sense",
+    "description": "Quote of the day by Thomas Paine: Thomas Paine's quote highlights the futility of arguing with those who reject reason and empathy. He likened such discussions to administering medicine to the dead, emphasizing that productive conversations require mutual res…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-thomas-paine-to-argue-with-a-man-who-has-renounced-the-use-and-authority-of-reason-and-whose-philosophy-consists-in-why-some-arguments-are-impossible-to-win-and-what-it-reveals-about-human-behavior-by-author-of-common-sense/articleshow/131312238.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131312238,width-1200,height-630,imgsize-6008,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-05-25T16:15:46Z",
+    "content": "(Catch all the US News, UK News, Canada News, International Breaking News Events, and Latest News Updates on The Economic Times.)\r\nDownload The Economic Times News App to get Daily International News… [+8 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KQED"
+    },
+    "author": "Gilare Zada",
+    "title": "Can New Cameras Save the Gray Whales in the San Francisco Bay?",
+    "description": "After 21 dead gray whales surfaced in the bay last year, nearly half of which were struck by ship or freighter, scientists and community leaders put their hopes in a new AI-powered tool.",
+    "url": "https://www.kqed.org/news/12084707/can-new-cameras-save-the-gray-whales-in-the-san-francisco-bay",
+    "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/05/051926SFWHALES_GH_038-KQED.jpg",
+    "publishedAt": "2026-05-25T16:00:46Z",
+    "content": "“This is a new thing, to be sharing this [busy] space with whales,“ McCauley continued.\r\nA new AI-powered camera, however, installed on the island’s Point Blunt, seeks to shine a light on the increas… [+5221 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "GlobeNewswire"
     },
-    "author": "Bronstein, Gewirtz & Grossman, LLC",
-    "title": "Bronstein, Gewirtz & Grossman LLC Urges SES AI Corporation Investors to Act: Class Action Filed Alleging Investor Harm",
-    "description": "New class action for SES AI (SES) urges investors to seek recovery for alleged securities fraud violations – lead plaintiff deadline of 6/26/2026...",
-    "url": "https://www.globenewswire.com/news-release/2026/05/24/3300462/9788/en/Bronstein-Gewirtz-Grossman-LLC-Urges-SES-AI-Corporation-Investors-to-Act-Class-Action-Filed-Alleging-Investor-Harm.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/1a031130-a9cc-48ff-b281-d1e47c9a91a5",
-    "publishedAt": "2026-05-24T16:00:00Z",
-    "content": "NEW YORK, May 24, 2026 (GLOBE NEWSWIRE) -- Bronstein, Gewirtz &amp; Grossman, LLC, a nationally recognized investor-rights law firm, announces that a class action lawsuit has been filed against SES A… [+3133 chars]"
+    "author": "GENFIT S.A.",
+    "title": "GENFIT Highlights Broad Scientific and Strategic Presence at EASL Congress 2026",
+    "description": "Lille (France), Cambridge (Massachusetts, United States), Zurich (Switzerland), May 25, 2026 – GENFIT (Euronext: GNFT), a biopharmaceutical company dedicated to improving the lives of patients with rare and life-threatening liver diseases, today highlights it…",
+    "url": "https://www.globenewswire.com/news-release/2026/05/25/3300685/0/en/GENFIT-Highlights-Broad-Scientific-and-Strategic-Presence-at-EASL-Congress-2026.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/95c3e0b0-4782-4c77-b953-be17f726015d",
+    "publishedAt": "2026-05-25T16:00:00Z",
+    "content": "Lille (France), Cambridge (Massachusetts, United States), Zurich (Switzerland), May 25, 2026 GENFIT (Euronext: GNFT), a biopharmaceutical company dedicated to improving the lives of patients with rar… [+12326 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Cosmopolitan.com"
+      "name": "Daily Beast"
     },
-    "author": "Leah Marilla Thomas",
-    "title": "Breaking Down ‘The Mandalorian & Grogu’ Ending",
-    "description": "'The Mandalorian & Grogu' film was filled with some major and surprising moments that have left fans wondering if there will be more. Here's a breakdown of what happened in The Mandelorian & Grogu.",
-    "url": "https://www.cosmopolitan.com/entertainment/movies/a71389144/the-mandalorian-and-grogu-ending-explained/",
-    "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/c699cf19-f21f-4bd9-9151-bc2f5a1222a4.jpg?crop=1xw:0.715xh;0xw,0.221xh&resize=1200:*",
-    "publishedAt": "2026-05-24T16:00:00Z",
-    "content": "Does The Mandalorian &amp; Grogu have a tragic ending or does it leave the possibility for future dynamic duo adventures wide open? The movie is a lot more tense than you might think. Heres the debri… [+2952 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Dr Max Pemberton",
-    "title": "DR MAX PEMBERTON: I know exactly what's going on with Katie Price. I can't believe no one else can see it - it's so obvious when you spot the signs…",
-    "description": "Katie Price is back in the news, which is, of course, no great surprise. She rarely leaves it. This time, it's the strange and unsettling business of her husband 'going missing' in Dubai making headlines.",
-    "url": "https://www.dailymail.com/lifestyle/fitness-wellbeing/article-15844619/DR-MAX-PEMBERTON-exactly-whats-going-Katie-Price.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/24/13/108833855-0-image-a-16_1779627366898.jpg",
-    "publishedAt": "2026-05-24T15:53:35Z",
-    "content": "Katie Price is back in the news, which is, of course, no great surprise. She rarely leaves it. This time, its the strange and unsettling business of her husband going missing in Dubai that is making … [+6967 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Ethan Ennals",
-    "title": "The 10p tablet that cured my exhaustion and sleepless nights for GOOD. Dozens of studies suggest this miracle pill can help you sleep longer with no downside: This is how it could help YOU",
-    "description": "For more than a decade, Kendall Platt worked as a crime scene forensic investigator - a job she found rewarding but also intensely stressful. Her sleep, unsurprisingly, suffered.",
-    "url": "https://www.dailymail.com/health/article-15844715/10p-tablet-cured-sleepless-nights-constant-exhaustion.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/24/15/108834533-0-image-m-45_1779631446927.jpg",
-    "publishedAt": "2026-05-24T15:44:32Z",
-    "content": "For more than a decade, Kendall Platt worked as a crime scene forensic investigator a job she found rewarding but also intensely stressful.\r\nThe 40-year-old mother of two says she would often lie awa… [+5029 chars]"
-  },
-  {
-    "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
-    },
-    "author": null,
-    "title": "Campaign to keep Alberta in Canada launches, after Danielle Smith vows to put province's future to a vote",
-    "description": "Premier Danielle Smith has said the more than 400,000 signatures the Forever Canadian petition garnered, and the roughly 300,000 signatures the Stay Free Alberta petition got, indicates that more than 700,000 Albertans want to put the province's future in Con…",
-    "url": "https://www.cbc.ca/news/canada/edmonton/campaign-to-keep-alberta-in-canada-launches-after-danielle-smith-vows-to-put-province-s-future-to-a-vote-9.7210451",
-    "urlToImage": "https://i.cbc.ca/ais/757d3bf1-d4fb-46d2-ba0a-756e406244bb,1779637083787/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C305%2C5859%2C3295%29%3BResize%3D620",
-    "publishedAt": "2026-05-24T15:44:16Z",
-    "content": "Hundreds of people in red-and-white clothing waved Canadian flags, cheered as honking cars passed by and sang \"O Canada\" at a launch event for a campaign aiming to stop Alberta from quitting Confeder… [+3999 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Natasha Lindstaedt, Contributor, \n Natasha Lindstaedt, Contributor\n https://www.forbes.com/sites/natashalindstaedt/",
-    "title": "More Signs Russia’s Internet Crackdown Is Backfiring",
-    "description": "Russia has shut down the internet, causing a rift in Putin's inner circle and growing discontent amongst the public. Russia's pounding of Kiev is another distraction.",
-    "url": "https://www.forbes.com/sites/natashalindstaedt/2026/05/24/more-signs-russias-internet-crackdown-is-backfiring/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a13062e3c99ea6f4af1537a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2026-05-24T15:38:13Z",
-    "content": "YAROSLAVL, RUSSIA - SEPTEMBER,1 (RUSSIA OUT) Russian President Vladimir Putin (R) and Presidential Adminitsration's First Deputy Chief of Staff Sergey Kiriyenko (L) observe an exhibition prior to the… [+8121 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Taryn Pedler",
-    "title": "Blast off! China launches three-crew space flight ahead of plans for manned Moon mission by end of the decade",
-    "description": "The mission marked the first spaceflight ever undertaken by an astronaut from Hong Kong - 43-year-old Li Jiaying, who previously worked for the city's police.",
-    "url": "https://www.dailymail.com/news/article-15844789/Blast-China-launches-three-crew-space-flight-ahead-plans-manned-Moon-mission-end-decade.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/24/16/108835469-0-image-m-29_1779636666832.jpg",
-    "publishedAt": "2026-05-24T15:34:22Z",
-    "content": "China launched a three-crew space flight on Sunday as part of a mission which hopes to see Beijing to the Moon by 2030.\r\nA Long March 2-F rocket was scheduled to lift off at around 3pm GMT from the J… [+6054 chars]"
+    "author": "Harry Thompson",
+    "title": "Top Doctor Jonathan Reiner Sounds Alarm Over Serious Trump Health Concern",
+    "description": "Top Doctor Jonathan Reiner Sounds Alarm Over Serious Trump Health Concernthedailybeast.com",
+    "url": "https://www.thedailybeast.com/top-doctor-jonathan-reiner-sounds-alarm-over-serious-trump-health-concern/",
+    "urlToImage": "https://www.thedailybeast.com/resizer/v2/2EYI3RKVWNF5VJYU3O43CMNSVU.jpg?smart=true&auth=48b646fb3ec2b7413f4d3b13280dbca4804d2bfaa9ef4bff22b10cbd7d30b89e&width=1200&height=630",
+    "publishedAt": "2026-05-25T15:58:36Z",
+    "content": "Former Vice President Dick Cheneys physician has raised serious concerns about President Donald Trumps health. \r\nThe president, 79, is due to undergo his third medical at Walter Reed National Militar… [+4202 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Freerepublic.com"
     },
-    "author": "European Conservative",
-    "title": "Amsterdam Moves to Rein In “Fatbikes” With Park Ban",
-    "description": "In cycle-loving Amsterdam, authorities have barred so-called fatbikes from the busy Vondelpark after rising complaints over speeding youths and unsafe paths. City officials have implemented an unprecedented ban on “fatbikes” in Amsterdam’s iconic Vondelpark t…",
-    "url": "https://freerepublic.com/focus/f-chat/4380757/posts",
+    "author": "The Telegraph",
+    "title": "The terrifying rise of schoolboys making AI girlfriendsBoys as young as 12 are now in romantic ‘relationships’ with chatbots, and it’s affecting how they treat girls in the real world",
+    "description": "***New research has revealed that one in five boys aged 12-16 is either in or knows of a boy their age who is in a romantic relationship with an AI companion. A report carried out by men’s organisation Male Allies UK and published last month spoke with more t…",
+    "url": "https://freerepublic.com/focus/f-chat/4380900/posts",
     "urlToImage": null,
-    "publishedAt": "2026-05-24T15:12:04Z",
-    "content": "Skip to comments.\r\nAmsterdam Moves to Rein In Fatbikes With Park BanEuropean Conservative ^\r\n | May 24, 2026\r\n | TEC News\r\nPosted on 05/24/2026 8:12:04 AM PDT by Red Badger\r\nIn cycle-loving Amsterdam… [+5826 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "FOX News",
-    "title": "Trans track star sweeps three events, shares first-place podium and qualifies for CA state meet yet again",
-    "description": "Trans athlete AB Hernandez turned in first place finishes in long jump, triple jump and high jump MOORPARK, Calif. – \"It’s an outlier.\" That’s the common argument from left-wing transgender activists. They say that biological males taking the spotlight from g…",
-    "url": "https://freerepublic.com/focus/f-chat/4380755/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-05-24T15:05:41Z",
-    "content": "Skip to comments.\r\nTrans track star sweeps three events, shares first-place podium and qualifies for CA state meet yet againFOX News ^\r\n | May 24, 2026\r\n | Patricia Babcock McGraw, OutKick\r\nPosted on… [+4497 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside NU"
-    },
-    "author": "Inside NU Archives",
-    "title": "Gamethread/How to watch Northwestern vs. UNC in the NCAA Championship",
-    "description": "A championship rematch on the lakefront.",
-    "url": "https://www.insidenu.com/northwestern-lacrosse/67344/gamethread-how-to-watch-northwestern-vs-unc-in-the-ncaa-championship",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/B665YD0J3UlwBMdBvcKx0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/9027710252bd3f3ae72180a1322c038f",
-    "publishedAt": "2026-05-24T15:04:21Z",
-    "content": "Same squads, different year on the womens lacrosse worlds biggest stage, as No.1-seeded Northwestern faces No. 2-seeded UNC in the 2026 NCAA championship game.\r\nIn Fridays NCAA semifinals, The Cats a… [+697 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Legalinsurrection.com"
-    },
-    "author": "Mike LaChance",
-    "title": "U. Illinois College of Medicine Encourages Professors to Adopt ‘Equitable Grading Practices’",
-    "description": "“develop a culture of inclusive education”\nThe post U. Illinois College of Medicine Encourages Professors to Adopt ‘Equitable Grading Practices’ first appeared on Le·gal In·sur·rec·tion.",
-    "url": "https://legalinsurrection.com/2026/05/u-illinois-college-of-medicine-encourages-professors-to-adopt-equitable-grading-practices/",
-    "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2016/10/Social-Justice.jpg",
-    "publishedAt": "2026-05-24T15:00:20Z",
-    "content": "We are eventually going to regret allowing the left to push this ideology into medicine.University of Illinois medical school pushes equitable assessments for professors\r\nThe University of Illinois C… [+2142 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Amy Molloy",
-    "title": "Bowel cancer. 12 months to live... Gemma was 35 with two children when she got the call - but these treatments have kept her alive six years on as a new trial offers hope",
-    "description": "Gemma Farquhar will always remember her children's ages in April 2020: four and six. 'I thought I'd never see another milestone.' Six years on, she's still fighting",
-    "url": "https://www.dailymail.com/health/article-15832995/Early-onset-bowel-cancer-12-months-prognosis-Gemma-Farquhar.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/22/01/108790905-0-image-a-15_1779410017608.jpg",
-    "publishedAt": "2026-05-24T14:58:30Z",
-    "content": "Gemma Farquhar will always remember the exact ages of her children in April 2020: four and six.\r\n'I remember them distinctly because I thought, \"I'm never going to see another milestone,\"' she tells … [+8511 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "LADbible"
-    },
-    "author": "James Moorhouse",
-    "title": "Teenager, 13, with extremely rare condition facing £750k bill for single dose of miracle medicine",
-    "description": "She may soon lose the ability to walk without treatment",
-    "url": "https://www.ladbible.com/news/uk-news/uk-health-rare-condition-charcot-marie-tooth-698430-20260524",
-    "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltdf80b521d76afbec/6a12ccff28fbb59066bda981/IMG-20260317-WA0005.jpeg",
-    "publishedAt": "2026-05-24T14:51:14Z",
-    "content": "A teenager suffering from a rare condition has been forced to accept that she may lose all mobility in her legs unless she can qualify for a potentially life-changing miracle medication.\r\nIn 2024, wh… [+4745 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thefrontpage.dev"
-    },
-    "author": "stagas",
-    "title": "Show HN: The Front Page – Newspaper-style front page for Hacker News",
-    "description": "Article URL: https://thefrontpage.dev/\nComments URL: https://news.ycombinator.com/item?id=48257715\nPoints: 2\n# Comments: 0",
-    "url": "https://thefrontpage.dev/",
-    "urlToImage": "https://thefrontpage.dev/screenshot.webp",
-    "publishedAt": "2026-05-24T14:50:41Z",
-    "content": "2h, 65p, 2 comments\r\nService is currently unavailable and requests are being blocked (timestamp: 20260524T145900Z-16c8588d6959cv9shC1FTYgk2c00000000sg00000000v23n).\r\n2h, 20p, 2 comments\r\nThe study by… [+63492 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ANI",
-    "title": "Marco Rubio meets NSA Doval, discusses defence, security and strategic tech cooperation including TRUST initiative",
-    "description": "US Secretary of State and National Security Advisor Marco Rubio met with Indian NSA Ajit Doval to bolster defense, security, and strategic technology cooperation, including the TRUST initiative. Discussions also covered regional and global developments, reaff…",
-    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-meets-nsa-doval-discusses-defence-security-and-strategic-tech-cooperation-including-trust-initiative/articleshow/131293831.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-131293848,width-1200,height-630,imgsize-155166,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-05-24T14:49:28Z",
-    "content": "US State Secretary Marco Rubio on Sunday met National Security Advisor Ajit Doval, with discussions focused on strengthening cooperation in defence, security, and strategic technology, including the … [+4234 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "PTI",
-    "title": "President Murmu to confer 66 Padma awards on Monday",
-    "description": "President Droupadi Murmu will present 66 Padma awards on Monday. The ceremony will honor two Padma Vibhushan, six Padma Bhushan, and 58 Padma Shri awardees. A total of 131 Padma awards have been approved for 2026. The awards recognize extraordinary contributi…",
-    "url": "https://economictimes.indiatimes.com/news/india/president-murmu-to-confer-66-padma-awards-on-monday/articleshow/131293817.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-131293819,width-1200,height-630,imgsize-17304,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-05-24T14:48:53Z",
-    "content": "New Delhi: President Droupadi Murmu will present 66 Padma awards at the first civil investiture ceremony for 2026 to be held in the Ganatantra Mandap of the Rashtrapati Bhavan on Monday.During the ce… [+1855 chars]"
-  },
-  {
-    "source": {
-      "id": "the-washington-post",
-      "name": "The Washington Post"
-    },
-    "author": "Elizabeth Dwoskin and Rick Maese, (c) 2026 , The Washington Post",
-    "title": "Tech billionaires used performance drugs in secret. Now they’re selling a revolution.",
-    "description": "LAS VEGAS - This past week, in a city built on risk and reward, billionaire biohacker Christian Angermayer went about his wellness routine. He injected himself with weight loss drugs, testosterone, and legal-but-off-label growth hormones, designed to reduce d…",
-    "url": "https://washingtonpost.com/technology/2026/05/24/with-enhanced-games-silicon-valley-investors-turn-doping-into-billion-dollar-business-pitch/",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dC1f4lsWV0EnRoSw3WIn7A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/washington_post_articles_265/626f44e3b00d78e58ac1e0ccd4001160",
-    "publishedAt": "2026-05-24T14:27:02Z",
-    "content": "LAS VEGAS - This past week, in a city built on risk and reward, billionaire biohacker Christian Angermayer went about his wellness routine.\r\nHe injected himself with weight loss drugs, testosterone, … [+16665 chars]"
+    "publishedAt": "2026-05-25T15:46:20Z",
+    "content": "Skip to comments.\r\nThe terrifying rise of schoolboys making AI girlfriendsBoys as young as 12 are now in romantic relationships with chatbots, and its affecting how they treat girls in the real world… [+4931 chars]"
   }
 ]
