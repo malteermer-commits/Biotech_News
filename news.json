@@ -2,54 +2,106 @@
   {
     "source": {
       "id": null,
+      "name": "STAT"
+    },
+    "author": "Andrew Joseph",
+    "title": "Experimental hepatitis B treatment was a ‘functional cure’ for nearly 1 in 5",
+    "description": "An experimental GSK drug helped 1 in 5 patients with chronic hepatitis B achieve what's known as a functional cure, vastly outpacing current treatments.",
+    "url": "https://www.statnews.com/2026/05/28/hepatitis-b-treatment-gsk-clinical-trials/",
+    "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/Hep-b-1024x576.jpg",
+    "publishedAt": "2026-05-28T08:36:02Z",
+    "content": "An experimental medicine helped vanquish hepatitis B in clinical trials in nearly 1 in 5 people with chronic infections caused by the virus, far outperforming available treatment options in an illnes… [+743 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PEOPLE"
+    },
+    "author": "Google News",
+    "title": "American Doctor in DR Congo Tests Positive for Ebola as U.S. Announces Travel Restrictions - AOL.com",
+    "description": "A medical missionary has tested positive for Ebola, according to an international aid group, as the U.S. announces travel restrictions",
+    "url": "https://people.com/ebola-american-doctor-tests-positive-cdc-restricts-travel-11977724",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/D80EFEFDB5A8278D62903CAA9D1EDA5F9123A2C4CD419608E393559DCAE28E3D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_people_articles_471%2F1f6e5647789805f74646fc9891a71acf",
+    "publishedAt": "2026-05-28T08:35:40Z",
+    "content": "<ul><li>Dr. Peter Stafford, an American missionary working in the Democratic Republic of Congo, tested positive for Ebola after treating patients\r\n</li><li>The CDC announced travel restrictions for n… [+3845 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space Daily"
+    },
+    "author": "Space Daily Editorial Team",
+    "title": "When a Scottish sheep named Dolly was born on July 5, 1996 — cloned from a single cell taken from the udder of a six-year-old Finn Dorset ewe — she became the first mammal ever produced from an adult body cell, proving something developmental biologists had spent decades insisting was impossible",
+    "description": "On 5 July 1996, in a barn at the Roslin Institute outside Edinburgh, a Finn Dorset lamb was born to a Scottish Blackface surrogate ewe. The lamb was given the laboratory code 6LL3. According to Retro Report’s interview transcript with the original team, it wa…",
+    "url": "https://spacedaily.com/d-when-a-scottish-sheep-named-dolly-was-born-on-july-5-1996-cloned-from-a-single-cell-taken-from-the-udder-of-a-six-year-old-finn-dorset-ewe-she-became-the-first-mammal-ever-produce/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/05/Posts-1600840-2026-05-28T124055.287.png",
+    "publishedAt": "2026-05-28T08:30:54Z",
+    "content": "On 5 July 1996, in a barn at the Roslin Institute outside Edinburgh, a Finn Dorset lamb was born to a Scottish Blackface surrogate ewe. The lamb was given the laboratory code 6LL3. According to Retro… [+6836 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "A New York cemetery was hiding 5.5 million bees underground",
+    "description": "A casual walk through an Ithaca cemetery led to the discovery of a gigantic hidden bee population — roughly 5.5 million ground-nesting bees packed beneath the soil. Scientists believe it may be one of the largest bee aggregations ever documented and say the i…",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260527023218.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/andrena-regularis-bee-east-lawn-cemetery.webp",
+    "publishedAt": "2026-05-28T08:29:31Z",
+    "content": "Rachel Fordyce used to save money by parking at Ithaca's East Hill Plaza and walking through East Lawn Cemetery on her way to work at a Cornell University entomology lab. During one walk in the sprin… [+6347 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "estewart@insider.com (Emily Stewart)",
+    "title": "The internet's cortisol freakout was causing my cortisol to spike. So I talked to a doctor.",
+    "description": "People say cortisol spikes are responsible for poor sleep, weight gain, and more. I asked doctors whether cortisol really is a wellness boogeyman.",
+    "url": "https://www.businessinsider.com/cortisol-spike-doctor-advice-sleep-weight-mood-health-instagram-2026-5",
+    "urlToImage": "https://i.insider.com/6a1741e72ab5f9757add50e3?width=1200&format=jpeg",
+    "publishedAt": "2026-05-28T08:24:01Z",
+    "content": "Your cortisol is probably fine. I mean, I'm not a doctor, and if you're concerned, you should get yourself checked out. But the people on Instagram and TikTok telling you to be Very Worried about you… [+10506 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "PTI",
+    "title": "Right to trauma care of citizens integral part of right to life, Supreme Court says",
+    "description": "The Supreme Court has asked all states and Union Territories to launch a unified helpline, 112, for emergency responses. A functional system for addressing good samaritan grievances will also be established. These crucial measures for trauma care, deemed a fu…",
+    "url": "https://economictimes.indiatimes.com/news/india/right-to-trauma-care-of-citizens-integral-part-of-right-to-life-supreme-court-says/articleshow/131366118.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131366201,width-1200,height-630,imgsize-251072,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-05-28T08:21:46Z",
+    "content": "New Delhi: Observing that right to trauma care of citizens is an integral part of right to life, the Supreme Court has asked all states and Union territories to operationalise within three months one… [+3714 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Human Longevity's Launched New Entity Human Life Foundation Models, Inc. and Insilico Medicine Collaborates to Build the First Foundation Model for Longevity Science",
-    "description": "SOUTH SAN FRANCISCO, Calif., May 27, 2026 /PRNewswire/ -- Human Longevity, Inc. today announced the creation of a new company, Human Life Foundation Models, Inc. (HLFM), dedicated to developing large-scale foundation models for human longevity science. HLFM's…",
-    "url": "https://www.prnewswire.com/news-releases/human-longevitys-launched-new-entity-human-life-foundation-models-inc-and-insilico-medicine-collaborates-to-build-the-first-foundation-model-for-longevity-science-302783477.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2988325/PR.jpg?p=facebook",
-    "publishedAt": "2026-05-27T17:44:00Z",
-    "content": "SOUTH SAN FRANCISCO, Calif., May 27, 2026 /PRNewswire/ -- Human Longevity, Inc. today announced the creation of a new company, Human Life Foundation Models, Inc. (HLFM), dedicated to developing large… [+6217 chars]"
+    "title": "Aphranel® MagiCCrystal CaHA Filler Achieves EU MDR Certification as a Premium Regenerative Injectable",
+    "description": "SHANGHAI, May 28, 2026 /PRNewswire/ -- Moyom Biotechnology announced that its premium regenerative aesthetics product, Aphranel® MagiCCrystal CaHA Filler officially achieved European Union Medical Device Regulation (EU MDR) certification on May 18, 2026, unde…",
+    "url": "https://www.prnewswire.com/news-releases/aphranel-magiccrystal-caha-filler-achieves-eu-mdr-certification-as-a-premium-regenerative-injectable-302784208.html",
+    "urlToImage": null,
+    "publishedAt": "2026-05-28T08:21:00Z",
+    "content": "SHANGHAI, May 28, 2026 /PRNewswire/ -- Moyom Biotechnology announced that its premium regenerative aesthetics product, Aphranel® MagiCCrystal CaHA Filler officially achieved European Union Medical De… [+4310 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PRNewswire"
+      "name": "National Institutes of Health"
     },
     "author": null,
-    "title": "Healthgrades Names Los Angeles Community Hospitals a 2026 Patient Safety Excellence Award™ Recipient",
-    "description": "Los Angeles Community Hospitals among top 5% in nation for patient safety LOS ANGELES, May 27, 2026 /PRNewswire/ -- Los Angeles Community Hospital System with locations in Los Angeles, Norwalk and Bellflower announced that it has achieved the 2026 Patient Saf…",
-    "url": "https://www.prnewswire.com/news-releases/healthgrades-names-los-angeles-community-hospitals-a-2026-patient-safety-excellence-award-recipient-302783475.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2988368/Patiient_Safety_Excellnce_Award_2026.jpg?p=facebook",
-    "publishedAt": "2026-05-27T17:44:00Z",
-    "content": "Los Angeles Community Hospitals among top 5% in nation for patient safety\r\nLOS ANGELES, May 27, 2026 /PRNewswire/ -- Los Angeles Community Hospital System with locations in Los Angeles,Norwalk and Be… [+4742 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Futurity: Research News"
-    },
-    "author": "Tufts University",
-    "title": "How to protect kids against ticks this summer",
-    "description": "An expert has answers for parents and caregivers about how to protect kids from ticks as they head outdoors for summer.",
-    "url": "https://www.futurity.org/how-to-protect-kids-from-ticks-3336122/",
-    "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/05/how-to-protect-kids-from-ticks-summer-1600.jpg",
-    "publishedAt": "2026-05-27T17:43:31Z",
-    "content": "An expert has answers for parents and caregivers as children head outdoors during tick season.\r\nSending kids outside for warm-weather activities like camps or youth sports doesn’t need to include tic… [+4758 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "FDA.gov"
-    },
-    "author": "FDA",
-    "title": "Prescription Stimulant Medications",
-    "description": "Information about FDA's work to support appropriate use and address the impact of stimulant-related risks, including misuse, addiction, overdose, and diversion.",
-    "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/prescription-stimulant-medications",
-    "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-    "publishedAt": "2026-05-27T17:39:54Z",
-    "content": "Prescription stimulants are classified as Schedule II drugs under the Controlled Substances Act and associated with serious risks, including misuse, addiction, overdose, and diversion. Stimulants are… [+3568 chars]"
+    "title": "New | phs004559.v1.p1 | Practice Based Opportunities for Weight Reduction Trial at the University of Pennsylvania (POWER_UP_BioLINCC)",
+    "description": "Practice Based Opportunities for Weight Reduction Trial at the University of Pennsylvania (POWER_UP_BioLINCC) (study page\r\n | release notes\r\n)",
+    "url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs004559.v1.p1",
+    "urlToImage": null,
+    "publishedAt": "2026-05-28T08:20:00Z",
+    "content": "Data Access NOTE:Please refer to the “Authorized Access” section below for information about how access to the data from this accession differs from many other dbGaP accessions. \r\nObjectives:The POWE… [+4454 chars]"
   },
   {
     "source": {
@@ -57,206 +109,128 @@
       "name": "Equinechronicle.com"
     },
     "author": "Delores Kuhlwein",
-    "title": "Vet for a Day 2026 with American Veterinary Medical Association",
-    "description": "This summer at #AVMA2026, the AVMA is once again partnering with the Critter Fixers (Drs. Vernard Hodges and Terrence Ferguson) for our annual Vet for a Day event. This half-day workshop gives middle and high school students a first-hand look at the world of …",
-    "url": "http://www.equinechronicle.com/vet-for-a-day-2026-with-american-veterinary-medical-association/",
+    "title": "The Marion duPont Scott Equine Medical Center in Leesburg, Virginia to Host an Open House on June 13",
+    "description": "From The Marion duPont Scott Equine Medical Center in Leesburg, Virginia:   Join us on Saturday, June 13, from 11 a.m. to 3 p.m. for an Open House at the Marion duPont Scott Equine Medical Center. Learn about treatments and therapies that we offer to keep you…",
+    "url": "http://www.equinechronicle.com/the-marion-dupont-scott-equine-medical-center-in-leesburg-virginia-to-host-an-open-house-on-june-13/",
     "urlToImage": null,
-    "publishedAt": "2026-05-27T17:39:18Z",
-    "content": "Image credit: AVMA\r\nThis summer at #AVMA2026, the AVMA is once again partnering with the Critter Fixers (Drs. Vernard Hodges and Terrence Ferguson) for our annual Vet for a Day event. This half-day w… [+469 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Portableapps.com"
-    },
-    "author": "John T. Haller",
-    "title": "Folding@home Portable 8.5.5 (distributed computing project) Released",
-    "description": "A new version of Folding@home Portable has been released. Folding@home is a distributed computing project for simulating protein dynamics, including the process of protein folding and the movements of proteins implicated in a variety of diseases. It's package…",
-    "url": "https://portableapps.com/news/2026-05-27--folding-at-home-portable-8.5.5-released",
-    "urlToImage": null,
-    "publishedAt": "2026-05-27T17:39:09Z",
-    "content": "A new version of Folding@home Portable has been released. Folding@home is a distributed computing project for simulating protein dynamics, including the process of protein folding and the movements o… [+1546 chars]"
+    "publishedAt": "2026-05-28T08:00:18Z",
+    "content": "Photo credit: The Marion duPont Scott Equine Medical Center in Leesburg, Virginia.\r\nFrom The Marion duPont Scott Equine Medical Center in Leesburg, Virginia:\r\nJoin us on Saturday, June 13, from 11 a.… [+3036 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "GlobeNewswire"
     },
-    "author": "Virginia Credit Union",
-    "title": "Virginia Credit Union’s 2026 Scholarship Program Awards $156,500 to 32 Student Members",
-    "description": "Since 1991, VACU Has Provided Almost $2 Million in Scholarships to Aid Members Pursuing a College Degree Since 1991, VACU Has Provided Almost $2 Million in Scholarships to Aid Members Pursuing a College Degree",
-    "url": "https://www.globenewswire.com/news-release/2026/05/27/3302312/0/en/Virginia-Credit-Union-s-2026-Scholarship-Program-Awards-156-500-to-32-Student-Members.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/9f75ca5e-f383-4ec6-b97d-e5fe5b399eb2",
-    "publishedAt": "2026-05-27T17:37:00Z",
-    "content": "RICHMOND, VIRGINIA, May 27, 2026 (GLOBE NEWSWIRE) -- Virginia Credit Union has awarded a total of $156,500 in college scholarships to 32 student members. Thirty students will receive a $5,000 award a… [+6462 chars]"
+    "author": "XL-protein GmbH",
+    "title": "XL‑protein Launches Spin-Off PASylANTA Therapeutics to Develop Long‑Acting IL‑1Ra Biobetters",
+    "description": "Freising, Germany, May 28, 2026 (GLOBE NEWSWIRE) -- XL‑protein GmbH today announced the launch of PASylANTA Therapeutics GmbH, a new Germany-based biotechnology company focused on the development of long‑acting IL‑1 receptor antagonist (IL‑1Ra) therapies to s…",
+    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302548/0/en/XL-protein-Launches-Spin-Off-PASylANTA-Therapeutics-to-Develop-Long-Acting-IL-1Ra-Biobetters.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/93a96b5e-8be6-4690-b297-442ba706e7bf",
+    "publishedAt": "2026-05-28T08:00:00Z",
+    "content": "Freising, Germany, May 28, 2026 (GLOBE NEWSWIRE) -- XLprotein GmbH today announced the launch of PASylANTA Therapeutics GmbH, a new Germany-based biotechnology company focused on the development of l… [+3437 chars]"
   },
   {
     "source": {
-      "id": "associated-press",
-      "name": "Associated Press"
+      "id": "cbc-news",
+      "name": "CBC News"
     },
     "author": null,
-    "title": "The Saffron Solution Spotlights Functional Medicine's Next Growth Challenge At AIC 2026 Conference",
-    "description": "the Saffron Solution will join functional and integrative medicine practitioners at AIC 2026 in San Diego, May 27-30, 2026, at the Manchester Grand Hyatt to discuss how functional medical practices can scale personalized care with a stronger operational techn…",
-    "url": "https://apnews.com/press-release/pr-newswire/the-saffron-solution-spotlights-functional-medicines-next-growth-challenge-at-aic-2026-conference-850fa7bef93e881348a652d08077347a",
-    "urlToImage": "https://dims.apnews.com/dims4/default/c338771/2147483647/strip/true/crop/1536x1023+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F2f%2F05b08e82efe691d87b61c868ee74%2F7f026a123a096c5a69f4b8686e598b02",
-    "publishedAt": "2026-05-27T17:31:50Z",
-    "content": "the Saffron Solution will join functional and integrative medicine practitioners at AIC 2026 in San Diego, May 27-30, 2026, at the Manchester Grand Hyatt to discuss how functional medical practices c… [+5207 chars]"
+    "title": "Hamilton refugee says federal health cuts are forcing him to forgo needed dental care",
+    "description": "A dentist told Sudanese refugee Omer Obiedallah that he'll likely need several procedures to deal with tooth pain. Due to recent federal cuts to refugee healthcare, Obiedallah says he won't be able to afford to follow up. Instead, he says, he will have to wai…",
+    "url": "https://www.cbc.ca/news/canada/hamilton/refugee-cuts-ifhp-9.7209406",
+    "urlToImage": "https://i.cbc.ca/ais/c28d076e-f48c-41c9-943a-6aa708bddfa2,1779892948788/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C77%2C960%2C540%29%3BResize%3D620",
+    "publishedAt": "2026-05-28T08:00:00Z",
+    "content": "When Omer Obiedallah started experiencing rapidly worsening tooth pains this spring, he did what many people would do and booked an appointment with the dentist. \r\nThough he made the appointment in A… [+4966 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Jacquelynclark.com"
+      "name": "GlobeNewswire"
     },
-    "author": "Jacquelyn Clark",
-    "title": "Client Reveal: A Moody Little Powder Room That Packs a Punch",
-    "description": "Truthfully, the original powder room in this home was perfectly fine. It had lovely wallpaper, it functioned well enough, and on paper there was no glaring reason to touch it. But once we began reworking the entire main floor layout, relocating it suddenly ma…",
-    "url": "https://jacquelynclark.com/2026/05/27/moody-powder-room-design/",
-    "urlToImage": "https://jacquelynclark.com/wp-content/uploads/2026/04/Powder-Room-before-scaled.jpg",
-    "publishedAt": "2026-05-27T17:30:09Z",
-    "content": "Truthfully, the original powder room in this home was perfectly fine. It had lovely wallpaper, it functioned well enough, and on paper there was no glaring reason to touch it. But once we began rewor… [+1237 chars]"
+    "author": "Anaveon",
+    "title": "Anaveon Reports Clinical Benefit of ANV600 in the EXPAND-1 Phase 1 Clinical Trial at ASCO 2026 and Actively Seeks Partners for its Legacy Oncology Portfolio",
+    "description": "Anaveon reports Clinical Benefit of ANV600 in the EXPAND-1 Phase 1 Clinical Trial at ASCO 2026 & actively seeks Partners for its Legacy Oncology Portfolio.",
+    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302549/0/en/Anaveon-Reports-Clinical-Benefit-of-ANV600-in-the-EXPAND-1-Phase-1-Clinical-Trial-at-ASCO-2026-and-Actively-Seeks-Partners-for-its-Legacy-Oncology-Portfolio.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/376f71da-1a19-4a9a-bb0a-5d12feb63780",
+    "publishedAt": "2026-05-28T08:00:00Z",
+    "content": "BASEL, Switzerland, May 28, 2026 (GLOBE NEWSWIRE) -- Anaveon, a late-stage preclinical biotechnology company focused on reprogramming the immune system for the treatment of autoimmune and inflammator… [+5732 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Yale.edu"
+      "name": "Pypi.org"
     },
-    "author": "news@yale.edu (Yale News)",
-    "title": "Joint preservation, biologics, and educating future sports medicine leaders",
-    "description": "The sports medicine fellowship at Yale continues to define the future of orthopedic care with a new focus on joint preservation and the evolving role of biologics. Drawing on a diverse international medical background and deep technical curiosity, Harrison Vo…",
-    "url": "https://medicine.yale.edu/news-article/sports-medicine-fellowship-harrison-volaski/",
-    "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/f0df76c5-88b0-4f04-9ab6-b2547e016c17",
-    "publishedAt": "2026-05-27T17:25:18Z",
-    "content": "The sports medicine fellowship at Yale continues to define the future of orthopedic care with a new focus on joint preservation and the evolving role of biologics. \r\nDrawing on a diverse internationa… [+2174 chars]"
+    "author": "durozlikovski@gmail.com, christian.margreitter@gmail.com, melanie.grandits@univie.ac.at, chris.oostenbrink@boku.ac.at, bojan.zagrovich@univie.ac.at",
+    "title": "ptm-parameters added to PyPI",
+    "description": "GROMOS force field parameters for protein post-translational modifications.",
+    "url": "https://pypi.org/project/ptm-parameters/",
+    "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+    "publishedAt": "2026-05-28T07:56:50Z",
+    "content": "The original set of parameters was published under CC BY 4.0 for GROMOS 45A3 and 54A7 parameter sets, compatible with the GROMACS molecular simulation package.This repository includes the original se… [+1193 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Eshcarmel.org"
+      "name": "Space Daily"
     },
-    "author": "Tom44",
-    "title": "Nutrition Tips for Improving the Function of Every Cell in Your Body - Get Fit",
-    "description": "Nutrition Tips for Improving the Function of Every Cell in Your Body - Get Fiteshcarmel.org",
-    "url": "http://getfit.eshcarmel.org/nutrition-tips-for-improving-the-function-of-every-cell-in-your-body/",
-    "urlToImage": "http://getfit.eshcarmel.org/wp-content/uploads/2026/05/spirulina-health-benefits.jpg",
-    "publishedAt": "2026-05-27T17:22:43Z",
-    "content": "Your body is less like a machine and more like a bustling city of microscopic citizens.\r\nRoughly 30 trillion cells wake up every day ready to build muscle, repair tissue, produce energy, fight invade… [+6406 chars]"
+    "author": "Space Daily Editorial Team",
+    "title": "In 2018, a Chinese biophysicist announced he had gene-edited twin girls using CRISPR. The scientific consensus is that what he actually did was something else",
+    "description": "On 25 November 2018, two days before an international summit on human genome editing was due to open in Hong Kong, the MIT Technology Review broke the story that a Chinese biophysicist, He Jiankui, had used CRISPR-Cas9 to edit the genomes of human embryos and…",
+    "url": "https://spacedaily.com/d-in-2018-a-chinese-biophysicist-announced-he-had-gene-edited-twin-girls-using-crispr-the-scientific-consensus-is-that-what-he-actually-did-was-something-else/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/05/Posts-1600840-2026-05-28T132130.210.png",
+    "publishedAt": "2026-05-28T07:45:41Z",
+    "content": "On 25 November 2018, two days before an international summit on human genome editing was due to open in Hong Kong, the MIT Technology Review broke the story that a Chinese biophysicist, He Jiankui, h… [+7698 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Princeton University"
+      "name": "The Indian Express"
     },
-    "author": "Liz Fuller-Wright, Office of Communications",
-    "title": "Simon Levin elected to Royal Society",
-    "description": "Levin, Princeton's James S. McDonnell Distinguished University Professor in Ecology and Evolutionary Biology at Princeton University, is among the 93 scientists around the world named fellows of the Royal Society.",
-    "url": "https://www.princeton.edu/news/2026/05/27/simon-levin-elected-royal-society",
-    "urlToImage": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2026/05/20260511_LevineS__DJA_003.jpg?itok=fjdDeIZ5",
-    "publishedAt": "2026-05-27T17:21:26Z",
-    "content": "Simon Levin, Princeton Universitys James S. McDonnell Distinguished University Professor in Ecology and Evolutionary Biology, has been elected as a fellow of the United Kingdoms Royal Society, a scho… [+4794 chars]"
+    "author": "Dr Rommel Tickoo",
+    "title": "My patient had high Vitamin B12 levels and fatty liver: Why high vitamin levels are clues to diseases",
+    "description": "Don’t be happy with a persistently elevated B12 level in your blood report. It can indicate liver disease, blood cancers, kidney dysfunction or chronic inflammation",
+    "url": "https://indianexpress.com/article/health-wellness/fatty-liver-vitamin-b12-patient-kidney-diseases-cancer-health-10711988/",
+    "urlToImage": "https://images.indianexpress.com/2026/05/fatty-liver-patient.jpg",
+    "publishedAt": "2026-05-28T07:32:38Z",
+    "content": "A 52-year-old businessman underwent a routine health evaluation after complaining of persistent fatigue, reduced stamina and abdominal heaviness that had gradually worsened over several months. He wa… [+4799 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "FDA.gov"
+      "name": "GlobeNewswire"
     },
-    "author": "FDA",
-    "title": "Frequently Asked Questions | Clozapine REMS Modification",
-    "description": "The Clozapine REMS is a shared system REMS for all approved clozapine products.",
-    "url": "https://www.fda.gov/drugs/risk-evaluation-and-mitigation-strategies-rems/frequently-asked-questions-clozapine-rems-modification",
-    "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-    "publishedAt": "2026-05-27T17:16:03Z",
-    "content": "Latest Update\r\nFebruary 24, 2025 - Beginning today, FDA does not expect prescribers, pharmacies, and patients to participate in the risk evaluation and mitigation strategies (REMS) program for clozap… [+5785 chars]"
+    "author": "Synklino",
+    "title": "Synklino announces first patient dosed in Phase 1 trial of SYN002 for CMV prevention in kidney transplantation",
+    "description": "Synklino announces treatment of first patient in Phase 1 trial of SYN002 for CMV prevention in kidney transplantation. ...",
+    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302535/0/en/Synklino-announces-first-patient-dosed-in-Phase-1-trial-of-SYN002-for-CMV-prevention-in-kidney-transplantation.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/339f86f2-49a0-4d86-ad0d-d6ee8e7e69b2",
+    "publishedAt": "2026-05-28T07:30:00Z",
+    "content": "<ul><li>Study to evaluate the safety and exploratory efficacy of SYN002 in recipients of human cytomegalovirus (CMV) positive donor kidneys, and to monitor for viral reactivation over the six months … [+6285 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "FDA.gov"
+      "id": "next-big-future",
+      "name": "Next Big Future"
     },
-    "author": "FDA",
-    "title": "Information on Clozapine",
-    "description": "Clozapine (marketed as Clozaril, Fazaclo ODT, Versacloz and generics) is an antipsychotic medicine used to treat schizophrenia in patients whose symptoms are not controlled with standard antipsychotic drugs. Clozapine is also used in patients with recurrent s…",
-    "url": "https://www.fda.gov/drugs/risk-evaluation-and-mitigation-strategies-rems/information-clozapine",
-    "urlToImage": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-    "publishedAt": "2026-05-27T17:15:16Z",
-    "content": "Latest Update\r\nFebruary 24, 2025 - Beginning today, FDA does not expect prescribers, pharmacies, and patients to participate in the risk evaluation and mitigation strategies (REMS) program for clozap… [+5642 chars]"
+    "author": "Brian Wang",
+    "title": "Elon and SpaceX Have Made AI Training 10 Times Faster",
+    "description": "Elon is saying SpaceX built its own super-optimized AI training software from scratch in the C programming language. It is 10 times faster than Google JAX framework. It’s designed to run on a massive cluster of 220,000 cutting-edge NVIDIA GB300 GPUs connected…",
+    "url": "https://www.nextbigfuture.com/2026/05/elon-and-spacex-have-made-ai-training-10-times-faster.html",
+    "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/05/Screenshot-2026-05-28-at-12.25.54-AM.jpg",
+    "publishedAt": "2026-05-28T07:26:13Z",
+    "content": "Elon is saying SpaceX built its own super-optimized AI training software from scratch in the C programming language. It is 10 times faster than Google JAX framework.\r\nIt’s designed to run on a massiv… [+4298 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Cassidy Morrison",
-    "title": "Every time I drank a soda it triggered the red flag symptom of cancer that's surging in young people. It seems so innocuous... I wish I'd known",
-    "description": "It was a seemingly innocuous symptom that just about everyone suffers from time to time. But after being dismissed by doctors, John Beck finally learned the cause: a deadly form of cancer.",
-    "url": "https://www.dailymail.com/health/article-15838907/hiccups-symptom-cancer-neck-hormones.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/21/21/108787165-0-image-m-35_1779395260406.jpg",
-    "publishedAt": "2026-05-27T17:12:47Z",
-    "content": "It was a seemingly innocuous symptom that just about everyone suffers from time to time.\r\nBut for John Beck, hiccups became a relentless, almost life-ruining two-year affliction.\r\nAt points, the Cali… [+10358 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
+      "name": "Pypi.org"
     },
     "author": null,
-    "title": "Uncommon Productions Wins Five Telly Awards for 'Cracking the Code: Phil Sharp and the Biotech Revolution'",
-    "description": "Documentary Earns Gold and Four Silver Awards at the 47th Annual Telly Awards, Including Gold for General Documentary BOSTON, May 27, 2026 /PRNewswire/ -- Uncommon Productions announced today that its documentary Cracking the Code: Phil Sharp and the Biotech …",
-    "url": "https://www.prnewswire.com/news-releases/uncommon-productions-wins-five-telly-awards-for-cracking-the-code-phil-sharp-and-the-biotech-revolution-302783438.html",
-    "urlToImage": "https://i.ytimg.com/vi/ruJdHTUcCLc/hqdefault.jpg",
-    "publishedAt": "2026-05-27T17:12:00Z",
-    "content": "Documentary Earns Gold and Four Silver Awards at the 47th Annual Telly Awards, Including Gold for General Documentary\r\nBOSTON, May 27, 2026 /PRNewswire/ -- Uncommon Productions announced today that i… [+3151 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Food Lyophilisation Equipment Market to Hit USD 1.57 Billion by 2030 -- Wissen Research Identifies Key Growth Drivers and Investment Opportunities",
-    "description": "SHERIDAN, Wyo., May 27, 2026 /PRNewswire/ -- The global food lyophilisation equipment market is projected to grow from USD 1.16 billion in 2025 to USD 1.57 billion by 2030, registering a CAGR of 6.2% during the forecast period (2026–2030), according to a new …",
-    "url": "https://www.prnewswire.com/news-releases/food-lyophilisation-equipment-market-to-hit-usd-1-57-billion-by-2030--wissen-research-identifies-key-growth-drivers-and-investment-opportunities-302783440.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2971885/Wissen_Research_Logo.jpg?p=facebook",
-    "publishedAt": "2026-05-27T17:12:00Z",
-    "content": "SHERIDAN, Wyo., May 27, 2026 /PRNewswire/ -- The global food lyophilisation equipment market is projected to grow from USD 1.16 billion in 2025 to USD 1.57 billion by 2030, registering a CAGR of 6.2%… [+14469 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Yalemedicine.org"
-    },
-    "author": "news@yale.edu (Yale News)",
-    "title": "Microdosing GLP-1 and Accutane: What does it mean — and does it work?",
-    "description": "Lower-than-approved doses of GLP-1 medications and isotretinoin (Accutane) are trending on social media. Yale Medicine experts discuss safety, effectiveness, and who may—or may not—be appropriate&nbsp;candidates.",
-    "url": "https://www.yalemedicine.org/news/microdosing-glp-1-and-accutane-what-does-it-meanand-does-it-work",
-    "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_810,q_auto,w_1440/v1/yms/prod/54604bf0-b0f2-44c4-aa8f-f2b3f38dc9ba",
-    "publishedAt": "2026-05-27T17:07:24Z",
-    "content": "GLP-1 receptor agonists, such as semaglutide (sold under the brand name Ozempic or Wegovy) and tirzepatide (brand name Mounjaro or Zepbound), are medications originally developed for diabetes and now… [+1271 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Kevinmd.com"
-    },
-    "author": "Gerald Kuo",
-    "title": "5 principles for protecting physician reputation",
-    "description": "Health care workers understand the power of a record. One sentence in a medical chart can follow a patient for years. A diagnosis, a risk label, or a preliminary impression may shape how future clinicians see that person. That is why we are taught to document…",
-    "url": "https://kevinmd.com/2026/05/5-principles-for-protecting-physician-reputation.html",
-    "urlToImage": "https://kevinmd.com/wp-content/uploads/1c75e028-f5ba-4f3c-b877-96f82447a88f.png",
-    "publishedAt": "2026-05-27T17:00:59Z",
-    "content": "Health care workers understand the power of a record.\r\nOne sentence in a medical chart can follow a patient for years. A diagnosis, a risk label, or a preliminary impression may shape how future clin… [+8473 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Screen Rant"
-    },
-    "author": "Nicolas Ayala",
-    "title": "Marvel Permanently Kills Off Powerful Hero After 26 Years",
-    "description": "Marvel reveals the tragic death of a superhero's closest ally, whose tragic demise may kick off a chain of events that might doom his world.",
-    "url": "https://screenrant.com/sentry-watchdog-death-void/",
-    "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/bob-reynolds-aka-sentry-is-partly-taken-over-by-the-void.jpg?w=1600&h=900&fit=crop",
-    "publishedAt": "2026-05-27T17:00:20Z",
-    "content": "One extremely powerful hero's story changes drastically as Marvelkills off his loved one, to potentially catastrophic results for the world. Beyond standard accelerated healing, characters like Deadp… [+4758 chars]"
+    "title": "kawow 0.1.6",
+    "description": "Models for partitioning coefficients (logKow, logKoa and logKaw) from molecular structure, including model based on [Naef & Acree 2024](https://doi.org/10.3390/liquids4010011)",
+    "url": "https://pypi.org/project/kawow/0.1.6/",
+    "urlToImage": null,
+    "publishedAt": "2026-05-28T07:19:45Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   }
 ]
