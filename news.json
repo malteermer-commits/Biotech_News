@@ -2,80 +2,80 @@
   {
     "source": {
       "id": null,
-      "name": "STAT"
+      "name": "Hackaday"
     },
-    "author": "Andrew Joseph",
-    "title": "Experimental hepatitis B treatment was a ‘functional cure’ for nearly 1 in 5",
-    "description": "An experimental GSK drug helped 1 in 5 patients with chronic hepatitis B achieve what's known as a functional cure, vastly outpacing current treatments.",
-    "url": "https://www.statnews.com/2026/05/28/hepatitis-b-treatment-gsk-clinical-trials/",
-    "urlToImage": "https://www.statnews.com/wp-content/uploads/2025/09/Hep-b-1024x576.jpg",
-    "publishedAt": "2026-05-28T08:36:02Z",
-    "content": "An experimental medicine helped vanquish hepatitis B in clinical trials in nearly 1 in 5 people with chronic infections caused by the virus, far outperforming available treatment options in an illnes… [+743 chars]"
+    "author": "Bryan Cockfield",
+    "title": "Medication Reminder Uses Only One Button",
+    "description": "As anyone who takes medicines regularly will attest to, the days have a tendency to blur together, making it hard to remember if you did something like take that day’s dose or not. There are …",
+    "url": "https://hackaday.com/2026/05/29/medication-reminder-uses-only-one-button/",
+    "urlToImage": "https://hackaday.com/wp-content/uploads/2026/05/medminder-main.jpeg",
+    "publishedAt": "2026-05-29T08:00:59Z",
+    "content": "As anyone who takes medicines regularly will attest to, the days have a tendency to blur together, making it hard to remember if you did something like take that day’s dose or not. There are plenty o… [+1406 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PEOPLE"
+      "name": "The Punch"
     },
-    "author": "Google News",
-    "title": "American Doctor in DR Congo Tests Positive for Ebola as U.S. Announces Travel Restrictions - AOL.com",
-    "description": "A medical missionary has tested positive for Ebola, according to an international aid group, as the U.S. announces travel restrictions",
-    "url": "https://people.com/ebola-american-doctor-tests-positive-cdc-restricts-travel-11977724",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/D80EFEFDB5A8278D62903CAA9D1EDA5F9123A2C4CD419608E393559DCAE28E3D/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_people_articles_471%2F1f6e5647789805f74646fc9891a71acf",
-    "publishedAt": "2026-05-28T08:35:40Z",
-    "content": "<ul><li>Dr. Peter Stafford, an American missionary working in the Democratic Republic of Congo, tested positive for Ebola after treating patients\r\n</li><li>The CDC announced travel restrictions for n… [+3845 chars]"
+    "author": "Punch Newspapers",
+    "title": "Italy urges EU border coordination over Ebola outbreak",
+    "description": "Italy’s PM Giorgia Meloni calls for enhanced EU border coordination and surveillance due to the ongoing Ebola outbreak in DRC and Uganda.\n\nRead More: https://punchng.com/italy-urges-eu-border-coordination-over-ebola-outbreak/",
+    "url": "https://punchng.com/italy-urges-eu-border-coordination-over-ebola-outbreak/",
+    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/11/22230352/WhatsApp-Image-2025-11-22-at-23.01.22.jpeg",
+    "publishedAt": "2026-05-29T07:59:56Z",
+    "content": "Italian Prime Minister Giorgia Meloni has asked the EU for stricter border controls because of the Ebola outbreak in the Democratic Republic of Congo and Uganda, the government said Friday.\r\nThe lett… [+1349 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Space Daily"
-    },
-    "author": "Space Daily Editorial Team",
-    "title": "When a Scottish sheep named Dolly was born on July 5, 1996 — cloned from a single cell taken from the udder of a six-year-old Finn Dorset ewe — she became the first mammal ever produced from an adult body cell, proving something developmental biologists had spent decades insisting was impossible",
-    "description": "On 5 July 1996, in a barn at the Roslin Institute outside Edinburgh, a Finn Dorset lamb was born to a Scottish Blackface surrogate ewe. The lamb was given the laboratory code 6LL3. According to Retro Report’s interview transcript with the original team, it wa…",
-    "url": "https://spacedaily.com/d-when-a-scottish-sheep-named-dolly-was-born-on-july-5-1996-cloned-from-a-single-cell-taken-from-the-udder-of-a-six-year-old-finn-dorset-ewe-she-became-the-first-mammal-ever-produce/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/05/Posts-1600840-2026-05-28T124055.287.png",
-    "publishedAt": "2026-05-28T08:30:54Z",
-    "content": "On 5 July 1996, in a barn at the Roslin Institute outside Edinburgh, a Finn Dorset lamb was born to a Scottish Blackface surrogate ewe. The lamb was given the laboratory code 6LL3. According to Retro… [+6836 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Science Daily"
+      "name": "Pypi.org"
     },
     "author": null,
-    "title": "A New York cemetery was hiding 5.5 million bees underground",
-    "description": "A casual walk through an Ithaca cemetery led to the discovery of a gigantic hidden bee population — roughly 5.5 million ground-nesting bees packed beneath the soil. Scientists believe it may be one of the largest bee aggregations ever documented and say the i…",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260527023218.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/andrena-regularis-bee-east-lawn-cemetery.webp",
-    "publishedAt": "2026-05-28T08:29:31Z",
-    "content": "Rachel Fordyce used to save money by parking at Ithaca's East Hill Plaza and walking through East Lawn Cemetery on her way to work at a Cornell University entomology lab. During one walk in the sprin… [+6347 chars]"
+    "title": "molcrafts-molrs 0.0.17",
+    "description": "Python bindings for molrs molecular simulation library",
+    "url": "https://pypi.org/project/molcrafts-molrs/0.0.17/",
+    "urlToImage": null,
+    "publishedAt": "2026-05-29T07:59:49Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
+      "id": null,
+      "name": "Sciencebasedmedicine.org"
     },
-    "author": "estewart@insider.com (Emily Stewart)",
-    "title": "The internet's cortisol freakout was causing my cortisol to spike. So I talked to a doctor.",
-    "description": "People say cortisol spikes are responsible for poor sleep, weight gain, and more. I asked doctors whether cortisol really is a wellness boogeyman.",
-    "url": "https://www.businessinsider.com/cortisol-spike-doctor-advice-sleep-weight-mood-health-instagram-2026-5",
-    "urlToImage": "https://i.insider.com/6a1741e72ab5f9757add50e3?width=1200&format=jpeg",
-    "publishedAt": "2026-05-28T08:24:01Z",
-    "content": "Your cortisol is probably fine. I mean, I'm not a doctor, and if you're concerned, you should get yourself checked out. But the people on Instagram and TikTok telling you to be Very Worried about you… [+10506 chars]"
+    "author": "Jonathan Howard",
+    "title": "MAHA Fluffers Claimed MAHA Doctors Would “Restore Lost Trust.” I Disagreed. Who Turned Out to be Right?",
+    "description": "The COVID Amnesia Project has seamlessly morphed into the MAHA Amnesia Project, and it’s up to us not to forget the sheltered sycophants and enablers whose enthusiastic support of the pandemic’s worst disinformation superspreaders led to this sad moment.\nThe …",
+    "url": "https://sciencebasedmedicine.org/maha-fluffers/",
+    "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2026/05/image-11.png",
+    "publishedAt": "2026-05-29T07:40:00Z",
+    "content": "“Restoring Trust in Public Health”\r\nFrom declaring that we had herd immunity 5 years-ago to claims that immunity to COVID was “probably lifelong“, MAHA doctors made an overwhelming number of preposte… [+9593 chars]"
   },
   {
     "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
+      "id": null,
+      "name": "LADbible"
     },
-    "author": "PTI",
-    "title": "Right to trauma care of citizens integral part of right to life, Supreme Court says",
-    "description": "The Supreme Court has asked all states and Union Territories to launch a unified helpline, 112, for emergency responses. A functional system for addressing good samaritan grievances will also be established. These crucial measures for trauma care, deemed a fu…",
-    "url": "https://economictimes.indiatimes.com/news/india/right-to-trauma-care-of-citizens-integral-part-of-right-to-life-supreme-court-says/articleshow/131366118.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-131366201,width-1200,height-630,imgsize-251072,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-05-28T08:21:46Z",
-    "content": "New Delhi: Observing that right to trauma care of citizens is an integral part of right to life, the Supreme Court has asked all states and Union territories to operationalise within three months one… [+3714 chars]"
+    "author": "Jess Battison",
+    "title": "'Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled",
+    "description": "It could lead to serious side effects",
+    "url": "https://www.ladbible.com/news/uk-news/ramipril-high-blood-pressure-medicine-tablets-recall-937513-20260529",
+    "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc0cc36599a0d73f2/6a1939c3880c48578ccaf6b5/blood-pressure-meds.png",
+    "publishedAt": "2026-05-29T07:24:41Z",
+    "content": "The Medicines and Healthcare products Regulatory Agency (MHRA) has issue an urgent warning after an error was made.\r\nCrescent Pharma Limited make the ramipril 2.5mg capsules which is a widely prescri… [+2404 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": null,
+    "title": "First-in-Class Hepatitis B Drug Shows Promise for 'Functional Cure' in Early Trials",
+    "description": "An experimental new treatment for chronic hepatitis B is raising hopes for what researchers call a potential \"functional cure,\" a milestone that could change how the viral liver disease is managed in the future.",
+    "url": "https://www.medicaldaily.com/first-class-hepatitis-b-drug-shows-promise-functional-cure-early-trials-475468",
+    "urlToImage": "https://d.medicaldaily.com/en/full/482533/first-class-hepatitis-b-drug-shows-promise-functional-cure.jpg",
+    "publishedAt": "2026-05-29T07:22:30Z",
+    "content": "An experimental new treatment for chronic hepatitis B is raising hopes for what researchers call a potential \"functional cure,\" a milestone that could change how the viral liver disease is managed in… [+2692 chars]"
   },
   {
     "source": {
@@ -83,142 +83,64 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Aphranel® MagiCCrystal CaHA Filler Achieves EU MDR Certification as a Premium Regenerative Injectable",
-    "description": "SHANGHAI, May 28, 2026 /PRNewswire/ -- Moyom Biotechnology announced that its premium regenerative aesthetics product, Aphranel® MagiCCrystal CaHA Filler officially achieved European Union Medical Device Regulation (EU MDR) certification on May 18, 2026, unde…",
-    "url": "https://www.prnewswire.com/news-releases/aphranel-magiccrystal-caha-filler-achieves-eu-mdr-certification-as-a-premium-regenerative-injectable-302784208.html",
+    "title": "Qiming Venture Partners Managing Partner Alex Zhou Named to 2026 Forbes Midas List",
+    "description": "SHANGHAI, May 29, 2026 /PRNewswire/ -- Forbes has released its 2026 Midas List, the definitive ranking of the world's top venture capital investors. Alex Zhou, Managing Partner at Qiming Venture Partners, debuts at No. 80, recognizing his track record as a le…",
+    "url": "https://www.prnewswire.com/news-releases/qiming-venture-partners-managing-partner-alex-zhou-named-to-2026-forbes-midas-list-302785453.html",
     "urlToImage": null,
-    "publishedAt": "2026-05-28T08:21:00Z",
-    "content": "SHANGHAI, May 28, 2026 /PRNewswire/ -- Moyom Biotechnology announced that its premium regenerative aesthetics product, Aphranel® MagiCCrystal CaHA Filler officially achieved European Union Medical De… [+4310 chars]"
+    "publishedAt": "2026-05-29T07:21:00Z",
+    "content": "SHANGHAI, May 29, 2026 /PRNewswire/ -- Forbes has released its 2026 Midas List, the definitive ranking of the world's top venture capital investors. Alex Zhou, Managing Partner at Qiming Venture Part… [+6046 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "National Institutes of Health"
+      "name": "Israelnationalnews.com"
     },
-    "author": null,
-    "title": "New | phs004559.v1.p1 | Practice Based Opportunities for Weight Reduction Trial at the University of Pennsylvania (POWER_UP_BioLINCC)",
-    "description": "Practice Based Opportunities for Weight Reduction Trial at the University of Pennsylvania (POWER_UP_BioLINCC) (study page\r\n | release notes\r\n)",
-    "url": "https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs004559.v1.p1",
-    "urlToImage": null,
-    "publishedAt": "2026-05-28T08:20:00Z",
-    "content": "Data Access NOTE:Please refer to the “Authorized Access” section below for information about how access to the data from this accession differs from many other dbGaP accessions. \r\nObjectives:The POWE… [+4454 chars]"
+    "author": "Israel National News",
+    "title": "Israeli research provides definitive safety data on painkiller use during pregnancy",
+    "description": "Studies from Ben-Gurion University of the Negev (BGU), based on analysis of over 264,000 pregnancies, show NSAIDs safe in early pregnancy, confirm safe use of paracetamol.",
+    "url": "https://www.israelnationalnews.com/news/427800",
+    "urlToImage": "https://2.a7.org/files/pictures/000/1056463.jpg",
+    "publishedAt": "2026-05-29T07:18:00Z",
+    "content": "New research from Ben-Gurion University of the Negev (BGU) is offering much-needed clarity to pregnant women worldwide regarding the safety of common painkillers.\r\nA large-scale data analysis of over… [+5406 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Equinechronicle.com"
+      "name": "Dailymail.com"
     },
-    "author": "Delores Kuhlwein",
-    "title": "The Marion duPont Scott Equine Medical Center in Leesburg, Virginia to Host an Open House on June 13",
-    "description": "From The Marion duPont Scott Equine Medical Center in Leesburg, Virginia:   Join us on Saturday, June 13, from 11 a.m. to 3 p.m. for an Open House at the Marion duPont Scott Equine Medical Center. Learn about treatments and therapies that we offer to keep you…",
-    "url": "http://www.equinechronicle.com/the-marion-dupont-scott-equine-medical-center-in-leesburg-virginia-to-host-an-open-house-on-june-13/",
-    "urlToImage": null,
-    "publishedAt": "2026-05-28T08:00:18Z",
-    "content": "Photo credit: The Marion duPont Scott Equine Medical Center in Leesburg, Virginia.\r\nFrom The Marion duPont Scott Equine Medical Center in Leesburg, Virginia:\r\nJoin us on Saturday, June 13, from 11 a.… [+3036 chars]"
+    "author": "Ciaran Foreman",
+    "title": "Health chiefs issue urgent alert about blood pressure medication taken by three million Britons: 'Check pack immediately'",
+    "description": "Packs of a popular blood pressure medication are being urgently recalled by health chiefs over patient safety concerns.",
+    "url": "https://www.dailymail.com/health/article-15857837/Health-chiefs-issue-urgent-alert-blood-pressure-medication-taken-three-million-Britons-Check-pack-immediately.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/05/29/08/108950415-0-image-m-14_1780038738780.jpg",
+    "publishedAt": "2026-05-29T07:14:18Z",
+    "content": "Packs of a popular blood pressure medication are being urgently recalled by health chiefs over patient safety concerns. \r\nRamipril - prescribed to around 3million Britons every year - is a medicine u… [+2601 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "GlobeNewswire"
+      "name": "DW (English)"
     },
-    "author": "XL-protein GmbH",
-    "title": "XL‑protein Launches Spin-Off PASylANTA Therapeutics to Develop Long‑Acting IL‑1Ra Biobetters",
-    "description": "Freising, Germany, May 28, 2026 (GLOBE NEWSWIRE) -- XL‑protein GmbH today announced the launch of PASylANTA Therapeutics GmbH, a new Germany-based biotechnology company focused on the development of long‑acting IL‑1 receptor antagonist (IL‑1Ra) therapies to s…",
-    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302548/0/en/XL-protein-Launches-Spin-Off-PASylANTA-Therapeutics-to-Develop-Long-Acting-IL-1Ra-Biobetters.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/93a96b5e-8be6-4690-b297-442ba706e7bf",
-    "publishedAt": "2026-05-28T08:00:00Z",
-    "content": "Freising, Germany, May 28, 2026 (GLOBE NEWSWIRE) -- XLprotein GmbH today announced the launch of PASylANTA Therapeutics GmbH, a new Germany-based biotechnology company focused on the development of l… [+3437 chars]"
-  },
-  {
-    "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
-    },
-    "author": null,
-    "title": "Hamilton refugee says federal health cuts are forcing him to forgo needed dental care",
-    "description": "A dentist told Sudanese refugee Omer Obiedallah that he'll likely need several procedures to deal with tooth pain. Due to recent federal cuts to refugee healthcare, Obiedallah says he won't be able to afford to follow up. Instead, he says, he will have to wai…",
-    "url": "https://www.cbc.ca/news/canada/hamilton/refugee-cuts-ifhp-9.7209406",
-    "urlToImage": "https://i.cbc.ca/ais/c28d076e-f48c-41c9-943a-6aa708bddfa2,1779892948788/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C77%2C960%2C540%29%3BResize%3D620",
-    "publishedAt": "2026-05-28T08:00:00Z",
-    "content": "When Omer Obiedallah started experiencing rapidly worsening tooth pains this spring, he did what many people would do and booked an appointment with the dentist. \r\nThough he made the appointment in A… [+4966 chars]"
+    "author": "Sarah Steffen",
+    "title": "Superbug crisis: How drugs that cure you end up in rivers, soils",
+    "description": "Pharmaceuticals have been found in waterways almost everywhere in the world, fueling antibiotic-resistant superbugs that don't respond to treatment anymore. Is there a way out? At 25, Vanessa Carter was in a devastating car crash in Johannesburg. It broke eve…",
+    "url": "https://www.dw.com/en/the-rise-of-drug-resistant-superbugs-solutions-medication-overuse-misuse-antimicrobial-resistance/a-77172236",
+    "urlToImage": "https://static.dw.com/image/67502141_6.jpg",
+    "publishedAt": "2026-05-29T07:01:00Z",
+    "content": "At 25, Vanessa Carter was in a devastating car crash in Johannesburg. It broke every bone on the right side of her face, and set her on a years-long journey through multiple reconstructive surgeries.… [+7314 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "GlobeNewswire"
+      "name": "Hindustan Times"
     },
-    "author": "Anaveon",
-    "title": "Anaveon Reports Clinical Benefit of ANV600 in the EXPAND-1 Phase 1 Clinical Trial at ASCO 2026 and Actively Seeks Partners for its Legacy Oncology Portfolio",
-    "description": "Anaveon reports Clinical Benefit of ANV600 in the EXPAND-1 Phase 1 Clinical Trial at ASCO 2026 & actively seeks Partners for its Legacy Oncology Portfolio.",
-    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302549/0/en/Anaveon-Reports-Clinical-Benefit-of-ANV600-in-the-EXPAND-1-Phase-1-Clinical-Trial-at-ASCO-2026-and-Actively-Seeks-Partners-for-its-Legacy-Oncology-Portfolio.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/376f71da-1a19-4a9a-bb0a-5d12feb63780",
-    "publishedAt": "2026-05-28T08:00:00Z",
-    "content": "BASEL, Switzerland, May 28, 2026 (GLOBE NEWSWIRE) -- Anaveon, a late-stage preclinical biotechnology company focused on reprogramming the immune system for the treatment of autoimmune and inflammator… [+5732 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "durozlikovski@gmail.com, christian.margreitter@gmail.com, melanie.grandits@univie.ac.at, chris.oostenbrink@boku.ac.at, bojan.zagrovich@univie.ac.at",
-    "title": "ptm-parameters added to PyPI",
-    "description": "GROMOS force field parameters for protein post-translational modifications.",
-    "url": "https://pypi.org/project/ptm-parameters/",
-    "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-    "publishedAt": "2026-05-28T07:56:50Z",
-    "content": "The original set of parameters was published under CC BY 4.0 for GROMOS 45A3 and 54A7 parameter sets, compatible with the GROMACS molecular simulation package.This repository includes the original se… [+1193 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Space Daily"
-    },
-    "author": "Space Daily Editorial Team",
-    "title": "In 2018, a Chinese biophysicist announced he had gene-edited twin girls using CRISPR. The scientific consensus is that what he actually did was something else",
-    "description": "On 25 November 2018, two days before an international summit on human genome editing was due to open in Hong Kong, the MIT Technology Review broke the story that a Chinese biophysicist, He Jiankui, had used CRISPR-Cas9 to edit the genomes of human embryos and…",
-    "url": "https://spacedaily.com/d-in-2018-a-chinese-biophysicist-announced-he-had-gene-edited-twin-girls-using-crispr-the-scientific-consensus-is-that-what-he-actually-did-was-something-else/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/05/Posts-1600840-2026-05-28T132130.210.png",
-    "publishedAt": "2026-05-28T07:45:41Z",
-    "content": "On 25 November 2018, two days before an international summit on human genome editing was due to open in Hong Kong, the MIT Technology Review broke the story that a Chinese biophysicist, He Jiankui, h… [+7698 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Indian Express"
-    },
-    "author": "Dr Rommel Tickoo",
-    "title": "My patient had high Vitamin B12 levels and fatty liver: Why high vitamin levels are clues to diseases",
-    "description": "Don’t be happy with a persistently elevated B12 level in your blood report. It can indicate liver disease, blood cancers, kidney dysfunction or chronic inflammation",
-    "url": "https://indianexpress.com/article/health-wellness/fatty-liver-vitamin-b12-patient-kidney-diseases-cancer-health-10711988/",
-    "urlToImage": "https://images.indianexpress.com/2026/05/fatty-liver-patient.jpg",
-    "publishedAt": "2026-05-28T07:32:38Z",
-    "content": "A 52-year-old businessman underwent a routine health evaluation after complaining of persistent fatigue, reduced stamina and abdominal heaviness that had gradually worsened over several months. He wa… [+4799 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Synklino",
-    "title": "Synklino announces first patient dosed in Phase 1 trial of SYN002 for CMV prevention in kidney transplantation",
-    "description": "Synklino announces treatment of first patient in Phase 1 trial of SYN002 for CMV prevention in kidney transplantation. ...",
-    "url": "https://www.globenewswire.com/news-release/2026/05/28/3302535/0/en/Synklino-announces-first-patient-dosed-in-Phase-1-trial-of-SYN002-for-CMV-prevention-in-kidney-transplantation.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/339f86f2-49a0-4d86-ad0d-d6ee8e7e69b2",
-    "publishedAt": "2026-05-28T07:30:00Z",
-    "content": "<ul><li>Study to evaluate the safety and exploratory efficacy of SYN002 in recipients of human cytomegalovirus (CMV) positive donor kidneys, and to monitor for viral reactivation over the six months … [+6285 chars]"
-  },
-  {
-    "source": {
-      "id": "next-big-future",
-      "name": "Next Big Future"
-    },
-    "author": "Brian Wang",
-    "title": "Elon and SpaceX Have Made AI Training 10 Times Faster",
-    "description": "Elon is saying SpaceX built its own super-optimized AI training software from scratch in the C programming language. It is 10 times faster than Google JAX framework. It’s designed to run on a massive cluster of 220,000 cutting-edge NVIDIA GB300 GPUs connected…",
-    "url": "https://www.nextbigfuture.com/2026/05/elon-and-spacex-have-made-ai-training-10-times-faster.html",
-    "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/05/Screenshot-2026-05-28-at-12.25.54-AM.jpg",
-    "publishedAt": "2026-05-28T07:26:13Z",
-    "content": "Elon is saying SpaceX built its own super-optimized AI training software from scratch in the C programming language. It is 10 times faster than Google JAX framework.\r\nIt’s designed to run on a massiv… [+4298 chars]"
+    "author": "Sanya Panwar",
+    "title": "I have the most sensitive skin and this is one of the few anti-ageing serums that work on me",
+    "description": "Product review: Need a serum for early fine lines that won’t irritate sensitive skin? 7e Wellness’ Anti-Aging Peptide Serum delivers visible results, gently.  | Health",
+    "url": "https://www.hindustantimes.com/lifestyle/health/i-have-finicky-skin-this-is-one-of-the-few-anti-ageing-serums-my-sensitive-skin-actually-likes-peptide-hyaluronic-acid-101780035592909.html",
+    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/05/29/550x309/MixCollage-28-May-2026-07-26-PM-4133_1780035627721_1780035637155_9b44bf03-5ac3-4ebd-829b-b51a90107e99.jpg",
+    "publishedAt": "2026-05-29T06:56:25Z",
+    "content": "I am in my mid-thirties, and to say I care deeply about my skin would be an understatement it is an obsession. My bathroom cabinet is less of a storage space and more of a high-stakes laboratory. But… [+3940 chars]"
   },
   {
     "source": {
@@ -226,11 +148,115 @@
       "name": "Pypi.org"
     },
     "author": null,
-    "title": "kawow 0.1.6",
-    "description": "Models for partitioning coefficients (logKow, logKoa and logKaw) from molecular structure, including model based on [Naef & Acree 2024](https://doi.org/10.3390/liquids4010011)",
-    "url": "https://pypi.org/project/kawow/0.1.6/",
+    "title": "anyonecandock 1.1.3",
+    "description": "Command-line molecular docking powered by AutoDock Vina, pKaNET, and RDKit",
+    "url": "https://pypi.org/project/anyonecandock/1.1.3/",
     "urlToImage": null,
-    "publishedAt": "2026-05-28T07:19:45Z",
+    "publishedAt": "2026-05-29T06:52:22Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Eyeondunn.com"
+    },
+    "author": null,
+    "title": "Lilly to present new data on Foundayo, Mounjaro and retatrutide at the American Diabetes Association's 86th Scientific Sessions, building toward a new era of choice in diabetes and obesity care",
+    "description": "Lilly to present new data on Foundayo, Mounjaro and retatrutide at the American Diabetes Association's 86th Scientific Sessions, building toward a new era of choice in diabetes and obesity careeyeondunn.com",
+    "url": "https://pr.eyeondunn.com/article/Lilly-to-present-new-data-on-Foundayo-Mounjaro-and-retatrutide-at-the-American-Diabetes-Associations-86th-Scientific-Sessions-building-toward-a-new-era-of-choice-in-diabetes-and-obesity-care?storyId=6a18756a004597ee6ba13864",
+    "urlToImage": "https://eyeondunn.com/themes/contrib/dxpr_theme/share-image.png",
+    "publishedAt": "2026-05-29T06:52:02Z",
+    "content": "Phase 3 ACHIEVE results showed Foundayo, an oral GLP-1 taken without food or water restrictions, outperformed oral semaglutide and dapagliflozin in type 2 diabetes, reinforcing its potential to redef… [+39459 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Naked Scientists"
+    },
+    "author": "The Naked Scientists",
+    "title": "Rising melanoma rates, and artificial bird's eggs",
+    "description": "In today's episode, the rising rates of melanoma skin cancer in the UK - why is this happening? Also, evidence that pregnancy induces epigenetic changes to brain gene expression, researchers produce the world's first artificial bird egg to bring back the Dodo…",
+    "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/rising-melanoma-rates-and-artificial-birds-eggs",
+    "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/Screenshot%202026-05-29%20at%2010.50.11.jpg?itok=M1XTLrw6",
+    "publishedAt": "2026-05-29T06:26:04Z",
+    "content": "We heard from the company Colossal Biosciences on the programme not so long ago, when the Boston-based business said they were attempting to bring certain species back from extinction - including the… [+8416 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Newswise"
+    },
+    "author": "Ochsner Health",
+    "title": "Ochsner Health Research Week Showcases Biomedical Discovery and Clinical Trial Innovation | Newswise",
+    "description": "As Louisiana’s leading academic healthcare system, Ochsner is at the forefront of research innovation and provides access to clinical trials not found anywhere else in the region, including innovative and early phase clinical trials that improve care across t…",
+    "url": "https://www.newswise.com/articles/ochsner-health-research-week-showcases-biomedical-discovery-and-clinical-trial-innovation",
+    "urlToImage": "https://www.newswise.com/images/uploads/2026/05/28/6a18a366f1659_2026ResearchDay-1-1400x595-a74beaa0-84c1-464b-a7ef-50f9706bd582.jpg",
+    "publishedAt": "2026-05-29T06:10:51Z",
+    "content": "Newswise — NEW ORLEANS – Ochsner Health celebrated its 23rd Annual Research Week from May 18 through May 21, highlighting biomedical research and clinical research trials conducted across the health … [+5872 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Rogue planet moons could harbor alien life for billions of years",
+    "description": "Scientists say moons around rogue planets wandering through the galaxy could remain warm enough for life thanks to tidal heating and hydrogen-rich atmospheres. These dark, starless worlds may have had stable oceans for billions of years — long enough for comp…",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260528082509.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/habitable-ocean-world.webp",
+    "publishedAt": "2026-05-29T06:05:08Z",
+    "content": "Liquid water is widely considered one of the key ingredients for life. But new research suggests that worlds drifting through the darkness of interstellar space could still remain habitable, even wit… [+4183 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Alltoc.com"
+    },
+    "author": "AllToc",
+    "title": "Why do organoids reverse nerve damage? #science",
+    "description": "Reversing “irreversible” nerve damage with organoids Researchers at the University of Cambridge created human organoids to study and potentially reverse nerve damage that had previously been described as “irreversible.” The work centers on using miniature, la…",
+    "url": "https://alltoc.com/science/why-do-organoids-reverse-nerve-damage",
+    "urlToImage": "https://alltoc.com/cdn/1048/og.png",
+    "publishedAt": "2026-05-29T06:01:55Z",
+    "content": "Reversing irreversible nerve damage with organoids\r\nResearchers at the University of Cambridge created human organoids to study and potentially reverse nerve damage that had previously been described… [+1700 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Mike Adams",
+    "title": "You Are Far More Powerful Than They Want You to Know",
+    "description": "The Illusion of Powerlessness Most people walk through life believing they are passengers on a ship steered by luck, fate, or the whims of invisible elites. This is not an accident… it is a deliberate lie designed to keep you disempowered. From the time you w…",
+    "url": "https://www.naturalnews.com/2026-05-29-you-are-far-more-powerful.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/personal-empowerment-natural-health-type-2-diabetes-1774-original.jpg",
+    "publishedAt": "2026-05-29T06:00:00Z",
+    "content": "The Illusion of Powerlessness\r\nMost people walk through life believing they are passengers on a ship steered by luck, fate, or the whims of invisible elites. This is not an accident... it is a delibe… [+8366 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Iva Greene",
+    "title": "Legal Notice Filed to Force EPA to Set Water Standards for Atrazine, a Pesticide Linked to Cancer",
+    "description": "Conservation and public health groups filed a formal notice on Thursday, May 28, with Environmental Protection Agency (EPA) Administrator Lee Zeldin to force the agency to develop water-quality standards for atrazine, a pesticide linked to cancer, according t…",
+    "url": "https://www.naturalnews.com/2026-05-29-notice-filed-force-epa-set-standards-atrazine.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/atrazine-epa-clean-water-act-1781-original.jpg",
+    "publishedAt": "2026-05-29T06:00:00Z",
+    "content": "Conservation and public health groups filed a formal notice on Thursday, May 28, with Environmental Protection Agency (EPA) Administrator Lee Zeldin to force the agency to develop water-quality stand… [+5349 chars]"
+  },
+  {
+    "source": {
+      "id": "medical-news-today",
+      "name": "Medical News Today"
+    },
+    "author": "Peter Morales-Brown",
+    "title": "New colorectal cancer screening guidelines add blood and at-home stool tests",
+    "description": "Updated colorectal cancer screening guidelines from the American Cancer Society expand screening tools, to now include a blood test, and at-home stool tests.",
+    "url": "https://www.medicalnewstoday.com/articles/new-colorectal-cancer-screening-guidelines-blood-at-home-stool-tests",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/05/Colorectal-Cancer-Screening-Blood-Sample-Lab-Gloves-732x549-thumbnail.jpg",
+    "publishedAt": "2026-05-29T06:00:00Z",
+    "content": "<ul><li>The American Cancer Society (ACS) updated its colorectal cancer screening guidelines to include new blood-based and at-home stool tests, while continuing to recommend screening for average-ri… [+9732 chars]"
   }
 ]
