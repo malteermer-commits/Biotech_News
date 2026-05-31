@@ -2,197 +2,28 @@
   {
     "source": {
       "id": null,
-      "name": "Hackaday"
+      "name": "Republicnewsindia.com"
     },
-    "author": "Bryan Cockfield",
-    "title": "Medication Reminder Uses Only One Button",
-    "description": "As anyone who takes medicines regularly will attest to, the days have a tendency to blur together, making it hard to remember if you did something like take that day’s dose or not. There are …",
-    "url": "https://hackaday.com/2026/05/29/medication-reminder-uses-only-one-button/",
-    "urlToImage": "https://hackaday.com/wp-content/uploads/2026/05/medminder-main.jpeg",
-    "publishedAt": "2026-05-29T08:00:59Z",
-    "content": "As anyone who takes medicines regularly will attest to, the days have a tendency to blur together, making it hard to remember if you did something like take that day’s dose or not. There are plenty o… [+1406 chars]"
+    "author": "Rni News Desk",
+    "title": "Fertility Awareness Must Become a Public Health Priority: Dr. Hrishikesh Pai | Republic News India",
+    "description": "In an exclusive conversation, Dr. Hrishikesh Pai, Consultant Gynaecologist & IVF Specialist, discusses the changing fertility landscape, the growing impact of modern lifestyles on reproductive health, and the need for greater awareness around fertility preser…",
+    "url": "https://republicnewsindia.com/fertility-awareness-must-become-a-public-health-priority-dr-hrishikesh-pai/",
+    "urlToImage": "https://republicnewsindia.com/wp-content/uploads/2026/05/Dr.-Hrishikesh-Pai.png",
+    "publishedAt": "2026-05-30T08:15:59Z",
+    "content": "In an exclusive conversation, Dr. Hrishikesh Pai, Consultant Gynaecologist &amp; IVF Specialist, discusses the changing fertility landscape, the growing impact of modern lifestyles on reproductive he… [+4211 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "The Punch"
-    },
-    "author": "Punch Newspapers",
-    "title": "Italy urges EU border coordination over Ebola outbreak",
-    "description": "Italy’s PM Giorgia Meloni calls for enhanced EU border coordination and surveillance due to the ongoing Ebola outbreak in DRC and Uganda.\n\nRead More: https://punchng.com/italy-urges-eu-border-coordination-over-ebola-outbreak/",
-    "url": "https://punchng.com/italy-urges-eu-border-coordination-over-ebola-outbreak/",
-    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/11/22230352/WhatsApp-Image-2025-11-22-at-23.01.22.jpeg",
-    "publishedAt": "2026-05-29T07:59:56Z",
-    "content": "Italian Prime Minister Giorgia Meloni has asked the EU for stricter border controls because of the Ebola outbreak in the Democratic Republic of Congo and Uganda, the government said Friday.\r\nThe lett… [+1349 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
+      "id": "cbc-news",
+      "name": "CBC News"
     },
     "author": null,
-    "title": "molcrafts-molrs 0.0.17",
-    "description": "Python bindings for molrs molecular simulation library",
-    "url": "https://pypi.org/project/molcrafts-molrs/0.0.17/",
-    "urlToImage": null,
-    "publishedAt": "2026-05-29T07:59:49Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Sciencebasedmedicine.org"
-    },
-    "author": "Jonathan Howard",
-    "title": "MAHA Fluffers Claimed MAHA Doctors Would “Restore Lost Trust.” I Disagreed. Who Turned Out to be Right?",
-    "description": "The COVID Amnesia Project has seamlessly morphed into the MAHA Amnesia Project, and it’s up to us not to forget the sheltered sycophants and enablers whose enthusiastic support of the pandemic’s worst disinformation superspreaders led to this sad moment.\nThe …",
-    "url": "https://sciencebasedmedicine.org/maha-fluffers/",
-    "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2026/05/image-11.png",
-    "publishedAt": "2026-05-29T07:40:00Z",
-    "content": "“Restoring Trust in Public Health”\r\nFrom declaring that we had herd immunity 5 years-ago to claims that immunity to COVID was “probably lifelong“, MAHA doctors made an overwhelming number of preposte… [+9593 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "LADbible"
-    },
-    "author": "Jess Battison",
-    "title": "'Contact pharmacies' warning as common blood pressure medication used by millions urgently recalled",
-    "description": "It could lead to serious side effects",
-    "url": "https://www.ladbible.com/news/uk-news/ramipril-high-blood-pressure-medicine-tablets-recall-937513-20260529",
-    "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltc0cc36599a0d73f2/6a1939c3880c48578ccaf6b5/blood-pressure-meds.png",
-    "publishedAt": "2026-05-29T07:24:41Z",
-    "content": "The Medicines and Healthcare products Regulatory Agency (MHRA) has issue an urgent warning after an error was made.\r\nCrescent Pharma Limited make the ramipril 2.5mg capsules which is a widely prescri… [+2404 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": null,
-    "title": "First-in-Class Hepatitis B Drug Shows Promise for 'Functional Cure' in Early Trials",
-    "description": "An experimental new treatment for chronic hepatitis B is raising hopes for what researchers call a potential \"functional cure,\" a milestone that could change how the viral liver disease is managed in the future.",
-    "url": "https://www.medicaldaily.com/first-class-hepatitis-b-drug-shows-promise-functional-cure-early-trials-475468",
-    "urlToImage": "https://d.medicaldaily.com/en/full/482533/first-class-hepatitis-b-drug-shows-promise-functional-cure.jpg",
-    "publishedAt": "2026-05-29T07:22:30Z",
-    "content": "An experimental new treatment for chronic hepatitis B is raising hopes for what researchers call a potential \"functional cure,\" a milestone that could change how the viral liver disease is managed in… [+2692 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Qiming Venture Partners Managing Partner Alex Zhou Named to 2026 Forbes Midas List",
-    "description": "SHANGHAI, May 29, 2026 /PRNewswire/ -- Forbes has released its 2026 Midas List, the definitive ranking of the world's top venture capital investors. Alex Zhou, Managing Partner at Qiming Venture Partners, debuts at No. 80, recognizing his track record as a le…",
-    "url": "https://www.prnewswire.com/news-releases/qiming-venture-partners-managing-partner-alex-zhou-named-to-2026-forbes-midas-list-302785453.html",
-    "urlToImage": null,
-    "publishedAt": "2026-05-29T07:21:00Z",
-    "content": "SHANGHAI, May 29, 2026 /PRNewswire/ -- Forbes has released its 2026 Midas List, the definitive ranking of the world's top venture capital investors. Alex Zhou, Managing Partner at Qiming Venture Part… [+6046 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Israelnationalnews.com"
-    },
-    "author": "Israel National News",
-    "title": "Israeli research provides definitive safety data on painkiller use during pregnancy",
-    "description": "Studies from Ben-Gurion University of the Negev (BGU), based on analysis of over 264,000 pregnancies, show NSAIDs safe in early pregnancy, confirm safe use of paracetamol.",
-    "url": "https://www.israelnationalnews.com/news/427800",
-    "urlToImage": "https://2.a7.org/files/pictures/000/1056463.jpg",
-    "publishedAt": "2026-05-29T07:18:00Z",
-    "content": "New research from Ben-Gurion University of the Negev (BGU) is offering much-needed clarity to pregnant women worldwide regarding the safety of common painkillers.\r\nA large-scale data analysis of over… [+5406 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Ciaran Foreman",
-    "title": "Health chiefs issue urgent alert about blood pressure medication taken by three million Britons: 'Check pack immediately'",
-    "description": "Packs of a popular blood pressure medication are being urgently recalled by health chiefs over patient safety concerns.",
-    "url": "https://www.dailymail.com/health/article-15857837/Health-chiefs-issue-urgent-alert-blood-pressure-medication-taken-three-million-Britons-Check-pack-immediately.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/05/29/08/108950415-0-image-m-14_1780038738780.jpg",
-    "publishedAt": "2026-05-29T07:14:18Z",
-    "content": "Packs of a popular blood pressure medication are being urgently recalled by health chiefs over patient safety concerns. \r\nRamipril - prescribed to around 3million Britons every year - is a medicine u… [+2601 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "DW (English)"
-    },
-    "author": "Sarah Steffen",
-    "title": "Superbug crisis: How drugs that cure you end up in rivers, soils",
-    "description": "Pharmaceuticals have been found in waterways almost everywhere in the world, fueling antibiotic-resistant superbugs that don't respond to treatment anymore. Is there a way out? At 25, Vanessa Carter was in a devastating car crash in Johannesburg. It broke eve…",
-    "url": "https://www.dw.com/en/the-rise-of-drug-resistant-superbugs-solutions-medication-overuse-misuse-antimicrobial-resistance/a-77172236",
-    "urlToImage": "https://static.dw.com/image/67502141_6.jpg",
-    "publishedAt": "2026-05-29T07:01:00Z",
-    "content": "At 25, Vanessa Carter was in a devastating car crash in Johannesburg. It broke every bone on the right side of her face, and set her on a years-long journey through multiple reconstructive surgeries.… [+7314 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hindustan Times"
-    },
-    "author": "Sanya Panwar",
-    "title": "I have the most sensitive skin and this is one of the few anti-ageing serums that work on me",
-    "description": "Product review: Need a serum for early fine lines that won’t irritate sensitive skin? 7e Wellness’ Anti-Aging Peptide Serum delivers visible results, gently.  | Health",
-    "url": "https://www.hindustantimes.com/lifestyle/health/i-have-finicky-skin-this-is-one-of-the-few-anti-ageing-serums-my-sensitive-skin-actually-likes-peptide-hyaluronic-acid-101780035592909.html",
-    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/05/29/550x309/MixCollage-28-May-2026-07-26-PM-4133_1780035627721_1780035637155_9b44bf03-5ac3-4ebd-829b-b51a90107e99.jpg",
-    "publishedAt": "2026-05-29T06:56:25Z",
-    "content": "I am in my mid-thirties, and to say I care deeply about my skin would be an understatement it is an obsession. My bathroom cabinet is less of a storage space and more of a high-stakes laboratory. But… [+3940 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": null,
-    "title": "anyonecandock 1.1.3",
-    "description": "Command-line molecular docking powered by AutoDock Vina, pKaNET, and RDKit",
-    "url": "https://pypi.org/project/anyonecandock/1.1.3/",
-    "urlToImage": null,
-    "publishedAt": "2026-05-29T06:52:22Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Eyeondunn.com"
-    },
-    "author": null,
-    "title": "Lilly to present new data on Foundayo, Mounjaro and retatrutide at the American Diabetes Association's 86th Scientific Sessions, building toward a new era of choice in diabetes and obesity care",
-    "description": "Lilly to present new data on Foundayo, Mounjaro and retatrutide at the American Diabetes Association's 86th Scientific Sessions, building toward a new era of choice in diabetes and obesity careeyeondunn.com",
-    "url": "https://pr.eyeondunn.com/article/Lilly-to-present-new-data-on-Foundayo-Mounjaro-and-retatrutide-at-the-American-Diabetes-Associations-86th-Scientific-Sessions-building-toward-a-new-era-of-choice-in-diabetes-and-obesity-care?storyId=6a18756a004597ee6ba13864",
-    "urlToImage": "https://eyeondunn.com/themes/contrib/dxpr_theme/share-image.png",
-    "publishedAt": "2026-05-29T06:52:02Z",
-    "content": "Phase 3 ACHIEVE results showed Foundayo, an oral GLP-1 taken without food or water restrictions, outperformed oral semaglutide and dapagliflozin in type 2 diabetes, reinforcing its potential to redef… [+39459 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Naked Scientists"
-    },
-    "author": "The Naked Scientists",
-    "title": "Rising melanoma rates, and artificial bird's eggs",
-    "description": "In today's episode, the rising rates of melanoma skin cancer in the UK - why is this happening? Also, evidence that pregnancy induces epigenetic changes to brain gene expression, researchers produce the world's first artificial bird egg to bring back the Dodo…",
-    "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/rising-melanoma-rates-and-artificial-birds-eggs",
-    "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/Screenshot%202026-05-29%20at%2010.50.11.jpg?itok=M1XTLrw6",
-    "publishedAt": "2026-05-29T06:26:04Z",
-    "content": "We heard from the company Colossal Biosciences on the programme not so long ago, when the Boston-based business said they were attempting to bring certain species back from extinction - including the… [+8416 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Newswise"
-    },
-    "author": "Ochsner Health",
-    "title": "Ochsner Health Research Week Showcases Biomedical Discovery and Clinical Trial Innovation | Newswise",
-    "description": "As Louisiana’s leading academic healthcare system, Ochsner is at the forefront of research innovation and provides access to clinical trials not found anywhere else in the region, including innovative and early phase clinical trials that improve care across t…",
-    "url": "https://www.newswise.com/articles/ochsner-health-research-week-showcases-biomedical-discovery-and-clinical-trial-innovation",
-    "urlToImage": "https://www.newswise.com/images/uploads/2026/05/28/6a18a366f1659_2026ResearchDay-1-1400x595-a74beaa0-84c1-464b-a7ef-50f9706bd582.jpg",
-    "publishedAt": "2026-05-29T06:10:51Z",
-    "content": "Newswise — NEW ORLEANS – Ochsner Health celebrated its 23rd Annual Research Week from May 18 through May 21, highlighting biomedical research and clinical research trials conducted across the health … [+5872 chars]"
+    "title": "Donald Trump turns 80 soon. Questions about his health aren't going away",
+    "description": "U.S. President Donald Trump celebrates his 80th birthday in June, and will do so amid questions about whether his physical health and mental sharpness are on the decline.",
+    "url": "https://www.cbc.ca/news/world/donald-trump-health-physical-mental-80-birthday-9.7215101",
+    "urlToImage": "https://i.cbc.ca/ais/1dcc2ceb-2e66-480d-9d72-061936becb87,1779988125632/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C13%2C6000%2C3375%29%3BResize%3D620",
+    "publishedAt": "2026-05-30T08:00:00Z",
+    "content": "U.S. President Donald Trump celebrates his 80th birthday in June, and will do so amid questions about whether his physical health and mental sharpness are declining. \r\nThis week, Trump had his third … [+7464 chars]"
   },
   {
     "source": {
@@ -200,12 +31,90 @@
       "name": "Science Daily"
     },
     "author": null,
-    "title": "Rogue planet moons could harbor alien life for billions of years",
-    "description": "Scientists say moons around rogue planets wandering through the galaxy could remain warm enough for life thanks to tidal heating and hydrogen-rich atmospheres. These dark, starless worlds may have had stable oceans for billions of years — long enough for comp…",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260528082509.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/habitable-ocean-world.webp",
-    "publishedAt": "2026-05-29T06:05:08Z",
-    "content": "Liquid water is widely considered one of the key ingredients for life. But new research suggests that worlds drifting through the darkness of interstellar space could still remain habitable, even wit… [+4183 chars]"
+    "title": "This strange new phase of matter could transform quantum technology",
+    "description": "By stacking custom-designed silver nanoparticles like nanoscale LEGO bricks, scientists stabilized a mysterious crystal phase that had never been observed before. The material not only solves a longstanding puzzle in materials science but also exhibits promis…",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/strange-quantum-material-new-phase-state.webp",
+    "publishedAt": "2026-05-30T07:31:15Z",
+    "content": "Researchers from Brown University and the University of Michigan have achieved something that scientists had only imagined until now. By carefully arranging tiny particles of silver into custom-built… [+5252 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Fox News via NY Post",
+    "title": "Virginia bus crash that killed 5 involved non-English speaking driver who got license in NY, says Sean Duffy",
+    "description": "The driver of a bus involved in a deadly Virginia crash that killed five people doesn’t speak English, authorities said, according to US Transportation Secretary Sean Duffy who called it “unacceptable.” Five people were killed and dozens were injured when the…",
+    "url": "https://freerepublic.com/focus/f-chat/4381554/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-05-30T07:25:30Z",
+    "content": "Skip to comments.\r\nVirginia bus crash that killed 5 involved non-English speaking driver who got license in NY, says Sean DuffyFox News via NY Post ^\r\n | 5/30/26\r\n | Brie Stimson\r\nPosted on 05/30/202… [+2383 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mybodytonic.com"
+    },
+    "author": null,
+    "title": "Why Women Need Testosterone: The Truth About Hormone Health",
+    "description": "For decades, women were given incomplete and often misleading information about their hormones. Old studies, outdated data, and fear-based messaging shaped the way doctors viewed hormone replacement t…",
+    "url": "https://mybodytonic.com/blog/why-women-need-testosterone-the-untold-story-behind-hormone-health-and-the-new-shift-in-modern-medicine",
+    "urlToImage": "https://mybodytonic.com/blog-images/Testosterone.webp",
+    "publishedAt": "2026-05-30T07:16:10Z",
+    "content": "For decades, women were given incomplete and often misleading information about their hormones. Old studies, outdated data, and fear-based messaging shaped the way doctors viewed hormone replacement … [+3511 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space Daily"
+    },
+    "author": "Space Daily Editorial Team",
+    "title": "Sharks have been swimming in Earth’s oceans for roughly 450 million years — which means they predate the first tree by about 65 million years, and when sharks first appeared, the only plants on land were mosses and liverworts no taller than a few centimetres",
+    "description": "According to the Natural History Museum’s timeline of shark evolution, the earliest evidence of sharks in the fossil record consists of a few tiny scales found in Late Ordovician rocks roughly 450 million years old. These are dermal denticles, the same tooth-…",
+    "url": "https://spacedaily.com/d-sharks-have-been-swimming-in-earths-oceans-for-roughly-450-million-years-which-means-they-predate-the-first-tree-by-about-65-million-years-and-when-sharks-first-appeared-the-only-plants-o/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/05/Posts-1600840-2026-05-30T104308.781.png",
+    "publishedAt": "2026-05-30T07:15:11Z",
+    "content": "According to the Natural History Museum’s timeline of shark evolution, the earliest evidence of sharks in the fossil record consists of a few tiny scales found in Late Ordovician rocks roughly 450 mi… [+6699 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "She was a class topper, wanted to be a doctor. Actor Ravi Kishan's one film offer changed her destiny. Who is Akshay Kumar's co-star Akshara Singh?",
+    "description": "Bhojpuri star Akshara Singh is gaining wider recognition after featuring in a song with Akshay Kumar. The actress initially wanted to be a doctor but entered films by chance. Her career took off after a debut film offer from Ravi Kishan. She became a leading …",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/she-was-a-class-topper-wanted-to-be-a-doctor-actor-ravi-kishans-one-film-offer-changed-her-destiny-who-is-akshay-kumars-co-star-akshara-singh/articleshow/131404294.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131404949,width-1200,height-630,imgsize-53470,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-05-30T06:39:40Z",
+    "content": "Akshara Singh is making headlines after appearing alongside Akshay Kumar in the lively song Ghis Ghis from the upcoming comedy entertainer Welcome To The Jungle. The collaboration has introduced the … [+3572 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Vivianne Wandera",
+    "title": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
+    "description": "Rwanda turns to Russia for nuclear training and research, advancing ambitions in technology, healthcare and diplomacy.",
+    "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/000_46DE3T2-1751645161.jpg?resize=1200%2C675",
+    "publishedAt": "2026-05-30T06:29:07Z",
+    "content": "Kigali, Rwanda Rwandas new nuclear cooperation agreement with Russia may look technical on paper, focused on science, nuclear medicine and energy, but it signals a deeper shift in the geopolitical ba… [+6683 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Vikram Anand and Sameer Chopra",
+    "title": "Two friends. Same lifestyle. Opposite results. What happened when we stopped looking at blood tests alone",
+    "description": "Two lifelong friends. Same food. Same habits. Completely opposite cholesterol numbers. One was told his terrible HDL was genetic. The other believed his perfect LDL meant he could eat anything. Then a deeper health analysis...",
+    "url": "https://timesofindia.indiatimes.com/blogs/voices/two-friends-same-lifestyle-opposite-results-what-happened-when-we-stopped-looking-at-blood-tests-alone/",
+    "urlToImage": "https://static.toiimg.com/thumb/115047089.cms",
+    "publishedAt": "2026-05-30T06:09:15Z",
+    "content": "Two lifelong friends. Same food. Same habits. Completely opposite cholesterol numbers. One was told his terrible HDL was genetic. The other believed his perfect LDL meant he could eat anything. Then … [+4733 chars]"
   },
   {
     "source": {
@@ -213,50 +122,141 @@
       "name": "Alltoc.com"
     },
     "author": "AllToc",
-    "title": "Why do organoids reverse nerve damage? #science",
-    "description": "Reversing “irreversible” nerve damage with organoids Researchers at the University of Cambridge created human organoids to study and potentially reverse nerve damage that had previously been described as “irreversible.” The work centers on using miniature, la…",
-    "url": "https://alltoc.com/science/why-do-organoids-reverse-nerve-damage",
+    "title": "US Ebola travelers sent to Kenya or Europe? #health",
+    "description": "Kenya quarantine plan and alternative destinations The Trump administration’s Ebola response has centered on separating people exposed to Ebola from broader U.S. communities, including proposed or planned use of quarantine and treatment facilities outside the…",
+    "url": "https://alltoc.com/health/us-ebola-travelers-sent-to-kenya-or-europe",
     "urlToImage": "https://alltoc.com/cdn/1048/og.png",
-    "publishedAt": "2026-05-29T06:01:55Z",
-    "content": "Reversing irreversible nerve damage with organoids\r\nResearchers at the University of Cambridge created human organoids to study and potentially reverse nerve damage that had previously been described… [+1700 chars]"
+    "publishedAt": "2026-05-30T06:02:59Z",
+    "content": "The Trump administrations Ebola response has centered on separating people exposed to Ebola from broader U.S. communities, including proposed or planned use of quarantine and treatment facilities out… [+1556 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Alltoc.com"
+    },
+    "author": "AllToc",
+    "title": "What did Alzheimer’s origins study find? #science",
+    "description": "Researchers at Columbia University reported new clues about how Alzheimer’s disease may begin at the molecular level—specifically by identifying earlier molecular events that could precede the clinical symptoms. What was studied The work focuses on “the earli…",
+    "url": "https://alltoc.com/science/what-did-alzheimers-origins-study-find",
+    "urlToImage": "https://alltoc.com/cdn/1048/og.png",
+    "publishedAt": "2026-05-30T06:01:46Z",
+    "content": "Researchers at Columbia University reported new clues about how Alzheimers disease may begin at the molecular levelspecifically by identifying earlier molecular events that could precede the clinical… [+1227 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Alltoc.com"
+    },
+    "author": "AllToc",
+    "title": "How do wall lizards escape a bottleneck? #science",
+    "description": "Wall lizards in Cincinnati, Ohio have been able to reproduce in a way that helps them rebound after a genetic bottleneck linked to their introduction. The story’s core message is that these non native lizards didn’t just survive—they expanded their population…",
+    "url": "https://alltoc.com/science/how-do-wall-lizards-escape-a-bottleneck",
+    "urlToImage": "https://alltoc.com/cdn/1048/og.png",
+    "publishedAt": "2026-05-30T06:01:46Z",
+    "content": "Wall lizards in Cincinnati, Ohio have been able to reproduce in a way that helps them rebound after a genetic bottleneck linked to their introduction. The storys core message is that these non-native… [+1695 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Naturalnews.com"
     },
-    "author": "Mike Adams",
-    "title": "You Are Far More Powerful Than They Want You to Know",
-    "description": "The Illusion of Powerlessness Most people walk through life believing they are passengers on a ship steered by luck, fate, or the whims of invisible elites. This is not an accident… it is a deliberate lie designed to keep you disempowered. From the time you w…",
-    "url": "https://www.naturalnews.com/2026-05-29-you-are-far-more-powerful.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/personal-empowerment-natural-health-type-2-diabetes-1774-original.jpg",
-    "publishedAt": "2026-05-29T06:00:00Z",
-    "content": "The Illusion of Powerlessness\r\nMost people walk through life believing they are passengers on a ship steered by luck, fate, or the whims of invisible elites. This is not an accident... it is a delibe… [+8366 chars]"
+    "author": "Ramon Tomey",
+    "title": "Study: Children exposed to common insecticide before birth suffer brain damage years later",
+    "description": "A JAMA Neurology study provides the first documented evidence that prenatal exposure to chlorpyrifos, a pesticide still used on U.S. farmland, causes measurable physical changes in children’s brains and impairs motor function years later, with higher exposure…",
+    "url": "https://www.naturalnews.com/2026-05-30-study-children-exposed-chlorpyrifos-suffer-brain-damage.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Man-Spraying-Pesticides-Crops-Farm.jpg",
+    "publishedAt": "2026-05-30T06:00:00Z",
+    "content": "<ul><li>A JAMA Neurology study provides the first documented evidence that prenatal exposure to chlorpyrifos, a pesticide still used on U.S. farmland, causes measurable physical changes in children's… [+6702 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Naturalnews.com"
     },
-    "author": "Iva Greene",
-    "title": "Legal Notice Filed to Force EPA to Set Water Standards for Atrazine, a Pesticide Linked to Cancer",
-    "description": "Conservation and public health groups filed a formal notice on Thursday, May 28, with Environmental Protection Agency (EPA) Administrator Lee Zeldin to force the agency to develop water-quality standards for atrazine, a pesticide linked to cancer, according t…",
-    "url": "https://www.naturalnews.com/2026-05-29-notice-filed-force-epa-set-standards-atrazine.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/atrazine-epa-clean-water-act-1781-original.jpg",
-    "publishedAt": "2026-05-29T06:00:00Z",
-    "content": "Conservation and public health groups filed a formal notice on Thursday, May 28, with Environmental Protection Agency (EPA) Administrator Lee Zeldin to force the agency to develop water-quality stand… [+5349 chars]"
+    "author": "Willow Tohi",
+    "title": "Big Toothpasteâs dirty secret: 90% of brands contain cancer-causing heavy metals",
+    "description": "Independent testing of 51 toothpaste brands found 90% contained lead, 65% arsenic, 47% mercury and 35% cadmium. Heavy metals enter toothpaste through contaminated raw ingredients like hydroxyapatite, calcium carbonate and bentonite clay. Lead and cadmium disr…",
+    "url": "https://www.naturalnews.com/2026-05-30-big-toothpastes-dirty-secret-brands-contain-heavy-metals.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Toothpaste-Bathroom-Beauty-Blue-Bristle-Brown-Brush.jpg",
+    "publishedAt": "2026-05-30T06:00:00Z",
+    "content": "<ul><li>Independent testing of 51 toothpaste brands found 90% contained lead, 65% arsenic, 47% mercury and 35% cadmium.</li><li>Heavy metals enter toothpaste through contaminated raw ingredients like… [+5294 chars]"
   },
   {
     "source": {
-      "id": "medical-news-today",
-      "name": "Medical News Today"
+      "id": null,
+      "name": "Naturalnews.com"
     },
-    "author": "Peter Morales-Brown",
-    "title": "New colorectal cancer screening guidelines add blood and at-home stool tests",
-    "description": "Updated colorectal cancer screening guidelines from the American Cancer Society expand screening tools, to now include a blood test, and at-home stool tests.",
-    "url": "https://www.medicalnewstoday.com/articles/new-colorectal-cancer-screening-guidelines-blood-at-home-stool-tests",
-    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/05/Colorectal-Cancer-Screening-Blood-Sample-Lab-Gloves-732x549-thumbnail.jpg",
-    "publishedAt": "2026-05-29T06:00:00Z",
-    "content": "<ul><li>The American Cancer Society (ACS) updated its colorectal cancer screening guidelines to include new blood-based and at-home stool tests, while continuing to recommend screening for average-ri… [+9732 chars]"
+    "author": "Morgan S. Verity",
+    "title": "Leucine Boosts Mitochondrial Energy Production, Study Finds",
+    "description": "Researchers at the University of Cologne have discovered that the amino acid leucine enhances mitochondrial function by preventing the degradation of key proteins on the outer mitochondrial membrane, according to a study published in Nature Cell Biology on Ma…",
+    "url": "https://www.naturalnews.com/2026-05-30-leucine-boosts-mitochondrial-energy-production-study-finds.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/leucine-mitochondrial-energy-production-sel1l-1654-original.jpg",
+    "publishedAt": "2026-05-30T06:00:00Z",
+    "content": "Researchers at the University of Cologne have discovered that the amino acid leucine enhances mitochondrial function by preventing the degradation of key proteins on the outer mitochondrial membrane,… [+4683 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Coco Somers",
+    "title": "Study Suggests Vegan Diet May Impede Self-Healing",
+    "description": "Introduction Recent scientific inquiry has raised questions about the nutritional adequacy of strictly plant-based diets during physiological stress. A study indicates that vegan diets may hinder the body’s self-healing capabilities, particularly following in…",
+    "url": "https://www.naturalnews.com/2026-05-30-study-suggests-vegan-diet-may-impede-self-healing.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/vegan-diet-protein-deficiency-self-healing-396-original.jpg",
+    "publishedAt": "2026-05-30T06:00:00Z",
+    "content": "Introduction\r\nRecent scientific inquiry has raised questions about the nutritional adequacy of strictly plant-based diets during physiological stress. A study indicates that vegan diets may hinder th… [+9682 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "This tomato-soy juice reduced inflammation in just four weeks",
+    "description": "A specially formulated tomato-soy juice packed with natural plant compounds may help calm inflammation linked to obesity, according to a new clinical study. Healthy adults with obesity who drank the juice daily for four weeks saw significant reductions in sev…",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260529043644.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/fresh-tomato-juice.webp",
+    "publishedAt": "2026-05-30T05:53:49Z",
+    "content": "Drinking a specially formulated tomato-soy juice rich in plant compounds linked to health benefits reduced several markers of inflammation in adults with obesity after just four weeks, according to n… [+5735 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Live Action News",
+    "title": "Embattled abortionist placed on probation in Maryland",
+    "description": "A late-term abortionist with ties to LeRoy Carhart has had his medical license placed on probation in Maryland. Key Takeaways: * Tyrone Malloy was hired as the medical director to serve as Carhart's replacement, at his facilities in both Nebraska and Maryland…",
+    "url": "https://freerepublic.com/focus/f-chat/4381552/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-05-30T05:48:18Z",
+    "content": "Skip to comments.\r\nEmbattled abortionist placed on probation in MarylandLive Action News ^\r\n | May 29, 2026\r\n | Cassy Cooke\r\nPosted on 05/29/2026 10:48:18 PM PDT by Morgana\r\nA late-term abortionist w… [+4366 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": null,
+    "title": "molex 0.4.3",
+    "description": "Parse, analyze, and transform molecular structure data (PDB, mmCIF, BinaryCIF, MRC)",
+    "url": "https://pypi.org/project/molex/0.4.3/",
+    "urlToImage": null,
+    "publishedAt": "2026-05-30T05:30:37Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Caffeine reversed memory problems caused by sleep deprivation",
+    "description": "Scientists discovered that sleep deprivation damages a key brain circuit responsible for social memory, making it harder to recognize familiar individuals. In laboratory studies, caffeine restored communication between neurons in this pathway and reversed the…",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/tired-man-with-messy-hair-drinking-morning-coffee.webp",
+    "publishedAt": "2026-05-30T05:27:08Z",
+    "content": "Researchers at the Yong Loo Lin School of Medicine at the National University of Singapore (NUS Medicine) have found that caffeine can help restore a specific type of memory that is impaired by sleep… [+3982 chars]"
   }
 ]
