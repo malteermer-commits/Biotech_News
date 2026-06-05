@@ -1,68 +1,55 @@
 [
   {
     "source": {
-      "id": "rte",
-      "name": "RTE"
+      "id": "news24",
+      "name": "News24"
     },
-    "author": "RTÉ News",
-    "title": "Spanish hotel chain Melia shutters Cuba operations",
-    "description": "Spain's largest hotel chain Melia said today that it would cease its operations in Cuba, joining other foreign firms that have cut ties with the island's military conglomerate GAESA under pressure from Washington.",
-    "url": "https://www.rte.ie/news/business/2026/0603/1576535-spanish-hotel-chain-melia-shutters-cuba-operations/",
-    "urlToImage": "https://www.rte.ie/images/00247740-1600.jpg",
-    "publishedAt": "2026-06-03T09:35:57Z",
-    "content": "Spain's largest hotel chain Melia said today that it would cease its operations in Cuba, joining other foreign firms that have cut ties with the island's military conglomerate GAESA under pressure fr… [+2113 chars]"
+    "author": "Marcus Low and Elri Voigt",
+    "title": "News24 | IN THE SPOTLIGHT | All you need to know about the jab that could dramatically reduce new HIV infections in SA",
+    "description": "In this special briefing, Spotlight pulls together all you need to know about a “breakthrough” HIV prevention jab, which will become available at some of South Africa’s public sector clinics for the first time on 5 June.",
+    "url": "https://www.news24.com/southafrica/health-news/in-the-spotlight-all-you-need-to-know-about-the-jab-that-could-dramatically-reduce-new-hiv-infections-in-sa-20260604-0470",
+    "urlToImage": "https://news24cobalt.24.co.za/resources/02a6-20c962897d2d-f4bd320dbce5-1000/format/inline/lenacapavir.jpeg",
+    "publishedAt": "2026-06-04T08:58:59Z",
+    "content": "In this special briefing, Spotlight pulls together all you need to know about a breakthrough HIV prevention jab, which will become available at some of South Africas public sector clinics for the fir… [+13747 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Www.gov.uk"
     },
-    "author": null,
-    "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda (Bundibugyo virus)",
-    "description": "This is an urgent public health message to all NHS and independent healthcare providers regarding the current Ebola disease outbreak in the DRC and Uganda.",
-    "url": "https://www.gov.uk/guidance/ebola-disease-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-bundibugyo-virus",
+    "author": "Veterinary Medicines Directorate",
+    "title": "Bravecto 150 mg/ml Powder and Solvent for Suspension for Injection for Dogs – SPC change",
+    "description": "Change to the information provided on adverse events in the Summary of Product Characteristics (SPC).",
+    "url": "https://www.gov.uk/government/news/bravecto-150-mgml-powder-and-solvent-for-suspension-for-injection-for-dogs-spc-change",
     "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-06-03T09:30:00Z",
-    "content": "Actions for NHS and independent providers of healthcare\r\nEnsure relevant teams within your organisation are aware of the information in this urgent public health message (UPHM). This particularly app… [+4511 chars]"
+    "publishedAt": "2026-06-04T08:51:19Z",
+    "content": "Following monitoring of pharmacovigilance data, the Summary of Product Characteristics (SPC) for Bravecto 150 mg/ml Powder and Solvent for Suspension for Injection for Dogs has been updated:\r\nEmesis … [+2165 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PRNewswire"
+      "name": "Arxiv.org"
     },
-    "author": null,
-    "title": "New Report Reveals 3 in 4 CRNAs Got a Raise Last Year While Most Remain Just One Good Offer Away from a Career Move",
-    "description": "CHARLOTTE, N.C., June 3, 2026 /PRNewswire/ -- APEX Anesthesia Review, a TrueLearn brand, surveyed 634 Certified Registered Nurse Anesthetists (CRNAs) and Student Registered Nurse Anesthetists (SRNAs) nationwide to track salary trends, career priorities, and w…",
-    "url": "https://www.prnewswire.com/news-releases/new-report-reveals-3-in-4-crnas-got-a-raise-last-year-while-most-remain-just-one-good-offer-away-from-a-career-move-302788961.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2993376/TL_family_of_brands.jpg?p=facebook",
-    "publishedAt": "2026-06-03T09:27:00Z",
-    "content": "CHARLOTTE, N.C., June 3, 2026 /PRNewswire/ -- APEX Anesthesia Review, a TrueLearn brand, surveyed 634 Certified Registered Nurse Anesthetists (CRNAs) and Student Registered Nurse Anesthetists (SRNAs)… [+7416 chars]"
+    "author": "Krishnakumar Vaithianathan",
+    "title": "Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization",
+    "description": "Neurodegenerative disorders such as Alzheimer's disease exhibit highly organized patterns of regional brain vulnerability, yet the biological mechanisms underlying this spatial selectivity remain incompletely understood. Existing imaging-transcriptomic studie…",
+    "url": "https://arxiv.org/abs/2606.05870",
+    "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "publishedAt": "2026-06-04T08:45:45Z",
+    "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "GlobeNewswire"
+      "name": "Aoav.org.uk"
     },
-    "author": "SNS Insider pvt ltd",
-    "title": "Liquid Biopsy Market to Surpass USD 36.78 Billion by 2035 as Precision Oncology and Cancer Diagnostics Drive Growth – SNS Insider",
-    "description": "U.S. Liquid Biopsy Market Expected to Hit USD 19.22 Billion by 2035; Europe Market Projected to Reach USD 9.18 Billion Amid Precision Oncology Expansion U.S. Liquid Biopsy Market Expected to Hit USD 19.22 Billion by 2035; Europe Market Projected to Reach USD …",
-    "url": "https://www.globenewswire.com/news-release/2026/06/03/3305830/0/en/Liquid-Biopsy-Market-to-Surpass-USD-36-78-Billion-by-2035-as-Precision-Oncology-and-Cancer-Diagnostics-Drive-Growth-SNS-Insider.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "publishedAt": "2026-06-03T09:24:00Z",
-    "content": "Austin, United States, June 03, 2026 (GLOBE NEWSWIRE) -- The Liquid Biopsy Market size was valued at USD 6.39 Billion in 2025 and is projected to reach USD 36.78 Billion by 2035, growing at a CAGR of… [+10186 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "PTI",
-    "title": "Heat waves demand more than just water for proper hydration; electrolytes intake necessary: Experts",
-    "description": "Health experts warn that during heat waves, water alone is not enough for hydration. Excessive sweating depletes essential electrolytes like sodium and potassium. This loss can lead to dizziness, fatigue, and muscle cramps. For vulnerable individuals, dehydra…",
-    "url": "https://economictimes.indiatimes.com/news/india/heat-waves-demand-more-than-just-water-for-proper-hydration-electrolytes-intake-necessary-experts/articleshow/131480761.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-131480807,width-1200,height-630,imgsize-30278,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-06-03T09:22:25Z",
-    "content": "When temperatures soar and heat waves become more intense, drinking water alone may not be sufficient to keep the body properly hydrated, particularly as excessive sweating leads to the loss of essen… [+3303 chars]"
+    "author": "Iain Overton",
+    "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+    "description": "Here AOAV finds that UK media outlets frequently present retired senior military figures as independent defence experts without disclosing their commercial ties to defence, security, intelligence, and technology industries, potentially obscuring conflicts of …",
+    "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+    "urlToImage": "https://aoav.org.uk/wp-content/uploads/2026/06/94aa5864-202c-4ce6-bc93-8387120c4ade.jpg",
+    "publishedAt": "2026-06-04T08:45:36Z",
+    "content": "This report reveals how retired senior British military figures are frequently presented in the UK media as purely independent experts on defence and security matters without mention of their persona… [+42686 chars]"
   },
   {
     "source": {
@@ -70,90 +57,25 @@
       "name": "The Times of India"
     },
     "author": "Team Global",
-    "title": "In 1987, a student set out to fix a Mac problem, but the code spiraled out of control, and he ended up creating Photoshop",
-    "description": "A simple fix for a grayscale problem by Thomas Knoll led to the creation of Photoshop. His brother John saw its potential, and together they developed an integrated image editing application. Rejected by many, Adobe acquired the rights, releasing Photoshop 1.…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/in-1987-a-student-set-out-to-fix-a-mac-problem-but-the-code-spiraled-out-of-control-and-he-ended-up-creating-photoshop/articleshow/131480135.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-131480380,width-1200,height-630,imgsize-1517678,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-06-03T09:14:23Z",
-    "content": "Thomas Knoll wasnt looking for greatness in 1987. He was just annoyed.The University of Michigan PhD student was deep into his computer vision research when he ran into a wall: his Macintosh Plus cou… [+4666 chars]"
+    "title": "An employee requested an ergonomic chair for severe back pain, but his toxic boss treated the request like a 'code red' violation",
+    "description": "An employee's quest for a pain-relieving ergonomic chair led to a protracted dispute with HR, marked by shifting explanations from management. Despite providing a doctor's note and highlighting the inadequacy of a replacement chair, the company's inconsistent…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/an-employee-requested-an-ergonomic-chair-for-severe-back-pain-but-his-toxic-boss-treated-the-request-like-a-code-red-violation/articleshow/131500613.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131500790,width-1200,height-630,imgsize-1275122,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-06-04T08:44:15Z",
+    "content": "What started as one employees attempt to manage serious back pain turned into a weeks-long standoff with HR, a rotating list of explanations from management, and a Reddit post that has people asking:… [+4142 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
+      "id": "business-insider",
+      "name": "Business Insider"
     },
-    "author": "https://www.mindbodygreen.com/wc/zhan-slambee",
-    "title": "The Reason You're Exhausted May Show Up In This Rarely Measured Blood Test",
-    "description": "Low iron could be the hidden reason you feel tired all the time.",
-    "url": "https://www.mindbodygreen.com/articles/real-reason-youre-exhausted-might-show-up-in-your-blood-work",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/fn6p1y9ixjxmbiefy.jpg",
-    "publishedAt": "2026-06-03T09:13:00Z",
-    "content": "When your energy tanks or your motivation goes flat, the usual suspects of poor sleep, too much stress, or not enough downtime often get the blame. But recent research in Nutrients1\r\nsuggests there m… [+7977 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Arkansas Online"
-    },
-    "author": "Josh Funk And Mike Stobbe The Associated Press",
-    "title": "5 US cruise ship passengers leave facility",
-    "description": "OMAHA, Neb. -- Five of the 18 American cruise ship passengers who have been staying at a national quarantine facility in Nebraska after being exposed to hantavirus are going home, U.S. health officials said Monday.",
-    "url": "https://www.arkansasonline.com/news/2026/jun/03/5-us-cruise-ship-passengers-leave-facility/",
-    "urlToImage": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/212984065_212980540-5839b76671314e78aa26306c71b34217_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-    "publishedAt": "2026-06-03T09:07:48Z",
-    "content": "Let us read it for you. Listen now.\r\nYour browser does not support the audio element.\r\nOMAHA, Neb. -- Five of the 18 American cruise ship passengers who have been staying at a national quarantine fac… [+2833 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Military.com"
-    },
-    "author": "Haley Fuller",
-    "title": "2027 NDAA Provision Seeks Sweeping US-Israel Defense Tech Integration",
-    "description": "Critics warn that Section 224 could deepen both countries' military ties, which may be difficult to reverse.",
-    "url": "https://military.com/2027-ndaa-provision-seeks-sweeping-us-israel-defense-tech-integration",
-    "urlToImage": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2025-04/ApNewsroom_APTOPIX_US_Israel_60418.jpg?w=1600&h=900&fit=crop",
-    "publishedAt": "2026-06-03T09:00:16Z",
-    "content": "A provision tucked into the House Armed Services Committees draft version of the Fiscal Year 2027 defense policy bill could move the U.S.-Israel military relationship beyond traditional aid and into … [+10112 chars]"
-  },
-  {
-    "source": {
-      "id": "the-next-web",
-      "name": "The Next Web"
-    },
-    "author": "Ana-Maria Stanciuc",
-    "title": "Apoha emerges from stealth with $36M to teach machines how matter behaves",
-    "description": "Science can already tell you what a molecule is and what it looks like. What it has never been able to tell you, cheaply and at scale, is how the thing behaves once it meets the messy conditions of the real world. That gap is where drugs quietly fail in trial…",
-    "url": "https://thenextweb.com/news/apoha-stealth-36m-liquid-state-intelligence/",
-    "urlToImage": "https://media.thenextweb.com/2026/06/Apoha.avif",
-    "publishedAt": "2026-06-03T09:00:13Z",
-    "content": "Science can already tell you what a molecule is and what it looks like. What it has never been able to tell you, cheaply and at scale, is how the thing behaves once it meets the messy conditions of t… [+3712 chars]"
-  },
-  {
-    "source": {
-      "id": "cbs-news",
-      "name": "CBS News"
-    },
-    "author": null,
-    "title": "Upcoming billing change could make pregnancy pricier",
-    "description": "Come January, pregnancy care physician billing codes will change from a bundled system to an à la carte one.",
-    "url": "https://www.cbsnews.com/news/healthcare-billing-change-pregnancy-cost/",
-    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/02/e339d11c-781a-4b93-8cbf-a9ddd41be1ce/thumbnail/1200x630/6e912e6615a39cc82d73391dc05f8bc2/gettyimages-1756326520.jpg",
-    "publishedAt": "2026-06-03T09:00:08Z",
-    "content": "Having a baby in the United States is about to get more complicated.\r\nUnder new billing codes that take effect in January, doctors who manage maternity care will start charging à la carte for visits … [+9821 chars]"
-  },
-  {
-    "source": {
-      "id": "the-washington-post",
-      "name": "The Washington Post"
-    },
-    "author": "Ariana Eunjung Cha and Christopher Rowland, (c) 2026 , The Washington Post",
-    "title": "The science around GLP-1 drugs and cancer is suddenly getting a lot more interesting",
-    "description": "The story of GLP-1 drugs keeps getting bigger. First they transformed the treatment of diabetes. Then they upended the science - and culture - of weight loss...",
-    "url": "https://washingtonpost.com/health/2026/06/03/science-around-glp-1-drugs-cancer-is-suddenly-getting-lot-more-interesting/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/447898752ad78f927773edcee5dc4ca499eab15e4669979dfbcf98d41ef55c37/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_post_articles_265%2F5fc713dfbd6e677c78caceb637ddc2d9",
-    "publishedAt": "2026-06-03T09:00:00Z",
-    "content": "The story of GLP-1 drugs keeps getting bigger.\r\nFirst they transformed the treatment of diabetes. Then they upended the science - and culture - of weight loss. Now a growing body of research is raisi… [+10009 chars]"
+    "author": "Emily Stewart",
+    "title": "We should all know less about our bodies",
+    "description": "Americans are spending $100 billion on wellness apps and health trackers — but the rise in self-data may end up just stressing people out.",
+    "url": "https://www.businessinsider.com/wellness-tracking-apps-sleep-score-stress-hurting-health-2026-6",
+    "urlToImage": "https://i.insider.com/6a2075562ab5f9757add8dda?width=1200&format=jpeg",
+    "publishedAt": "2026-06-04T08:43:01Z",
+    "content": "Katie Anne Hayes felt like her Garmin watch was giving her a lot of valuable information, at least at first. She took particular interest in the \"Body Battery\" feature, which purports to tell users h… [+14118 chars]"
   },
   {
     "source": {
@@ -161,89 +83,167 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Lowcountry Male and Aqua Vitae Announce New Clinic Opening in Athens as Brands Celebrate 10 Years in Business",
-    "description": "ATHENS, Ga., June 3, 2026 /PRNewswire/ -- Lowcountry Male and Aqua Vitae are proud to announce the opening of their newest clinic location in Athens on June 1, marking the company's ninth clinic overall and second location in the state of Georgia following th…",
-    "url": "https://www.prnewswire.com/news-releases/lowcountry-male-and-aqua-vitae-announce-new-clinic-opening-in-athens-as-brands-celebrate-10-years-in-business-302788959.html",
+    "title": "World's First CLDN18.2 ADC for Regulatory Review: Innovent Biologics Announces IBI343 (arcotatug tavatecan) Met Primary Endpoint in International Phase 3 Study in Advanced Refractory Gastric Cancer and NDA Accepted by China NMPA",
+    "description": "SAN FRANCISCO and SUZHOU, China, June 4, 2026 /PRNewswire/ -- Innovent Biologics, Inc. (\"Innovent\") (HKEX: 01801), a world-class biopharmaceutical company that develops, manufactures and commercializes high quality medicines for the treatment of oncology, car…",
+    "url": "https://www.prnewswire.com/news-releases/worlds-first-cldn18-2-adc-for-regulatory-review-innovent-biologics-announces-ibi343-arcotatug-tavatecan-met-primary-endpoint-in-international-phase-3-study-in-advanced-refractory-gastric-cancer-and-nda-accepted-by-china-nmpa-302791220.html",
     "urlToImage": null,
-    "publishedAt": "2026-06-03T09:00:00Z",
-    "content": "ATHENS, Ga., June 3, 2026 /PRNewswire/ -- Lowcountry Male and Aqua Vitae are proud to announce the opening of their newest clinic location in Athens on June 1, marking the company's ninth clinic over… [+4038 chars]"
+    "publishedAt": "2026-06-04T08:35:00Z",
+    "content": "SAN FRANCISCO and SUZHOU, China, June 4, 2026 /PRNewswire/ -- Innovent Biologics, Inc. (\"Innovent\") (HKEX: 01801), a world-class biopharmaceutical company that develops, manufactures and commercializ… [+9696 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "etimes.in",
+    "title": "This Astronaut lost his speech, a medical mystery in space that changed his life",
+    "description": "Astronaut Mike Fincke experienced a sudden, unexplained loss of speech during his fourth ISS mission, prompting an early return to Earth. This unprecedented event has NASA and space medicine experts investigating how microgravity impacts human physiology, par…",
+    "url": "https://timesofindia.indiatimes.com/etimes/trending/this-astronaut-lost-his-speech-a-medical-mystery-in-space-that-changed-his-life/articleshow/131499880.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-131500345,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-06-04T08:02:44Z",
+    "content": "Follow Us On Social Media"
   },
   {
     "source": {
       "id": null,
-      "name": "Kffhealthnews.org"
+      "name": "GlobeNewswire"
     },
-    "author": "Brett Kelman, Darius Tahir",
-    "title": "At a Tennessee Hospital, a Nurse Stole Fentanyl and AI Missed It, State Records Say",
-    "description": "Sentri7, drug diversion software powered by artificial intelligence and used at hundreds of U.S. hospitals, did not catch a months-long string of fentanyl thefts in Tennessee in 2025, according to a state document.",
-    "url": "https://kffhealthnews.org/health-industry/ai-drug-diversion-theft-artificial-intelligence-hospitals-sentri7-software-tennessee/",
-    "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/05/Erlanger_3840x2560web.jpg",
-    "publishedAt": "2026-06-03T09:00:00Z",
-    "content": "About a year ago at Erlanger Baroness, the largest hospital in Chattanooga, anesthesia staff noticed that a nurse was slurring his words and struggling to stay awake while on duty in the surgery cent… [+9935 chars]"
+    "author": "Alvotech",
+    "title": "Alvotech announces resubmission of U.S. Biologics License Applications for AVT05, a proposed biosimilar to Simponi® and Simponi Aria®, and AVT06, a proposed biosimilar to Eylea®",
+    "description": "REYKJAVIK, Iceland, June 4, 2026 - Alvotech (NASDAQ: ALVO; ALVO-SDB), a global biotechnology company specializing in the development and manufacture of biosimilar medicines for patients worldwide, today announced the resubmission to the U.S. Food and Drug Adm…",
+    "url": "https://www.globenewswire.com/news-release/2026/06/04/3306551/0/en/Alvotech-announces-resubmission-of-U-S-Biologics-License-Applications-for-AVT05-a-proposed-biosimilar-to-Simponi-and-Simponi-Aria-and-AVT06-a-proposed-biosimilar-to-Eylea.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/17a8091d-68a6-47c1-968e-fcced99f1d44",
+    "publishedAt": "2026-06-04T08:00:00Z",
+    "content": "REYKJAVIK, Iceland, June 4, 2026 - Alvotech (NASDAQ: ALVO; ALVO-SDB), a global biotechnology company specializing in the development and manufacture of biosimilar medicines for patients worldwide, to… [+8157 chars]"
   },
   {
     "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
+      "id": null,
+      "name": "PRNewswire"
     },
     "author": null,
-    "title": "IWK leans on Nova Scotia Health for radiology help amid shortage",
-    "description": "The IWK Health Centre is leaning on colleagues at Nova Scotia Health as the Halifax hospital contends with an ongoing shortage of radiologists and works through the result of a workplace assessment in an effort to “rebuild” its diagnostic imaging department.",
-    "url": "https://www.cbc.ca/news/canada/nova-scotia/iwk-health-centre-radiologists-diagnostic-imaging-9.7219463",
-    "urlToImage": "https://i.cbc.ca/ais/1.6404173,1648754683000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C629%2C6000%2C3375%29%3BResize%3D620",
-    "publishedAt": "2026-06-03T09:00:00Z",
-    "content": "The IWK Health Centre is leaning on colleagues at Nova Scotia Health as officials at the Halifax hospital contend with an ongoing shortage of radiologists and work through the result of a workplace a… [+2423 chars]"
+    "title": "111, Inc. Announces First Quarter 2026 Unaudited Financial Results",
+    "description": "Continuing Transition toward a More Asset-Light and Operationally Efficient Business Model Net Revenue of Promotional Products (1) Increased by 70.2% and Gross Profit Rose by 75.0% Year-over-Year Total Marketplace (MP) Service Revenue Increased by 24.7% Year-…",
+    "url": "https://www.prnewswire.com/news-releases/111-inc-announces-first-quarter-2026-unaudited-financial-results-302791140.html",
+    "urlToImage": null,
+    "publishedAt": "2026-06-04T08:00:00Z",
+    "content": "<ul><li>Continuing Transition toward a More Asset-Light and Operationally Efficient Business Model</li><li>Net Revenue of Promotional Products(1) Increased by 70.2% and Gross Profit Rose by 75.0% Yea… [+34210 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "New York Post"
+      "name": "Prtimes.jp"
     },
-    "author": "Chris Bradford",
-    "title": "Miami biotech executive was followed into his condo by man who allegedly threw him from 25th floor",
-    "description": "A Miami biotech executive was followed into the skyscraper where he lived by the man, accused of pushing him off the building’s 25th floor, newly-released surveillance video shows.  Justin Zelin, 35, was seen walking into Miami Beach’s 47-story Akoya Condomin…",
-    "url": "https://nypost.com/2026/06/03/us-news/miami-biotech-executive-justin-zelin-was-followed-into-his-condo-by-man-who-allegedly-threw-him-from-its-25th-floor/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/06/129577396.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-06-03T08:44:59Z",
-    "content": "A Miami biotech executive was followed into the skyscraper where he lived by the man, accused of pushing him off the buildings 25th floor, newly-released surveillance video shows. \r\nJustin Zelin, 35,… [+3464 chars]"
+    "author": null,
+    "title": "biomy、10x Genomics社とパートナーシップを締結-Xeniumプラットフォームを活用し、AI駆動型 Virtual Cellの進展へ-",
+    "description": "[株式会社biomy]\n[画像: https://prcdn.freetls.fastly.net/release_image/82088/12/82088-12-3bcd6f51f94b5ce12da72cb43e2010d8-1602x362.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000082088.html",
+    "urlToImage": "https://prcdn.freetls.fastly.net/release_image/82088/12/82088-12-3bcd6f51f94b5ce12da72cb43e2010d8-1602x362.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "publishedAt": "2026-06-04T07:41:05Z",
+    "content": "2026 64AIbiomy biomy10x GenomicsNASDAQ: TXG10x GenomicsXeniumVirtual Cell\r\nbiomy10x GenomicsXenium in situVirtual Cell\r\nAI\r\nbiomyAI10x Genomics\r\nbiomy  XeniumAIXeniumAIVirtual Cell\r\n10x Genomics Vice… [+3163 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Christiantoday.com"
+      "name": "Gossiplankanews.com"
     },
-    "author": "Lois McLatchie",
-    "title": "Britain doesn’t need another national conversation about death, it needs hope",
-    "description": "The answer to a lonely, anxious and exhausted nation is not to make death easier. It is to build a society where fewer people feel that death is their best option in the first place.",
-    "url": "https://www.christiantoday.com/news/britain-doesnt-need-another-national-conversation-about-death-it-needs-hope",
-    "urlToImage": "https://www.christiantoday.com/media/original/thumbnail/14/50/145030.jpg",
-    "publishedAt": "2026-06-03T08:41:00Z",
-    "content": "(Photo: Getty/iStock)\r\nLast week, as part of the start of the new parliamentary term, a random selection of 20 MPs were drawn from a ballot and given the opportunity of a lifetime - to submit a Priva… [+5224 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "CMI MARKET RESEARCH PRIVATE LIMITED",
-    "title": "[Latest] Global CRISPR-based Gene Editing Market Size/Share Worth USD 12.6 Billion by 2034 at a 13.01% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
-    "description": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global CRISPR-based Gene Editing Market size & share revenue was valued at approximately USD 3.65 Billion in 2024 and is expected to re…",
-    "url": "https://www.globenewswire.com/news-release/2026/06/03/3305813/0/en/Latest-Global-CRISPR-based-Gene-Editing-Market-Size-Share-Worth-USD-12-6-Billion-by-2034-at-a-13-01-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segm.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
-    "publishedAt": "2026-06-03T08:30:00Z",
-    "content": "Austin, TX, USA, June 03, 2026 (GLOBE NEWSWIRE) -- Custom Market Insights has published a new research report titled CRISPR-based Gene Editing Market Size, Trends and Insights By Product (Kits and Re… [+24134 chars]"
+    "author": "noreply@blogger.com (Unknown)",
+    "title": "A doubt remains whether deaths occurred from the use of the drug, even after the company in the substandard medicine case was changed.",
+    "description": "Testifying before the Permanent Three-Judge High Court regarding the controversial case of importing substandard drugs, Ms. Diana Nishanthi Devasurendra, Accountant and Acting Deputy General Manager of the State Pharmaceuticals Corporation, stated that it is …",
+    "url": "https://english.gossiplankanews.com/2026/06/a-doubt-remains-whether-deaths-occurred.html",
+    "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vopDSm0eHHsydAELrHE0z3-K6h1sriW11y7c12zHESfbIRXhmXpLGJ3IbWVra4q8e3UAXJaiC8KE6ij4lXHWypxQuvtVCfbGNqsrGpjgkw1dD4p8lcoGgd4vSGDr2ipOBUIjImLrwynqVdtgIWpdjaVSrVn_B_1tuVcgo=w1600",
+    "publishedAt": "2026-06-04T07:30:31Z",
+    "content": "Testifying before the Permanent Three-Judge High Court regarding the controversial case of importing substandard drugs, Ms. Diana Nishanthi Devasurendra, Accountant and Acting Deputy General Manager … [+3610 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "GlobeNewswire"
     },
-    "author": "New Anglia University",
-    "title": "New Anglia University: Is Spending Six Years Abroad Still the Best Route Into Medicine?",
-    "description": "New Anglia University examines changing medical education pathways, including international medical education and NHS clinical experience....",
-    "url": "https://www.globenewswire.com/news-release/2026/06/03/3305809/0/en/New-Anglia-University-Is-Spending-Six-Years-Abroad-Still-the-Best-Route-Into-Medicine.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/c4a7a0f2-fc15-40c2-902d-372e5ca0c74d",
-    "publishedAt": "2026-06-03T08:06:00Z",
-    "content": "George Hill, Anguilla, 3 June 2026 -- New Anglia University\r\n considers whether a modern pathway combining UK academic study, focused international medical training, and NHS clinical experience may b… [+7919 chars]"
+    "author": "DaltonTx",
+    "title": "DaltonTx launches its drug discovery platform, Dalton, and announces Sygnature Discovery collaboration",
+    "description": "DaltonTx launches its drug discovery platform, Dalton, and announces Sygnature Discovery collaboration...",
+    "url": "https://www.globenewswire.com/news-release/2026/06/04/3306539/0/en/DaltonTx-launches-its-drug-discovery-platform-Dalton-and-announces-Sygnature-Discovery-collaboration.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/b5f1bc68-6e8a-4687-9b7b-23a9dbd35318",
+    "publishedAt": "2026-06-04T07:30:00Z",
+    "content": "<ul><li>Dalton is a drug discovery platform integrating agentic AI, human expertise, and experimental data, into one continuous learning engine</li><li>Announces collaboration with Sygnature Discover… [+6210 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "Nial Wheate, Professor, School of Natural Sciences, Macquarie University",
+    "title": "Low-dose Zoladex won’t be available in Australia from November. What might that mean for you?",
+    "description": "This drug is used to treat endometriosis and some breast cancers, but will soon be stripped from Australian shelves.",
+    "url": "https://theconversation.com/low-dose-zoladex-wont-be-available-in-australia-from-november-what-might-that-mean-for-you-284539",
+    "urlToImage": "https://images.theconversation.com/files/739957/original/file-20260604-57-i0z4yn.jpg?ixlib=rb-4.1.0&rect=0%2C94%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-06-04T07:23:11Z",
+    "content": "Tom Werner/Getty\r\nThe drug goserelin – commonly known as Zoladex – has been a quietly crucial medicine in Australia for decades. \n\nThis prescription medicine is used to suppress sex hormones, and is … [+5323 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": null,
+    "title": "molecode added to PyPI",
+    "description": "An LLM-native, graph-explicit molecular language (Mermaid-based) for molecules, polymers, and Markush structures.",
+    "url": "https://pypi.org/project/molecode/",
+    "urlToImage": null,
+    "publishedAt": "2026-06-04T07:06:26Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ComputerWeekly.com"
+    },
+    "author": "Mark Samuels",
+    "title": "Interview: Clare Hickie, EMEA CTO, Workday",
+    "description": "The IT chief went from implementing Workday software at one of the firm’s largest customers to leading technology at the supplier – she discusses what she learned",
+    "url": "https://www.computerweekly.com/news/366643836/Interview-Clare-Hickie-EMEA-CTO-Workday",
+    "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/Workday-Rugby-Ducellier-Hero.jpg",
+    "publishedAt": "2026-06-04T07:02:00Z",
+    "content": "Clare Hickie, chief technology officer (CTO) for EMEA at Workday, sits in the Customer Experience Centre in the technology firms European headquarters in Dublin and reflects on the characteristics th… [+9858 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Anime News Network"
+    },
+    "author": null,
+    "title": "The Super Mario Galaxy Movie Stays at #2, 3rd Mononoke Film Opens at #6 in Japan",
+    "description": "Detective Conan: Highway no Datenshi stays at #4, live-action Sakamoto Days film drops to #7",
+    "url": "https://www.animenewsnetwork.com/news/2026-06-04/the-super-mario-galaxy-movie-stays-at-no.2-3rd-mononoke-film-opens-at-no.6-in-japan/.238052",
+    "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/news.9/236241/mononoke-3-main-visual.jpg",
+    "publishedAt": "2026-06-04T07:01:27Z",
+    "content": "Image via Nintendo of America's website\r\n© 2026 Nintendo and Universal Studios\r\nThe Super Mario Galaxy MovieNintendo, Illumination, and Universal Pictures' sequel to The Super Mario Bros. Movie  stay… [+5816 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Ona Therapeutics",
+    "title": "Ona Therapeutics Raises $86.6 Million Series B to Advance First-in-Class ADCs into Clinical Development",
+    "description": "Ona Therapeutics closes oversubscribed $86.6M Series B financing to advance first-in-class ADCs into clinical development for treatment-resistant cancers...",
+    "url": "https://www.globenewswire.com/news-release/2026/06/04/3306533/0/en/Ona-Therapeutics-Raises-86-6-Million-Series-B-to-Advance-First-in-Class-ADCs-into-Clinical-Development.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/4e775e5e-67c5-4928-8c99-009e4495e617",
+    "publishedAt": "2026-06-04T07:00:00Z",
+    "content": "<ul><li>Oversubscribed Series B financing co-led by new investors Columbus Venture Partners and Mérieux Equity Partners, with participation from additional investors COFIDES and Korys, alongside all … [+8186 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Sarah Rainey",
+    "title": "As Sainsbury's dramatically STOPS selling brown eggs, Mail investigation reveals startling truth about what really goes into creating the wholesome looking shell and deep, golden yolk of middle-class favourite, Burford Browns",
+    "description": "Shoppers have been dismayed by reports that the eggs - not cheap at £4 for six large ones - are being taken out of their boxes and swapped with cheaper varieties.",
+    "url": "https://www.dailymail.com/lifestyle/food-drink/article-15652041/dark-reality-Burford-Brown-eggs-yolks.html",
+    "urlToImage": "https://i.dailymail.co.uk/1s/2026/03/16/21/107186671-0-image-m-33_1773698234576.jpg",
+    "publishedAt": "2026-06-04T06:58:58Z",
+    "content": "In the baking aisle of my local supermarket they are right at the top of the pecking order. But it seems the ­sunshine-hued box and deep brown speckled shell of a Burford Brown the egg of choice for … [+8545 chars]"
   }
 ]
