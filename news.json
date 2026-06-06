@@ -1,81 +1,81 @@
 [
   {
     "source": {
-      "id": "news24",
-      "name": "News24"
+      "id": null,
+      "name": "GlobeNewswire"
     },
-    "author": "Marcus Low and Elri Voigt",
-    "title": "News24 | IN THE SPOTLIGHT | All you need to know about the jab that could dramatically reduce new HIV infections in SA",
-    "description": "In this special briefing, Spotlight pulls together all you need to know about a “breakthrough” HIV prevention jab, which will become available at some of South Africa’s public sector clinics for the first time on 5 June.",
-    "url": "https://www.news24.com/southafrica/health-news/in-the-spotlight-all-you-need-to-know-about-the-jab-that-could-dramatically-reduce-new-hiv-infections-in-sa-20260604-0470",
-    "urlToImage": "https://news24cobalt.24.co.za/resources/02a6-20c962897d2d-f4bd320dbce5-1000/format/inline/lenacapavir.jpeg",
-    "publishedAt": "2026-06-04T08:58:59Z",
-    "content": "In this special briefing, Spotlight pulls together all you need to know about a breakthrough HIV prevention jab, which will become available at some of South Africas public sector clinics for the fir… [+13747 chars]"
+    "author": "Research and Markets",
+    "title": "Europe Healthcare Analytics Market Surges to USD 40.07 Billion by 2031, Driven by EHDS and AI Adoption",
+    "description": "Key opportunities in the Europe Healthcare Analytics Market include leveraging the EHDS framework for cross-border data sharing, capitalizing on growing AI and cloud-native analytics adoption, and meeting GDPR and regulatory compliance demands. This positions…",
+    "url": "https://www.globenewswire.com/news-release/2026/06/05/3307226/28124/en/Europe-Healthcare-Analytics-Market-Surges-to-USD-40-07-Billion-by-2031-Driven-by-EHDS-and-AI-Adoption.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "publishedAt": "2026-06-05T08:19:00Z",
+    "content": "Dublin, June 05, 2026 (GLOBE NEWSWIRE) -- The \"Europe Healthcare Analytics Market\" has been added to ResearchAndMarkets.com's offering.\r\nThe Europe Healthcare Analytics Market has soared to become th… [+9224 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Www.gov.uk"
+      "name": "Antaranews.com"
     },
-    "author": "Veterinary Medicines Directorate",
-    "title": "Bravecto 150 mg/ml Powder and Solvent for Suspension for Injection for Dogs – SPC change",
-    "description": "Change to the information provided on adverse events in the Summary of Product Characteristics (SPC).",
-    "url": "https://www.gov.uk/government/news/bravecto-150-mgml-powder-and-solvent-for-suspension-for-injection-for-dogs-spc-change",
-    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-06-04T08:51:19Z",
-    "content": "Following monitoring of pharmacovigilance data, the Summary of Product Characteristics (SPC) for Bravecto 150 mg/ml Powder and Solvent for Suspension for Injection for Dogs has been updated:\r\nEmesis … [+2165 chars]"
+    "author": "PR Wire",
+    "title": "Everest Medicines Enters into Exclusive Licensing Agreement with Travere Therapeutics for Civorebrutinib a Potential Best-in-Class BTK Inhibitor for Rare Kidney Diseases, Driving Value Conversion",
+    "description": "Everest Medicines (HKEX 1952.HK) announced that it has entered into an exclusive licensing and collaboration agreement with Travere Therapeutics, Inc. ...",
+    "url": "https://en.antaranews.com/news/418093/everest-medicines-enters-into-exclusive-licensing-agreement-with-travere-therapeutics-for-civorebrutinib-a-potential-best-in-class-btk-inhibitor-for-rare-kidney-diseases-driving-value-conversion",
+    "urlToImage": "https://img.antaranews.com/cache/1200x800/no-image.jpg",
+    "publishedAt": "2026-06-05T08:16:42Z",
+    "content": "Hong Kong (ANTARA/ACN Newswire) -Everest Medicines (HKEX 1952.HK) announced that it has entered into an exclusive licensing and collaboration agreement with Travere Therapeutics, Inc. (NASDAQ: TVTX) … [+5932 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Marco Quiroz-Gutierrez",
+    "title": "AI CEOs from OpenAI, Anthropic, and Microsoft set aside their rivalry to warn Congress AI is making it too easy to design and create bioweapons",
+    "description": "Altman and Amodei signed a letter asking Congress to mandate screening for synthetic DNA sales as AI makes creating a bioweapon easier.",
+    "url": "https://fortune.com/2026/06/05/openai-anthropic-microsoft-ceos-congress-bioweapon-safeguards/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2265991617-1-e1780603648257.jpg?resize=1200,600",
+    "publishedAt": "2026-06-05T08:14:00Z",
+    "content": "The CEOs of some of the biggest AI companies in the world have set aside their cutthroat competition to co-sign an open letter to Congress asking for more safeguards against a threat that their own t… [+4678 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Clancy Balen",
+    "title": "Doctor's 'grossly irresponsible' prescribing played role in two deaths, coroner finds",
+    "description": "A coroner has found a doctor's prescription of drugs to two drug-dependent patients had a \"direct causative role\" in their deaths. Their report says the doctor had a \"permissive approach to opioid prescribing\" for more than two decades.",
+    "url": "https://www.abc.net.au/news/2026-06-05/tasmanian-doctor-david-jackson-opioid-deaths-coronial/106765690",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/634eb5b91266c0a2b8cdad64362c3b2f?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-06-05T08:03:25Z",
+    "content": "A former medical practitioner's \"grossly irresponsible\" prescribing played a direct role in the deaths of two drug-dependent people in Tasmania, a coroner has found.\r\nA report by coroner Olivia McTag… [+6557 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Arxiv.org"
+      "name": "Foreign Policy"
     },
-    "author": "Krishnakumar Vaithianathan",
-    "title": "Cross-scale spatially-aware generative modeling of transcriptomic programs underlying neurodegenerative brain organization",
-    "description": "Neurodegenerative disorders such as Alzheimer's disease exhibit highly organized patterns of regional brain vulnerability, yet the biological mechanisms underlying this spatial selectivity remain incompletely understood. Existing imaging-transcriptomic studie…",
-    "url": "https://arxiv.org/abs/2606.05870",
-    "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-    "publishedAt": "2026-06-04T08:45:45Z",
-    "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]"
+    "author": "Anchal Vohra",
+    "title": "Everyone Is Waiting for Trump’s Gaza Plan to Die",
+    "description": "The Board of Peace has been revealed to be so flawed as to be completely unworkable.",
+    "url": "http://foreignpolicy.com/2026/06/05/trump-gaza-peace-board-israel-war/",
+    "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2026/06/GettyImages-2240450951.jpg",
+    "publishedAt": "2026-06-05T07:53:14Z",
+    "content": "In October, U.S. President Donald Trump helped to secure a cease-fire between Hamas and Israel and, amid much fanfare, released a 20-point plan as a blueprint to resolve the intractable conflict. At … [+9651 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Aoav.org.uk"
+      "name": "Geeky Gadgets"
     },
-    "author": "Iain Overton",
-    "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-    "description": "Here AOAV finds that UK media outlets frequently present retired senior military figures as independent defence experts without disclosing their commercial ties to defence, security, intelligence, and technology industries, potentially obscuring conflicts of …",
-    "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-    "urlToImage": "https://aoav.org.uk/wp-content/uploads/2026/06/94aa5864-202c-4ce6-bc93-8387120c4ade.jpg",
-    "publishedAt": "2026-06-04T08:45:36Z",
-    "content": "This report reveals how retired senior British military figures are frequently presented in the UK media as purely independent experts on defence and security matters without mention of their persona… [+42686 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Team Global",
-    "title": "An employee requested an ergonomic chair for severe back pain, but his toxic boss treated the request like a 'code red' violation",
-    "description": "An employee's quest for a pain-relieving ergonomic chair led to a protracted dispute with HR, marked by shifting explanations from management. Despite providing a doctor's note and highlighting the inadequacy of a replacement chair, the company's inconsistent…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/an-employee-requested-an-ergonomic-chair-for-severe-back-pain-but-his-toxic-boss-treated-the-request-like-a-code-red-violation/articleshow/131500613.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-131500790,width-1200,height-630,imgsize-1275122,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-06-04T08:44:15Z",
-    "content": "What started as one employees attempt to manage serious back pain turned into a weeks-long standoff with HR, a rotating list of explanations from management, and a Reddit post that has people asking:… [+4142 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "Emily Stewart",
-    "title": "We should all know less about our bodies",
-    "description": "Americans are spending $100 billion on wellness apps and health trackers — but the rise in self-data may end up just stressing people out.",
-    "url": "https://www.businessinsider.com/wellness-tracking-apps-sleep-score-stress-hurting-health-2026-6",
-    "urlToImage": "https://i.insider.com/6a2075562ab5f9757add8dda?width=1200&format=jpeg",
-    "publishedAt": "2026-06-04T08:43:01Z",
-    "content": "Katie Anne Hayes felt like her Garmin watch was giving her a lot of valuable information, at least at first. She took particular interest in the \"Body Battery\" feature, which purports to tell users h… [+14118 chars]"
+    "author": "Julian Horsey",
+    "title": "Why Project Aura Could Redefine Mixed Reality Glasses In 2026",
+    "description": "Project Aura represents a collaborative effort by XRO, Google and Qualcomm to create a lightweight XR headset that combines Augmented Reality (AR) and Virtual Reality (VR) into a single device. Weighing under 95 grams, the glasses prioritize portability while…",
+    "url": "https://www.geeky-gadgets.com/lightweight-xr-headset-2026/",
+    "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/06/project-aura-glasses.jpg",
+    "publishedAt": "2026-06-05T07:47:00Z",
+    "content": "Project Aura represents a collaborative effort by XRO, Google and Qualcomm to create a lightweight XR headset that combines Augmented Reality (AR) and Virtual Reality (VR) into a single device. Weigh… [+7437 chars]"
   },
   {
     "source": {
@@ -83,38 +83,51 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "World's First CLDN18.2 ADC for Regulatory Review: Innovent Biologics Announces IBI343 (arcotatug tavatecan) Met Primary Endpoint in International Phase 3 Study in Advanced Refractory Gastric Cancer and NDA Accepted by China NMPA",
-    "description": "SAN FRANCISCO and SUZHOU, China, June 4, 2026 /PRNewswire/ -- Innovent Biologics, Inc. (\"Innovent\") (HKEX: 01801), a world-class biopharmaceutical company that develops, manufactures and commercializes high quality medicines for the treatment of oncology, car…",
-    "url": "https://www.prnewswire.com/news-releases/worlds-first-cldn18-2-adc-for-regulatory-review-innovent-biologics-announces-ibi343-arcotatug-tavatecan-met-primary-endpoint-in-international-phase-3-study-in-advanced-refractory-gastric-cancer-and-nda-accepted-by-china-nmpa-302791220.html",
+    "title": "SES AI Corporation Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - SES",
+    "description": "LOS ANGELES, June 5, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against SES AI Corporation (\"SES\" or \"the Company\") (NYSE: SES) for violations of §§10(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 p…",
+    "url": "https://www.prnewswire.com/news-releases/ses-ai-corporation-sued-for-securities-law-violations---contact-the-djs-law-group-to-discuss-your-rights--ses-302792242.html",
     "urlToImage": null,
-    "publishedAt": "2026-06-04T08:35:00Z",
-    "content": "SAN FRANCISCO and SUZHOU, China, June 4, 2026 /PRNewswire/ -- Innovent Biologics, Inc. (\"Innovent\") (HKEX: 01801), a world-class biopharmaceutical company that develops, manufactures and commercializ… [+9696 chars]"
+    "publishedAt": "2026-06-05T07:37:00Z",
+    "content": "LOS ANGELES, June 5, 2026 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against SES AI Corporation (\"SES\" or \"the Company\") (NYSE: SES) for violations of §§10(b) and 2… [+1691 chars]"
   },
   {
     "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
+      "id": "bloomberg",
+      "name": "Bloomberg"
     },
-    "author": "etimes.in",
-    "title": "This Astronaut lost his speech, a medical mystery in space that changed his life",
-    "description": "Astronaut Mike Fincke experienced a sudden, unexplained loss of speech during his fourth ISS mission, prompting an early return to Earth. This unprecedented event has NASA and space medicine experts investigating how microgravity impacts human physiology, par…",
-    "url": "https://timesofindia.indiatimes.com/etimes/trending/this-astronaut-lost-his-speech-a-medical-mystery-in-space-that-changed-his-life/articleshow/131499880.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-131500345,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-06-04T08:02:44Z",
-    "content": "Follow Us On Social Media"
+    "author": "Bloomberg",
+    "title": "Lilly and Novo now look beyond US for obesity drug growth",
+    "description": "Lilly and Novo expand global obesity drug access, introducing new treatments while addressing cost and cultural barriers.",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-05/lilly-and-novo-now-look-beyond-us-for-obesity-drug-growth",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/34qksf/article71064416.ece/alternates/LANDSCAPE_1200/2026-04-01T154806Z_84440404_RC2NXGA0ZGTR_RTRMADP_3_HEALTH-OBESITY-ELI-LILLY.JPG",
+    "publishedAt": "2026-06-05T07:02:47Z",
+    "content": "Obesity patients at Juan Manuel Esparza Lunas clinic in Chihuahua, Mexico, have options to slim down, with access to Novo Nordisk A/S and Eli Lilly &amp; Co.s blockbuster shots. But many leave his of… [+4825 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rochester Democrat and Chronicle"
+    },
+    "author": "Mike Murphy, Rochester Democrat and Chronicle",
+    "title": "Big cash prizes await at the Canandaigua Lake derby",
+    "description": "The 45th annual Canandaigua Lake Trout Derby returns June 6 and 7 with cash prizes and a new youth division.",
+    "url": "https://www.democratandchronicle.com/story/news/2026/06/05/canandaigua-lake-derby-offers-cash-for-big-catches/90357839007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ucIeAGnjguU4JdE_G.2Wig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05ODk7Y2Y9d2VicA--/https://media.zenfs.com/en/democrat-and-chronicle/28c0fcb39b849d2f9cb1db2ce5d76d91",
+    "publishedAt": "2026-06-05T07:00:27Z",
+    "content": "Heres something about the Canandaigua Lake Trout Derby that Jon Betrus would like to clear up.\r\nYou dont have to catch lake trout to win a prize in the 45th annual derby, which will be from 5 a.m. to… [+3075 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "GlobeNewswire"
     },
-    "author": "Alvotech",
-    "title": "Alvotech announces resubmission of U.S. Biologics License Applications for AVT05, a proposed biosimilar to Simponi® and Simponi Aria®, and AVT06, a proposed biosimilar to Eylea®",
-    "description": "REYKJAVIK, Iceland, June 4, 2026 - Alvotech (NASDAQ: ALVO; ALVO-SDB), a global biotechnology company specializing in the development and manufacture of biosimilar medicines for patients worldwide, today announced the resubmission to the U.S. Food and Drug Adm…",
-    "url": "https://www.globenewswire.com/news-release/2026/06/04/3306551/0/en/Alvotech-announces-resubmission-of-U-S-Biologics-License-Applications-for-AVT05-a-proposed-biosimilar-to-Simponi-and-Simponi-Aria-and-AVT06-a-proposed-biosimilar-to-Eylea.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/17a8091d-68a6-47c1-968e-fcced99f1d44",
-    "publishedAt": "2026-06-04T08:00:00Z",
-    "content": "REYKJAVIK, Iceland, June 4, 2026 - Alvotech (NASDAQ: ALVO; ALVO-SDB), a global biotechnology company specializing in the development and manufacture of biosimilar medicines for patients worldwide, to… [+8157 chars]"
+    "author": "Fangzhou Inc.",
+    "title": "Fangzhou Showcases AI-Powered Chronic Disease Management Solution With Tencent Health at Tencent Cloud Conference",
+    "description": "Fangzhou showcased its “AI + Chronic Disease Services” digital solution developed in collaboration with Tencent Health. ...",
+    "url": "https://www.globenewswire.com/news-release/2026/06/05/3307200/0/en/Fangzhou-Showcases-AI-Powered-Chronic-Disease-Management-Solution-With-Tencent-Health-at-Tencent-Cloud-Conference.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/890b76fd-e188-4849-8089-53196a727bc3",
+    "publishedAt": "2026-06-05T06:48:00Z",
+    "content": "BEIJING, June 05, 2026 (GLOBE NEWSWIRE) -- Fangzhou Inc. (Fangzhou or the Company) (HKEX: 06086), a leading provider of AIdriven Internet healthcare solutions, attended the 2026 Tencent Cloud AI Indu… [+4053 chars]"
   },
   {
     "source": {
@@ -122,128 +135,115 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "111, Inc. Announces First Quarter 2026 Unaudited Financial Results",
-    "description": "Continuing Transition toward a More Asset-Light and Operationally Efficient Business Model Net Revenue of Promotional Products (1) Increased by 70.2% and Gross Profit Rose by 75.0% Year-over-Year Total Marketplace (MP) Service Revenue Increased by 24.7% Year-…",
-    "url": "https://www.prnewswire.com/news-releases/111-inc-announces-first-quarter-2026-unaudited-financial-results-302791140.html",
-    "urlToImage": null,
-    "publishedAt": "2026-06-04T08:00:00Z",
-    "content": "<ul><li>Continuing Transition toward a More Asset-Light and Operationally Efficient Business Model</li><li>Net Revenue of Promotional Products(1) Increased by 70.2% and Gross Profit Rose by 75.0% Yea… [+34210 chars]"
+    "title": "SES Investors Have Opportunity to Lead SES AI Corporation Securities Fraud Lawsuit with the Schall Law Firm",
+    "description": "LOS ANGELES, June 5, 2026 /PRNewswire/ -- The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against SES AI Corporation (\"SES\" or \"the Company\") (NYSE: SES) for violations of §§10(b) and 20(a) of th…",
+    "url": "https://www.prnewswire.com/news-releases/ses-investors-have-opportunity-to-lead-ses-ai-corporation-securities-fraud-lawsuit-with-the-schall-law-firm-302792233.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1240463/Schall-Firm_Logo.jpg?id=OA2669915&p=facebook",
+    "publishedAt": "2026-06-05T06:31:00Z",
+    "content": "LOS ANGELES, June 5, 2026 /PRNewswire/ -- The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against SES AI Corporation (\"SES\" or \"the Com… [+1868 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Prtimes.jp"
+      "name": "Alltoc.com"
     },
-    "author": null,
-    "title": "biomy、10x Genomics社とパートナーシップを締結-Xeniumプラットフォームを活用し、AI駆動型 Virtual Cellの進展へ-",
-    "description": "[株式会社biomy]\n[画像: https://prcdn.freetls.fastly.net/release_image/82088/12/82088-12-3bcd6f51f94b5ce12da72cb43e2010d8-1602x362.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-    "url": "https://prtimes.jp/main/html/rd/p/000000012.000082088.html",
-    "urlToImage": "https://prcdn.freetls.fastly.net/release_image/82088/12/82088-12-3bcd6f51f94b5ce12da72cb43e2010d8-1602x362.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "publishedAt": "2026-06-04T07:41:05Z",
-    "content": "2026 64AIbiomy biomy10x GenomicsNASDAQ: TXG10x GenomicsXeniumVirtual Cell\r\nbiomy10x GenomicsXenium in situVirtual Cell\r\nAI\r\nbiomyAI10x Genomics\r\nbiomy  XeniumAIXeniumAIVirtual Cell\r\n10x Genomics Vice… [+3163 chars]"
+    "author": "AllToc",
+    "title": "How did researchers reverse nerve damage brake? #science",
+    "description": "Reversing a brake on nerve repair Cambridge researchers used lab grown human brain and spinal cord tissue to identify a previously hidden mechanism that limits nerve regeneration. Instead of treating nerve damage as automatically “permanent,” the work highlig…",
+    "url": "https://alltoc.com/science/how-did-researchers-reverse-nerve-damage-brake",
+    "urlToImage": "https://alltoc.com/cdn/1048/og.png",
+    "publishedAt": "2026-06-05T06:01:55Z",
+    "content": "Cambridge researchers used lab-grown human brain and spinal cord tissue to identify a previously hidden mechanism that limits nerve regeneration. Instead of treating nerve damage as automatically per… [+1499 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Gossiplankanews.com"
+      "name": "Naturalnews.com"
     },
-    "author": "noreply@blogger.com (Unknown)",
-    "title": "A doubt remains whether deaths occurred from the use of the drug, even after the company in the substandard medicine case was changed.",
-    "description": "Testifying before the Permanent Three-Judge High Court regarding the controversial case of importing substandard drugs, Ms. Diana Nishanthi Devasurendra, Accountant and Acting Deputy General Manager of the State Pharmaceuticals Corporation, stated that it is …",
-    "url": "https://english.gossiplankanews.com/2026/06/a-doubt-remains-whether-deaths-occurred.html",
-    "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vopDSm0eHHsydAELrHE0z3-K6h1sriW11y7c12zHESfbIRXhmXpLGJ3IbWVra4q8e3UAXJaiC8KE6ij4lXHWypxQuvtVCfbGNqsrGpjgkw1dD4p8lcoGgd4vSGDr2ipOBUIjImLrwynqVdtgIWpdjaVSrVn_B_1tuVcgo=w1600",
-    "publishedAt": "2026-06-04T07:30:31Z",
-    "content": "Testifying before the Permanent Three-Judge High Court regarding the controversial case of importing substandard drugs, Ms. Diana Nishanthi Devasurendra, Accountant and Acting Deputy General Manager … [+3610 chars]"
+    "author": "Morgan S. Verity",
+    "title": "Study Reveals How Protective Gene Variant Shields Brain Cells From Cognitive Decline",
+    "description": "A new study using human neuron models has revealed the cellular mechanisms by which a protective variant of the APOE gene, known as APOE2, shields brain cells from age-related decline, according to researchers. The findings, published May 25, 2026, provide a …",
+    "url": "https://www.naturalnews.com/2026-06-05-protective-gene-variant-shields-brain-cognitive-decline.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/apoe2-apoe4-alzheimers-disease-1739-original.jpg",
+    "publishedAt": "2026-06-05T06:00:00Z",
+    "content": "A new study using human neuron models has revealed the cellular mechanisms by which a protective variant of the APOE gene, known as APOE2, shields brain cells from age-related decline, according to r… [+6054 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "GlobeNewswire"
+      "name": "Naturalnews.com"
     },
-    "author": "DaltonTx",
-    "title": "DaltonTx launches its drug discovery platform, Dalton, and announces Sygnature Discovery collaboration",
-    "description": "DaltonTx launches its drug discovery platform, Dalton, and announces Sygnature Discovery collaboration...",
-    "url": "https://www.globenewswire.com/news-release/2026/06/04/3306539/0/en/DaltonTx-launches-its-drug-discovery-platform-Dalton-and-announces-Sygnature-Discovery-collaboration.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/b5f1bc68-6e8a-4687-9b7b-23a9dbd35318",
-    "publishedAt": "2026-06-04T07:30:00Z",
-    "content": "<ul><li>Dalton is a drug discovery platform integrating agentic AI, human expertise, and experimental data, into one continuous learning engine</li><li>Announces collaboration with Sygnature Discover… [+6210 chars]"
+    "author": "Patrick Lewis",
+    "title": "The truth about TEA: Natural medicine hidden in plain sight",
+    "description": "Green tea’s EGCG induces apoptosis in cancer cells while sparing healthy ones, directly threatening Big Pharma’s lucrative chemotherapy business model, which is why these natural cures are attacked or ignored. Tea polyphenols optimize gut microbiome balance—i…",
+    "url": "https://www.naturalnews.com/2026-06-05-truth-tea-natural-medicine-in-plain-sight.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Hot-pu-erh-tea.jpg",
+    "publishedAt": "2026-06-05T06:00:00Z",
+    "content": "<ul><li>Green tea's EGCG induces apoptosis in cancer cells while sparing healthy ones, directly threatening Big Pharma's lucrative chemotherapy business model, which is why these natural cures are at… [+6268 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Conversation Africa"
+      "name": "Naturalnews.com"
     },
-    "author": "Nial Wheate, Professor, School of Natural Sciences, Macquarie University",
-    "title": "Low-dose Zoladex won’t be available in Australia from November. What might that mean for you?",
-    "description": "This drug is used to treat endometriosis and some breast cancers, but will soon be stripped from Australian shelves.",
-    "url": "https://theconversation.com/low-dose-zoladex-wont-be-available-in-australia-from-november-what-might-that-mean-for-you-284539",
-    "urlToImage": "https://images.theconversation.com/files/739957/original/file-20260604-57-i0z4yn.jpg?ixlib=rb-4.1.0&rect=0%2C94%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
-    "publishedAt": "2026-06-04T07:23:11Z",
-    "content": "Tom Werner/Getty\r\nThe drug goserelin – commonly known as Zoladex – has been a quietly crucial medicine in Australia for decades. \n\nThis prescription medicine is used to suppress sex hormones, and is … [+5323 chars]"
+    "author": "Belle Carter",
+    "title": "The Coming Extermination: Exposing the engineered crisis, the uniparty deception and the blueprint for escape",
+    "description": "The book argues that the political divide between left and right is a manufactured distraction, a “puppet show” where both sides are controlled by the same hidden puppeteer. This is traced back to the Frankfurt School’s plan to destroy society by attacking fa…",
+    "url": "https://www.naturalnews.com/2026-06-05-the-coming-extermination-exposing-the-engineered-crisis.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/The-Coming-Extermination.png",
+    "publishedAt": "2026-06-05T06:00:00Z",
+    "content": "<ul><li>The book argues that the political divide between left and right is a manufactured distraction, a \"puppet show\" where both sides are controlled by the same hidden puppeteer. This is traced ba… [+8829 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Naturalnews.com"
     },
-    "author": null,
-    "title": "molecode added to PyPI",
-    "description": "An LLM-native, graph-explicit molecular language (Mermaid-based) for molecules, polymers, and Markush structures.",
-    "url": "https://pypi.org/project/molecode/",
-    "urlToImage": null,
-    "publishedAt": "2026-06-04T07:06:26Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "author": "Mike Adams",
+    "title": "Californiaâs Diesel Crisis Is Real â And Itâs Going to Cost You $10 a Gallon",
+    "description": "California’s Diesel Crisis Is Real – And It’s Going to Cost You $10 a Gallon California won’t literally run out of diesel next week, but I am absolutely certain that severe shortages and price spikes are coming, and they are going to be painful. This is not a…",
+    "url": "https://www.naturalnews.com/2026-06-05-californias-diesel-crisis-is-real.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/california-diesel-crisis-fuel-island-refinery-closures-1916-original.jpg",
+    "publishedAt": "2026-06-05T06:00:00Z",
+    "content": "Californias Diesel Crisis Is Real And Its Going to Cost You $10 a Gallon\r\nCalifornia won't literally run out of diesel next week, but I am absolutely certain that severe shortages and price spikes ar… [+8438 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "ComputerWeekly.com"
+      "name": "Naturalnews.com"
     },
-    "author": "Mark Samuels",
-    "title": "Interview: Clare Hickie, EMEA CTO, Workday",
-    "description": "The IT chief went from implementing Workday software at one of the firm’s largest customers to leading technology at the supplier – she discusses what she learned",
-    "url": "https://www.computerweekly.com/news/366643836/Interview-Clare-Hickie-EMEA-CTO-Workday",
-    "urlToImage": "https://www.computerweekly.com/visuals/LeMagIT/hero_article/Workday-Rugby-Ducellier-Hero.jpg",
-    "publishedAt": "2026-06-04T07:02:00Z",
-    "content": "Clare Hickie, chief technology officer (CTO) for EMEA at Workday, sits in the Customer Experience Centre in the technology firms European headquarters in Dublin and reflects on the characteristics th… [+9858 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Anime News Network"
-    },
-    "author": null,
-    "title": "The Super Mario Galaxy Movie Stays at #2, 3rd Mononoke Film Opens at #6 in Japan",
-    "description": "Detective Conan: Highway no Datenshi stays at #4, live-action Sakamoto Days film drops to #7",
-    "url": "https://www.animenewsnetwork.com/news/2026-06-04/the-super-mario-galaxy-movie-stays-at-no.2-3rd-mononoke-film-opens-at-no.6-in-japan/.238052",
-    "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJA/cms/news.9/236241/mononoke-3-main-visual.jpg",
-    "publishedAt": "2026-06-04T07:01:27Z",
-    "content": "Image via Nintendo of America's website\r\n© 2026 Nintendo and Universal Studios\r\nThe Super Mario Galaxy MovieNintendo, Illumination, and Universal Pictures' sequel to The Super Mario Bros. Movie  stay… [+5816 chars]"
+    "author": "Mike Adams",
+    "title": "The Fight for Health Freedom: Why We Must Decentralize Our Health and Take Control From the Medical Authoritarians",
+    "description": "The War on Health Freedom We are in the middle of the most urgent fight for health freedom in modern history. As I discussed with constitutional attorney Jonathan Emord and Dr. Robert Verkerk on Decentralize TV, the U.S. government and the FDA have systematic…",
+    "url": "https://www.naturalnews.com/2026-06-05-fight-for-health-freedom-we-must-decentralize.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/health-freedom-decentralization-fda-censorship-1914-original.jpg",
+    "publishedAt": "2026-06-05T06:00:00Z",
+    "content": "The War on Health Freedom\r\nWe are in the middle of the most urgent fight for health freedom in modern history. As I discussed with constitutional attorney Jonathan Emord and Dr. Robert Verkerk on Dec… [+7191 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "GlobeNewswire"
     },
-    "author": "Ona Therapeutics",
-    "title": "Ona Therapeutics Raises $86.6 Million Series B to Advance First-in-Class ADCs into Clinical Development",
-    "description": "Ona Therapeutics closes oversubscribed $86.6M Series B financing to advance first-in-class ADCs into clinical development for treatment-resistant cancers...",
-    "url": "https://www.globenewswire.com/news-release/2026/06/04/3306533/0/en/Ona-Therapeutics-Raises-86-6-Million-Series-B-to-Advance-First-in-Class-ADCs-into-Clinical-Development.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/4e775e5e-67c5-4928-8c99-009e4495e617",
-    "publishedAt": "2026-06-04T07:00:00Z",
-    "content": "<ul><li>Oversubscribed Series B financing co-led by new investors Columbus Venture Partners and Mérieux Equity Partners, with participation from additional investors COFIDES and Korys, alongside all … [+8186 chars]"
+    "author": "Chiesi Global Rare Diseases",
+    "title": "Chiesi Global Rare Diseases Announces European Commission Approval of LOJUXTA® (lomitapide) ▼ Capsules for Paediatric Use in Homozygous Familial Hypercholesterolaemia (HoFH)",
+    "description": "European Commission approval expands the indication of lomitapide in the European Union (EU) to include children 5 years of age and older with HoFH, an ultra-rare genetic disorder affecting LDL-cholesterol levels European Commission approval expands the indic…",
+    "url": "https://www.globenewswire.com/news-release/2026/06/05/3307192/0/en/Chiesi-Global-Rare-Diseases-Announces-European-Commission-Approval-of-LOJUXTA-lomitapide-Capsules-for-Paediatric-Use-in-Homozygous-Familial-Hypercholesterolaemia-HoFH.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/5caa19a4-85c3-4426-8d77-8dfdb45cc0de",
+    "publishedAt": "2026-06-05T06:00:00Z",
+    "content": "PARMA, Italy, June 05, 2026 (GLOBE NEWSWIRE) -- Chiesi Global Rare Diseases, a business unit of the Chiesi Group established to deliver innovative therapies and solutions for people living with rare … [+6403 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "Naturalnews.com"
     },
-    "author": "Sarah Rainey",
-    "title": "As Sainsbury's dramatically STOPS selling brown eggs, Mail investigation reveals startling truth about what really goes into creating the wholesome looking shell and deep, golden yolk of middle-class favourite, Burford Browns",
-    "description": "Shoppers have been dismayed by reports that the eggs - not cheap at £4 for six large ones - are being taken out of their boxes and swapped with cheaper varieties.",
-    "url": "https://www.dailymail.com/lifestyle/food-drink/article-15652041/dark-reality-Burford-Brown-eggs-yolks.html",
-    "urlToImage": "https://i.dailymail.co.uk/1s/2026/03/16/21/107186671-0-image-m-33_1773698234576.jpg",
-    "publishedAt": "2026-06-04T06:58:58Z",
-    "content": "In the baking aisle of my local supermarket they are right at the top of the pecking order. But it seems the ­sunshine-hued box and deep brown speckled shell of a Burford Brown the egg of choice for … [+8545 chars]"
+    "author": "Patrick Lewis",
+    "title": "The great frozen patty deception: What Boca Burgers’ label really tells you about America’s food system",
+    "description": "Boca Burgers contain methylcellulose (wood pulp laxative), hydrolyzed corn protein (hidden MSG) and disodium guanylate/inosinate (cheap flavor enhancers), none of which qualify as real food. Dropping “hamburger” from the label to “beef patties” allows unlimit…",
+    "url": "https://www.naturalnews.com/2026-06-05-what-boca-burgers-label-tells-about-food-system.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Ground-Beef-Patty-Meat-Cutting-Board.jpg",
+    "publishedAt": "2026-06-05T06:00:00Z",
+    "content": "<ul><li>Boca Burgers contain methylcellulose (wood pulp laxative), hydrolyzed corn protein (hidden MSG) and disodium guanylate/inosinate (cheap flavor enhancers), none of which qualify as real food.<… [+6456 chars]"
   }
 ]
