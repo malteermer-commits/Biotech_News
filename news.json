@@ -1,29 +1,211 @@
 [
   {
     "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Evan Bush",
+    "title": "The U.S. fought the flesh-eating screwworm for decades. Now it must begin again.",
+    "description": "It took the U.S. decades and hundreds of millions of dollars to eradicate the flesh-eating New World screwworm. Here’s the plan to renew the fight now that it’s back.",
+    "url": "https://www.nbcnews.com/science/environment/flesh-eating-screw-worm-fight-plan-rcna348521",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-screwworm-rs-a4d9c7.jpg",
+    "publishedAt": "2026-06-07T10:00:40Z",
+    "content": "The United States spent more than half a century and hundreds of millions of dollars driving the flesh-eating New World screwworm as far from its borders as possible. Now, its back.\r\nSubscribe to rea… [+6977 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Twistedsifter.com"
+    },
+    "author": "Benjamin Cottrell",
+    "title": "Tenant Frustrated by Off-Leash Barking Dogs Finds a Petty Way to Make a Point",
+    "description": "His neighbors wanted reactive barking dogs, so they're finally about to face the consequences of that decision.\nThe post Tenant Frustrated by Off-Leash Barking Dogs Finds a Petty Way to Make a Point appeared first on TwistedSifter.",
+    "url": "http://twistedsifter.com/2026/06/tenant-frustrated-by-off-leash-barking-dogs-finds-a-petty-way-to-make-a-point/",
+    "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/06/loud-barking-dog.jpg",
+    "publishedAt": "2026-06-07T09:45:29Z",
+    "content": "Pexels/Reddit\r\nApartment living requires patience, but patience has a ceiling.\r\nOne tenant who spent months dealing with unleashed barking dogs and a neighbor couple who seemed genuinely unbothered b… [+4200 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Trending Desk",
+    "title": "Saudi Arabia’s Diriyah Hajj route treasure: 1,200-year-old Abbasid-era gold, silver gemstone-studded jewellery shock archaeologists",
+    "description": "A significant archaeological find in Saudi Arabia's Al-Qassim region has unearthed a ceramic jar containing over 100 pieces of gold, silver, and gemstone jewelry.  This  Diriyah Treasure,  dating back to the early Abbasid period over 1,200 years ago, was disc…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/saudi-arabias-diriyah-hajj-route-treasure-1200-year-old-abbasid-era-gold-silver-gemstone-studded-jewellery-shock-archaeologists/articleshow/131564745.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131564772,width-1200,height-630,imgsize-42264,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-06-07T09:45:14Z",
+    "content": "A stunning archaeological discovery in Saudi Arabias Al-Qassim region has brought medieval Islamic history back into the spotlight. Excavations at the ancient site of Diriyah have uncovered a ceramic… [+4594 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slate Magazine"
+    },
+    "author": "Helen Santoro",
+    "title": "It’s a Notoriously Painful Medical Procedure That Many Women Endure. There’s a Simple Solution.",
+    "description": "Finally, we have data to show that paracervical blocks can work.",
+    "url": "https://slate.com/technology/2026/06/iud-birth-control-painful-solution.html",
+    "urlToImage": "https://compote.slate.com/images/1225cf8d-80d9-48c6-a47f-b343d4fc6dc5.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "publishedAt": "2026-06-07T09:45:00Z",
+    "content": "When Tove Danovich recalls the first time she got an IUD, one thing stands out: the sheer pain of the procedure. After the IUD was placed, she remembers horrific, debilitating cramps.\r\nAround a decad… [+6986 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "E88 Obesity Medicine: GLP-1 Introduction, Mechanism, and Benefits",
+    "description": "E88 Obesity Medicine: GLP-1 Introduction, Mechanism, and Benefitsyoutube.com",
+    "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dzzoc-GeEfkc",
+    "urlToImage": null,
+    "publishedAt": "2026-06-07T09:00:14Z",
+    "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+  },
+  {
+    "source": {
       "id": "cbc-news",
       "name": "CBC News"
     },
     "author": null,
-    "title": "Medical misinformation on Tylenol in pregnancy spreads faster than safety studies",
-    "description": "A new Canadian practice paper says the latest, highest-quality evidence is reassuring for pregnant people who need acetaminophen. The episode is a high-profile example of why so-called null findings — studies that find no link or no difference — matter.",
-    "url": "https://www.cbc.ca/news/health/null-findings-second-opinion-9.7223993",
-    "urlToImage": "https://i.cbc.ca/ais/15975cec-8047-4d54-a8f7-210a00ddda78,1780606895356/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4667%2C2625%29%3BResize%3D620",
-    "publishedAt": "2026-06-06T08:00:00Z",
-    "content": "This story is part of CBC Health's Second Opinion, a weekly analysis of health and medical science news emailed to subscribers on Saturday mornings. If you haven't subscribed yet, you can do that by … [+6323 chars]"
+    "title": "Nova Scotia regulates naturopathic doctors but scope of work still unclear",
+    "description": "Naturopathic doctors, who blend modern scientific medicine with natural therapies, became the 22nd medical health profession licensed under the province’s Regulated Health Professions Act late last month.",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-regulate-naturopaths-nova-scotia-association-naturopathic-doctors-9.7225244",
+    "urlToImage": "https://i.cbc.ca/ais/2a49da20-797b-4ee1-ba61-126dd3d76f1f,1780684345356/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C24%2C1064%2C598%29%3BResize%3D620",
+    "publishedAt": "2026-06-07T09:00:00Z",
+    "content": "Naturopathic doctors are now regulated in Nova Scotia, though the province has yet to define exactly what medical services they will be permitted to provide.\r\nThe practitioners, who blend modern scie… [+2300 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Punch"
+      "name": "New Zealand Herald"
     },
-    "author": "Punch Newspapers",
-    "title": "BREAKING: Ex-UNILORIN VC, AbdulGaniyu Ambali, dies at 68",
-    "description": "Former University of Ilorin Vice-Chancellor, Professor AbdulGaniyu Ambali, has died at 68. Learn more about the renowned scholar’s passing.\n\nRead More: https://punchng.com/breaking-ex-unilorin-vc-abdulganiyu-ambali-dies-at-68/",
-    "url": "https://punchng.com/breaking-ex-unilorin-vc-abdulganiyu-ambali-dies-at-68/",
-    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/02/13001333/Abdulganiyu-Ambali.jpg",
-    "publishedAt": "2026-06-06T07:40:18Z",
-    "content": "Former Vice-Chancellor of the University of Ilorin, Professor AbdulGaniyu Ambali, is dead.\r\nThe renowned veterinary medicine scholar and university administrator died in the early hours of Saturday a… [+1965 chars]"
+    "author": "Chris Keall",
+    "title": "A blind man helped me see AI more clearly – Tech Insider",
+    "description": "Some clear vision of the everyday benefits – and the nastiness of the backlash.",
+    "url": "https://www.nzherald.co.nz/business/a-blind-man-helped-me-see-through-my-hatred-of-ai-tech-insider/KUWZW57XYJGMZGJCTCKW3U6SVE/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/64AFSMFLRYN5VXM2OY46SJAI5Y.jpg?auth=9b5ecbbe33c4ce56b9f8888bfbc591207daaac10b72626efec3f617f5e7bf150&width=1200&height=675&quality=70&focal=697%2C714&smart=false",
+    "publishedAt": "2026-06-07T09:00:00Z",
+    "content": "Mosen powered through various private sector and non-profit roles and was made a Member of the New Zealand Order of Merit in 2019 for his work in advocacy and modernising governance for the New Zeala… [+9577 chars]"
+  },
+  {
+    "source": {
+      "id": "the-irish-times",
+      "name": "The Irish Times"
+    },
+    "author": "Barry Roche",
+    "title": "Ministers to ‘study closely’ Dáil motions on controversial football matches against Israel",
+    "description": "Taoiseach Micheál Martin says European Union ‘needs to do more’ on Israel",
+    "url": "https://www.irishtimes.com/ireland/2026/06/07/ministers-to-study-closely-dail-motions-on-controversial-football-matches-against-israel/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/IUJXGAQS4RKNXCR4QTTKT4PJUA.jpg?smart=true&auth=85dcf3d01aef2e2f8ba2357eee90ae9ff0d4d63a8f9afa81f6e4b65a73d1633f&width=1200&height=630",
+    "publishedAt": "2026-06-07T08:34:00Z",
+    "content": "Taoiseach Micheál Martin has said the Government would study closely two motions due before the Dáil next week addressing the controversial upcoming soccer matches against Israel. \r\nThe debate will c… [+2804 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Ancient Chinese medicine could transform hair loss treatment",
+    "description": "A traditional Chinese medicinal root used for over a thousand years is attracting new scientific attention for its potential to combat hair loss. Studies suggest Polygonum multiflorum can block harmful hormones, activate hair-growth signals, protect follicles…",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/baldness-hair-regrowth-before-after.webp",
+    "publishedAt": "2026-06-07T08:19:08Z",
+    "content": "Androgenetic alopecia (AGA) is the most common type of hair loss, affecting millions of men and women around the world. It is often known as male or female pattern hair loss, and it usually develops … [+6052 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Bestsurgeonhazaribagh.com"
+    },
+    "author": "Doc20046@gmail.com",
+    "title": "⚠️ FAKE DOCTORS: A SILENT THREAT TO PUBLIC HEALTH - Dr. Vivek Bhaskar –Best General & Laparoscopic Surgeon, Hazaribagh",
+    "description": "⚠️ FAKE DOCTORS: A SILENT THREAT TO PUBLIC HEALTH - Dr. Vivek Bhaskar –Best General & Laparoscopic Surgeon, Hazaribaghbestsurgeonhazaribagh.com",
+    "url": "https://bestsurgeonhazaribagh.com/%e2%9a%a0%ef%b8%8f-fake-doctors-a-silent-threat-to-public-health/",
+    "urlToImage": "https://bestsurgeonhazaribagh.com/wp-content/uploads/2026/06/fake-1024x559.png",
+    "publishedAt": "2026-06-07T08:00:59Z",
+    "content": "Healthcare is one of the most essential services for any society. People trust doctors with their lives, believing they possess the knowledge and training needed to diagnose and treat illnesses. Unfo… [+4902 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "Can a pigeon's liver really help it navigate long distances? New research suggests it could",
+    "description": "From wartime messages to love letters, pigeons have carried our mail for centuries. A new study suggests the secret to how they find their way might be hiding in an unexpected place: the liver.",
+    "url": "https://www.cbc.ca/radio/quirks/pigeon-fly-navigation-science-discovery-liver-9.7224081",
+    "urlToImage": "https://i.cbc.ca/ais/e079fb3f-57eb-4849-bfca-3835d9ffb3f8,1780680093500/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C100%2C1920%2C1080%29%3BResize%3D620",
+    "publishedAt": "2026-06-07T08:00:00Z",
+    "content": "During World War One, an American major anxiously sent up a homing pigeon into the smoky sky while he and his unit remained trapped behind enemy lines.\r\nHe and his men had held their position for sev… [+5362 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "A friend's death at the 2022 World Cup, and what grief can teach us",
+    "description": "In his new book, Legs Hearts Minds: Loss and Its Remedies, award-winning sports journalist Chris Jones tells the story of how his life detonated — and how an improbable English soccer team helped keep him alive.",
+    "url": "https://www.cbc.ca/sports/legs-hearts-minds-book-excerpt-chris-jones-9.7222102",
+    "urlToImage": "https://i.cbc.ca/ais/040c5a58-4424-43a1-9a69-3baa4f41e16d,1780511455236/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1280%2C720%29%3BResize%3D620",
+    "publishedAt": "2026-06-07T08:00:00Z",
+    "content": "From the book LEGS HEARTS MINDS: Loss and Its Remedies by Chris Jones. Copyright © 2026 by Chris Jones. Published by Random House, an imprint and division of Penguin Random House LLC. All rights rese… [+7559 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Israelnationalnews.com"
+    },
+    "author": "Israel National News",
+    "title": "Nefesh B'Nefesh: 'MedEx drives global effort to bring doctors to Israel'",
+    "description": "'You don't have to be a pioneer from 1948; you can be a pioneer in 2026,' says Tony Gelbart, Nefesh B'Nefesh Co-Founder & Chairman, highlighting efforts to bring doctors to Israel and strengthen the country's healthcare system.",
+    "url": "https://www.israelnationalnews.com/news/428236",
+    "urlToImage": "https://2.a7.org/files/pictures/000/1218808.jpg",
+    "publishedAt": "2026-06-07T07:31:21Z",
+    "content": "At the MedEx conference in New Jersey, Tony Gelbart, Nefesh B'Nefesh Co-Founder &amp; Chairman, spoke about the growing international effort to bring physicians and healthcare professionals to Israel… [+2963 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": "roshanpra@gmail.com",
+    "title": "molscope 0.15.0",
+    "description": "A lightweight bridge from molecular structures to descriptors, contact maps, graph-ML inputs, and educational coarse-grained representations.",
+    "url": "https://pypi.org/project/molscope/0.15.0/",
+    "urlToImage": null,
+    "publishedAt": "2026-06-07T07:30:11Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "International Business Times UK"
+    },
+    "author": "Chelsie Napiza",
+    "title": "'I Was Chest-Bumped by Police': Lead Journal Editor Thrown Out of Diabetes Conference for Criticising Trump's Research Cuts [International Business Times]",
+    "description": "Five scientists were removed from a diabetes conference for distributing an editorial criticising the Trump administration's biomedical science policies, leading to a ban from the event.",
+    "url": "https://www.ibtimes.co.uk/scientists-ejected-diabetes-conference-trump-criticism-1801094",
+    "urlToImage": "https://d.ibtimes.co.uk/en/full/1799169/diabetes-drugs-affect-brain.png",
+    "publishedAt": "2026-06-07T07:10:18Z",
+    "content": "Five scientists, including the editor-in-chief of America's leading diabetes journal, were removed from the field's premier annual conference after handing out a research editorial criticising the Tr… [+5149 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TheJournal.ie"
+    },
+    "author": "Press Association",
+    "title": "Taoiseach says United States ‘needs to keep the pressure on Israel'",
+    "description": "‘I believe the European Union needs to do more and the United States needs to keep the pressure on Israel as well,’ said Taoiseach Micheál Martin.",
+    "url": "https://www.thejournal.ie/taoiseach-says-united-states-needs-to-keep-the-pressure-on-israel-7063009-Jun2026/",
+    "urlToImage": "https://img2.thejournal.ie/article/7063009/river/?height=400&version=7063015",
+    "publishedAt": "2026-06-07T06:36:37Z",
+    "content": "TAOISEACH MICHEÁL MARTIN has said the European Union needs to do more in terms of Israel and that the US needs to keep pressure on Israel.\r\nMartin said Ireland has taken a strong stance in respect of… [+2349 chars]"
   },
   {
     "source": {
@@ -31,64 +213,25 @@
       "name": "Alltoc.com"
     },
     "author": "AllToc",
-    "title": "What did OPTIMA trial show on chemo? #health",
-    "description": "Genomic test helps some avoid chemotherapy A large UK led effort reported results for the OPTIMA trial, focused on whether a tumor gene test could help identify breast cancer patients who can safely skip chemotherapy . The central message is that some people …",
-    "url": "https://alltoc.com/health/what-did-optima-trial-show-on-chemo",
+    "title": "What did Qreiya 3 fossils show? #science",
+    "description": "What the Qreiya 3 fossils capture Qreiya 3 is an early Paleocene offshore site in Egypt (about 62.2 million years old) that preserves an assemblage of marine fish fossils. The fossils are important because they document the rise of modern marine fishes and pr…",
+    "url": "https://alltoc.com/science/what-did-qreiya-3-fossils-show",
     "urlToImage": "https://alltoc.com/cdn/1048/og.png",
-    "publishedAt": "2026-06-06T06:03:05Z",
-    "content": "A large UK-led effort reported results for the OPTIMA trial, focused on whether a tumor gene test could help identify breast cancer patients who can safely skip chemotherapy.\r\nThe central message is … [+1327 chars]"
+    "publishedAt": "2026-06-07T06:02:08Z",
+    "content": "Qreiya 3 is an early Paleocene offshore site in Egypt (about 62.2 million years old) that preserves an assemblage of marine fish fossils. The fossils are important because they document the rise of m… [+1251 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Alltoc.com"
+      "name": "Dramabeans.com"
     },
-    "author": "AllToc",
-    "title": "How does PFDA cause birth defects? #science",
-    "description": "What’s behind PFAS linked birth defects A study focused on PFDA, a specific “forever chemical” within the broader PFAS family, reports a molecular pathway that can explain how exposure during pregnancy may lead to craniofacial birth defects. PFDA appears to d…",
-    "url": "https://alltoc.com/science/how-does-pfda-cause-birth-defects",
-    "urlToImage": "https://alltoc.com/cdn/1048/og.png",
-    "publishedAt": "2026-06-06T06:01:53Z",
-    "content": "A study focused on PFDA, a specific forever chemical within the broader PFAS family, reports a molecular pathway that can explain how exposure during pregnancy may lead to craniofacial birth defects.… [+1398 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Alltoc.com"
-    },
-    "author": "AllToc",
-    "title": "What is the transcriptomic biological age clock? #science",
-    "description": "Scientists build a gene activity “biological age” clock Researchers have developed a “transcriptomic clock” that estimates biological age by analyzing gene activity patterns—essentially, which genes are turned on or off and how strongly. The approach can esti…",
-    "url": "https://alltoc.com/science/what-is-the-transcriptomic-biological-age-clock",
-    "urlToImage": "https://alltoc.com/cdn/1048/og.png",
-    "publishedAt": "2026-06-06T06:01:53Z",
-    "content": "Researchers have developed a transcriptomic clock that estimates biological age by analyzing gene activity patternsessentially, which genes are turned on or off and how strongly. The approach can est… [+1549 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Coco Somers",
-    "title": "Study Links Stress, Late-Night Snacking to Gut Health Risks",
-    "description": "A new study presented at the 2026 Digestive Disease Week conference suggests that the combination of chronic stress and late-night snacking significantly increases the risk of abnormal bowel habits and disrupts gut microbial diversity. The research, which has…",
-    "url": "https://www.naturalnews.com/2026-06-06-stress-late-night-snacking-linked-gut-health-risks.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/late-night-snacking-chronic-stress-gut-health-1813-original.jpg",
-    "publishedAt": "2026-06-06T06:00:00Z",
-    "content": "A new study presented at the 2026 Digestive Disease Week conference suggests that the combination of chronic stress and late-night snacking significantly increases the risk of abnormal bowel habits a… [+5222 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Ava Grace",
-    "title": "Garlic and blood pressure: What the science actually says",
-    "description": "The key compound, allicin, is released when garlic is crushed or chewed. It may lower blood pressure by relaxing blood vessels, reducing inflammation and promoting nitric oxide production. Meta-analyses of multiple trials show garlic can reduce blood pressure…",
-    "url": "https://www.naturalnews.com/2026-06-06-garlic-blood-pressure-what-science-actually-says.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Garlic-Food-Cloves.jpg",
-    "publishedAt": "2026-06-06T06:00:00Z",
-    "content": "<ul><li>The key compound, allicin, is released when garlic is crushed or chewed. It may lower blood pressure by relaxing blood vessels, reducing inflammation and promoting nitric oxide production.</l… [+6509 chars]"
+    "author": "mistyisles",
+    "title": "Teach You a Lesson: Episode 1 (First Impressions)",
+    "description": "Bullies reign supreme in hallway and classroom alike, until one man steps onto the scene with the strength and authority to give them a taste of their own medicine. A lesson is certainly taught, but is it actually justice — or just another turn of the same vi…",
+    "url": "https://dramabeans.com/2026/06/teach-you-a-lesson-episode-1-first-impressions/",
+    "urlToImage": "http://www.dramabeans.com/wp-content/uploads/2026/06/TYAL01-00012.jpg",
+    "publishedAt": "2026-06-07T06:00:35Z",
+    "content": "Teach You a Lesson: Episode 1 (First Impressions)\r\nBullies reign supreme in hallway and classroom alike, until one man steps onto the scene with the strength and authority to give them a taste of the… [+5728 chars]"
   },
   {
     "source": {
@@ -96,167 +239,24 @@
       "name": "Naturalnews.com"
     },
     "author": "Morgan S. Verity",
-    "title": "Dietary Fat Type Influences Pancreatic Cancer Growth in Mice",
-    "description": "A study published in the journal Cancer Discovery found that the type of dietary fat consumed may significantly influence the development of pancreatic cancer in mice. The study was conducted by researchers at Yale School of Medicine. According to the report,…",
-    "url": "https://www.naturalnews.com/2026-06-06-dietary-fat-type-influences-pancreatic-cancer-growth.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/pancreatic-ductal-adenocarcinoma-dietary-fat-oleic-acid-1875-original.jpg",
-    "publishedAt": "2026-06-06T06:00:00Z",
-    "content": "A study published in the journal Cancer Discovery found that the type of dietary fat consumed may significantly influence the development of pancreatic cancer in mice.\r\nThe study was conducted by res… [+4542 chars]"
+    "title": "Study Links Elevated Homocysteine to Fatigue, Points to Hidden B12 Deficiency",
+    "description": "Researchers at Osaka Metropolitan University (OMU) published a study in the journal Nutrients linking elevated homocysteine levels to fatigue and low motivation in healthy adults, according to a report on the findings. The study measured blood levels of homoc…",
+    "url": "https://www.naturalnews.com/2026-06-07-study-links-elevated-homocysteine-levels-to-fatigue.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/homocysteine-fatigue-hidden-b12-deficiency-1838-original.jpg",
+    "publishedAt": "2026-06-07T06:00:00Z",
+    "content": "Researchers at Osaka Metropolitan University (OMU) published a study in the journal Nutrients linking elevated homocysteine levels to fatigue and low motivation in healthy adults, according to a repo… [+5175 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Naturalnews.com"
     },
-    "author": "Coco Somers",
-    "title": "Pomegranate Supplementation Linked to Lower Blood Pressure, Meta-Analysis Finds",
-    "description": "A new meta-analysis of randomized controlled trials has found that pomegranate supplementation is associated with reductions in blood pressure and improvements in markers of inflammation, according to a review covered by Yahoo Health. The analysis, which pool…",
-    "url": "https://www.naturalnews.com/2026-06-06-pomegranate-supplementation-linked-to-lower-blood-pressure.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/pomegranate-supplementation-blood-pressure-1714-original.jpg",
-    "publishedAt": "2026-06-06T06:00:00Z",
-    "content": "A new meta-analysis of randomized controlled trials has found that pomegranate supplementation is associated with reductions in blood pressure and improvements in markers of inflammation, according t… [+5432 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Jacob Thomas",
-    "title": "Scientists trace origins of Euphrates Riverâdescribed in the Bible as one of four waterways flowing from Garden of Eden",
-    "description": "New geological research confirms the Euphrates River formed around 1.6 million years ago from the merger of two ancient rivers, lending scientific weight to biblical accounts of a lost paradise. Thracian sources reveal that ancient societies spoke about Adam,…",
-    "url": "https://www.naturalnews.com/2026-06-06-scientists-trace-origins-of-euphrates-river.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/River-Green-View-Nature-Mountains.jpg",
-    "publishedAt": "2026-06-06T06:00:00Z",
-    "content": "<ul><li>New geological research confirms the Euphrates River formed around 1.6 million years ago from the merger of two ancient rivers, lending scientific weight to biblical accounts of a lost paradi… [+4949 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "The Hill",
-    "title": "USDA confirms second screwworm fly found in Texas",
-    "description": "The U.S. Department of Agriculture (USDA) confirmed a second case of a flesh-eating screwworm parasite in Texas on Friday, as it races to contain and eradicate the outbreak before it severely impacts the cattle population. A New World screwworm was detected i…",
-    "url": "https://freerepublic.com/focus/f-chat/4382546/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-06-06T05:52:04Z",
-    "content": "Skip to comments.\r\nUSDA confirms second screwworm fly found in Texas The Hill ^\r\n | 06-05-26\r\n | Sophie Brams\r\nPosted on 06/05/2026 10:52:04 PM PDT by OrangeHoof\r\nThe U.S. Department of Agriculture (… [+1598 chars]"
-  },
-  {
-    "source": {
-      "id": "medical-news-today",
-      "name": "Medical News Today"
-    },
-    "author": "Peter Morales-Brown",
-    "title": "Plant foods contain a compound that may strengthen the gut barrier",
-    "description": "Results from a mouse study suggest that a natural plant compound, phytic acid, shows potential to support gut barrier health, which could possibly provide a protective effect against 'leaky gut'.",
-    "url": "https://www.medicalnewstoday.com/articles/plant-foods-contain-compound-may-strengthen-gut-barrier",
-    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/06/bowl-chickpeas-1200-628-facebook.jpg",
-    "publishedAt": "2026-06-06T05:37:11Z",
-    "content": "<ul><li>Research suggests that phytic acid, a natural compound present in plant-based foods such as beans, lentils, nuts, seeds, and whole grains, plays a critical role in maintaining the integrity o… [+7283 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ibtimes.com.au"
-    },
-    "author": "Joe Green",
-    "title": "Today's Wordle Answer for June 6 2026 Revealed in Puzzle 1813",
-    "description": "The Wordle puzzle on June 6, 2026, featured 'MORPH' as the solution, challenging players with its dual noun-verb nature and maintaining the game's global appeal.",
-    "url": "https://www.ibtimes.com.au/wordle-puzzle-solution-morph-challenges-players-1870216",
-    "urlToImage": "https://d.ibtimes.com.au/en/full/1892208/wordle-puzzle.jpg",
-    "publishedAt": "2026-06-06T05:09:40Z",
-    "content": "NEW YORK — Players tackling the New York Times Wordle puzzle on Saturday, June 6, 2026, discovered the solution to be \"MORPH,\" a versatile word that can function as both a noun and a verb, continuing… [+5444 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Brew Crew Ball"
-    },
-    "author": "Jackson Heiden",
-    "title": "Pitcher’s dual turned offensive shootout prompt Brewers win",
-    "description": "From one hit, one run, in eight innings to seven hits and eight runs in two innings",
-    "url": "https://www.brewcrewball.com/milwaukee-brewers-scores-standings/83630/pitchers-dual-turned-offensive-shootout-prompt-brewers-win",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EOdNqRDIwfr5zFcZb7zxVA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/sb_nation_articles_115/42edb7ff2735763e915b44e2dd3ad6a1",
-    "publishedAt": "2026-06-06T05:03:58Z",
-    "content": "With two starters who have struggled with keeping the ball in the park this season, it felt like we were going to see another offensive shootout, as we saw in the series against the Giants. But that … [+4585 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "TheJournal.ie"
-    },
-    "author": "Shane Raymond",
-    "title": "FactCheck: What the scientific studies say about the harms of sunbed use",
-    "description": "Is all the data against sunbeds old and outdated?",
-    "url": "https://www.thejournal.ie/factcheck-rte-debate-scientific-studies-on-sunbeds-uv-rays-health-cancer-7059129-Jun2026/",
-    "urlToImage": "https://img2.thejournal.ie/article/7059129/river/?height=400&version=7059231",
-    "publishedAt": "2026-06-06T05:00:16Z",
-    "content": "A SPIRITED RADIO debate last week left many listeners befuddled as a doctor and the chair of the Sunbed Association contradicted each other on medical research.\r\nProfessor Anne-Marie Tobin, a consult… [+11137 chars]"
-  },
-  {
-    "source": {
-      "id": "the-irish-times",
-      "name": "The Irish Times"
-    },
-    "author": "Ellen Coyne",
-    "title": "‘Free births’ in Ireland: Concern grows for women choosing births without medical help",
-    "description": "Doctors and midwives are concerned about a ‘notable rise’ in medically unassisted home births in the State. Do expectant mothers know the risks?",
-    "url": "https://www.irishtimes.com/health/2026/06/06/free-births-in-ireland-concern-grows-for-women-choosing-births-without-medical-help/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/DD25R4REAVCTDNDDWRKNJG7EBM.jpg?smart=true&auth=997d005b588ba6617e97da5d2854a56048bd400fed284278574cf7aea0a0f430&width=1200&height=630",
-    "publishedAt": "2026-06-06T05:00:00Z",
-    "content": "By the time Naomi James (38) was pregnant with her fourth child, she was disillusioned with Irelands maternity services. Already the mother of a girl and twin boys, all born by Caesarean section, she… [+17943 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Challies.com"
-    },
-    "author": "Tim Challies",
-    "title": "Weekend A La Carte (June 6)",
-    "description": "There's a playbook for college, there should be one for marriage / Ben Sasse is teaching us how to die—and live—well / The biggest tell that something was written by AI / Why China got rich and India didn't / AI slop is coming for your playlists / The blood c…",
-    "url": "https://www.challies.com/a-la-carte/weekend-a-la-carte-june-6-2026/",
-    "urlToImage": "https://www.challies.com/media/2026/05/Weekend-5.jpg",
-    "publishedAt": "2026-06-06T04:01:00Z",
-    "content": "Welcome to Weekend A La Carte! These weekend editions focus on long-form content and think pieces. Theres plenty of good material here, so Im sure youll find something thats of interest.\r\nFor some of… [+10025 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Americanthinker.com"
-    },
-    "author": null,
-    "title": "I now have TDS: Trump Detachment Syndrome",
-    "description": "So, who else is tossing their hat into the wide-open 2028 Democratic presidential field?",
-    "url": "https://www.americanthinker.com/blog/2026/06/i_now_have_tds_trump_detachment_syndrome.html",
-    "urlToImage": "https://images.americanthinker.com/cr/crfs9h7brxdyhuazornj_1200.png",
-    "publishedAt": "2026-06-06T04:00:00Z",
-    "content": "It has me down. Trump now admits that he issued a crude threat to Bibi Netanyahu, beset on every border by relentless jihadist terrorism.\r\n\"You're fucking crazy\": Trump fumes at Netanyahu in his call… [+3578 chars]"
-  },
-  {
-    "source": {
-      "id": "the-irish-times",
-      "name": "The Irish Times"
-    },
-    "author": "Róisín Ingle",
-    "title": "Róisín Ingle: I spent a lot of my teenage years doing things I didn’t want my mum to know about",
-    "description": "One minute we were drinking flagons of cider in a field, the next we’re wondering what our own children are up to",
-    "url": "https://www.irishtimes.com/life-style/people/2026/06/06/i-spent-a-lot-of-my-teenage-years-doing-things-i-didnt-want-my-mum-to-know-about/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/B7BLA2DCZJC4TN44R56CKGE6M4.JPG?smart=true&auth=0406a9cd885969dede8c59a244cf012d634e8a8edebbcb5c9a84c40c98f3b386&width=1200&height=630",
-    "publishedAt": "2026-06-06T04:00:00Z",
-    "content": "Standing outside my daughters school, students spilling out from their end-of-year celebrations, I start chatting to a fellow parent. I knew Marc back when I was a teenager. He was one of the cutest … [+4901 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "SES AI Corporation Securities Fraud Class Action Result of Weak Revenue Guidance and 37% Stock Decline - Investors may Contact Lewis Kahn, Esq, at Kahn Swick & Foti, LLC",
-    "description": "NEW YORK and NEW ORLEANS, June 5, 2026 /PRNewswire/ -- Kahn Swick & Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substantial losses that they have until June 26, 2026 to file lead plainti…",
-    "url": "https://www.prnewswire.com/news-releases/ses-ai-corporation-securities-fraud-class-action-result-of-weak-revenue-guidance-and-37-stock-decline---investors-may-contact-lewis-kahn-esq-at-kahn-swick--foti-llc-302793126.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1848085/KSF-Investigation--SES-AI-Corporation--NYSE--SES--1080p.mp4?id=OA2688745&p=thumbnail",
-    "publishedAt": "2026-06-06T02:00:00Z",
-    "content": "NEW YORK and NEW ORLEANS, June 5, 2026 /PRNewswire/ -- Kahn Swick &amp; Foti, LLC (\"KSF\") and KSF partner, former Attorney General of Louisiana, Charles C. Foti, Jr., remind investors with substantia… [+3236 chars]"
+    "author": "Ava Grace",
+    "title": "Natural prevention strategies revealed as colorectal cancer rates skyrocket",
+    "description": "Colorectal cancer is no longer a disease of old age. Cases in people under 50 are rising at 3% annually, with rectal cancer projected to increase by 124% in 20-34 year-olds by 2030. Colon cancer is now the leading cause of cancer death in adults under 50. Res…",
+    "url": "https://www.naturalnews.com/2026-06-07-natural-prevention-strategies-revealed-colorectal-cancer-rates-skyrocket.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/woman-with-colorectal-cancer-1.jpg",
+    "publishedAt": "2026-06-07T06:00:00Z",
+    "content": "<ul><li>Colorectal cancer is no longer a disease of old age. Cases in people under 50 are rising at 3% annually, with rectal cancer projected to increase by 124% in 20-34 year-olds by 2030. Colon can… [+7243 chars]"
   }
 ]
