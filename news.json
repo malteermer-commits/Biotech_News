@@ -1,223 +1,262 @@
 [
   {
     "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Mithil Aggarwal",
+    "title": "Anxiety and app bans as sweeping cheating scandal hits Indian students",
+    "description": "Three years of her life had come down to this one exam. Ridhvi Saxena, 18, walked out certain she was on track to become a cardiologist",
+    "url": "https://www.nbcnews.com/world/india/messaging-app-telegram-banned-millions-cheating-scandal-india-rcna350501",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260619-india-telegram-mb-1017-00ba9c.jpg",
+    "publishedAt": "2026-06-20T09:30:00Z",
+    "content": "Three years of her life had come down to this one exam. Ridhvi Saxena, 18, walked out certain she was on track to become a cardiologist.\r\nSubscribe to read this story ad-free \r\nGet unlimited access t… [+5324 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Livemint"
+    },
+    "author": "Sayantani Biswas",
+    "title": "Google DeepMind loses Nobel laureate John Jumper to Anthropic, its third senior researcher to depart in as many months",
+    "description": "Nobel laureate John Jumper departs Google DeepMind for Anthropic, the latest scientist to join the AI start-up amid a Silicon Valley talent race.",
+    "url": "https://www.livemint.com/companies/news/john-jumper-google-deepmind-anthropic-alphafold-nobel-prize-claude-11781946065413.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/john_jumper_1781946533204_1781946538048_702514e7-4ec9-4006-a213-335db9aabaef.webp",
+    "publishedAt": "2026-06-20T09:18:30Z",
+    "content": "John Jumper, the Vice President at Google DeepMind who shared the 2024 Nobel Prize in Chemistry with chief executive Demis Hassabis for building AlphaFold, announced on Friday that he is leaving the … [+5816 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "https://www.mindbodygreen.com/wc/zhan-slambee",
+    "title": "Yes, Your Cells May Age At Different Rates — What That Means For Longevity",
+    "description": "Different cells age at different speeds—and that gap may matter.",
+    "url": "https://www.mindbodygreen.com/articles/your-cells-dont-all-age-at-the-same-rate-and-that-gap-may-predict-how-long-youll-live",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/lsi5jc3z5l5v4mmam.jpg",
+    "publishedAt": "2026-06-20T09:17:00Z",
+    "content": "You already know that some people seem to age faster than others. But what if the more important question isn't how fast you're aging overall it's which parts of you are aging fastest?\r\nA new study1\r… [+4918 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "https://www.mindbodygreen.com/wc/zhan-slambee",
+    "title": "This Life Experience May Influence Menopause Symptoms, Study Suggests",
+    "description": "Early life experiences may influence menopause decades later.",
+    "url": "https://www.mindbodygreen.com/articles/your-childhood-may-be-shaping-your-menopauseand-not-in-way-youd-expect",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1333/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/d35yg81v3k4ej6l3b.jpg",
+    "publishedAt": "2026-06-20T09:14:00Z",
+    "content": "The body has a long memory. Stressful or traumatic experiences in childhood don't simply fade with time; they can secretly shape how the body functions decades later, influencing everything from immu… [+4195 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Abcnews.com"
+    },
+    "author": "DR. JOSHUA ANTHONY",
+    "title": "AI model helps some patients get diagnoses after years of uncertainty, study finds",
+    "description": "The team hopes its models can help patients get diagnoses for rare diseases.",
+    "url": "https://abcnews.com/Health/ai-model-helps-patients-diagnoses-after-years-uncertainty/story?id=134040827",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/851d7208eeff343d8d50af472d433e4596254b4ea562a3b409e5c3320845ff31/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2Fbd06d6fb29a6f9f5c75615f8b04387e4",
+    "publishedAt": "2026-06-20T09:02:40Z",
+    "content": "An artificial intelligence (AI) model is helping some patients get diagnoses after years of unexplained illness, according to a new study.\r\nResearchers from OpenAI and Boston Children's Hospital took… [+5104 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": null,
+    "title": "Bolivia's president declares state of emergency over blockade crisis",
+    "description": "Bolivia's President Rodrigo Paz declares a state of emergency across the country, after more than six weeks of protests and road blockades.",
+    "url": "https://www.abc.net.au/news/2026-06-20/bolivian-president-declares-emergency-after-weeks-of-protests/106823480",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e3f4369dc543103f7aaaeb4ce2d87b88?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=257&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-06-20T08:57:13Z",
+    "content": "Bolivia's President Rodrigo Paz has declared a state of emergency across the country, after more than six weeks of protests and road blockades.\r\nThe emergency declaration gives Mr Paz broader constit… [+2204 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GoodHousekeeping.com"
+    },
+    "author": "Caroline Picard",
+    "title": "Doctors say this is exactly what to do to ease a mosquito bite and stop the itching",
+    "description": "Stop scratching your mosquito bites and get relief from the itch with these dermatologist-approved remedies on how to get rid of mosquito bites.",
+    "url": "https://www.goodhousekeeping.com/uk/health/a71642883/how-to-ease-mosquito-bites/",
+    "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/90996b90-53c5-481a-968c-ec9a8b9e9c48.jpeg?crop=1.00xw:0.752xh;0,0.135xh&resize=1200:*",
+    "publishedAt": "2026-06-20T08:41:45Z",
+    "content": "At this time of year, all it takes is one evening without insect repellent - and suddenly you're dealing with a red, itchy mosquito bite that's begging to be scratched. Before you head online and fin… [+2510 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kalinga TV"
+    },
+    "author": "Kalingatv Bureau",
+    "title": "AlphaFold Pioneer John Jumper Joins Anthropic",
+    "description": "New Delhi : Renowned scientist John Jumper announced his exit from Google DeepMind after nearly nine years to join Anthropic following a short break. Jumper shared the update on social media platform X on Friday, expressing gratitude for his long ass",
+    "url": "https://kalingatv.com/business/alphafold-pioneer-john-jumper-joins-anthropic-after-deepmind-exit/",
+    "urlToImage": "https://kalingatv.com/wp-content/uploads/2026/06/New-Project-2026-06-20T114247.522.jpg",
+    "publishedAt": "2026-06-20T08:17:33Z",
+    "content": "New Delhi : Renowned scientist John Jumper announced his exit from Google DeepMind after nearly nine years to join Anthropic following a short break. Jumper shared the update on social media platform… [+1922 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wolfram.com"
+    },
+    "author": "rodop Sen",
+    "title": "Pulmo Balance Reviews: Pros, Cons & Side Effects",
+    "description": "Breathing is the most fundamental act of human life — something most of us do without a second thought until the day we cannot do it comfortably. For millions of adults around the world, that day arrives gradually and quietly. A heaviness in the chest after c…",
+    "url": "https://community.wolfram.com/groups/-/m/t/3736859",
+    "urlToImage": "http://community.wolfram.com/share.png",
+    "publishedAt": "2026-06-20T08:17:24Z",
+    "content": "Breathing is the most fundamental act of human life something most of us do without a second thought until the day we cannot do it comfortably. For millions of adults around the world, that day arriv… [+11183 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Punch"
+    },
+    "author": "Punch Newspapers",
+    "title": "NADF, NRCRI unveil programme to revive Nigeria’s ginger industry",
+    "description": "The National Agricultural Development Fund (NADF) and NRCRI launch a programme to revive Nigeria’s ginger industry after the devastating blight epidemic. L\n\nRead More: https://punchng.com/nadf-nrcri-unveil-programme-to-revive-nigerias-ginger-industry/",
+    "url": "https://punchng.com/nadf-nrcri-unveil-programme-to-revive-nigerias-ginger-industry/",
+    "urlToImage": "https://punchng.com/wp-content/uploads/2026/06/ginger-1388002_1280-1170x630.webp",
+    "publishedAt": "2026-06-20T08:14:14Z",
+    "content": "The National Agricultural Development Fund (NADF) and the National Root Crops Research Institute, Umudike, have launched the Ginger Value Chain Recovery and Sustainability Programme, a major interven… [+5969 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "Should everyone be on GLP-1s? What the science really tells us about cancer prevention and other benefits",
+    "description": "The laundry list of possible health benefits from GLP-1 drugs seems to get longer by the day, from cancer prevention to combating addiction. But while there’s no question these medications show immense promise beyond their use for diabetes and weight loss, sc…",
+    "url": "https://www.cbc.ca/news/health/glp1-health-benefits-cancer-prevention-second-opinion-9.7241872",
+    "urlToImage": "https://i.cbc.ca/ais/af983dfe-aa2c-40de-926b-90765002d49b,1781885013604/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+    "publishedAt": "2026-06-20T08:00:00Z",
+    "content": "This is an excerpt from Second Opinion, a weekly analysis of health and medical science news emailed to subscribers Saturday mornings. If you haven't subscribed yet, you can do that by clicking here\r… [+7854 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Space Daily"
     },
-    "author": "Nato Lagidze",
-    "title": "We keep asking whether humans can survive on Mars and skipping the more important question of whether we should go at all",
-    "description": "A few months ago, I found myself deep in a conversation about Mars colonization timelines. The other person — a software engineer, genuinely enthusiastic, not naive about the engineering — was walking me through radiation shielding approaches, the habitabilit…",
-    "url": "https://spacedaily.com/n-we-keep-asking-whether-humans-can-survive-on-mars-and-skipping-the-more-important-question-of-whether-we-should-go-at-all/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/06/humans-can-survive-on-Mars.png",
-    "publishedAt": "2026-06-19T08:30:12Z",
-    "content": "A few months ago, I found myself deep in a conversation about Mars colonization timelines. The other person a software engineer, genuinely enthusiastic, not naive about the engineering was walking me… [+9289 chars]"
+    "author": "Space Daily Editorial Team",
+    "title": "The longest continuous spaceflight in history — 437 days aboard the Russian Mir space station, completed by cosmonaut Valeri Polyakov in 1995 — was specifically conducted to prove that a human being could survive a round-trip mission to Mars, in a piece of human endurance that has been waiting unused on a shelf for three decades",
+    "description": "The record sits at the top of every list of human spaceflight endurance achievements, has been there since 1995, and is currently held by a man who has been dead for three years. Valeri Polyakov, born in Tula, Russia in 1942, trained as a medical doctor speci…",
+    "url": "https://spacedaily.com/d-the-longest-continuous-spaceflight-in-history-437-days-aboard-the-russian-mir-space-station-completed-by-cosmonaut-valeri-polyakov-in-1995-was-specifically-conducted-to-prove-that/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-20T105001.840.png",
+    "publishedAt": "2026-06-20T07:30:33Z",
+    "content": "The record sits at the top of every list of human spaceflight endurance achievements, has been there since 1995, and is currently held by a man who has been dead for three years. Valeri Polyakov, bor… [+7664 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Refractor.io"
+      "name": "Antaranews.com"
     },
-    "author": "Bronwyn Thompson",
-    "title": "Anti-aging gene therapy makes old cells young again in landmark human trial",
-    "description": "We may be on the cusp of understanding whether we can turn back time for our cells to stave off age-related disease, with the first human receiving experimental gene therapy as part of a landmark trial.Continue ReadingCategory: Aging Well, Wellness and Health…",
-    "url": "https://refractor.io/aging/human-anti-aging-gene-therapy/",
-    "urlToImage": "https://assets.newatlas.com/dims4/default/f5b6fe2/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff3%2F0e%2F69bda14842759a103eb80adebd46%2Fdepositphotos-61876545-xl.jpg&rf.image_optimisation=0",
-    "publishedAt": "2026-06-19T08:29:00Z",
-    "content": "We may be on the cusp of understanding whether we can turn back time for our cells to stave off age-related disease, with the first human receiving experimental gene therapy as part of a landmark tri… [+4732 chars]"
+    "author": "Martha Herlinawati Simanjuntak",
+    "title": "Itera develops mushroom biodiversity research center in Sumatera",
+    "description": "Sumatera Institute of Technology (Itera) has developed a mushroom garden as part of its botanical garden area in Lampung to support education, research, ...",
+    "url": "https://en.antaranews.com/news/419828/itera-develops-mushroom-biodiversity-research-center-in-sumatera",
+    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/06/19/1001033669.jpg",
+    "publishedAt": "2026-06-20T07:17:38Z",
+    "content": "Bandarlampung (ANTARA) - \r\nSumatera Institute of Technology (Itera) has developed a mushroom garden as part of its botanical garden area in Lampung to support education, research, and conservation of… [+2003 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Biztoc.com"
+      "name": "Military.com"
     },
-    "author": "finance.yahoo.com",
-    "title": "US launches trade probe into Germany over medicine prices",
-    "description": "The United States has launched a trade investigation into Germany's drug pricing policies.\nWashington says it wants to examine whether innovative medicines are undervalued in Germany, leaving US patients to shoulder a disproportionate share of pharmaceutical …",
-    "url": "https://biztoc.com/x/d464bb2d35879319",
-    "urlToImage": "https://biztoc.com/cdn/d464bb2d35879319_s.webp",
-    "publishedAt": "2026-06-19T08:10:51Z",
-    "content": "The United States has launched a trade investigation into Germany's drug pricing policies.Washington says it wants to examine whether innovative medicines are undervalued in Germany, leaving US patie… [+146 chars]"
+    "author": "Ryan Thomas LaBee",
+    "title": "South African Student Wins Marine Corps Art Competition",
+    "description": "Woodbridge Senior High School student Storm Alho, born and raised in South Africa, wins the National Museum of the Marine Corps' annual student art competition with a drawing focusing on the military ideal of never leaving someone behind.",
+    "url": "https://military.com/high-school-student-wins-national-marine-corps-art-competition-with-powerful-tribute-to-fallen-troops",
+    "urlToImage": "https://static0.mltimages.com/wordpresshttps://static0.mltimages.com/wordpress/wp-content/uploads/2026/06/storm-alho-i-swore-id-bring-you-home-artwork.jpg?w=1600&h=900&fit=crop",
+    "publishedAt": "2026-06-20T07:01:19Z",
+    "content": "Storm Alho did not grow up in a Marine Corps family. He was born and raised in Pretoria, South Africa, and moved to the United States three years ago.\r\nBut when the Woodbridge Senior High School stud… [+7997 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Israelnationalnews.com"
+      "id": "next-big-future",
+      "name": "Next Big Future"
     },
-    "author": "Israel National News",
-    "title": "JD Vance sparks anger with attacks on Israel",
-    "description": "Members of Congress and academics expressed outrage over JD Vance’s criticism of Israel in a statement he delivered at the White House",
-    "url": "https://www.israelnationalnews.com/news/428885",
-    "urlToImage": "https://2.a7.org/files/pictures/000/1219784.jpg",
-    "publishedAt": "2026-06-19T08:09:06Z",
-    "content": "| : Samuel Corum/INSTAR/Reuters\r\nThe harsh criticism leveled against Israel by U.S. Vice President JD Vance has sparked angry reactions.\r\nRepublican Senator Rick Scott of Florida wrote: Israel is our… [+2771 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "National Post"
-    },
-    "author": "Stephanie Taylor",
-    "title": "'The war on drugs made an error': Why this Conservative wants to ease access to psilocybin therapy",
-    "description": "Psilocybin remains illegal in Canada, so the health department must grant special permission for someone to access it legally",
-    "url": "https://nationalpost.com/news/canada/the-war-on-drugs-made-an-error-why-this-conservative-wants-canada-to-ease-access-to-psilocybin-therapy",
-    "urlToImage": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2026/06/hcp_politics_06162026_012_303750236.jpg",
-    "publishedAt": "2026-06-19T08:00:50Z",
-    "content": "He says the process for individuals applying to use psilocybin under Health Canadas program requires that a patient work with a doctor to prove they have exhausted all of their treatment options, inc… [+3471 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Resilience"
-    },
-    "author": "Cylvia Hayes",
-    "title": "Finding hope and purpose in a world in crisis",
-    "description": "After years of turning her backyard into a haven for wildlife, the author, Cylvia Hayes, watched the songbirds suddenly disappear. What began as a personal loss became a reflection on eco-grief, ecological decline, and how to find meaning, connection, and hop…",
-    "url": "https://www.resilience.org/stories/2026-06-19/finding-hope-and-purpose-in-a-world-in-decline/",
-    "urlToImage": "https://www.resilience.org/wp-content/uploads/2026/06/pexels-didsss-9562654-scaled.jpg",
-    "publishedAt": "2026-06-19T08:00:31Z",
-    "content": "Listen to the author read this essay on ecological grief, disappearing songbirds, and finding hope in a changing world in the audio below:\r\nhttps://www.resilience.org/wp-content/uploads/2026/06/TRANS… [+7814 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Arletta Pharma Solutions",
-    "title": "Arletta Pharma Solutions Appoints Steve van Os, MD, as Chief Medical Officer",
-    "description": "Arletta Pharma Solutions Appoints Steve van Os, MD, as Chief Medical Officer. Experience at Astellas, Organon, Schering-Plough, Antev, Millicent Pharma....",
-    "url": "https://www.globenewswire.com/news-release/2026/06/19/3314639/0/en/Arletta-Pharma-Solutions-Appoints-Steve-van-Os-MD-as-Chief-Medical-Officer.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/0c2dbc90-58f6-4d18-a52b-69bd1443a6b4",
-    "publishedAt": "2026-06-19T07:53:00Z",
-    "content": "www.arlettapharmasolutions.com\r\nSeasoned biotech executive brings more than two decades of global clinical development, medical affairs and regulatory leadership across oncology, womens health and en… [+6266 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": null,
-    "title": "patinae 0.4.2.post1",
-    "description": "Patinae: Modern molecular visualization in Rust with WebGPU rendering",
-    "url": "https://pypi.org/project/patinae/0.4.2.post1/",
-    "urlToImage": null,
-    "publishedAt": "2026-06-19T07:39:28Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Japan Today"
-    },
-    "author": null,
-    "title": "Japanese doctor-turned-author moots amputations to ease overstressed care industry",
-    "description": "Like the protagonist in his taboo novel, former doctor-turned-author Yo Kusakabe believes chopping off elderly patients' useless limbs could help prevent a potential collapse of super-aging Japan's overstressed care industry. Now his extraordinary ideas are o…",
-    "url": "https://japantoday.com/category/national/japan-doctor-turned-author-moots-amputations-to-ease-care-crunch",
-    "urlToImage": null,
-    "publishedAt": "2026-06-19T07:33:11Z",
-    "content": "Like the protagonist in his taboo novel, former doctor-turned-author Yo Kusakabe believes chopping off elderly patients' useless limbs could help prevent a potential collapse of super-aging Japan's o… [+4659 chars]"
+    "author": "Brian Wang",
+    "title": "Tesla SpaceX Merger Announcement and Vote Could Happen Over Next 3 Months",
+    "description": "Elon exercised his remaining ~304 million Tesla options from the 2018 performance package. This was done via net share settlement — Tesla withheld ~17.5 million shares to cover the ~$7.1 billion exercise cost. No cash changed hands and no shares were sold on …",
+    "url": "https://www.nextbigfuture.com/2026/06/tesla-spacex-merger-announcement-and-vote-could-happen-over-next-3-months.html",
+    "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2026/06/Screenshot-2026-06-19-at-11.49.05-PM.jpg",
+    "publishedAt": "2026-06-20T06:49:48Z",
+    "content": "Elon exercised his remaining ~304 million Tesla options from the 2018 performance package. This was done via net share settlement Tesla withheld ~17.5 million shares to cover the ~$7.1 billion exerci… [+2247 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "Trending Desk",
-    "title": "In 1950, amid the Cold War, a tiny beetle from the US was destroying potato crops across East Germany. Then began one of history's strangest propaganda campaigns",
-    "description": "In 1950, a striped potato beetle became the centre of one of the Cold War's most unusual propaganda campaigns after East Germany accused the United States of dropping the insects from aircraft to destroy socialist food supplies. While farmers battled real cro…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/in-1950-amid-the-cold-war-a-tiny-beetle-from-the-us-was-destroying-potato-crops-across-east-germany-then-began-one-of-historys-strangest-propaganda-campaigns/articleshow/131849797.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-131850570,width-1200,height-630,imgsize-125099,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-06-19T07:23:42Z",
-    "content": "In the summer of 1950, farmers across East Germany faced a growing problem in their potato fields. Crops were being damaged by the Colorado potato beetle, a striped insect already well known to agric… [+5029 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Techtarget.com"
-    },
-    "author": "Rosa Heaton",
-    "title": "Weekly news roundup: SpaceX acquires Cursor; Anthropic met with U.S. government; social media bans",
-    "description": "Stay up to date with the latest U.S. tech news, IPOs and executive moves shaping the industry each week.",
-    "url": "https://www.techtarget.com/searchcio/news/366644957/Weekly-news-roundup-SpaceX-acquires-Cursor-Anthropic-met-with-US-government-social-media-bans",
-    "urlToImage": "https://www.techtarget.com/rms/onlineimages/maze_g467037520.jpg",
-    "publishedAt": "2026-06-19T07:21:00Z",
-    "content": "This week in tech saw AI heavyweight Anthropic sit down with the Trump administration, SpaceX make a major acquisition after a record-breaking IPO, Apple's plans for new AirPod cameras, a social medi… [+5476 chars]"
+    "author": "ANI",
+    "title": "\"4-year-old organisation's birthday celebrated like it's 60-year-old\": Sanjay Raut's \"test tube baby\" jibe at Eknath Shinde-led Shiv Sena",
+    "description": "\"I wanted to send some DNA samples to biology professors for study. I mean, the group that was formed four years ago. The one you are referring to is Amit Shah's 'test-tube baby.' So, how can you give a 60-year certificate to a four-year-old 'test-tube baby'?…",
+    "url": "https://economictimes.indiatimes.com/news/politics-and-nation/4-year-old-organisations-birthday-celebrated-like-its-60-year-old-sanjay-rauts-test-tube-baby-jibe-at-eknath-shinde-led-shiv-sena/articleshow/131871383.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131871458,width-1200,height-630,imgsize-58662,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-06-20T06:17:34Z",
+    "content": "Mumbai: A day after Mumbai wtinessed both UBT Sena and Shinde's Sena celebrating the party's 60th foundation day, Shiv Sena (UBT) MP Sanjay Raut on Saturday sarcastically said that it should be consi… [+3197 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Freerepublic.com"
     },
-    "author": "The Telegraph",
-    "title": "‘Without my meds, I’m stuffed’: The reality of the UK’s drug shortage crisis",
-    "description": "After the shock of being diagnosed with Parkinson's disease a year ago, Pearl Bartlett has found herself facing an unexpected additional challenge: the monthly ordeal of simply locating the medication she needs to manage daily life.... \"My chemist spent four …",
-    "url": "https://freerepublic.com/focus/f-news/4384472/posts",
+    "author": "Semi-News/Semi-Satire",
+    "title": "Fauci Funded Creation of COVID {semi-satire]",
+    "description": "This week, Director of National Intelligence (DNI) Tulsi Gabbard released \"evidence showing how Dr. Anthony Fauci, as head of the National Institute of Allergy and Infectious Diseases, provided millions in US taxpayer funds to support research on bat coronavi…",
+    "url": "https://freerepublic.com/focus/f-bloggers/4384643/posts",
     "urlToImage": null,
-    "publishedAt": "2026-06-19T07:08:55Z",
-    "content": "Skip to comments.\r\nWithout my meds, Im stuffed: The reality of the UKs drug shortage crisisThe Telegraph ^\r\n | June 18, 2026\r\n | David Cox\r\nPosted on 06/19/2026 12:08:55 AM PDT by KingofZion\r\nAfter t… [+2376 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Global Desk",
-    "title": "Psychology explains why people often seem more attractive when they make you laugh, and what affect it has on you",
-    "description": "Attraction extends beyond physical appearance, with humor playing a significant role in shaping perceptions. Laughter signals intelligence, warmth, and social competence, fostering positive emotional connections and strengthening interpersonal bonds. This pro…",
-    "url": "https://economictimes.indiatimes.com/news/international/australia/psychology-explains-why-people-often-seem-more-attractive-when-they-make-you-laugh-and-what-affect-it-has-on-you/articleshow/131848850.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-131849212,width-1200,height-630,imgsize-1770658,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-06-19T07:06:58Z",
-    "content": "Imagine meeting someone for the first time at a party. They may not be the most conventionally attractive person in the room, yet within minutes they have you smiling, laughing, and feeling at ease. … [+3728 chars]"
+    "publishedAt": "2026-06-20T06:15:47Z",
+    "content": "Skip to comments.\r\nFauci Funded Creation of COVID {semi-satire]Semi-News/Semi-Satire ^\r\n | 21 June 2026\r\n | John Semmens\r\nPosted on 06/19/2026 11:15:47 PM PDT by John Semmens\r\nThis week, Director of … [+3428 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Vindy.com"
+      "name": "Space Daily"
     },
-    "author": null,
-    "title": "TO YOUR GOOD HEALTH: Value of RFA for pain in shoulder",
-    "description": "DEAR DR. ROACH: Could you please comment on radio- frequency ablation (RFA) for chronic shoulder pain with rotator cuff disease? I’m 78, in good health with arthritis and a small separation of the rotator cuff. I’ve received epidurals that do work very well. …",
-    "url": "https://www.vindy.com/life/lifestyles/2026/06/to-your-good-health-value-of-rfa-for-pain-in-shoulder/",
-    "urlToImage": "https://www.vindy.com/wp-content/themes/coreV3_lazy_vindycustom/images/vindicatorfb.jpg",
-    "publishedAt": "2026-06-19T07:05:38Z",
-    "content": "DEAR DR. ROACH: Could you please comment on radio-\r\nfrequency ablation (RFA) for chronic shoulder pain with rotator cuff disease? I’m 78, in good health with arthritis and a small separation of the r… [+2266 chars]"
+    "author": "Space Daily Editorial Team",
+    "title": "Enceladus, a tiny Saturnian moon only about 500 kilometres wide, is actively venting water vapour and ice grains into space from a salty ocean hidden beneath its crust — and modelling suggests that ocean may have remained warm and chemically active for geological timescales, perhaps long enough for life to have had a chance to emerge.",
+    "description": "Cassini found Enceladus venting its hidden salty ocean into space, complete with organics, hydrogen pointing to hydrothermal vents, and phosphorus. Modelling suggests the ocean could be long-lived and warm. But habitable conditions are not the same as life, a…",
+    "url": "https://spacedaily.com/t-enceladus-a-tiny-saturnian-moon-only-about-500-kilometres-wide-is-actively-venting-water-vapour-and-ice-grains-into-space-from-a-salty-ocean-hidden-beneath-its-crust-and-modelling-suggests/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/06/newimagesize-2026-06-20T131239.910.png",
+    "publishedAt": "2026-06-20T06:13:22Z",
+    "content": "Enceladus is small, only about 500 kilometres across, a moon you could lose among Saturn’s dozens. It is also one of the most interesting places in the solar system to ask whether life could exist be… [+4227 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Hurriyet Daily News"
     },
-    "author": null,
-    "title": "patinae 0.4.2",
-    "description": "Patinae: Modern molecular visualization in Rust with WebGPU rendering",
-    "url": "https://pypi.org/project/patinae/0.4.2/",
-    "urlToImage": null,
-    "publishedAt": "2026-06-19T07:05:29Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "author": "hurriyetdailynews.com",
+    "title": "Türkiye, Syria deepen cooperation in health sector",
+    "description": "Türkiye and Syria have signed a memorandum of understanding to strengthen cooperation in health and medical sciences, Health Minister Kemal Memişoğlu has said.",
+    "url": "https://www.hurriyetdailynews.com/turkiye-syria-deepen-cooperation-in-health-sector-223477",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6a362da5c57c9d437d7d035f.jpg",
+    "publishedAt": "2026-06-20T06:05:29Z",
+    "content": "ANKARA\r\nTürkiye and Syria have signed a memorandum of understanding to strengthen cooperation in health and medical sciences, Health Minister Kemal Memiolu has said.\r\nMemiolu said on NSosyal that he … [+823 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
+      "id": "medical-news-today",
+      "name": "Medical News Today"
     },
-    "author": "Maham Fatima",
-    "title": "Relmada Therapeutics (RLMD): 10 Best Growth Stocks Under $30 to Buy Now",
-    "description": "Relmada Therapeutics Inc. (NASDAQ:RLMD) is one of the best growth stocks under $30 to buy now. On May 12, Relmada Therapeutics reported Q1 2026 results, high...",
-    "url": "https://finance.yahoo.com/healthcare/articles/relmada-therapeutics-rlmd-10-best-070116881.html",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/7FDB586EB851CA7F903DDF580BEE6579CD1561FF164871D2F172DC4126281A38/subgraphmysterio/resizefill_w1200_h885;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff81f0c8c17bc4fdfff7cf1779f6c3d84",
-    "publishedAt": "2026-06-19T07:01:16Z",
-    "content": "Relmada Therapeutics Inc. (NASDAQ:RLMD) is one of the best growth stocks under $30 to buy now. On May 12, Relmada Therapeutics reported Q1 2026 results, highlighted by positive 12-month Phase 2 data … [+2050 chars]"
-  },
-  {
-    "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
-    },
-    "author": "GlobeNewswire",
-    "title": "Professor Mohamed Shamji Assumes Presidency of EAACI as Congress 2026 Concludes in Istanbul",
-    "description": "New leadership begins as the global allergy community advances the Vision Zero ambition of a future free from allergy and asthma burden ISTANBUL, June 19, 2026 (GLOBE NEWSWIRE) — The European Academy of Allergy and Clinical Immunology (EAACI) has successfully…",
-    "url": "https://financialpost.com/globe-newswire/professor-mohamed-shamji-assumes-presidency-of-eaaci-as-congress-2026-concludes-in-istanbul",
-    "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/mohamed-shamji.png",
-    "publishedAt": "2026-06-19T07:01:15Z",
-    "content": "New leadership begins as the global allergy community advances the Vision Zero ambition of a future free from allergy and asthma burden\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now t… [+5137 chars]"
+    "author": "Corrie Pelc",
+    "title": "Why researchers are turning to a medication for bipolar to treat Alzheimer's",
+    "description": "A new study makes the case for treating Alzheimer's disease with low-dose lithium, a drug typically used for bipolar disorder.",
+    "url": "https://www.medicalnewstoday.com/articles/alzheimers-treatment-low-dose-lithium",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/06/Lithium_Alzheimer-header-facebook-1200x630-1-1200x628.jpg",
+    "publishedAt": "2026-06-20T06:00:00Z",
+    "content": "<ul><li>There are about 32 million people globally living with Alzheimers disease, with that number expected to hit 152 million by 2050. </li><li>While there are some medications for Alzheimers disea… [+8535 chars]"
   }
 ]
