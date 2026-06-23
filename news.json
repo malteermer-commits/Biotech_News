@@ -1,236 +1,262 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Globalsecurity.org"
+      "id": "associated-press",
+      "name": "Associated Press"
     },
-    "author": "John Pike",
-    "title": "US-Iran Talks Revived As Vance Arrives In Switzerland For High-Stakes Push",
-    "description": "After briefly appearing to falter, US-Iran implementation talks are back on track, with senior American and Iranian delegations converging on Switzerland for what could prove a decisive phase in turning a fragile wartime memorandum into a broader political se…",
-    "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260621-rferl01.htm",
+    "author": null,
+    "title": "Pheno Therapeutics Granted FDA IND Clearance for Lead Multiple Sclerosis Therapeutic Candidate PTD802",
+    "description": "EDINBURGH, Scotland--(BUSINESS WIRE)--Jun 22, 2026-- Pheno Therapeutics Limited. (Pheno), a clinical stage biotechnology company focused on the discovery and development of small molecule therapeutics for the treatment of neurological diseases, today announce…",
+    "url": "https://apnews.com/press-release/business-wire/press-release-19216c60516c4bb39e9e784b9cf3492d",
+    "urlToImage": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+    "publishedAt": "2026-06-22T08:51:44Z",
+    "content": "EDINBURGH, Scotland--(BUSINESS WIRE)--Jun 22, 2026--\r\nPheno Therapeutics Limited. (Pheno), a clinical stage biotechnology company focused on the discovery and development of small molecule therapeuti… [+2555 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "SNS Insider pvt ltd",
+    "title": "AI in Chemicals Market Size to Hit $25.89 Billion by 2035 as Smart Manufacturing and AI-Driven Process Optimization Accelerate | Research by SNS Insider",
+    "description": "The U.S. AI in Chemicals Market is Expected to Reach $6.98 Billion by 2035, While Europe is Projected to Touch $5.89 Billion, Driven by AI-Powered Production Optimization, Sustainable Chemical Manufacturing, Predictive Analytics, and Rising Investments in Dig…",
+    "url": "https://www.globenewswire.com/news-release/2026/06/22/3315088/0/en/AI-in-Chemicals-Market-Size-to-Hit-25-89-Billion-by-2035-as-Smart-Manufacturing-and-AI-Driven-Process-Optimization-Accelerate-Research-by-SNS-Insider.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "publishedAt": "2026-06-22T08:39:00Z",
+    "content": "Austin, June 22, 2026 (GLOBE NEWSWIRE) -- The AI in Chemicals Market\r\n was valued at USD 1.20 Billion in 2025 and is expected to reach USD 25.89 Billion by 2035, growing at a CAGR of 35.89%.\r\nThe AI … [+9126 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Innogen Pharmaceutical Group Highlights China-Originated Innovation and Global Development Strategy at DIA Global Annual Meeting 2026 China Town Hall",
+    "description": "From original GLP-1 science to international clinical development, Innogen shares its \"from 0 to 1\" innovation journey in metabolic diseases PHILADELPHIA, June 22, 2026 /PRNewswire/ -- During the DIA Global Annual Meeting 2026 held in Philadelphia, the China …",
+    "url": "https://www.prnewswire.com/news-releases/innogen-pharmaceutical-group-highlights-china-originated-innovation-and-global-development-strategy-at-dia-global-annual-meeting-2026-china-town-hall-302806203.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1869968/65c76dc64d194d578515d808d2634b7f.jpg?id=OA2727109&p=facebook",
+    "publishedAt": "2026-06-22T08:39:00Z",
+    "content": "From original GLP-1 science to international clinical development, Innogen shares its \"from 0 to 1\" innovation journey in metabolic diseases\r\nPHILADELPHIA, June 22, 2026 /PRNewswire/ -- During the DI… [+6774 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thechronicle.com.gh"
+    },
+    "author": "admin",
+    "title": "Why Am I So Tired?",
+    "description": "It’s the middle of the day and you just can’t seem to get out of first gear. And it’s not the first time. What’s making you feel so wiped out? There is a long list of possible reasons, and many of them are things that you can influence. Check out these common…",
+    "url": "https://thechronicle.com.gh/why-am-i-so-tired/",
+    "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2026/06/1-18.jpg",
+    "publishedAt": "2026-06-22T08:32:38Z",
+    "content": "It’s the middle of the day and you just can’t seem to get out of first gear. And it’s not the first time.\r\nWhats making you feel so wiped out? There is a long list of possible reasons, and many of th… [+3805 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Theregister.com"
+    },
+    "author": "Rupert Goodwins",
+    "title": "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest",
+    "description": "Never get involved in a land war in Asia. Also, don't pick a contract fight with a monster of the art",
+    "url": "https://www.theregister.com/virtualization/2026/06/22/lessons-from-the-vmwars-nothing-virtual-about-the-broadcom-vs-tesco-slugfest/5259005",
+    "urlToImage": "https://image.theregister.com/5235702.jpg?imageId=5235702&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "publishedAt": "2026-06-22T08:30:00Z",
+    "content": "The legal battle between Broadcom and Tesco isn't so much a contract dispute as a serial TV drama. An aggressive organization takes over a renowned operation with blue chip clientele, and puts the sq… [+5325 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NorthJersey.com"
+    },
+    "author": "Colleen Wilson, NorthJersey.com",
+    "title": "Here are our World Cup transit tips for Norway vs. Senegal match in NJ",
+    "description": "Worried about lines for Monday's World Cup match in NJ? We have tips to navigate getting to MetLife Stadium.",
+    "url": "https://www.northjersey.com/story/news/transportation/2026/06/22/world-cup-transit-tips-for-norway-vs-senegal-match-in-nj/90588807007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ev.0DZfZFCe5nahHwGFdAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/the-bergen-record/5a09f1462f64c3f9e09e78fd93e07152",
+    "publishedAt": "2026-06-22T08:28:17Z",
+    "content": "Trying to figure out how to get to the World Cup Norway vs. Senegal Group I match at MetLife Stadium on June 22?\r\nNew York and New Jersey's World Cup planners are tweaking the various modes and route… [+8370 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Khabarhub.com"
+    },
+    "author": "Khabarhub",
+    "title": "China’s sudden death crisis: Rising young fatalities linked to vaccine concerns",
+    "description": "Reports from China in 2026 highlight a disturbing rise in sudden deaths among young and middle-aged individuals, with growing speculation that COVID-19 vaccinesparticularly those developed and deployed rapidlymay be linked to cardiovascular and neurological c…",
+    "url": "https://english.khabarhub.com/2026/22/554993/",
+    "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2021/08/corona-vaccine-1.jpg",
+    "publishedAt": "2026-06-22T08:15:51Z",
+    "content": "Reports from China in 2026 highlight a disturbing rise in sudden deaths among young and middle-aged individuals, with growing speculation that COVID-19 vaccinesparticularly those developed and deploy… [+5940 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "H3 Zoom Closes Oversubscribed USD$3.6 Million Series A Round to Scale AI-Powered Inspection Intelligence Across Asia",
+    "description": "Final close adds AC S525, Moringa Ventures and Lotus One Investment, following AngelCentral's member-led syndication and earlier participation from JRE VENTURES, SGInnovate and M7 Holdings SINGAPORE, June 22, 2026 /PRNewswire/ -- H3 Zoom, a Singapore-based de…",
+    "url": "https://www.prnewswire.com/news-releases/h3-zoom-closes-oversubscribed-usd3-6-million-series-a-round-to-scale-ai-powered-inspection-intelligence-across-asia-302806186.html",
     "urlToImage": null,
-    "publishedAt": "2026-06-21T11:26:03Z",
-    "content": "By Alex Raufoglu June 20, 2026 23:39 CET Updated June 21, 2026\r\nBURGENSTOCK, Switzerland -- After briefly appearing to falter, US-Iran implementation talks are back on track, with senior American and… [+8008 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "hbrueck@businessinsider.com (Hilary Brueck)",
-    "title": "Weight loss without muscle loss? The next generation of drugs is testing the idea",
-    "description": "Drugs that help people hold on to their muscles while losing fat are becoming one of the hottest trends in biotech.",
-    "url": "https://www.businessinsider.com/new-weight-loss-drugs-preserve-muscle-and-cut-fat-2026-6#article",
-    "urlToImage": "https://i.insider.com/6a336a9e564c774507cd4232?width=1200&format=jpeg",
-    "publishedAt": "2026-06-21T11:23:01Z",
-    "content": "Nearly every pharmaceutical company you can name is chasing this tantalizing idea: hang on to your muscles while you lose weight.\r\nIt's a goal that seems to defy the laws of biology our bodies are wi… [+7948 chars]"
+    "publishedAt": "2026-06-22T08:04:00Z",
+    "content": "Final close adds AC S525, Moringa Ventures and Lotus One Investment, following AngelCentral's member-led syndication and earlier participation from JRE VENTURES, SGInnovate and M7 Holdings\r\nSINGAPORE… [+12355 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Brit + Co"
+      "name": "ScienceAlert"
     },
-    "author": "Jasmine Williams",
-    "title": "How To Actually Curb Your Airplane Anxiety, According To A Pilot",
-    "description": "Packing up your new carry-on for a summer vacation is all fun and games until you find yourself staring out at the airport tarmac. Suddenly, the reality of the massive plane ahead sets in, and those pesky, anxiety-ridden thoughts begin to spiral: Are these pl…",
-    "url": "https://www.brit.co/travel-2668867518/",
-    "urlToImage": "https://www.brit.co/media-library/traveler-with-orange-suitcase-walking-through-an-airport-jet-bridge-smiling-back.jpg?id=66978852&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
-    "publishedAt": "2026-06-21T11:07:50Z",
-    "content": "Packing up your new carry-on for a summer vacationis all fun and games until you find yourself staring out at the airport tarmac. Suddenly, the reality of the massive plane ahead sets in, and those p… [+9262 chars]"
+    "author": "David Nield",
+    "title": "The Secret to Why Sloths Are So Slow May Be Hidden in Their DNA",
+    "description": "Evolution doesn't always reward speed. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+    "url": "https://www.sciencealert.com/the-secret-to-why-sloths-are-so-slow-may-be-hidden-in-their-dna",
+    "urlToImage": "https://www.sciencealert.com/images/2026/06/SleepingSloth.jpg",
+    "publishedAt": "2026-06-22T08:00:54Z",
+    "content": "Sloths are unusual: they're the slowest-moving mammals on the planet, have the slowest metabolisms too, and do not constantly regulate their body temperature.\r\nNow, a new genetic study has uncovered … [+4249 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Real 'Made In India: A Titan Story' began in a small Tamil Nadu village with a mission to bring stylish watches to the common Indian",
+    "description": "Titan, a household name in India, began its journey in the small town of Hosur, Tamil Nadu. Driven by a vision to offer stylish, quality watches affordably, the company transformed the Indian watch market. By investing in local talent and fostering community …",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/real-made-in-india-a-titan-story-began-in-a-small-tamil-nadu-village-with-a-mission-to-bring-stylish-watches-to-the-common-indian/articleshow/131903350.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-131903841,width-1200,height-630,imgsize-828370,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-06-22T07:50:42Z",
+    "content": "Can a small town change the way an entire country tells time? For millions of Indians today, Titan is more than just a watch brand. It is a household name associated with milestones, celebrations and… [+6525 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "BBC News"
+      "name": "Acultivatednest.com"
     },
-    "author": "Chris Kirwan - BBC Sport Wales",
-    "title": "Wales' next generation getting a taste of Test life",
-    "description": "Wales' brightest prospects getting a chance to impress ahead of Saturday's fixture against the Barbarians at Twickenham.",
-    "url": "https://www.bbc.com/sport/rugby-union/articles/ce3evnnrz4zo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_qx6bv8HHdP2ntGCSVA.KQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/bbc_us_articles_995/bbfaf53198f46b0e56aede6e9d2aefc8",
-    "publishedAt": "2026-06-21T11:06:15Z",
-    "content": "After a Six Nations that was hit by injuries to key players, Wales are having a look at the next generation this summer.\r\nSean Lynn's side will face the Barbarians at Allianz Stadium in Twickenham on… [+4717 chars]"
+    "author": "A Cultivated Nest Team",
+    "title": "7 Herbs You Shouldn’t Grow Together",
+    "description": "What Herbs to Grow Separately. Growing your own backyard herb garden is one of the most rewarding ways to elevate your cooking, save money on grocery bills, and add a splash of gorgeous greenery to your outdoor space. There is nothing quite like stepping onto…",
+    "url": "https://acultivatednest.com/herbs-you-shouldnt-grow-together/",
+    "urlToImage": "https://acultivatednest.com/wp-content/uploads/2019/04/herbs-you-shouldnt-grow-together-500px.jpg",
+    "publishedAt": "2026-06-22T07:42:58Z",
+    "content": "What Herbs to Grow Separately.\r\nGrowing your own backyard herb garden is one of the most rewarding ways to elevate your cooking, save money on grocery bills, and add a splash of gorgeous greenery to … [+5465 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Unexplained-mysteries.com"
+      "name": "Antaranews.com"
     },
-    "author": "unexplained-mysteries.com",
-    "title": "If aliens had to survive on Earth, what exactly would they eat ?",
-    "description": "Science-fiction has long explored the idea of aliens walking among us, but how would these entities sustain themselves ? In Steven Spielberg's iconic ...",
-    "url": "https://www.unexplained-mysteries.com/news/400057/if-aliens-had-to-survive-on-earth-what-exactly-would-they-eat",
-    "urlToImage": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-grey-aliens.jpg",
-    "publishedAt": "2026-06-21T11:05:18Z",
-    "content": "Extraterrestrial\r\nBy T.K. RandallJune 21, 2026Image: Grey Aliens DrawingCredit: MjolnirPants / CC BY-SA 4.0 (adapted)Science-fiction has long explored the idea of aliens walking among us, but how wou… [+1580 chars]"
+    "author": "PR Wire",
+    "title": "Informa Markets and Thailand's Health Ministry Join Forces To Deliver a Successful Edition",
+    "description": "Informa Markets joins forces with Thailand&#39;s Department of Health Service Support (DHSS) to unveil International Healthcare Week 2026, a transformative ...",
+    "url": "https://en.antaranews.com/news/419951/informa-markets-and-thailands-health-ministry-join-forces-to-deliver-a-successful-edition",
+    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/06/22/KEY.jpg",
+    "publishedAt": "2026-06-22T07:19:42Z",
+    "content": "Bangkok (ANTARA/PRNewswire)- Informa Markets joins forces with Thailand's Department of Health Service Support (DHSS) to unveil International Healthcare Week 2026, a transformative regional healthcar… [+5062 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Scientific American"
+      "name": "GlobeNewswire"
     },
-    "author": "Tanya Lewis",
-    "title": "How becoming a dad changes men’s brains",
-    "description": "Fathers show changes in some of the same brain areas as mothers, but the effect of parenthood on dads isn’t nearly as well studied",
-    "url": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
-    "urlToImage": "https://static.scientificamerican.com/dam/asset/1c8197f2-1408-400a-aa04-61e3588965f5/father_holding_baby_at_home.jpg?m=1781989822.793&w=1200",
-    "publishedAt": "2026-06-21T11:00:00Z",
-    "content": "Father’s Day is an opportunity to recognize the efforts of dads everywhere. But becoming a father is more than just a lifestyle change—it alters one’s brain, too.\r\nScientific American spoke with Devi… [+4196 chars]"
+    "author": "Oxford BioTherapeutics",
+    "title": "Oxford BioTherapeutics' Third Partnered Programme with Boehringer Ingelheim Enters the Clinic and its First (Obrixtamig) Advances to Phase 3",
+    "description": "Oxford, UK, and San Jose, California, 22 June 2026 – Oxford BioTherapeutics (“OBT”), a clinical-stage oncology company specialising in proteomics-driven target discovery for antibody-based therapies enabled by its OGAP®-Verify platform, today announced two ne…",
+    "url": "https://www.globenewswire.com/news-release/2026/06/22/3315071/0/en/Oxford-BioTherapeutics-Third-Partnered-Programme-with-Boehringer-Ingelheim-Enters-the-Clinic-and-its-First-Obrixtamig-Advances-to-Phase-3.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/739bbec9-903d-4ef2-8782-7f8592fa370b",
+    "publishedAt": "2026-06-22T07:15:00Z",
+    "content": "<ul><li>First patients dosed with BI 3820768 (OB33), marking third programme from the Oxford BioTherapeutics (OBT)-Boehringer Ingelheim collaboration to enter clinical development </li><li>Obrixtamig… [+7070 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Ms. Magazine"
+      "name": "Greenstories.co.in"
     },
-    "author": "Maya Olson",
-    "title": "How the Manhattan Institute Turned Anti-LGBTQ+ Politics Into Conservative Policy",
-    "description": "The Manhattan Institute for Policy Research, best known as a Reaganomics champion, is using anti-LGBTQ+ politics to advance its broader political goals. But that wasn’t always part of its strategy.\nSince its founding nearly 50 years ago, MI has influenced con…",
-    "url": "https://msmagazine.com/2026/06/21/manhattan-institute-trump-republicans/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/06/GettyImages-2213345644.jpg",
-    "publishedAt": "2026-06-21T11:00:00Z",
-    "content": "Then-Environmental Protection Agency (EPA) administrator Scott Pruitt canceled his planned speech at the far-right think tank, the Manhattan Institute, to avoid significant opposition from New York e… [+17100 chars]"
+    "author": "Healthline",
+    "title": "Want to Slow Your Aging? Multivitamins, Diet, and Fitness",
+    "description": "Studies show that diet, fitness, and multivitamins may help slow the aging process. Image Credit: Maria Sher/Stocksy",
+    "url": "https://greenstories.co.in/want-to-slow-your-aging-multivitamins-diet/",
+    "urlToImage": "https://greenstories.co.in/wp-content/uploads/2026/06/download-2026-06-22T113253.128.jpg",
+    "publishedAt": "2026-06-22T07:11:39Z",
+    "content": "Studies show that diet, fitness, and multivitamins may help slow the aging process. Image Credit: Maria Sher/Stocksy\r\n<ul><li>Research suggests that taking a multivitamin every day may help slow the … [+6032 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "CNA"
     },
     "author": null,
-    "title": "strux-rs added to PyPI",
-    "description": "A performance-engineered structural biology library in Rust",
-    "url": "https://pypi.org/project/strux-rs/",
-    "urlToImage": null,
-    "publishedAt": "2026-06-21T10:56:04Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "title": "WEF’s ‘Summer Davos’ in Dalian to focus on unlocking economic growth through innovations",
+    "description": "More than 1,700 leaders, including from government, business and academia, will attend the three-day event – the World Economic Forum's second largest annual gathering – from Tuesday (Jun 23).",
+    "url": "https://www.channelnewsasia.com/world/world-economic-forum-wef-summer-davos-dalian-innovations-growth-6200061",
+    "urlToImage": "https://dam.mediacorp.sg/image/upload/s--jWndQD8a--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/22/1.jpg?itok=_GVY7iSB",
+    "publishedAt": "2026-06-22T07:11:29Z",
+    "content": "Neo Gim Huay, a managing director at WEF, said the world has already entered a new technological age, powered by advances in AI, robotics and biotechnology. \r\nThis years focus is on extending the rea… [+1284 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Nakedcapitalism.com"
+      "name": "Boredpanda.com"
     },
-    "author": "Haig Hovaness",
-    "title": "Links 6/21/2026",
-    "description": "Our strategic daily links: Snow job, neurons making sentences, electrifying the world, Latin America turmoil, Robotic squid fishing in China, EU Budget, Mideast horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigrat…",
-    "url": "https://www.nakedcapitalism.com/2026/06/links-6-21-2026.html",
-    "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/06/hummingbird.jpg",
-    "publishedAt": "2026-06-21T10:55:59Z",
-    "content": "The way snow is removed in Montrealpic.twitter.com/yVjVL5BXeW\r\n Science girl (@sciencegirl) December 10, 2023\r\nHow the brain builds sentences, neuron by neuron Nature\r\nThe nose knows: Electric schnoz… [+6696 chars]"
+    "author": "Mariia Tkachenko",
+    "title": "Terrifying Wildlife Encounters: 46 Disturbing Things Caught on Camera",
+    "description": "There are arguably as many beautiful creatures in the world as there are creepy ones. But since they’re not as pleasant to look at, the latter might not appear on your news feed as often as puppies or kittens do.",
+    "url": "https://www.boredpanda.com/creepy-nature-pics-msn-2/",
+    "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2024/06/creepy-nature-pics-fb-6671586d7b163.png",
+    "publishedAt": "2026-06-22T07:10:04Z",
+    "content": "There are arguably as many beautiful creatures in the world as there are creepy ones. But since they’re not as pleasant to look at, the latter might not appear on your news feed as often as puppies o… [+890 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "GlobeNewswire"
     },
-    "author": "Emma Gritt",
-    "title": "Sound healing: Woo-woo wellness at its finest or an ancient shortcut to a calm and clear mind?",
-    "description": "From crystal bowls and gongs to ocean drums and chimes, sound baths promise deep relaxation through carefully layered vibrations that wash over the body.",
-    "url": "https://www.dailymail.com/health/article-15891289/Sound-healing-Woo-woo-wellness-finest-ancient-shortcut-calm-clear-mind.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/06/19/16/109470505-0-image-m-11_1781882177472.jpg",
-    "publishedAt": "2026-06-21T10:52:24Z",
-    "content": "Daily Mail journalists select and curate the products that feature on our site. If you make a purchase via links on this page we will earn commission - learn more\r\nOnce dismissed as a fringe wellness… [+5444 chars]"
+    "author": "Boehringer Ingelheim Limited",
+    "title": "Boehringer Ingelheim accelerates precision oncology research with initiation of three Phase III trials in hard-to-treat cancers",
+    "description": "Ingelheim, Germany and Ridgefield, Conn - Boehringer Ingelheim is advancing biomarker-informed approaches and extending precision care across multiple cancers and stages of disease, reinforcing its ambition to bring unprecedented impact and improve long-term …",
+    "url": "https://www.globenewswire.com/news-release/2026/06/22/3315065/0/en/Boehringer-Ingelheim-accelerates-precision-oncology-research-with-initiation-of-three-Phase-III-trials-in-hard-to-treat-cancers.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/19e95b1d-95b0-41bf-9b6f-df78e88c8044",
+    "publishedAt": "2026-06-22T07:00:00Z",
+    "content": "<ul><li>Boehringer Ingelheim is committed to improving outcomes for people facing aggressive cancers where there are currently few treatment options</li><li>DAREON®-Lung-1 and DAREON®-NEC-1 will eval… [+11802 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Gbnews.com"
+      "name": "Sciencebasedmedicine.org"
     },
-    "author": "Solen Le Net",
-    "title": "Drug shortages: Pharmacist warns of 'worst' supply issues in his career as three major drugs affected",
-    "description": "A leading pharmacist has described the current run of NHS medicine shortages as the worst he’s seen in his entire career, as health bodies warn supply problems affecting painkillers, epilepsy treatments and HRT have reached record levels.“Medicine shortages a…",
-    "url": "https://www.gbnews.com/health/drug-shortages-pharmacy-crisis-supply-chain-hrt-painkillers-cancer",
-    "urlToImage": "https://www.gbnews.com/media-library/uk-pharmacist.jpg?id=66978789&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
-    "publishedAt": "2026-06-21T10:42:51Z",
-    "content": "A leading pharmacist has described the current run of NHS medicine shortages as the worst hes seen in his entire career, as health bodies warn supply problems affecting painkillers, epilepsy treatmen… [+3123 chars]"
+    "author": "David Gorski",
+    "title": "Lysenkoism 2.0 in action: Robert F. Kennedy Jr. abuses his power to bully journal editors over a retraction",
+    "description": "A journal editor decided to retract and remove a bad study by an antivaxxer named Neil Z. Miller. RFK Jr. publicly demanded to know why. This is Lysenkoism 2.0 in action in 2026.\nThe post Lysenkoism 2.0 in action: Robert F. Kennedy Jr. abuses his power to bul…",
+    "url": "https://sciencebasedmedicine.org/lysenkoism-in-action-rfkijr-abuses-his-power/",
+    "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2025/03/Lysenkoism1.jpg",
+    "publishedAt": "2026-06-22T07:00:00Z",
+    "content": "Those who’ve been reading SBM since at least 2024 know that, ever since Donald Trump was elected President again, with respect to federal science policy I’ve been referring to his second term as “Lys… [+36405 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Onlymyhealth.com"
+      "name": "Biztoc.com"
     },
-    "author": "Chanchal Sengar",
-    "title": "The Silver Lining of an Early Loss: What a Chemical Pregnancy Reveals About Your Reproductive Health",
-    "description": "A pregnancy loss can be heartbreaking but it can help you and your doctor assess your reproductive health and fertility For more details read this article",
-    "url": "https://www.onlymyhealth.com/what-a-chemical-pregnancy-reveals-about-your-reproductive-health-12977848170",
-    "urlToImage": "https://images.onlymyhealth.com/only-my-health-english/images/2026/06/21/article/image/mn-after-preg-loss-1782033674528.webp",
-    "publishedAt": "2026-06-21T10:36:17Z",
-    "content": "Discovering that faint positive line on a home pregnancy test brings an instant, overwhelming rush of joy, hope, and late-night daydreaming. But when that happiness gets cut short just a few days lat… [+5605 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Trump administration probe could upend widely used transgender youth treatment guidelines",
-    "description": "The FTC alleges WPATH built transgender treatment guidelines for minors on evidence its own leaders privately acknowledged was limited and uncertain.",
-    "url": "https://www.foxnews.com/politics/trump-administration-probe-could-upend-widely-used-transgender-youth-treatment-guidelines",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/FTC-sues-transgender-group.jpeg",
-    "publishedAt": "2026-06-21T10:30:42Z",
-    "content": "The organization widely regarded as the leading authority on transgender medical treatment is facing allegations from the Federal Trade Commission that it built influential treatment guidelines for m… [+6527 chars]"
+    "author": "barchart.com",
+    "title": "Is Bio-Techne Stock Underperforming the S&P 500?",
+    "description": "Bio-Techne Corporation (TECH) is a global life sciences company headquartered in Minneapolis that develops, manufactures, and sells high-performance reagents, proteins, antibodies, diagnostic products, and analytical instruments used by researchers, biotechno…",
+    "url": "https://biztoc.com/x/ab003c3c946efffb",
+    "urlToImage": "https://biztoc.com/cdn/ab003c3c946efffb_s.webp",
+    "publishedAt": "2026-06-22T06:36:13Z",
+    "content": "Bio-Techne Corporation (TECH) is a global life sciences company headquartered in Minneapolis that develops, manufactures, and sells high-performance reagents, proteins, antibodies, diagnostic product… [+133 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Crypto Briefing"
+      "name": "Whitecoatinvestor.com"
     },
-    "author": "Editorial Team",
-    "title": "Iran confirms return of $6B in frozen funds from Qatar as US nuclear deal takes shape",
-    "description": "The return of Iran's funds may ease US-Iran tensions, impacting global diplomacy and potentially stabilizing regional economic conditions.\nThe post Iran confirms return of $6B in frozen funds from Qatar as US nuclear deal takes shape appeared first on Crypto …",
-    "url": "https://cryptobriefing.com/iran-6b-frozen-funds-qatar-return/",
-    "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/21062556/a-local-s-guide-to-iran-cond-nast-traveler-6-800x420.jpeg",
-    "publishedAt": "2026-06-21T10:26:03Z",
-    "content": "The funds, originally frozen in South Korean banks, have been locked up since 2019 and were moved to Qatar as part of a 2023 prisoner swap. Iranian President Masoud Pezeshkian confirmed on June 21 th… [+2108 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Honolulu Star-Advertiser"
-    },
-    "author": "Dan Nakaso",
-    "title": "New UH AI data center aims to improve healthcare throughout Pacific region | Honolulu Star-Advertiser",
-    "description": "More than $12 million in federal funding has spurred researchers at the University of Hawaii’s Cancer \nCenter and John A. Burns School of Medicine to focus on converting a garage-­sized, air-conditioned, ground-floor room at the Cancer Center into Hawaii’s fi…",
-    "url": "https://www.staradvertiser.com/2026/06/21/hawaii-news/new-uh-ai-data-center-aims-to-improve-healthcare-throughout-pacific-region/",
-    "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2026/06/web1_CTY-UH-cancer-center-AI-1544.jpg",
-    "publishedAt": "2026-06-21T10:25:55Z",
-    "content": "More than $12 million in federal funding has spurred researchers at the University of Hawaii’s Cancer \r\nCenter and John A. Burns School of Medicine to focus on converting a garage-­sized, air-conditi… [+6222 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Science Daily"
-    },
-    "author": null,
-    "title": "Yale study finds nearly half of older adults improved with age",
-    "description": "A long-term Yale study is challenging one of the biggest myths about aging. Nearly half of adults over 65 improved physically, mentally, or both over time, despite the common belief that aging means constant decline. Researchers found that people with more po…",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260620100428.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/happy-senior-couple-jogging.webp",
-    "publishedAt": "2026-06-21T10:02:10Z",
-    "content": "The research was supported by funding from the National Institute on Aging.oth physical and mental abilities. However, new research from Yale University paints a far more optimistic picture. The stud… [+4919 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "Gabby Landsverk",
-    "title": "A doctor explains how to boost your longevity in just 4 minutes a day, with exercises you can do at home",
-    "description": "Exercise is key to healthy aging, and 30-second sessions of squats and push-ups may be enough to build strength and help you live longer, a doctor said.",
-    "url": "https://www.businessinsider.com/how-to-boost-longevity-4-minutes-daily-exercise-2026-6#article",
-    "urlToImage": "https://i.insider.com/6a341458f4bed3c6152cb95b?width=1200&format=jpeg",
-    "publishedAt": "2026-06-21T09:47:01Z",
-    "content": "Short sets of bodyweight exercises like push-ups can build the strength you need for a longer life.Courtesy of Christopher Sciamanna/milan2099 via Getty Images\r\n<ul><li>Exercise is one of the best lo… [+5172 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Activistpost.com"
-    },
-    "author": "Editor",
-    "title": "Study: 560-610 Minutes of Weekly Exercise May Cut Cardiovascular Risk by Over 30%",
-    "description": "A study published in the British Journal of Sports Medicine found that adults who exercised 560 to 610 minutes per week had a more than 30% lower risk of cardiovascular disease compared with inactive individuals, according to web sources [1][2]. Current World…",
-    "url": "https://www.activistpost.com/study-560-610-minutes-of-weekly-exercise-may-cut-cardiovascular-risk-by-over-30/",
-    "urlToImage": "https://www.activistpost.com/wp-content/uploads/2026/06/cardiovascular-disease-exercise-duration-weekly-exercise-volume-1732-original.jpg",
-    "publishedAt": "2026-06-21T09:46:00Z",
-    "content": "A study published in the British Journal of Sports Medicine found that adults who exercised 560 to 610 minutes per week had a more than 30% lower risk of cardiovascular disease compared with inactive… [+4287 chars]"
+    "author": "Josh Katzowitz",
+    "title": "Quit Smart: Escaping the Trap of Relentless Persistence",
+    "description": "What if we’ve misunderstood quitting all along? What if persistence is overvalued, and strategic quitting is actually a marker of wisdom?\nThe post Quit Smart: Escaping the Trap of Relentless Persistence appeared first on The White Coat Investor - Investing & …",
+    "url": "https://www.whitecoatinvestor.com/quit-smart/",
+    "urlToImage": "https://www.whitecoatinvestor.com/wp-content/uploads/2026/05/quitting-smart-img.jpg",
+    "publishedAt": "2026-06-22T06:30:45Z",
+    "content": "Weve all heard the mantras: Winners never quit and Dont be a quitter. They echo from locker rooms to boardrooms, shaping how we view persistence. In medicine, where long hours, delayed gratification,… [+8686 chars]"
   }
 ]
