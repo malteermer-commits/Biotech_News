@@ -2,249 +2,54 @@
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Shania Obrien",
-    "title": "Sam was 22 when he noticed 'unusual sensations'. Then came lingering shoulder pain. They were the only signs of his extremely aggressive late stage cancer",
-    "description": "Looking back now, Sam realises those seemingly insignificant symptoms were the beginning of a terrifying health journey.",
-    "url": "https://www.dailymail.com/lifestyle/fitness-wellbeing/article-15940111/shoulder-pain-DSRCT-aggressive-cancer-symptoms-Australia.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/07/01/01/109707401-0-image-m-23_1782865044949.jpg",
-    "publishedAt": "2026-07-05T09:44:15Z",
-    "content": "When Samuel Matthias noticed a strange ache in his chest, it barely registered as something worth worrying about.\r\nThe then-22-year-old had just finished a finance degree, landed his first full-time … [+15106 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Forbes"
-    },
-    "author": "Dr. Tal Patalon, MD, LLB, MBA, Contributor, \n Dr. Tal Patalon, MD, LLB, MBA, Contributor\n https://www.forbes.com/sites/talpatalon/",
-    "title": "Soccer: No Pain, No Gain?",
-    "description": "Each position on the field sets the injury trajectory",
-    "url": "https://www.forbes.com/sites/talpatalon/2026/07/05/soccer-no-pain-no-gain/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a492da633ef0d7662d17e1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-    "publishedAt": "2026-07-05T09:43:15Z",
-    "content": "Created by Wyatt Kahn for The Art of the Game, photographed by Megan Maloy for ARTS 14C // Each of my stories includes an original artwork. Clicking on them will take you to their websites. I am grat… [+7518 chars]"
-  },
-  {
-    "source": {
-      "id": null,
       "name": "Space Daily"
     },
     "author": "Space Daily Editorial Team",
-    "title": "In 1914, the British explorer Ernest Shackleton set sail from London for Antarctica with 28 men and a ship called the Endurance — and 22 months later, after the ship was crushed by pack ice and the men had lived on drifting ice floes and a barren island for nearly two years, every one of them came home alive",
-    "description": "On Saturday, 8 August 1914 — five days after the British declaration of war against the German Empire that would produce the subsequent four-year catastrophe of the First World War, and following a specific one-word instruction from the First Lord of the Admi…",
-    "url": "https://spacedaily.com/d-in-1914-the-british-explorer-ernest-shackleton-set-sail-from-london-for-antarctica-with-28-men-and-a-ship-called-the-endurance-and-22-months-later-after-the-ship-was-crushed-by-pack-ice-an/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/Posts-1600840-2026-07-05T105640.051.png",
-    "publishedAt": "2026-07-05T09:15:16Z",
-    "content": "On Saturday, 8 August 1914 five days after the British declaration of war against the German Empire that would produce the subsequent four-year catastrophe of the First World War, and following a spe… [+9330 chars]"
+    "title": "A probe called Cassini spent thirteen years orbiting Saturn, flew through the plumes of its moon Enceladus, tasted water and organic molecules in the spray, and then was deliberately crashed into Saturn’s atmosphere in 2017 so it could not contaminate what might be a living ocean",
+    "description": "For thirteen years, a spacecraft called Cassini circled Saturn. It flew straight through the icy plumes erupting from the little moon Enceladus, tasted water and organic molecules in the spray, and then, in September 2017, was deliberately steered into Saturn…",
+    "url": "https://spacedaily.com/a-probe-called-cassini-spent-thirteen-years-orbiting-saturn-flew-through-the-plumes-of-its-moon-enceladus-tasted-water-and-organic-molecules-in-the-spray-and-then-was-deliberately-crashed-into-satu/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/cassini.jpg",
+    "publishedAt": "2026-07-06T09:00:18Z",
+    "content": "For thirteen years, a spacecraft called Cassini circled Saturn. It flew straight through the icy plumes erupting from the little moon Enceladus, tasted water and organic molecules in the spray, and t… [+4546 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Roanoke Times"
+      "name": "NPR"
     },
-    "author": "ETHAN HUNT The Roanoke Times",
-    "title": "Officials say Virginia Tech is ‘perfectly positioned’ for more defense research funding",
-    "description": "Virginia Tech officials say the university is well positioned to seek more Department of Defense research funding.",
-    "url": "https://roanoke.com/news/local/education/higher-education/virginia-tech/article_55141a1f-9065-4873-8005-ae2fe3026a82.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/4/09/4091338f-22d9-470b-9ef3-f984becb2647/6a458c305128d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-    "publishedAt": "2026-07-05T09:00:00Z",
-    "content": "The Department of Defense currently spends less than $100 million on research at Virginia Tech, ranking the university 20th nationally in defense research spending. That represents a relatively small… [+1690 chars]"
+    "author": "Allison Aubrey",
+    "title": "Fast walkers in their 80s cut their risk of cognitive decline by half, study finds",
+    "description": "A new study of people 80 and older with exceptional gaits finds fast walkers have about a 50% lower risk of cognitive decline, showing the connection between physical health and brain health.",
+    "url": "https://www.npr.org/2026/07/06/nx-s1-5877419/walk-pace-gait-brain-cognitive-health",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2118x1191+0+141/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F36%2Fbeeeff6d4183ae8787df199224e7%2Fgettyimages-1470749989.jpg",
+    "publishedAt": "2026-07-06T09:00:00Z",
+    "content": "Crossword puzzles and brain teasers have long been touted as ways to keep the mind sharp. But a new study points to another strategy that may matter just as much: staying fast on your feet.\r\nResearch… [+5366 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "KFF Health News",
+    "title": "Switching to a cheaper health plan delayed a man's access to vital medicine",
+    "description": "A Florida man thought he had carefully planned for a seamless switch between health plans. It was anything but.",
+    "url": "https://www.cbsnews.com/news/health-insurance-costs-heart-transplant-medicine/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/6ffd90f71355247e72a1fcdad8fe5db5609b30f9b597409698e4eb692c008a2c/lightyear_networkapi/resizefill_w1079_h664;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F634fd28b109b4abad1b3eb660b9268a0",
+    "publishedAt": "2026-07-06T09:00:00Z",
+    "content": "By the time Derion Blackman collapsed in front of a Dollar General in Kissimmee, Florida, in March, he had been waiting two months to regain access to some of the vital medications he'd been taking s… [+8538 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "mindbodygreen.com"
+      "name": "GlobeNewswire"
     },
-    "author": "https://www.mindbodygreen.com/wc/jason-wachob",
-    "title": "Art Should Be Part Of Your Health Routine—8 Ways To Add More To Your Life",
-    "description": "The fifth pillar of health? ART!",
-    "url": "https://www.mindbodygreen.com/articles/8-ways-to-make-art-part-of-your-daily-health-routine",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1782940730226_1y85x7owbor.jpg",
-    "publishedAt": "2026-07-05T09:00:00Z",
-    "content": "I've spent years talking about the four pillars of healthnutrition, exercise, sleep, stress managementbut after my recent conversation with researcher Daisy Fancourt, Director of the World Health Org… [+8836 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Sophie Carlin",
-    "title": "Dr Alex George's fiancée revealed as 26-year-old London doctor who grew up in a million-pound Cotswolds home...after ex-Love Island star, 35, proposed in Greece",
-    "description": "The former Love Island contestant turned mental health campaigner and podcaster, 35, has previously kept the identity of his girlfriend a closely guarded secret.",
-    "url": "https://www.dailymail.com/news/article-15951315/Dr-Alex-Georges-fianc-e-revealed-26-year-old-London-doctor-grew-million-pound-Cotswolds-home-ex-Love-Island-star-35-proposed-Greece.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/07/03/17/109780613-0-image-m-15_1783095975820.jpg",
-    "publishedAt": "2026-07-05T08:59:38Z",
-    "content": "Dr Alex Georges mystery fiancée is a newly qualified NHS doctor nearly ten years his junior, the Daily Mail can reveal.\r\nThe former Love Island contestant turned mental health campaigner and podcaste… [+6986 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": null,
-    "title": "pymultigrid added to PyPI",
-    "description": "Line-by-line molecular spectra calculations with DSM and multigrid tools",
-    "url": "https://pypi.org/project/pymultigrid/",
-    "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-    "publishedAt": "2026-07-05T08:43:06Z",
-    "content": "Download the file for your platform. If you're not sure which to choose, learn more about installing packages. \r\nSource Distribution \r\nBuilt Distribution \r\nFilter files by name, interpreter, ABI, and… [+144 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": null,
-    "title": "pymultigrid 0.1.0",
-    "description": "Line-by-line molecular spectra calculations with DSM and multigrid tools",
-    "url": "https://pypi.org/project/pymultigrid/0.1.0/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-05T08:43:06Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ukzn.ac.za"
-    },
-    "author": "Dr Vinayak",
-    "title": "Pharmaceutical Sciences guest lecture places emphasis on TB drug discovery - College of Health Sciences",
-    "description": "“The S-Curve: Nurturing a ‘Therapeutics Engine’ at the IDM, UCT–From a Postdoc to a Pioneer”. This was the title of an inspiring guest lecture hosted by the University of KwaZulu-Natal’s […]",
-    "url": "https://chs.ukzn.ac.za/news/pharmaceutical-sciences-guest-lecture-places-emphasis-on-tb-drug-discovery/",
-    "urlToImage": "https://chs.ukzn.ac.za/wp-content/uploads/2025/12/Guest-Lecture.webp",
-    "publishedAt": "2026-07-05T08:36:25Z",
-    "content": "The S-Curve: Nurturing a Therapeutics Engine at the IDM, UCTFrom a Postdoc to a Pioneer.\r\nThis was the title of an inspiring guest lecture hosted by the University of KwaZulu-Natals Discipline of Pha… [+3882 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What month do black bears mate?",
-    "description": "What Month Do Black Bears Mate?: Understanding the Black Bear Breeding Season The black bear mating season primarily occurs during May and June, though it can extend into July in some regions. This is the crucial period when black bears engage in courtship ri…",
-    "url": "https://www.lifesciencesworld.com/what-month-do-black-bears-mate/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-05T08:22:35Z",
-    "content": "What Month Do Black Bears Mate?: Understanding the Black Bear Breeding Season\r\nThe black bear mating season primarily occurs during May and June, though it can extend into July in some regions. This … [+7763 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What percentage of deer get pregnant?",
-    "description": "What Percentage of Deer Get Pregnant? The Science of Deer Reproduction Across North America, the percentage of deer getting pregnant varies, but typically falls within a high range. In healthy populations with adequate resources, over 75% of does (female deer…",
-    "url": "https://www.lifesciencesworld.com/what-percentage-of-deer-get-pregnant/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-05T08:09:38Z",
-    "content": "Across North America, the percentage of deer getting pregnant varies, but typically falls within a high range. In healthy populations with adequate resources, over 75% of does (female deer) will succ… [+10734 chars]"
-  },
-  {
-    "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
-    },
-    "author": null,
-    "title": "Venezuelan doctors return home to give aid amid quake devastation",
-    "description": "Marianyi Bastidas is one of several doctors and specialists who left their birth country of Venezuela years ago, but returned to help after the disastrous twin earthquakes in late June.",
-    "url": "https://www.cbc.ca/news/world/venezuela-doctors-quake-9.7258482",
-    "urlToImage": "https://i.cbc.ca/ais/0b5734f9-1eae-43a0-ac6f-3d50b40a0b63,1783250456616/full/max/0/default.jpg?im=Crop%2Crect%3D%2836%2C422%2C3995%2C2247%29%3BResize%3D620",
-    "publishedAt": "2026-07-05T08:00:00Z",
-    "content": "Venezuelan doctor Marianyi Bastidas says she put her job on the line in Chile for a one-way ticket to a disaster zone.\r\nBastidas and three other Venezuelan doctors who now live in Chile arrived on Tu… [+5932 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Sciencebasedmedicine.org"
-    },
-    "author": "Jonathan Howard",
-    "title": "Dr. Joseph Marine: Defend Your Article “Why Doctors Should Learn to Stop Worrying and Love MAHA”.",
-    "description": "You owe it to Sensible Medicine readers to simultaneously to acknowledge the state of STEM under MAHA and argue that you were right about it.\nThe post Dr. Joseph Marine: Defend Your Article “Why Doctors Should Learn to Stop Worrying and Love MAHA”. first appe…",
-    "url": "https://sciencebasedmedicine.org/dr-joseph-marine-lovesmaha/",
-    "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2026/07/image.png",
-    "publishedAt": "2026-07-05T07:43:00Z",
-    "content": "Dear Dr. Marine,\r\nThough there have countless reports describing the dismal state of STEM under Kennedy and his crew, Drs. Jay Bhattacharya, Tracy Beth Hoeg, Vinay Prasad, Marty Makary, and Martin Ku… [+10498 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "How long can a starfish live in water?",
-    "description": "How Long Can a Starfish Live in Water? A Comprehensive Guide Starfish can generally survive indefinitely in water that meets their specific environmental needs, but their survival is dependent on factors such as salinity, temperature, oxygen levels, and the a…",
-    "url": "https://www.lifesciencesworld.com/how-long-can-a-starfish-live-in-water/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-05T07:41:26Z",
-    "content": "How Long Can a Starfish Live in Water? A Comprehensive Guide\r\nStarfish can generally survive indefinitely in water that meets their specific environmental needs, but their survival is dependent on fa… [+8153 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Science Daily"
-    },
-    "author": null,
-    "title": "Scientists discover the deep sleep circuit that builds muscle, burns fat, and boosts the brain",
-    "description": "Researchers have identified the brain circuitry that links deep sleep with the release of growth hormone, revealing how the two regulate each other. The newly discovered feedback loop helps explain why poor sleep can interfere with growth, muscle repair, fat …",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260626030433.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/deep-sleep-and-growth-hormone.webp",
-    "publishedAt": "2026-07-05T07:39:08Z",
-    "content": "A good night's sleep does far more than leave you feeling refreshed. It also triggers the release of growth hormone, a key hormone that helps build muscle and bone, burn fat, and support healthy grow… [+5403 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Space Daily"
-    },
-    "author": "Space Daily Editorial Team",
-    "title": "Scientists have now made the most comprehensive tally yet of deep-sea exploration — 43,681 dive records dating back to 1958 — and found that humans have directly seen less than 0.001% of the deep ocean floor, an area roughly the size of Rhode Island, leaving the vast seafloor across 66% of Earth’s surface essentially unobserved.",
-    "description": "Humanity has sent cameras to the Moon, Mars, Venus and the outer planets, but on Earth itself there is still a larger frontier that has barely been looked at directly. A 2025 study in Science Advances has now put a number on that gap: since 1958, researchers …",
-    "url": "https://spacedaily.com/t-scientists-have-now-made-the-most-comprehensive-tally-yet-of-deep-sea-exploration-43681-dive-records-dating-back-to-1958-and-found-that-humans-have-directly-seen-less-than-0-001-o/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_deep_seafloor_seen_pexels.jpg",
-    "publishedAt": "2026-07-05T07:30:39Z",
-    "content": "Humanity has sent cameras to the Moon, Mars, Venus and the outer planets, but on Earth itself there is still a larger frontier that has barely been looked at directly. A 2025 study in Science Advance… [+6943 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "How often should ferrets go to the vet?",
-    "description": "How Often Should Ferrets Go to the Vet? Maintaining Your Fuzzy Friend’s Health How often should ferrets go to the vet? Generally, healthy adult ferrets should visit the vet annually for checkups and vaccinations, while kits (baby ferrets) require a series of …",
-    "url": "https://www.lifesciencesworld.com/how-often-should-ferrets-go-to-the-vet/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-05T07:21:55Z",
-    "content": "How often should ferrets go to the vet? Generally, healthy adult ferrets should visit the vet annually for checkups and vaccinations, while kits (baby ferrets) require a series of visits, and senior … [+10444 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Dialogues"
-    },
-    "author": "Barsha Misra",
-    "title": "No evidence patient suffered thrombophlebitis due to wrong cannulation- Consumer court junks Rs 19.9 lakh claim against hospital",
-    "description": "Mysore: The District Consumer Disputes Redressal Commission (DCDRC), Mysore, recently exonerated a hospital accused of medical negligence during the treatment of a patient, who allegedly developed...",
-    "url": "https://medicaldialogues.in/news/health/medico-legal/no-evidence-patient-suffered-thrombophlebitis-due-to-wrong-cannulation-consumer-court-junks-rs-199-lakh-claim-against-hospital-174323",
-    "urlToImage": "https://medicaldialogues.in/h-upload/2023/01/07/196755-no-medical-negligence-1.jpg",
-    "publishedAt": "2026-07-05T07:15:47Z",
-    "content": "Mysore: The District Consumer Disputes Redressal Commission (DCDRC), Mysore, recently exonerated a hospital accused of medical negligence during the treatment of a patient, who allegedly developed Th… [+6627 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "Quote of the day by Mother Teresa: 'The greatest disease is not TB or leprosy, it is being unwanted and uncared for. We can cure physical diseases with medicine, but the only cure for loneliness is love.' - A timeless lesson on loneliness and the healing power of love",
-    "description": "Mother Teresa's timeless quote reminds us that loneliness and feeling unwanted can hurt more deeply than physical illness. In A Simple Path, she explains that while medicine can heal the body, only love, kindness, and human connection can heal the heart. Read…",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-mother-teresa-the-greatest-disease-is-not-tb-or-leprosy-it-is-being-unwanted-and-uncared-for-we-can-cure-physical-diseases-with-medicine-but-the-only-cure-for-loneliness-is-love-a-timeless-lesson-on-loneliness-and-the-healing-power-of-love/articleshow/132191523.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-132192067,width-1200,height-630,imgsize-119365,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-07-05T07:03:46Z",
-    "content": "Loneliness is something almost everyone experiences at some point in life. You can be surrounded by people, have a successful career and still feel invisible or disconnected. In today's fast-moving w… [+4743 chars]"
+    "author": "Research and Markets",
+    "title": "Environmental DNA Market Set to Surge to USD 5.61 Billion by 2031 with 10.2% CAGR",
+    "description": "The global environmental DNA (eDNA) market is predicted to surge from USD 1.63 billion in 2026 to USD 5.61 billion by 2031, experiencing a CAGR of 10.2%. This growth is fueled by innovative testing methods allowing species detection via genetic materials in w…",
+    "url": "https://www.globenewswire.com/news-release/2026/07/06/3322231/28124/en/Environmental-DNA-Market-Set-to-Surge-to-USD-5-61-Billion-by-2031-with-10-2-CAGR.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "publishedAt": "2026-07-06T08:49:00Z",
+    "content": "Dublin, July 06, 2026 (GLOBE NEWSWIRE) -- The \"Environmental DNA Market by Type of Solution, Sample Type, Detection method, Application, and Region - Global Forecast to 2031\" has been added to Resear… [+6672 chars]"
   },
   {
     "source": {
@@ -252,11 +57,206 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Beyond the Credential: As AI Erases the 'Entry-Level Job' and Climate Volatility Accelerates, Planet Classroom Unveils July Lineup Mapping the New Rules of Human Resilience",
-    "description": "Through Six Timely Global Premieres, the Planet Classroom Network Exposes the Critical Inflection Points Reshaping the Future of Work, Climate Science, and Human Creativity NEW YORK, July 5, 2026 /PRNewswire/ -- As global economic, ecological, and technologic…",
-    "url": "https://www.prnewswire.com/news-releases/beyond-the-credential-as-ai-erases-the-entry-level-job-and-climate-volatility-accelerates-planet-classroom-unveils-july-lineup-mapping-the-new-rules-of-human-resilience-302816622.html",
-    "urlToImage": "https://mma.prnewswire.com/media/2742413/planetclassroomlogo_Logo.jpg?p=facebook",
-    "publishedAt": "2026-07-05T07:00:00Z",
-    "content": "Through Six Timely Global Premieres, the Planet Classroom Network Exposes the Critical Inflection Points Reshaping the Future of Work, Climate Science, and Human Creativity\r\nNEW YORK, July 5, 2026 /P… [+5962 chars]"
+    "title": "World's First International Patient Begins Treatment with Newly Approved Solid Tumor CAR-T Therapy at Jiahui International Cancer Center",
+    "description": "SHANGHAI, July 6, 2026 /PRNewswire/ -- Jiahui International Cancer Center (JICC) has welcomed the world's first international patient to begin treatment with Satri-cel, the world's first approved CAR-T therapy for a solid tumor, marking a historic milestone i…",
+    "url": "https://www.prnewswire.com/news-releases/worlds-first-international-patient-begins-treatment-with-newly-approved-solid-tumor-car-t-therapy-at-jiahui-international-cancer-center-302818226.html",
+    "urlToImage": "https://mma.prnewswire.com/media/3004164/JICC.jpg?p=facebook",
+    "publishedAt": "2026-07-06T08:48:00Z",
+    "content": "SHANGHAI, July 6, 2026 /PRNewswire/ -- Jiahui International Cancer Center (JICC) has welcomed the world's first international patient to begin treatment with Satri-cel, the world's first approved CAR… [+2584 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": null,
+    "title": "anyonecandock 1.1.9",
+    "description": "Command-line molecular docking powered by AutoDock Vina, pKaNET, and RDKit",
+    "url": "https://pypi.org/project/anyonecandock/1.1.9/",
+    "urlToImage": null,
+    "publishedAt": "2026-07-06T08:45:42Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Research and Markets",
+    "title": "Marine Collagen Market By Type, Source, Marine Animal, Application, Extraction Process, and Region - Global Forecast to 2031",
+    "description": "The global marine collagen market is projected to grow from USD 1.14 billion in 2026 to USD 1.66 billion by 2031, at a CAGR of 6.7%. Leading this growth is the liquid segment, valued for its convenient and fast absorption benefits. Predominantly sourced from …",
+    "url": "https://www.globenewswire.com/news-release/2026/07/06/3322226/28124/en/Marine-Collagen-Market-By-Type-Source-Marine-Animal-Application-Extraction-Process-and-Region-Global-Forecast-to-2031.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/df3bcf92-40c8-4109-9b7c-d16b2f4b2847",
+    "publishedAt": "2026-07-06T08:45:00Z",
+    "content": "Dublin, July 06, 2026 (GLOBE NEWSWIRE) -- The \"Marine Collagen Market By Type, Source, Marine Animal, Application, Extraction Process, and Region - Global Forecast to 2031\" has been added to Research… [+6716 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "News9live.com"
+    },
+    "author": "Ananya Sarma",
+    "title": "Fatty liver in Urban India: Why cases are rising among young adults and how to reverse it",
+    "description": "Fatty liver is becoming a silent epidemic in India. Experts explain who is at risk, whether it can be reversed, and why weight-loss injections should only be taken under medical supervision.",
+    "url": "https://www.news9live.com/health/fatty-liver-in-urban-india-causes-symptoms-treatment-weight-loss-drugs-2986561",
+    "urlToImage": "https://images.news9live.com/wp-content/uploads/2026/07/Fatty-Liver.png",
+    "publishedAt": "2026-07-06T08:44:37Z",
+    "content": "New Delhi: India has long been known as the diabetes capital of the world, but another metabolic disorder is rapidly gaining ground – Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD),… [+5758 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Research and Markets",
+    "title": "Polyglycerol Fatty Acid Ester Market By Type, Functionality, End-use Industry, Source, Form, Polyglycerol Degree, and Region - Global Forecast to 2031",
+    "description": "The polyglycerol fatty acid ester (PGFE) market is anticipated to expand from USD 251.9 million in 2026 to USD 310.9 million by 2031, reflecting a CAGR of 4.3%. This growth is attributed to rising demand for bio-based, high-performance emulsification agents i…",
+    "url": "https://www.globenewswire.com/news-release/2026/07/06/3322225/28124/en/Polyglycerol-Fatty-Acid-Ester-Market-By-Type-Functionality-End-use-Industry-Source-Form-Polyglycerol-Degree-and-Region-Global-Forecast-to-2031.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/37378e3d-6a23-489c-89d7-f9d1017c86f1",
+    "publishedAt": "2026-07-06T08:44:00Z",
+    "content": "Dublin, July 06, 2026 (GLOBE NEWSWIRE) -- The \"Polyglycerol Fatty Acid Ester Market By Type, Functionality, End-use Industry, Source, Form, Polyglycerol Degree, and Region - Global Forecast to 2031\" … [+5482 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Livemint"
+    },
+    "author": "V. Anantha Nageswaran",
+    "title": "V.A. Nageswaran: We diminish ourselves as humans when we mistake ourselves for machines",
+    "description": "The human mind is often viewed as a computer, as we have long used metaphors of technology for what our brain holds. But that’s just a projection. In falling for it, we risk remaking ourselves in the machine’s diminished image.",
+    "url": "https://www.livemint.com/opinion/online-views/va-nageswaran-humans-mistake-ourselves-for-machines-artificial-intelligence-burnout-brains-11783314285626.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/iStock-1356593648_1783320949398_1783320962628_1c4e9a68-3852-4e26-8142-a80612244f50.jpg",
+    "publishedAt": "2026-07-06T08:31:06Z",
+    "content": "Her fear is not that our machines will rise to meet us, but that we will lower the bar by losing faith in who we are, and become more machine-like ourselves. That is worth exploring, because it point… [+5141 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space Daily"
+    },
+    "author": "Space Daily Editorial Team",
+    "title": "The Sun accounts for 99.86 percent of all the mass in the entire solar system — meaning that if you took all eight planets, every one of their moons, every asteroid, and every comet, and combined them into a single object, that object would weigh less than one seven-hundredth of the Sun",
+    "description": "The specific numerical fact that essentially every high-school astronomy textbook published in the specific interval between approximately 1970 and the present has cited as the single most-substantial summary statistic about the mass distribution of the solar…",
+    "url": "https://spacedaily.com/d-the-sun-accounts-for-99-86-percent-of-all-the-mass-in-the-entire-solar-system-meaning-that-if-you-took-all-eight-planets-every-one-of-their-moons-every-asteroid-and-every-comet-and-combi/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/05/sun-is-dying.png",
+    "publishedAt": "2026-07-06T08:30:44Z",
+    "content": "The specific numerical fact that essentially every high-school astronomy textbook published in the specific interval between approximately 1970 and the present has cited as the single most-substantia… [+9284 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Straits Times"
+    },
+    "author": "Lim Ruey Yan",
+    "title": "Wang Leehom performs after heavy fall in Chengdu",
+    "description": "Mandopop star Wang Leehom performs in Chengdu concert despite suffering a heavy fall and requiring stitches. Read more at straitstimes.com. Read more at straitstimes.com.",
+    "url": "https://www.straitstimes.com/life/entertainment/your-love-is-the-best-medicine-singer-wang-leehom-returns-to-perform-one-day-after-heavy-fall",
+    "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/bbc5a23384527450461c4d1a5586a3b14a3795476d7aba22a926be34aeeabe01",
+    "publishedAt": "2026-07-06T08:23:46Z",
+    "content": "Mandopop star Wang Leehom was determined not to let his fans down and went ahead with his concert in Chengdu, China, on July 5.\r\nThe 50-year-old held three shows at the main stadium of Dongan Lake Sp… [+2337 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Refractor.io"
+    },
+    "author": "Mike McRae",
+    "title": "One factor can age your brain faster – and you can do something about it",
+    "description": "Glucose levels have been linked with the accelerated aging of the human brain in a new study by researchers in China, highlighting the benefits of healthy eating and exercise early in life to keep your brain fighting fit in old age.Continue ReadingCategory: B…",
+    "url": "https://refractor.io/brain/glucose-cause-brain-age-faster/",
+    "urlToImage": "https://assets.newatlas.com/dims4/default/a5d9619/2147483647/strip/true/crop/2000x1050+0+225/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F91%2F31%2F498c2d654dbe82714e19f70426f0%2Fsugar-aging-brain.jpg&rf.image_optimisation=0",
+    "publishedAt": "2026-07-06T08:20:00Z",
+    "content": "Glucose levels have been linked with the accelerated aging of the human brain in a new study by researchers in China, highlighting the benefits of healthy eating and exercise early in life to keep yo… [+3330 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Research and Markets",
+    "title": "Rising Digital Health Investments Propel AI-driven Disease Outbreak Prediction Solutions",
+    "description": "Key market opportunities include the integration of AI analytics in disease outbreak prediction, driven by increased digitization, public health investments, and AI-driven surveillance solutions. Enhanced digital health infrastructure and real-time data use a…",
+    "url": "https://www.globenewswire.com/news-release/2026/07/06/3322191/28124/en/Rising-Digital-Health-Investments-Propel-AI-driven-Disease-Outbreak-Prediction-Solutions.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/dfa47eff-7175-4c88-a0eb-28bdecd08b51",
+    "publishedAt": "2026-07-06T08:12:00Z",
+    "content": "Dublin, July 06, 2026 (GLOBE NEWSWIRE) -- The \"AI in Disease Outbreak Prediction Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe artificial intelligence (AI) in disease … [+28842 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "What are tigers afraid of?",
+    "description": "What Are Tigers Afraid Of? Unveiling the Apex Predator’s Fears Tigers, despite their formidable reputation, are not immune to fear. While rarely showing outward signs, tigers are primarily afraid of humans, fire, loud noises, and situations that threaten thei…",
+    "url": "https://www.lifesciencesworld.com/what-are-tigers-afraid-of/",
+    "urlToImage": null,
+    "publishedAt": "2026-07-06T08:09:56Z",
+    "content": "Tigers, despite their formidable reputation, are not immune to fear. While rarely showing outward signs, tigers are primarily afraid of humans, fire, loud noises, and situations that threaten their c… [+9288 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "Do dubia roaches prefer light or dark?",
+    "description": "Do Dubia Roaches Prefer Light or Dark? A Comprehensive Guide Dubia roaches exhibit a strong aversion to light, and this article explains how essential darkness is for their health and breeding. The answer to Do dubia roaches prefer light or dark? is definitiv…",
+    "url": "https://www.lifesciencesworld.com/do-dubia-roaches-prefer-light-or-dark/",
+    "urlToImage": null,
+    "publishedAt": "2026-07-06T08:02:53Z",
+    "content": "Dubia roaches exhibit a strong aversion to light, and this article explains how essential darkness is for their health and breeding. The answer to Do dubia roaches prefer light or dark? is definitive… [+7049 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Space Daily"
+    },
+    "author": "Space Daily Editorial Team",
+    "title": "NASA strapped a helmet called the Apollo Light Flash Moving Emulsion Detector around astronauts’ heads in the dark, and every time a crewman called out a flash, the plates had caught a particle crossing straight through his skull",
+    "description": "On Apollo 16 and 17, NASA strapped nuclear emulsion plates around astronauts' heads to prove the mysterious light flashes crewmen had been reporting since Apollo 11 were actually cosmic ray particles crossing through their skulls.\nThe post NASA strapped a hel…",
+    "url": "https://spacedaily.com/j-v-nasa-strapped-a-helmet-called-the-apollo-light-flash-moving-emulsion-detector-around-astronauts-heads-in-the-dark-and-every-time-a-crewman-called-out-a-flash-the-plates-had-caught-a-particle-cross/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/j-nasa-strapped-a-helmet-called-the-apollo-light-flash-movin.jpg",
+    "publishedAt": "2026-07-06T08:00:10Z",
+    "content": "On the Apollo 16 and Apollo 17 missions, astronauts took turns sitting in the command module wearing a helmet that looked like a padded steel colander, and every time one of them muttered “flash” int… [+8757 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Stylebyemilyhenderson.com"
+    },
+    "author": "Jess Bunge",
+    "title": "The Most Charming, Colorful Home Tour With SO MANY Ideas To Steal",
+    "description": "If you are looking to design a colorful home with a lot of whimsy, this home tour is for you. Come see & steal all the incredible ideas this home offers!",
+    "url": "https://stylebyemilyhenderson.com/a-charming-colorful-home",
+    "urlToImage": "https://stylebyemilyhenderson.com/wp-content/uploads/2026/06/Emily-Henderson_Whimsical-Colorful-Home_Barrett-Cooke_Heather-Phillips_OPENER.jpg",
+    "publishedAt": "2026-07-06T08:00:00Z",
+    "content": "As a lot of you have probably noticed, we really don’t publish posts about submitted homes all that often anymore. Understandably, the majority of you want a more personal connection to the stories w… [+11159 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Scientists found 45 chemicals in pregnant women and many were linked to birth risks",
+    "description": "A large study found that pregnant women are exposed to dozens of common chemicals, many of which were associated with earlier births and lower birth weights. Researchers also discovered that some replacement chemicals may be just as concerning as the substanc…",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260622091431.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/concerned-pregnant-woman-holding-belly.webp",
+    "publishedAt": "2026-07-06T07:58:48Z",
+    "content": "One of the largest investigations ever conducted into chemical exposure during pregnancy has found that pregnant women regularly encounter dozens of chemicals found in everyday life. Researchers say … [+4957 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "What is the bullfrogs life cycle?",
+    "description": "Unveiling the Mysteries: What is the Bullfrog’s Life Cycle? The bullfrog life cycle is a fascinating transformation, beginning as a tiny egg, developing into an aquatic tadpole, then undergoing metamorphosis to become a carnivorous adult bullfrog, highlightin…",
+    "url": "https://www.lifesciencesworld.com/what-is-the-bullfrogs-life-cycle/",
+    "urlToImage": null,
+    "publishedAt": "2026-07-06T07:46:41Z",
+    "content": "The bullfrog life cycle is a fascinating transformation, beginning as a tiny egg, developing into an aquatic tadpole, then undergoing metamorphosis to become a carnivorous adult bullfrog, highlightin… [+8111 chars]"
   }
 ]
