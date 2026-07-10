@@ -2,93 +2,54 @@
   {
     "source": {
       "id": null,
-      "name": "Paleoforwomen.com"
+      "name": "The Conversation Africa"
     },
-    "author": "Stefani Ruper",
-    "title": "Lower Back Pain Before Period: Is It Normal Or A Concern?",
-    "description": "Lower back pain before period is a common problem many women experience in the days leading up to menstruation. For some, it feels like a dull ache in the lower back. For others, it may spread to the hips, thighs, or lower abdomen. While mild back pain before…",
-    "url": "https://paleoforwomen.com/lower-back-pain-before-period/",
-    "urlToImage": "https://paleoforwomen.com/wp-content/uploads/2026/07/lower-back-pain-before-period.webp",
-    "publishedAt": "2026-07-08T08:53:11Z",
-    "content": "Lower back pain before period is a common problem many women experience in the days leading up to menstruation. For some, it feels like a dull ache in the lower back. For others, it may spread to the… [+8178 chars]"
+    "author": "Estanislao Nistal Villán, Virólogo y profesor de Microbiología de la Facultad de Farmacia, Universidad CEU San Pablo, Sergio Rius Rocabert, Profesor colaborador doctor en microbiología. Virólogo e inmunólogo., Universidad CEU San Pablo",
+    "title": "STING protein: our study found new ways for the body to activate – and possibly control – inflammation",
+    "description": "Understanding inflammation is one of the biggest challenges of modern medicine.",
+    "url": "https://theconversation.com/sting-protein-our-study-found-new-ways-for-the-body-to-activate-and-possibly-control-inflammation-287013",
+    "urlToImage": "https://images.theconversation.com/files/746361/original/file-20260703-83-txs2x3.jpg?ixlib=rb-4.1.0&rect=0%2C196%2C7199%2C3599&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-07-09T08:51:35Z",
+    "content": "Shutterstock\r\nUnderstanding inflammation – and above all, how to regulate it – is one of the great medical challenges of modern medicine. Its role as the first line of defence is crucial. It occurs w… [+5013 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "The CT Mirror"
     },
-    "author": "alierkn.ocakli@gmail.com",
-    "title": "gromacs-mcp added to PyPI",
-    "description": "Model Context Protocol server that drives a local GROMACS installation — build, solvate, ionize, run simulations in the background, and analyse trajectories from any MCP client.",
-    "url": "https://pypi.org/project/gromacs-mcp/",
-    "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-    "publishedAt": "2026-07-08T08:52:57Z",
-    "content": "Why\r\nSetting up and running a molecular-dynamics simulation is a long, error-prone chain of\r\ngmx sub-commands. gromacs-mcp exposes that pipeline as clean MCP tools so an LLM agent\r\n(Claude Code, Clau… [+6842 chars]"
-  },
-  {
-    "source": {
-      "id": "the-next-web",
-      "name": "The Next Web"
-    },
-    "author": "Alina Maria Stan",
-    "title": "OpenAI wins US clearance for a broad GPT-5.6 rollout after weeks of government testing",
-    "description": "OpenAI has been cleared to release its most advanced model widely, after the US government signed off on a broader rollout of GPT-5.6 that had been held back for weeks under Washington’s new oversight regime for frontier AI. Until now the model had been avail…",
-    "url": "https://thenextweb.com/news/openai-gpt-5-6-broad-rollout-us-approval/",
-    "urlToImage": "https://media.thenextweb.com/2026/06/gary-marcus-openai-ipo-ai-stocks-risk.avif",
-    "publishedAt": "2026-07-08T08:49:58Z",
-    "content": "OpenAI has been cleared to release its most advanced model widely, after the US government signed off on a broader rollout of GPT-5.6 that had been held back for weeks under Washingtons new oversight… [+3500 chars]"
-  },
-  {
-    "source": {
-      "id": "abc-news-au",
-      "name": "ABC News (AU)"
-    },
-    "author": "Elsie Lange and Charles Geary",
-    "title": "Native title holders celebrate return of 'special country' in access win",
-    "description": "Traditional owners from the Utopia region north of Alice Springs celebrate the recognition of their native title over an area encompassing more than 4,000 square kilometres.",
-    "url": "https://www.abc.net.au/news/2026-07-08/native-title-determination-over-4000-square-kilometre-region/106892780",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/699fa5fcbb0f35e76b17759b4e87d5a9?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-07-08T08:47:45Z",
-    "content": "On a grassy Aboriginal homeland, 160 kilometres north of Alice Springs, native title holders from eight groups in the Utopia region listened on as a Federal Court judge handed them the native title r… [+4634 chars]"
+    "author": "Howard A. Selinger M.D.",
+    "title": "Opinion- Erosion of the common good in our national health care system",
+    "description": "I have always felt secure about the role our state and federal governments have in supporting and promoting our health care delivery system…until now.",
+    "url": "http://ctmirror.org/2026/07/06/erosion-of-the-common-good-in-our-national-primary-care-health-care/",
+    "urlToImage": "https://ctmirror.org/wp-content/uploads/2026/06/work-requirement-chart-kff-1.png",
+    "publishedAt": "2026-07-09T08:47:23Z",
+    "content": "You've read 5stories this month.\r\nSupport the CT Mirror reporting you rely on.\r\nI am a board-certified family physician, recently retired from direct patient care after 42 years in clinical practice.… [+5778 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Science Daily"
+      "name": "Grist"
     },
-    "author": null,
-    "title": "Can't stick to a diet? Intermittent fasting may be easier than counting calories for weight loss",
-    "description": "Intermittent fasting helped people lose as much weight as calorie restriction, but without the same feeling of constantly controlling their food intake. Researchers say that difference could make fasting a more sustainable option for people who struggle with …",
-    "url": "https://www.sciencedaily.com/releases/2026/07/260701015247.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/clock-plate-intermittent-fasting.webp",
-    "publishedAt": "2026-07-08T08:46:47Z",
-    "content": "People who repeatedly lose weight only to regain it may find intermittent fasting easier to maintain than traditional calorie counting, according to new research from the University of Adelaide.The s… [+3279 chars]"
+    "author": "Jesse Nichols",
+    "title": "The tiny cell that broke a big rule of biology",
+    "description": "It took two scientists decades to find a new nitrogen-fixing organelle. It could change the future of sustainable agriculture.",
+    "url": "https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/",
+    "urlToImage": "https://grist.org/wp-content/uploads/2026/07/Cover-2.jpg?quality=75&strip=all",
+    "publishedAt": "2026-07-09T08:30:00Z",
+    "content": "For decades, Jon Zehr was haunted by an organism he knew was here but couldnt see.\r\nIt all started in the 90s on a research boat in the middle of the ocean. Zehr was an oceanographer studying nitroge… [+15628 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Ibtimes.com.au"
+      "name": "Refractor.io"
     },
-    "author": "George Anton",
-    "title": "OpenAI to Roll Out Advanced GPT-5.6 Models Sol, Terra and Luna on Thursday After Government Review",
-    "description": "OpenAI is launching its GPT-5.6 AI models, including Sol, Terra, and Luna, amid U.S.-China tech tensions and security concerns, following a limited preview and government evaluations.",
-    "url": "https://www.ibtimes.com.au/openai-expands-gpt-5-6-ai-models-1872012",
-    "urlToImage": "https://d.ibtimes.com.au/en/full/1894028/openai.jpg",
-    "publishedAt": "2026-07-08T08:12:29Z",
-    "content": "OpenAI is poised to broaden access to its latest family of artificial intelligence models, GPT-5.6, including the flagship Sol and more affordable variants Terra and Luna, on Thursday following a lim… [+5910 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "OpenAI GPT-5.6 rollout begins July 9: New features, models and everything else to know",
-    "description": "OpenAI will launch its GPT-5.6 model family starting July ninth. These new models offer improved reasoning and coding capabilities for users. GPT-5.6 Sol, Terra, and Luna cater to diverse user needs and tasks. Enhanced safety features and cybersecurity improv…",
-    "url": "https://economictimes.indiatimes.com/news/international/business/openai-gpt-5-6-rollout-begins-july-9-new-features-models-and-everything-else-to-know/articleshow/132257449.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-132257449,width-1200,height-630,imgsize-84180,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-07-08T08:08:51Z",
-    "content": "OpenAI is set to begin rolling out its latest family of AI models GPT-5.6 Sol, Terra and Luna from July 9, bringing smarter reasoning, better coding abilities, faster responses and stronger safety fe… [+3202 chars]"
+    "author": "Bronwyn Thompson",
+    "title": "Mild sleep loss drives drives weight gain and chronic disease risk",
+    "description": "A lengthy trial that involved robbing people of 90 minutes of sleep per night has uncovered the dramatic effect that even this small amount of lost shut-eye has on the waistline and general health.Continue ReadingCategory: Obesity, Illnesses and conditions, B…",
+    "url": "https://refractor.io/disease/obesity/cutting-sleep-weight-gain/",
+    "urlToImage": "https://assets.newatlas.com/dims4/default/4c4552f/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F4e%2Fa7%2Fc2d342e94d0793b3a06428fbf9ad%2Fdepositphotos-317684898-xl.jpg&rf.image_optimisation=0",
+    "publishedAt": "2026-07-09T08:26:00Z",
+    "content": "A lengthy trial that involved robbing people of 90 minutes of sleep per night has uncovered the dramatic effect that even this small amount of lost shut-eye has on the waistline and general health.\r\n… [+3864 chars]"
   },
   {
     "source": {
@@ -96,12 +57,12 @@
       "name": "GlobeNewswire"
     },
     "author": "Research and Markets",
-    "title": "Global Pasta Market to Hit $100 Billion by 2030: Increasing Demand for Premium and Gluten-Free Options",
-    "description": "The pasta market is driven by increasing demand for convenience foods, plant-based, gluten-free, and premium pasta products. Innovation in rapid-cook ready-to-eat pasta, expansion of online grocery channels, and rising health consciousness create significant …",
-    "url": "https://www.globenewswire.com/news-release/2026/07/08/3323854/28124/en/Global-Pasta-Market-to-Hit-100-Billion-by-2030-Increasing-Demand-for-Premium-and-Gluten-Free-Options.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "publishedAt": "2026-07-08T08:08:00Z",
-    "content": "Dublin, July 08, 2026 (GLOBE NEWSWIRE) -- The \"Pasta Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe global pasta market has witnessed robust growth recently and is proj… [+24150 chars]"
+    "title": "Microbiome Sequencing Services Market by Sample Type, Technology, Application, End User - Global Forecast 2026-2032",
+    "description": "Microbiome sequencing services present opportunities in precision health, pharma, food safety, agriculture, AI integration, and regional genomics initiatives, with demand for reproducible, secure workflows. Microbiome sequencing services present opportunities…",
+    "url": "https://www.globenewswire.com/news-release/2026/07/09/3324592/28124/en/Microbiome-Sequencing-Services-Market-by-Sample-Type-Technology-Application-End-User-Global-Forecast-2026-2032.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/8b4e80eb-ff04-47ec-843e-e7e6d4369d9b",
+    "publishedAt": "2026-07-09T08:10:00Z",
+    "content": "Dublin, July 09, 2026 (GLOBE NEWSWIRE) -- The \"Microbiome Sequencing Services Market by Sample Type, Technology, Application, End User - Global Forecast 2026-2032\" has been added to ResearchAndMarket… [+6206 chars]"
   },
   {
     "source": {
@@ -109,12 +70,12 @@
       "name": "GlobeNewswire"
     },
     "author": "Research and Markets",
-    "title": "Partnerships and Technological Advancements Drive Expansion in Single-Use Bioreactor Bags Market",
-    "description": "Market opportunities in the single-use bioreactor bags sector include the rising demand for flexible biomanufacturing, growth in biologics and vaccines production, expansion of biopharma in emerging markets, and innovations in bag technology and automation. T…",
-    "url": "https://www.globenewswire.com/news-release/2026/07/08/3323853/28124/en/Partnerships-and-Technological-Advancements-Drive-Expansion-in-Single-Use-Bioreactor-Bags-Market.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/61e5a19d-79dc-4467-ba5e-189e1ece3cf5",
-    "publishedAt": "2026-07-08T08:07:00Z",
-    "content": "Dublin, July 08, 2026 (GLOBE NEWSWIRE) -- The \"Single-Use Bioreactor Bags Global Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe single-use bioreactor bags market has wi… [+27057 chars]"
+    "title": "Embolotherapy Market Report Now Available — 189-Page Study Segments Coils, Vascular Plugs, Detachable Balloons, and Liquid Glue Across 30 Countries",
+    "description": "The embolotherapy market thrives on demand for minimally invasive procedures, AI-enhanced workflows, and oncology care, with growth driven by regional training, advanced imaging, and precision device selection. The embolotherapy market thrives on demand for m…",
+    "url": "https://www.globenewswire.com/news-release/2026/07/09/3324591/28124/en/Embolotherapy-Market-Report-Now-Available-189-Page-Study-Segments-Coils-Vascular-Plugs-Detachable-Balloons-and-Liquid-Glue-Across-30-Countries.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/8728d889-78e6-4e38-bfe7-8a64b40ab701",
+    "publishedAt": "2026-07-09T08:09:00Z",
+    "content": "Dublin, July 09, 2026 (GLOBE NEWSWIRE) -- The \"Embolotherapy Market by Embolic Agent Type, Therapeutic Modality, Embolic Persistence, Access Route, Clinical Application, End User, Patient Age Group -… [+9795 chars]"
   },
   {
     "source": {
@@ -122,51 +83,12 @@
       "name": "GlobeNewswire"
     },
     "author": "Research and Markets",
-    "title": "Drug-Delivery Technology Market Report 2026",
-    "description": "Key market opportunities in the drug-delivery technology sector include rising personalized medicine, growth in biologics and biosimilars demand, and expanding home-care treatment. Innovations in minimally invasive delivery and patient-centric devices drive g…",
-    "url": "https://www.globenewswire.com/news-release/2026/07/08/3323851/28124/en/Drug-Delivery-Technology-Market-Report-2026.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/8c6af290-9a92-4e9e-8699-28baab81a100",
-    "publishedAt": "2026-07-08T08:05:00Z",
-    "content": "Dublin, July 08, 2026 (GLOBE NEWSWIRE) -- The \"Drug-Delivery Technology Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe drug-delivery technology market has witnessed rap… [+26279 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "GlobeNewswire"
-    },
-    "author": "Research and Markets",
-    "title": "Western Blotting Market Surges with 9% CAGR, Driven by Automation and High-Sensitivity Protein Analysis",
-    "description": "The western blotting market is poised for growth due to rising biomarker-based diagnostics demand, expanding proteomics research, and increased automation of lab workflows. Key opportunities involve automated systems, high-sensitivity detection, ready-to-use …",
-    "url": "https://www.globenewswire.com/news-release/2026/07/08/3323850/28124/en/Western-Blotting-Market-Surges-with-9-CAGR-Driven-by-Automation-and-High-Sensitivity-Protein-Analysis.html",
-    "urlToImage": "https://ml.globenewswire.com/Resource/Download/a9747dfd-bb83-4e70-a397-d3f89224c779",
-    "publishedAt": "2026-07-08T08:04:00Z",
-    "content": "Dublin, July 08, 2026 (GLOBE NEWSWIRE) -- The \"Western Blotting Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe western blotting market is experiencing substantial growt… [+36981 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ibtimes.com.au"
-    },
-    "author": "Scott Lance",
-    "title": "Crinetics Shares Nearly Double to $83 After Vertex Agrees to $10 Billion All-Cash Acquisition Deal Today",
-    "description": "Vertex Pharmaceuticals is set to acquire Crinetics Pharmaceuticals for $10 billion, enhancing its endocrinology portfolio with key assets like Palsonify and atumelnant, pending regulatory approvals.",
-    "url": "https://www.ibtimes.com.au/vertex-acquires-crinetics-10-billion-deal-1872008",
-    "urlToImage": "https://d.ibtimes.com.au/en/full/1895020/crinetics-shares-nearly-double-83-after-vertex-agrees.jpg",
-    "publishedAt": "2026-07-08T08:01:01Z",
-    "content": "Shares of Crinetics Pharmaceuticals nearly doubled Tuesday, closing at $83.53, up $41.50, or 98.74 percent, after the San Diego-based endocrinology company agreed to be acquired by Vertex Pharmaceuti… [+6448 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Www.gov.uk"
-    },
-    "author": "Cyber & Specialist Operations Command",
-    "title": "Defence Investment Plan boosts battlefield medicine by £50 million",
-    "description": "New investment will strengthen frontline medical care, improve battlefield survivability and enhance Defence Medical capabilities for future operations.",
-    "url": "https://www.gov.uk/government/news/defence-investment-plan-boosts-battlefield-medicine-by-50-million",
-    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-07-08T08:00:02Z",
-    "content": "Armed Forces personnel will benefit from a £50 million investment in Defence Medical capabilities over the next four years as part of the Governments Defence Investment Plan (DIP) published on Tuesda… [+2836 chars]"
+    "title": "Explosive Growth Forecast in Generative AI for Computer Vision: Market to Reach $53.15 Billion by 2030",
+    "description": "The generative AI in computer vision market offers opportunities in automated image editing, medical imaging, VR content, and industrial inspection. Key growth drivers include deep learning advancements, AI adoption for content creation, and increased use of …",
+    "url": "https://www.globenewswire.com/news-release/2026/07/09/3324585/28124/en/Explosive-Growth-Forecast-in-Generative-AI-for-Computer-Vision-Market-to-Reach-53-15-Billion-by-2030.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/2999136e-46c0-40ff-858e-e0e72eb09953",
+    "publishedAt": "2026-07-09T08:01:00Z",
+    "content": "Dublin, July 09, 2026 (GLOBE NEWSWIRE) -- The \"Generative AI in Computer Vision Market Report 2026\" has been added to ResearchAndMarkets.com's offering.\r\nThe generative AI in computer vision market i… [+25236 chars]"
   },
   {
     "source": {
@@ -174,25 +96,12 @@
       "name": "CBC News"
     },
     "author": null,
-    "title": "How Canadian researchers are using 'liquid biopsies' to find traces of tumours left after cancer treatment",
-    "description": "A Toronto-based team is launching a massive, years-long research project to study liquid biopsies, a novel technology meant to catch tiny traces of tumour DNA in the blood. The goal? Finding better ways to protect cancer survivors from having the disease come…",
-    "url": "https://www.cbc.ca/news/health/liquid-biopsy-treatment-9.7261615",
-    "urlToImage": "https://i.cbc.ca/ais/96f90e7e-f470-4ef0-9bba-2ef310650eb6,1783449216116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C33%2C2738%2C1540%29%3BResize%3D620",
-    "publishedAt": "2026-07-08T08:00:00Z",
-    "content": "In 2023, Paul Lonergan spent months trying to find out the cause of his never-ending sore throat. After going back and forth between doctors, the Toronto resident eventually got a shocking diagnosis:… [+9933 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Crypto Briefing"
-    },
-    "author": "Estefano Gomez",
-    "title": "OpenAI to release advanced GPT-5.6 model globally on Thursday",
-    "description": "The global release of GPT-5.6 could reshape AI market dynamics, influencing competitive strategies and altering industry leadership perceptions.\nThe post OpenAI to release advanced GPT-5.6 model globally on Thursday appeared first on Crypto Briefing.",
-    "url": "https://cryptobriefing.com/openai-to-release-advanced-gpt-56-model-globally-on-thursday/",
-    "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08035323/sam-altman-on-ai-jobs-may-go-away-but-massive-abundance-like-12-1-800x420.jpeg",
-    "publishedAt": "2026-07-08T07:53:24Z",
-    "content": "OpenAI is preparing to release its most advanced AI model globally on Thursday, expanding its preview to a wider audience. The new model, part of the GPT-5.6 family, includes advanced capabilities in… [+1564 chars]"
+    "title": "What's behind drop in opioid-related deaths, rise in 911 calls in Ontario? Researcher gives insight",
+    "description": "A public health researcher who focuses on Canada's addictions crisis cites several factors for why opioid-related death rates are declining yet 911 calls have risen in Thunder Bay and other Ontario cities, some of the findings in a new CBC data analysis. \nThe…",
+    "url": "https://www.cbc.ca/news/canada/thunder-bay/thunder-bay-opioid-overdose-calls-9.7263119",
+    "urlToImage": "https://i.cbc.ca/ais/fe15feee-8733-4d53-bd33-3362ed1c2f03,1771548034596/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C84%2C1620%2C911%29%3BResize%3D620",
+    "publishedAt": "2026-07-09T08:00:00Z",
+    "content": "A public health researcher who focuses on Canada's addictions crisis cites several factors for why opioid-related death rates are declining yet 911 calls have risen in Thunder Bay and several other O… [+4977 chars]"
   },
   {
     "source": {
@@ -200,25 +109,38 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "How old are hagfish?",
-    "description": "How Old Are Hagfish? Unraveling the Longevity of a Living Fossil The answer to How old are hagfish? is more complex than a simple number, but research suggests they are an incredibly long-lived species, with some individuals potentially reaching ages of over …",
-    "url": "https://www.lifesciencesworld.com/how-old-are-hagfish/",
+    "title": "Do hagfish have kidneys?",
+    "description": "Do Hagfish Have Kidneys? Unraveling the Mysteries of Primitive Renal Systems The answer is complex: While hagfish do possess pronephric kidneys in their larval stage, these regress in adults, leaving them with specialized structures that function as kidney-li…",
+    "url": "https://www.lifesciencesworld.com/do-hagfish-have-kidneys/",
     "urlToImage": null,
-    "publishedAt": "2026-07-08T07:42:08Z",
-    "content": "How Old Are Hagfish? Unraveling the Longevity of a Living Fossil\r\nThe answer to How old are hagfish? is more complex than a simple number, but research suggests they are an incredibly long-lived spec… [+7987 chars]"
+    "publishedAt": "2026-07-09T07:57:43Z",
+    "content": "The answer is complex: While hagfish do possess pronephric kidneys in their larval stage, these regress in adults, leaving them with specialized structures that function as kidney-like organs but are… [+8316 chars]"
+  },
+  {
+    "source": {
+      "id": "abc-news-au",
+      "name": "ABC News (AU)"
+    },
+    "author": "Lois Maskiell and Emmy Groves",
+    "title": "'He gave us 10 extra years': Australian-first immune centre opens in Canberra",
+    "description": "The Centre for Personalised Medicine at Canberra Hospital uses cutting-edge technology to identify the causes of complex immune conditions to tailor treatments for patients.",
+    "url": "https://www.abc.net.au/news/2026-07-09/canberra-hospital-opens-first-personalised-medicine-centre/106896636",
+    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/87dfdc8f6a90c846a42952c1b23d6753?impolicy=wcms_watermark_news&cropH=814&cropW=1448&xPos=0&yPos=136&width=862&height=485&imformat=generic",
+    "publishedAt": "2026-07-09T07:57:23Z",
+    "content": "When Emma Gilmour describes the effect an advanced immune treatment had on her late father, Arthur, the change seems extraordinary.\r\n\"He went from being in a wheelchair and having seven months straig… [+4559 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "GlobeNewswire"
+      "name": "Biztoc.com"
     },
-    "author": "AMSilk",
-    "title": "AMSilk and Ajinomoto Foods Europe Expand Partnership to Enable Industrial-Scale Production of Silk Proteins",
-    "description": "AMSilk and Ajinomoto Foods Europe Expand Partnership to Enable Industrial-Scale Production of Silk Proteins...",
-    "url": "https://www.globenewswire.com/news-release/2026/07/08/3323840/0/en/AMSilk-and-Ajinomoto-Foods-Europe-Expand-Partnership-to-Enable-Industrial-Scale-Production-of-Silk-Proteins.html",
-    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/1e828930-5aab-4ffb-afb8-b1b33da22db8",
-    "publishedAt": "2026-07-08T07:30:00Z",
-    "content": "NEURIED, Germany and NESLE, France, July 08, 2026 (GLOBE NEWSWIRE) -- AMSilk, a global leader in biotech produced silk materials, today announced a significant expansion of its partnership with Ajino… [+5439 chars]"
+    "author": "breakingthenews.net",
+    "title": "AstraZeneca drops 9% on disappointing heart trial",
+    "description": "The shares of British-Swedish pharmaceutical and biotechnology company AstraZeneca PLC fell by more than 9% on Thursday, after the company revealed that Wainua, a nerve disease treatment jointly creat...",
+    "url": "https://biztoc.com/x/aa300e64fe6915a7",
+    "urlToImage": "https://biztoc.com/cdn/aa300e64fe6915a7_s.webp",
+    "publishedAt": "2026-07-09T07:54:08Z",
+    "content": "The shares of British-Swedish pharmaceutical and biotechnology company AstraZeneca PLC fell by more than 9% on Thursday, after the company revealed that Wainua, a nerve disease treatment jointly crea… [+69 chars]"
   },
   {
     "source": {
@@ -226,12 +148,38 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "How many times can a cat give birth in a lifetime?",
-    "description": "How Many Times Can a Cat Give Birth in a Lifetime? Understanding Feline Reproductive Capacity A female cat, or queen, can theoretically give birth multiple times throughout her life, but the actual number varies significantly based on health, environment, and…",
-    "url": "https://www.lifesciencesworld.com/how-many-times-can-a-cat-give-birth-in-a-lifetime/",
+    "title": "What time of year do owls come out?",
+    "description": "When Do Owls Hoot: Unveiling the Owl Activity Cycle Throughout the Year Owls aren’t strictly nocturnal and can be seen or heard throughout the year, but their activity levels peak during specific seasons – particularly during breeding season and winter when f…",
+    "url": "https://www.lifesciencesworld.com/what-time-of-year-do-owls-come-out/",
     "urlToImage": null,
-    "publishedAt": "2026-07-08T07:18:44Z",
-    "content": "How Many Times Can a Cat Give Birth in a Lifetime? Understanding Feline Reproductive Capacity\r\nA female cat, or queen, can theoretically give birth multiple times throughout her life, but the actual … [+8147 chars]"
+    "publishedAt": "2026-07-09T07:47:47Z",
+    "content": "When Do Owls Hoot: Unveiling the Owl Activity Cycle Throughout the Year\r\nOwls aren’t strictly nocturnal and can be seen or heard throughout the year, but their activity levels peak during specific se… [+9548 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "cnbc.com",
+    "title": "AstraZeneca stock dives 9% after heart drug trial misses target",
+    "description": "Shares of AstraZeneca fell as much as 9% after a late stage clinical trial for an experimental heart disease failed to meet its target.\nThe medicine, Wainua, did not reach its main goal of reducing deaths and recurrent heart-related emergencies over 140 weeks…",
+    "url": "https://biztoc.com/x/d9639ed284d85ae2",
+    "urlToImage": "https://biztoc.com/cdn/d9639ed284d85ae2_s.webp",
+    "publishedAt": "2026-07-09T07:38:47Z",
+    "content": "Shares of AstraZeneca fell as much as 9% after a late stage clinical trial for an experimental heart disease failed to meet its target.The medicine, Wainua, did not reach its main goal of reducing de… [+140 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wdmchamber.org"
+    },
+    "author": null,
+    "title": "Des Moines University Announces 2026 Alumni Award Winners Recognizing Leaders in Medicine, Health Care and Education",
+    "description": "WEST DES MOINES, IA (07/08/2026) Des Moines University Medicine and Health Sciences names its 2026 Alumni of the Year honorees, recognizing graduates whose careers reflect exceptional leadership, service and impact. Selected by the DMU Alumni Board and univer…",
+    "url": "https://members.wdmchamber.org/news/details/des-moines-university-announces-2026-alumni-award-winners-recognizing-leaders-in-medicine",
+    "urlToImage": "https://chambermaster.blob.core.windows.net/images/customers/2655/news/1035/200x200/DMU.jpg",
+    "publishedAt": "2026-07-09T07:11:32Z",
+    "content": "WEST DES MOINES, IA (07/08/2026) Des Moines University Medicine and Health Sciences names its 2026 Alumni of the Year honorees, recognizing graduates whose careers reflect exceptional leadership, ser… [+5904 chars]"
   },
   {
     "source": {
@@ -239,11 +187,63 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "Why are hagfish special?",
-    "description": "Why are Hagfish Special? Hagfish are special because they are jawless vertebrates with unique defenses, including the ability to secrete copious amounts of slime, making them crucial recyclers in deep-sea ecosystems and fascinating subjects for scientific res…",
-    "url": "https://www.lifesciencesworld.com/why-are-hagfish-special/",
+    "title": "How big do triggerfish get?",
+    "description": "How Big Do Triggerfish Get? Size and Species Overview Triggerfish, known for their distinctive body shape and vibrant colors, vary considerably in size. The biggest triggerfish, the stone triggerfish, can reach lengths of over 3 feet (1 meter), while other sp…",
+    "url": "https://www.lifesciencesworld.com/how-big-do-triggerfish-get/",
     "urlToImage": null,
-    "publishedAt": "2026-07-08T07:07:55Z",
-    "content": "Why are Hagfish Special?\r\nHagfish are special because they are jawless vertebrates with unique defenses, including the ability to secrete copious amounts of slime, making them crucial recyclers in de… [+10465 chars]"
+    "publishedAt": "2026-07-09T07:08:35Z",
+    "content": "How Big Do Triggerfish Get? Size and Species Overview\r\nTriggerfish, known for their distinctive body shape and vibrant colors, vary considerably in size. The biggest triggerfish, the stone triggerfis… [+8023 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freethoughtblogs.com"
+    },
+    "author": "Bébé Mélange",
+    "title": "Road Rage I",
+    "description": "Content Warnings:  It’s horror.  Whatever. CHUNK ONE__ _ Dan Kowal had once been a reasonable man – of this he was certain, though he could not remember that time and never noticed that he could not remember it.  The world was unreasonable, so fuck the world,…",
+    "url": "https://freethoughtblogs.com/gas/2026/07/09/road-rage-i/",
+    "urlToImage": "https://freethoughtblogs.com/gas/wp-content/themes/ftb2-theme/images/logo.gif",
+    "publishedAt": "2026-07-09T07:04:05Z",
+    "content": "Content Warnings:  It’s horror.  Whatever.\r\n_Dan Kowal had once been a reasonable man – of this he was certain, though he could not remember that time and never noticed that he could not remember it.… [+23040 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "johnw@mcsweeneys.net",
+    "title": "What if We Accidentally Outsource the Real Work to AI?",
+    "description": "What if We Accidentally Outsource the Real Work to AI?\n\n \n\n\n \njohnw@mcsweeneys.net\n\nThu, 07/09/2026 - 03:00 AM\n\nWe must be mindful of the ways automation alters our habits of mind.\n \n Byline(s)\r\n\n \n John Warner",
+    "url": "https://www.insidehighered.com/opinion/columns/just-visiting/2026/07/09/ai-scribes-medicine-are-short-circuiting-thinking",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-04/Blog-Logo-Just%20Visiting-b.png?itok=sbWec8aO",
+    "publishedAt": "2026-07-09T07:00:00Z",
+    "content": "As I have now argued in three books and countless columns and articles, I believe that we should view our work as writers through the lens of a practice: the skills, knowledge, attitudes and habits o… [+8398 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "BL Mumbai Bureau",
+    "title": "Novo Nordisk India rolls-out a once-weekly basal insulin Awiqli",
+    "description": "The product will be imported from Denmark and is priced at ₹2611 for a 1 ml pen (700 insulin units)",
+    "url": "https://www.thehindubusinessline.com/companies/novo-nordisk-india-rolls-out-a-once-weekly-basal-insulin-awiqli/article71201199.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/oxn7o1/article71201256.ece/alternates/LANDSCAPE_1200/2026-07-09T062255Z_1092247493_RC20FJAKG3QX_RTRMADP_3_NOVO-NORDISK-INDIA-INSULIN.JPG",
+    "publishedAt": "2026-07-09T06:50:26Z",
+    "content": "Novo Nordisk India is rolling out Awiqli a weekly once basal insulin, for adults with Type 1 or Type 2 diabetes mellitus. The product reduces the insulin regimen from once-daily to once-weekly or 365… [+903 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Odditycentral.com"
+    },
+    "author": "Spooky",
+    "title": "Woman Drinks Diet Coke to Dissolve Huge Mass in Her Stomach",
+    "description": "Doctors were able to treat a 63-year-old woman who had been experiencing pain and discomfort in her stomach by having her drink large amounts of soda.\nThe post Woman Drinks Diet Coke to Dissolve Huge Mass in Her Stomach first appeared on Oddity Central - Coll…",
+    "url": "https://www.odditycentral.com/news/woman-drinks-diet-coke-to-dissolve-huge-mass-in-her-stomach.html",
+    "urlToImage": "https://www.odditycentral.com/wp-content/uploads/2022/07/stomach-750x500-1.jpeg",
+    "publishedAt": "2026-07-09T06:48:02Z",
+    "content": "They say soda is bad for you, and that is probably right in most cases, but if you happen to have a stomach clogged with undigested food, it can apparently be a big help! A team of doctors from Massa… [+2884 chars]"
   }
 ]
