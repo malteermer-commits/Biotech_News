@@ -1,16 +1,81 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Streetartutopia.com"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Vidar",
-    "title": "50 of the Most Loved Photos on Street Art Utopia Right Now",
-    "description": "A giant cat beneath a bridge, a portrait made from loose stones, and a hand carved from a storm-damaged tree: these are the works people kept coming back to. Across murals, land art, and sculpture, this collection moves between humor, wonder, grief, and illus…",
-    "url": "https://streetartutopia.com/2026/07/25/50-of-the-most-loved-photos-on-street-art-utopia-right-now/",
-    "urlToImage": "https://streetartutopia.com/wp-content/uploads/2026/07/06-three-way-cat-hand-goddess-1200x700.png",
-    "publishedAt": "2026-07-25T07:54:51Z",
-    "content": "Across murals, land art, and sculpture, this collection moves between humor, wonder, grief, and illusion. What connects the works is the urge to stop and look again.\r\nStreet Art Cities identifies the… [+25543 chars]"
+    "author": "PTI",
+    "title": "US tariff proposal wake-up call for Indian pharma to diversify, innovate: Experts",
+    "description": "US pharma tariffs: Experts have urged a shift towards global diversification and prioritising innovation for Indian pharma to lessen market reliance. There are warnings that ensuring patient access to affordable medications should remain paramount.",
+    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/us-tariff-proposal-wake-up-call-for-indian-pharma-to-diversify-innovate-experts/articleshow/132638874.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-132638908,width-1200,height-630,imgsize-134336,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-07-26T09:15:07Z",
+    "content": "New Delhi: India's pharmaceutical industry should treat the proposed US tariffs on imported generic medicines as a wake-up call to reduce dependence on a single export market, diversify globally and … [+3836 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": "hirannejad@alumnus.tums.ac.ir",
+    "title": "fragment-explorer added to PyPI",
+    "description": "Extract, visualize, and inspect molecular fragments (fingerprint bits) shared by molecules within a class",
+    "url": "https://pypi.org/project/fragment-explorer/",
+    "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+    "publishedAt": "2026-07-26T09:01:22Z",
+    "content": "Extract, visualize, and inspect molecular fragments (fingerprint bits)\r\nshared by molecules within a class built on RDKit.\r\nInstall\r\npipinstallfragment-explorer\r\nUse as a library\r\nfromfragment_explor… [+2211 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "Maria Godoy",
+    "title": "ADHD looks different in women and poses unique health risks",
+    "description": "For decades, ADHD was viewed as a childhood condition that mostly affected boys. Researchers now know ADHD manifests differently in girls, but many still go undiagnosed until adulthood.",
+    "url": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F27%2F6d4bbbf24495b877630109c09a7d%2Ffinal.jpg",
+    "publishedAt": "2026-07-26T09:00:00Z",
+    "content": "School used to be pretty easy for Kate Jarvis when she was a little girl, back in the 1980s. She was a straight-A student, creative, and so organized that she'd even prep her toothbrush with toothpas… [+8738 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifehack.org"
+    },
+    "author": "Leon Ho",
+    "title": "Encore Career Ideas: Choose a Second Act That Fits",
+    "description": "Most encore career ideas lists read like a job board. Here's how to pick a second act after 60 that fits your skills, energy, and who you want to serve.",
+    "url": "https://www.lifehack.org/991493/encore-career-ideas",
+    "urlToImage": "https://cdn.lifehack.org/wp-content/uploads/2026/07/encore-career-ideas-feature.jpg",
+    "publishedAt": "2026-07-26T09:00:00Z",
+    "content": "The question always lands a little sideways, usually at a party. \"So what are you going to do now?\" You just closed out a career you spent thirty-five years building, and the honest answer is you hav… [+12178 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Madriduniversal.com"
+    },
+    "author": "Madrid Universal",
+    "title": "PSG’s Rodri pursuit seen as ‘reaction’ to Real Madrid’s Yan Diomande move",
+    "description": "Just when Real Madrid seemed to have the signing of Manchester City’s Rodri all wrapped up, PSG have entered strongly and are threatening to hijack the deal.The situation, ironically, is very simila...",
+    "url": "https://madriduniversal.com/psgs-rodri-pursuit-seen-as-reaction-to-real-madrids-yan-diomande-move/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/8c8ad14aaeb2fd9917a041d85b4c6647b53791994f01a63d0513adc8b0233439/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmadrid_universal_articles_561%2Fd948d28adb94675efdb714da66889a15",
+    "publishedAt": "2026-07-26T08:55:00Z",
+    "content": "Just when Real Madrid seemed to have the signing of Manchester City's Rodri all wrapped up, PSG have entered strongly and are threatening to hijack the deal.\r\nThe situation, ironically, is very simil… [+1998 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Tribune India"
+    },
+    "author": "Pti",
+    "title": "Yoga may improve chances of quitting tobacco by 50 per cent, boost mental well-being: AIIMS - The Tribune",
+    "description": "Practising yoga may significantly improve a tobacco user’s chances of quitting while also reducing anxiety, depression, and other psychological factors linked to addiction, according to a study by researchers at the All India Institute of Medical Sciences (AI…",
+    "url": "https://www.tribuneindia.com/news/health/yoga-may-improve-chances-of-quitting-tobacco-by-50-per-cent-boost-mental-well-being-aiims/",
+    "urlToImage": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA0MDYxNTIwLTg4YmQtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+    "publishedAt": "2026-07-26T08:25:31Z",
+    "content": "Practising yoga may significantly improve a tobacco users chances of quitting while also reducing anxiety, depression, and other psychological factors linked to addiction, according to a study by res… [+3725 chars]"
   },
   {
     "source": {
@@ -18,51 +83,38 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "How often should a baby bird poop?",
-    "description": "How Often Should a Baby Bird Poop? A Comprehensive Guide Baby birds poop frequently, often every 15-20 minutes after being fed, a crucial sign of healthy digestion and growth; however, frequency can vary. Understanding how often should a baby bird poop? is vi…",
-    "url": "https://www.lifesciencesworld.com/how-often-should-a-baby-bird-poop/",
+    "title": "Why do you have to cook crabs alive?",
+    "description": "Why Do You Have To Cook Crabs Alive? The primary reason crabs are often cooked alive is to minimize the risk of bacterial contamination and food poisoning associated with their rapid decomposition after death. This is crucial because dead crabs release toxins…",
+    "url": "https://www.lifesciencesworld.com/why-do-you-have-to-cook-crabs-alive/",
     "urlToImage": null,
-    "publishedAt": "2026-07-25T07:51:56Z",
-    "content": "Baby birds poop frequently, often every 15-20 minutes after being fed, a crucial sign of healthy digestion and growth; however, frequency can vary. Understanding how often should a baby bird poop? is… [+7361 chars]"
+    "publishedAt": "2026-07-26T08:19:00Z",
+    "content": "The primary reason crabs are often cooked alive is to minimize the risk of bacterial contamination and food poisoning associated with their rapid decomposition after death. This is crucial because de… [+7775 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "allkpop"
+      "name": "Arkansas Online"
     },
-    "author": "Alec06",
-    "title": "Former Sechskies member Ko Ji Yong reunites with Lee Jai Jin after overcoming severe health scare",
-    "description": "Ko Ji Yong, a former member of the iconic idol group Sechskies, has shared a heartwarming reunion with his fellow teammate Lee Jai Jin after successf…",
-    "url": "https://www.allkpop.com/article/2026/07/former-sechskies-member-ko-ji-yong-reunites-with-lee-jai-jin-after-overcoming-severe-health-scare",
-    "urlToImage": "https://www.allkpop.com/upload/2026/07/content/250336/web_data/allkpop_1784965037_img-0548.jpeg",
-    "publishedAt": "2026-07-25T07:42:11Z",
-    "content": "Ko Ji Yong, a former member of the iconic idol group Sechskies, has shared a heartwarming reunion with his fellow teammate Lee Jai Jin after successfully regaining his health. \r\nOn July 24, Ko Ji Yon… [+1191 chars]"
+    "author": "Arkansas Democrat-gazette",
+    "title": "Corey Edwards promoted to Cromwell Architects Engineers director of architecture",
+    "description": "Corey Edwards promoted to Cromwell Architects Engineers director of architecturearkansasonline.com",
+    "url": "https://www.arkansasonline.com/news/2026/jul/26/corey-edwards-promoted-to-cromwell-architects/",
+    "urlToImage": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+    "publishedAt": "2026-07-26T08:14:55Z",
+    "content": "Let us read it for you. Listen now.\r\nYour browser does not support the audio element.\r\nARCHITECTURE\r\nCromwell Architects Engineers announced the promotion of Corey Edwards to director of architecture… [+863 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "Trending Desk",
-    "title": "'This may be scary...': Bryan Johnson, diagnosed with autoimmune gastritis, says he 'cloned' himself as a newborn to reverse aging",
-    "description": "Bryan Johnson announced cloning himself as a newborn for future medical advancements.  He believes this technology will revolutionize healthcare and reverse aging processes.  The cloned cells could test therapies and grow replacement organs for transplantatio…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/this-may-be-scary-bryan-johnson-diagnosed-with-autoimmune-gastritis-says-he-cloned-himself-as-a-newborn-to-reverse-aging/articleshow/132621299.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-132621381,width-1200,height-630,imgsize-141314,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-07-25T07:40:53Z",
-    "content": "Tech entrepreneur and self-described biohacker Bryan Johnson, who was recently diagnosed with autoimmune gastritis (AIG), has made another headline in his mission to slow aging. The 48-year-old, know… [+3814 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Wiliam Hunter",
-    "title": "Modern life may be pushing human minds beyond their limits, study warns",
-    "description": "If it ever feels like the stresses of daily life are getting too much to bear, you're not imagining it. Researchers claim modern life is pushing human minds and bodies beyond their evolutionary limits.",
-    "url": "https://www.dailymail.com/sciencetech/article-15994041/Modern-life-pushing-human-minds-limits.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/07/24/11/110227713-0-image-m-16_1784889171457.jpg",
-    "publishedAt": "2026-07-25T07:39:50Z",
-    "content": "If it ever feels like the stresses of daily life are all getting too much to bear, you're not imagining it.\r\nResearchers claim that modern life is pushing human minds and bodies beyond their evolutio… [+7667 chars]"
+    "author": "PTI",
+    "title": "Over half of PM CARES, CSR-funded oxygen plants in Bengal remained non-functional after Covid: CAG",
+    "description": "A CAG report found many Covid-era oxygen plants in West Bengal uncommissioned or non-functional. Ventilators and oxygen concentrators also remained idle at two government hospitals. Significant funds allocated for Covid response remained unspent as of March 2…",
+    "url": "https://economictimes.indiatimes.com/news/india/over-half-of-pm-cares-csr-funded-oxygen-plants-in-bengal-remained-non-functional-after-covid-cag/articleshow/132638269.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-132638290,width-1200,height-630,imgsize-62178,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-07-26T08:07:57Z",
+    "content": "Kolkata: More than half of the PSA oxygen plants installed under PM CARES and CSR initiatives in West Bengal during Covid were either uncommissioned or non-functional as of December 2023, while venti… [+3618 chars]"
   },
   {
     "source": {
@@ -70,116 +122,51 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "What sensory structures are unique to sharks?",
-    "description": "What Sensory Structures are Unique to Sharks? Sharks possess remarkable sensory adaptations, including specialized structures that enable them to detect prey and navigate their environment with unparalleled efficiency. Their unique sensory abilities are prima…",
-    "url": "https://www.lifesciencesworld.com/what-sensory-structures-are-unique-to-sharks/",
+    "title": "How old can a bass live?",
+    "description": "How Old Can a Bass Live? Unveiling the Longevity of These Popular Fish The lifespan of a bass varies depending on the species and environmental factors, but generally, a healthy largemouth bass can live for 10 to 15 years, while some have been documented to r…",
+    "url": "https://www.lifesciencesworld.com/how-old-can-a-bass-live/",
     "urlToImage": null,
-    "publishedAt": "2026-07-25T07:38:22Z",
-    "content": "What Sensory Structures are Unique to Sharks?\r\nSharks possess remarkable sensory adaptations, including specialized structures that enable them to detect prey and navigate their environment with unpa… [+9486 chars]"
+    "publishedAt": "2026-07-26T08:07:11Z",
+    "content": "The lifespan of a bass varies depending on the species and environmental factors, but generally, a healthy largemouth bass can live for 10 to 15 years, while some have been documented to reach over 2… [+9148 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "Scientists just found sugar in space. Here's why that matters",
+    "description": "It's a sweet discovery that has the science world talking — and may help us better understand the origins of life on Earth.",
+    "url": "https://www.cbc.ca/news/science/sugar-in-space-life-on-earth-9.7281908",
+    "urlToImage": "https://i.cbc.ca/ais/3ae5a5b9-f578-469e-ac52-c53251db5bc5,1784855020725/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C430%2C8256%2C4644%29%3BResize%3D620",
+    "publishedAt": "2026-07-26T08:00:00Z",
+    "content": "It's a sweet discovery that has the science world talking and may help us better understand the origins of life on Earth.\r\nEarlier this month, a group of researchers in Spain uncovered sugar near the… [+3733 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lifesciencesworld.com"
+      "name": "Variety"
     },
-    "author": "Ava Reynolds",
-    "title": "How long can a bird fly for without stopping?",
-    "description": "How Long Can a Bird Fly For Without Stopping? Unveiling Avian Endurance Some birds, remarkably, can fly for days, even months, non-stop. The exact duration depends on the species, with some champion migrators able to fly for up to eight months without landing…",
-    "url": "https://www.lifesciencesworld.com/how-long-can-a-bird-fly-for-without-stopping/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-25T07:31:25Z",
-    "content": "Some birds, remarkably, can fly for days, even months, non-stop. The exact duration depends on the species, with some champion migrators able to fly for up to eight months without landing, while othe… [+9179 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "Not just alcohol addiction. Doctor explains one common pantry habit may increase risk of liver cancer: 'When peanuts, corn or grains sit in warm, humid pantries...'",
-    "description": "Eating stale peanuts, or peanuts which have been stored in damp and humid conditions can inadvertently make you more susceptible to cancer - especially liver.",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/not-just-alcohol-addiction-doctor-explains-one-common-pantry-habit-may-increase-risk-of-liver-cancer-when-peanuts-corn-or-grains-sit-in-warm-humid-pantries-/articleshow/132621102.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-132621102,width-1200,height-630,imgsize-77100,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-07-25T07:28:03Z",
-    "content": "A seemingly harmless habit involving a common kitchen staple may significantly increase the risk of developing liver cancer. Sharing an awareness post on X, internal medicine specialist Dr. Priyam Bo… [+2806 chars]"
+    "author": "Varietyschneider",
+    "title": "PBS SoCal, KMEX Lead L.A. Local Emmy Wins; KVEA, KABC Land Top Newscast Prizes",
+    "description": "PBS SoCal (KOCE and KCET) was the big winner Saturday night at the L.A. Area Emmy Awards, landing eight — including for live events-programming, entertainment, crime/social issues and arts. Univision’s KMEX was next, with seven, followed by Telemundo’s KVEA w…",
+    "url": "https://variety.com/2026/tv/news/la-local-emmy-winners-pbs-socal-leads-kvea-kabc-1236821371/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2152537046-e1785051456998.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2026-07-26T07:39:20Z",
+    "content": "PBS SoCal (KOCE and KCET) was the big winner Saturday night at the L.A. Area Emmy Awards, landing eight — including for live events-programming, entertainment, crime/social issues and arts. Univision… [+7635 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lifesciencesworld.com"
+      "name": "Livemint"
     },
-    "author": "Ava Reynolds",
-    "title": "Do pigeons have amniotic eggs?",
-    "description": "Do Pigeons Lay Amniotic Eggs? Understanding Avian Reproduction Do pigeons have amniotic eggs? Yes, pigeons, like all birds, reptiles, and mammals, lay amniotic eggs. This type of egg is a crucial evolutionary adaptation that allows for reproduction on land. W…",
-    "url": "https://www.lifesciencesworld.com/do-pigeons-have-amniotic-eggs/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-25T07:22:37Z",
-    "content": "Do Pigeons Lay Amniotic Eggs? Understanding Avian Reproduction\r\nDo pigeons have amniotic eggs? Yes, pigeons, like all birds, reptiles, and mammals, lay amniotic eggs. This type of egg is a crucial ev… [+8721 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "Semi-News/Semi-Satire",
-    "title": "California & Minnesota Medicaid Funds Blocked [semi-satire]",
-    "description": "Health and Human Services Secretary Robert F. Kennedy Jr. halted the distribution of $1 billion to California and Minnesota, saying \"Gov. Gavin Newsom (D-Calif) and Minnesota Gov. Tim Walz (D-Minn) have opened the floodgates to theft. They dismantled basic pr…",
-    "url": "https://freerepublic.com/focus/f-bloggers/4389292/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-07-25T07:12:32Z",
-    "content": "Skip to comments.\r\nCalifornia &amp; Minnesota Medicaid Funds Blocked [semi-satire]Semi-News/Semi-Satire ^\r\n | 26 July 2026\r\n | John Semmens\r\nPosted on 07/25/2026 12:12:32 AM PDT by John Semmens\r\nHeal… [+3263 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Nakedcapitalism.com"
-    },
-    "author": "Yves Smith",
-    "title": "Humanity and Nature Through Social Production: Marx’s Materialism Unfolded from Epicurus",
-    "description": "John Bellamy Foster explains how Marx learned from chemists, physicists, biologists and the ancient Greek philosopher Epicurus",
-    "url": "https://www.nakedcapitalism.com/2026/07/humanity-and-nature-through-social-production-marxs-materialism-unfolded-from-epicurus.html",
-    "urlToImage": null,
-    "publishedAt": "2026-07-25T07:09:32Z",
-    "content": "Yves here. This is an intriguing discussion of the influences on some core elements of Marx’s thinking, of the connection between what we now call ecology and society and how their crises interact.\r\n… [+32352 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "Are GREY squirrels endangered?",
-    "description": "Are Grey Squirrels Endangered? The Real Story The question of Are GREY squirrels endangered? is a common one, but the short answer is a resounding no. In fact, grey squirrels are thriving in many areas, and their populations are often considered a threat to n…",
-    "url": "https://www.lifesciencesworld.com/are-grey-squirrels-endangered/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-25T07:09:05Z",
-    "content": "Are Grey Squirrels Endangered? The Real Story\r\nThe question of Are GREY squirrels endangered? is a common one, but the short answer is a resounding no. In fact, grey squirrels are thriving in many ar… [+9291 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What happens when edema won’t go away?",
-    "description": "What Happens When Edema Won’t Go Away? Chronic Edema Explained When edema persists, despite common treatments, it signals an underlying condition requiring thorough investigation. Ignoring chronic edema can lead to complications like skin breakdown, limited m…",
-    "url": "https://www.lifesciencesworld.com/what-happens-when-edema-wont-go-away/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-25T06:43:38Z",
-    "content": "When edema persists, despite common treatments, it signals an underlying condition requiring thorough investigation. Ignoring chronic edema can lead to complications like skin breakdown, limited mobi… [+8890 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Vanguard"
-    },
-    "author": "Akinbayo Wahab",
-    "title": "Tinubu unveils diaspora health plan, hails Nigerians abroad as greatest asset",
-    "description": "The President, represented by Sen. George Akume, Secretary to the Government of the Federation, delivered the keynote speech at the 2026 National Diaspora Day Celebrations and Merit Award Dinner.\nThe post Tinubu unveils diaspora health plan, hails Nigerians a…",
-    "url": "https://www.vanguardngr.com/2026/07/tinubu-unveils-diaspora-health-plan-hails-nigerians-abroad-as-greatest-asset/",
-    "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/05/tinububah-e1779777661573.jpg",
-    "publishedAt": "2026-07-25T06:31:46Z",
-    "content": "President Bola Tinubu has described Nigerians in the Diaspora as one of the nations greatest assets.\r\nTinubu gave the description on Friday night, while announcing new policy commitments to instituti… [+3077 chars]"
+    "author": "Nitin Pai",
+    "title": "Nitin Pai: Biotech offers India a shot at global leadership—here's what must be done to achieve it",
+    "description": "For the country to remain the 'pharmacy of the world,' it must overcome the squeeze of US tariffs and Chinese breakthroughs. To not just survive the future but thrive, we need an overhaul of how the biotech industry is governed.",
+    "url": "https://www.livemint.com/opinion/online-views/nitin-pai-biotech-india-global-leadership-us-tariffs-china-research-biotechnology-governance-11785004044936.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2026/07/25/1600x900/logo/2-0-1285447886-biocon-research-centre26-20130826-A_1785004470778_1785004470903_8d4f2314-7497-47a7-80d8-261e383a9958.jpg",
+    "publishedAt": "2026-07-26T07:31:14Z",
+    "content": "Washington is enacting legislation that could prevent drugs containing Chinese-made ingredients from being imported into the US. \r\nBeijing, for its part, has used industrial policy levers to help its… [+4448 chars]"
   },
   {
     "source": {
@@ -187,76 +174,63 @@
       "name": "Space Daily"
     },
     "author": "Lachlan Brown",
-    "title": "How does a moon 1.4 billion kilometres from the Sun end up with rivers, rain and lakes, but not a single drop of water in any of them?",
-    "description": "Titan has rain, rivers, and seas—but they're made of liquid methane, forcing us to rethink what a habitable world might actually look like.\nThe post How does a moon 1.4 billion kilometres from the Sun end up with rivers, rain and lakes, but not a single drop …",
-    "url": "https://spacedaily.com/t-titan-methane-rain-rivers-lakes-no-water/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/pexels-titan-river-patterns-representative-1024x576.jpg",
-    "publishedAt": "2026-07-25T06:30:14Z",
-    "content": "I had never noticed how completely I equated weather with water until I began reading about Titan.\r\nRain means water. A river is flowing water. A lake is a depression filled with water. The associati… [+12735 chars]"
+    "title": "Jupiter’s moon Europa hides a saltwater ocean that may contain more than twice the water of all Earth’s oceans combined, yet a new measurement puts 29 kilometres of solid ice above it, a barrier taller than three Mount Everests stacked end to end",
+    "description": "The frozen crust of Europa may be thicker than scientists hoped, potentially making any mission to reach the hidden ocean beneath even more challenging than previously thought.\nThe post Jupiter’s moon Europa hides a saltwater ocean that may contain more than …",
+    "url": "https://spacedaily.com/t-europa-29-kilometre-ice-shell-ocean-water/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/spacedaily_europa_junocam_nasa.jpg",
+    "publishedAt": "2026-07-26T07:30:08Z",
+    "content": "Europa is smaller than Earth’s Moon, yet the ocean hidden inside it may hold more than twice as much water as every ocean on Earth combined.\r\nThat contrast has always been the part of Europa I find h… [+14142 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Streetartutopia.com"
+      "name": "Dailymail.com"
     },
-    "author": "Vidar",
-    "title": "19 Murals by Eduardo Kobra",
-    "description": "You can recognize an Eduardo Kobra wall from half a block away. History arrives in color: David Bowie, Pelé, Lincoln, Einstein, a school façade transformed into a towering library, and a firefighter carrying the weight of a city. These 19 murals stretch acros…",
-    "url": "https://streetartutopia.com/2026/07/25/19-murals-by-eduardo-kobra/",
-    "urlToImage": "https://i0.wp.com/streetartutopia.com/wp-content/uploads/2026/07/01-pavarotti-texas-kiss.jpg?fit=1200%2C700&ssl=1",
-    "publishedAt": "2026-07-25T06:01:00Z",
-    "content": "These 19 murals stretch across Brazil, the United States, Sweden, Russia, and Italy. Famous faces draw you in, but the real thread is public memory: who a city celebrates, what it refuses to forget, … [+13382 chars]"
+    "author": "Charlotte Lytton",
+    "title": "Why IS diabetes exploding in 20-something women? Instagram, booze and fertility: Top experts pose fascinating explanations",
+    "description": "Type 2 diabetes - the condition driven by obesity - has soared by 70 per cent in British women aged 20-29 over the last decade - but why?",
+    "url": "https://www.dailymail.com/health/article-16002733/diabetes-rise-young-women-gen-z-experts.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/07/24/15/110232509-0-image-a-20_1784903451384.jpg",
+    "publishedAt": "2026-07-26T07:29:24Z",
+    "content": "Glance at social media and the slew of twentysomething women in lycra leggings gives the impression of an ultra-health conscious generation. Yet new, alarming figures published this week reveal a ver… [+5744 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "US scientists finally uncover how a rare longevity gene may protect the brain from Alzheimer's and the discovery could reshape future treatments",
+    "description": "A rare APOE2 gene variant offers protection against brain cell aging.  This gene helps brain cells repair DNA damage and resist cellular aging processes.  Researchers found APOE2 neurons accumulate less DNA damage and recover faster after stress.  This discov…",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-scientists-finally-uncover-how-a-rare-longevity-gene-may-protect-the-brain-from-alzheimers-and-the-discovery-could-reshape-future-treatments/articleshow/132637686.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-132637717,width-1200,height-630,imgsize-104962,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-07-26T07:23:07Z",
+    "content": "A rare gene linked to longer life may also help explain why some people are less likely to develop Alzheimer's disease. In a new study published in Aging Cell, researchers at the Buck Institute for R… [+3325 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Naturalnews.com"
+      "name": "Lifesciencesworld.com"
     },
-    "author": "Belle Carter",
-    "title": "“The Human Shutdown” on BrightU: The lost art of grounding and the 50% energy crisis",
-    "description": "Touching the Earth with bare skin restores the body’s natural electron balance, which is presented as a crucial step beyond diet, exercise and sleep for optimal health. The body’s mitochondria are bioelectrical systems requiring a constant electron flow; disc…",
-    "url": "https://www.naturalnews.com/2026-07-25-lost-art-of-grounding-and-energy-crisis.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/Woman-Walking-Barefoot-Grass-Pink-Shoes.jpg",
-    "publishedAt": "2026-07-25T06:00:00Z",
-    "content": "<ul><li>Touching the Earth with bare skin restores the body's natural electron balance, which is presented as a crucial step beyond diet, exercise and sleep for optimal health.</li><li>The body's mit… [+5011 chars]"
+    "author": "Ava Reynolds",
+    "title": "Do birds have 1 hole for everything?",
+    "description": "Do Birds Have 1 Hole for Everything? Unveiling the Avian Cloaca The answer to the question “Do birds have 1 hole for everything?” is a resounding yes. Birds possess a single opening, called the cloaca, which serves as the exit point for the digestive, urinary…",
+    "url": "https://www.lifesciencesworld.com/do-birds-have-1-hole-for-everything/",
+    "urlToImage": null,
+    "publishedAt": "2026-07-26T07:08:55Z",
+    "content": "The answer to the question “Do birds have 1 hole for everything?” is a resounding yes. Birds possess a single opening, called the cloaca, which serves as the exit point for the digestive, urinary, an… [+7380 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Naturalnews.com"
+      "name": "The-independent.com"
     },
-    "author": "Belle Carter",
-    "title": "Muscle as medicine: Dr. Gabrielle Lyon’s revolutionary approach to longevity",
-    "description": "Skeletal muscle is the true foundation of metabolic health, longevity and independence, not just body weight. Muscle acts as a dynamic organ, regulating blood sugar, cardiovascular function and even sexual health. The three pillars of muscle health include: M…",
-    "url": "https://www.naturalnews.com/2026-07-25-muscle-as-medicine-lyons-revolutionary-approach-longevity.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/Anatomy-Human-Skeleton-Muscles-Xray-Bones.jpg",
-    "publishedAt": "2026-07-25T06:00:00Z",
-    "content": "<ul><li>Skeletal muscle is the true foundation of metabolic health, longevity and independence, not just body weight. Muscle acts as a dynamic organ, regulating blood sugar, cardiovascular function a… [+5459 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Belle Carter",
-    "title": "Beyond oatmeal: High-fiber breakfasts to boost digestion and energy",
-    "description": "A fiber-rich breakfast stabilizes blood sugar, boosts energy, supports heart health and promotes satiety without excess calories. Beyond oatmeal, fiber-packed meals range from savory (avocado toast, tofu scramble) to sweet (chia pudding, peanut butter banana …",
-    "url": "https://www.naturalnews.com/2026-07-25-high-fiber-breakfasts-to-boost-digestion-and-energy.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/Hands-slicing-an-avocado-on-a-cutting-board-1.jpg",
-    "publishedAt": "2026-07-25T06:00:00Z",
-    "content": "<ul><li>A fiber-rich breakfast stabilizes blood sugar, boosts energy, supports heart health and promotes satiety without excess calories.</li><li>Beyond oatmeal, fiber-packed meals range from savory … [+3846 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Iva Greene",
-    "title": "Scientists Warn Aquatic Oxygen Decline May Reshape Ecosystems",
-    "description": "Oxygen levels in rivers worldwide have declined over the past four decades, according to a study published May 15, 2026 in Science Advances and reported by Iva Greene on NaturalNews.com [1]. The research, led by Prof. Kun Shi of the Nanjing Institute of Geogr…",
-    "url": "https://www.naturalnews.com/2026-07-25-scientists-warn-aquatic-oxygen-decline-may-reshape-ecosystems.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/aquatic-deoxygenation-oxygen-loss-climate-change-2876-original.jpg",
-    "publishedAt": "2026-07-25T06:00:00Z",
-    "content": "Oxygen levels in rivers worldwide have declined over the past four decades, according to a study published May 15, 2026 in Science Advances and reported by Iva Greene on NaturalNews.com [1]. The rese… [+6080 chars]"
+    "author": "Harry Bullmore",
+    "title": "Scared exercise will injure you? These rules make any routine safe",
+    "description": "One reader joked that following Harry Bullmore's advice landed them in A&E. It's a laugh – but it points to a real fear. In the latest Well Enough newsletter, he breaks down the two principles that make sure exercise never has that effect, whatever your start…",
+    "url": "https://www.the-independent.com/health-and-fitness/exercise-safely-capabilities-progressive-overload-b3021096.html",
+    "urlToImage": "https://static.the-independent.com/2026/07/24/15/53/iStock-1309541926.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+    "publishedAt": "2026-07-26T07:00:00Z",
+    "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+6353 chars]"
   }
 ]
