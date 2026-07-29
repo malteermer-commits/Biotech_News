@@ -1,107 +1,55 @@
 [
   {
     "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": null,
-    "title": "1 in 10 emergency physicians leaving Canadian ERs, national survey suggests",
-    "description": "One out of every 10 emergency physicians in Canada have left their specialty, while the vast majority of others are reducing their hours or taking time off to manage burnout. The findings, part of a study out Monday in the Canadian Medical Association Journal…",
-    "url": "https://www.cbc.ca/news/health/ed-physician-survey-9.7279736",
-    "urlToImage": "https://i.cbc.ca/ais/1.7567477,1754003257000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C522%2C5000%2C2812%29%3BResize%3D620",
-    "publishedAt": "2026-07-27T08:00:00Z",
-    "content": "Dr. Kaitlin Stockton has watched far too many patients suffer in overflowing emergency departments.\r\nThe Vancouver-based physician has given patients she just met a cancer diagnosis, with little priv… [+7262 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The-independent.com"
-    },
-    "author": "Andrew Yockey",
-    "title": "Four child deaths linked to ‘Benadryl Challenge’. Here’s what parents need to know",
-    "description": "One study has estimated that this challenge may have been responsible for as many 131 deaths in the U.S. between 2020 and 2024",
-    "url": "https://www.the-independent.com/life-style/health-and-families/what-is-benadryl-challenge-risk-deaths-b3022003.html",
-    "urlToImage": "https://static.the-independent.com/2025/08/08/18/55/GettyImages-1682740-jpg.png?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-    "publishedAt": "2026-07-27T07:44:16Z",
-    "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia… [+6181 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What is a teddy bear crab?",
-    "description": "What is a Teddy Bear Crab? Unveiling the Mysterious Xanthid Crab The teddy bear crab, also known as the xanthid crab, is a small, fuzzy-looking crab found in the Indo-Pacific region, primarily recognized for its dense coat of setae that give it a soft, teddy …",
-    "url": "https://www.lifesciencesworld.com/what-is-a-teddy-bear-crab/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-27T07:38:34Z",
-    "content": "The teddy bear crab, also known as the xanthid crab, is a small, fuzzy-looking crab found in the Indo-Pacific region, primarily recognized for its dense coat of setae that give it a soft, teddy bear-… [+7964 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "Is rosemary bad for cats?",
-    "description": "Is Rosemary Bad for Cats? Understanding the Risks and Benefits Is rosemary bad for cats? In most cases, no, rosemary is not inherently toxic to cats in small amounts, but large quantities can pose a risk due to its essential oil content. Understanding Rosemar…",
-    "url": "https://www.lifesciencesworld.com/is-rosemary-bad-for-cats/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-27T07:28:42Z",
-    "content": "Is Rosemary Bad for Cats? Understanding the Risks and Benefits\r\nIs rosemary bad for cats? In most cases, no, rosemary is not inherently toxic to cats in small amounts, but large quantities can pose a… [+7920 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Stemlynsblog.org"
-    },
-    "author": "Stevan Bruijns",
-    "title": "Corridor care and boarding harm: how much evidence is enough?",
-    "description": "St.Emlyn's - Emergency Medicine #FOAMed\nEvidence from academic studies, professional bodies, coroners, NHS trusts and patient-safety investigators increasingly links corridor care and prolonged emergency department boarding with avoidable harm. Stevan Bruijns…",
-    "url": "https://www.stemlynsblog.org/corridor-care-boarding-harm/",
-    "urlToImage": "https://www.stemlynsblog.org/wp-content/uploads/2026/07/St-Emlyns-cover-image-6.png",
-    "publishedAt": "2026-07-27T07:10:25Z",
-    "content": "Emergency department (ED) crowding is the operational challenge of a generation. With every G7 economy having documented ED crowding as a significant public health problem, it is not unique to the Na… [+13802 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Sciencebasedmedicine.org"
-    },
-    "author": "David Gorski",
-    "title": "Does public health “need” MAHA? No more than medicine “needs” CAM",
-    "description": "Last week, The Atlantic published an embarrassingly contrarian piece about how public health \"needs\" the \"make America healthy again\" movement. Public health needs MAHA only if it \"needs\" to integrate antivax and quackery into medicine and public health. Soun…",
-    "url": "https://sciencebasedmedicine.org/does-public-health-need-maha/",
-    "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2026/03/MAHAInst.jpg",
-    "publishedAt": "2026-07-27T07:01:00Z",
-    "content": "Three months ago, I wrote a post for SBM entitled MAHA and science-based public health: Cant we all just get along? Regular readers, even if they never actually read that post, can probably predict m… [+33300 chars]"
+    "author": "etimes.in",
+    "title": "Savannah Guthrie makes emotional plea as mother’s disappearance nears six-month mark",
+    "description": "Savannah Guthrie made an emotional plea for information about her missing mother, Nancy Guthrie. Nancy, aged 84, was abducted from her Tucson home six months ago. A ransom note demanding millions in Bitcoin was reportedly sent shortly after her disappearance.…",
+    "url": "https://timesofindia.indiatimes.com/tv/news/english/savannah-guthrie-makes-emotional-plea-as-mothers-disappearance-nears-six-month-mark/articleshow/132678896.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-132678876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-07-28T08:11:46Z",
+    "content": "<ul><li>News</li>\r\n<li>tv</li>\r\n<li>english</li>\r\n<li>Savannah Guthrie makes emotional plea as mothers disappearance nears six-month mark</li></ul>\r\nFollow Us On Social Media\r\nSouth Korea's KOSPI cra… [+2121 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "Trending Desk",
-    "title": "Gray Hair Reason Found: A Japanese study explains why people get grey hair and it may be linked to cancer",
-    "description": "Why Do People Get Grey Hair: New research in Japan suggests grey hair may signal a body's protective response against Cancer.  Stem cells shut down after severe DNA damage, preventing harm, however, certain carcinogens can cause these cells to multiply unchec…",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/gray-hair-reason-found-a-japanese-study-explains-why-people-get-grey-hair-and-it-may-be-linked-to-cancer/articleshow/132654080.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-132654421,width-1200,height-630,imgsize-70609,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-07-27T06:55:21Z",
-    "content": "For generations, grey hair has been treated as nothing more than a cosmetic inconvenience, something to dye over, joke about, or blame on a stressful year. But a study out of the University of Tokyo … [+3607 chars]"
+    "author": "TNN",
+    "title": "Maharashtra targets Rs 1 lakh crore tourism investment, 18 lakh jobs by 2034; bets on Kumbh, coast and heritage",
+    "description": "Maharashtra plans a Rs 1 lakh crore tourism investment by 2034. The state aims to create eighteen lakh jobs and promote diverse destinations. New projects include an underwater museum and expanded scuba diving facilities. Digital campaigns will highlight fort…",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-targets-rs-1-lakh-crore-tourism-investment-18-lakh-jobs-by-2034-bets-on-kumbh-coast-and-heritage/articleshow/132678906.cms",
+    "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-07-28T08:09:54Z",
+    "content": "<ul><li>News</li>\r\n<li>Maharashtra targets Rs 1 lakh crore tourism investment, 18 lakh jobs by 2034; bets on Kumbh, coast and heritage</li></ul>\r\nFollow Us On Social Media\r\nSouth Korea's KOSPI crashe… [+2118 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lifesciencesworld.com"
+      "name": "GlobeNewswire"
     },
-    "author": "Ava Reynolds",
-    "title": "Why are baby foxes so cute?",
-    "description": "Why are baby foxes so cute? A Scientific and Cultural Exploration Baby foxes, or kits, elicit an undeniable “aww” response. Their irresistible charm stems from a potent combination of infantile physical traits and behaviors that tap into our innate human tend…",
-    "url": "https://www.lifesciencesworld.com/why-are-baby-foxes-so-cute/",
-    "urlToImage": null,
-    "publishedAt": "2026-07-27T06:22:32Z",
-    "content": "Why are baby foxes so cute? A Scientific and Cultural Exploration\r\nBaby foxes, or kits, elicit an undeniable “aww” response. Their irresistible charm stems from a potent combination of infantile phys… [+7539 chars]"
+    "author": "New Anglia University",
+    "title": "New Anglia University Examines Why More Students Are Considering Graduate-Entry Routes Into Medicine",
+    "description": "New Anglia University explores graduate-entry medicine, accelerated MD programmes, UK medical education, clinical training and career pathways....",
+    "url": "https://www.globenewswire.com/news-release/2026/07/28/3334037/0/en/New-Anglia-University-Examines-Why-More-Students-Are-Considering-Graduate-Entry-Routes-Into-Medicine.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/c4a7a0f2-fc15-40c2-902d-372e5ca0c74d",
+    "publishedAt": "2026-07-28T08:07:00Z",
+    "content": "George Hill, Anguilla, 28 July 2026 -- New Anglia University\r\n examines why an increasing number of university graduates are considering graduate-entry routes into medicine as they reassess their car… [+10897 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Rebecca Lawrence",
+    "title": "Hannah Waddingham cosies up to spine surgeon boyfriend Nick Beresford-Cleary before planting a kiss on co-star Juno Temple as she lets loose at Ted Lasso S4 premiere",
+    "description": "The actress, who stars as AFC Richmond owner Rebecca Welton in the Apple TV+ series, was a vision as she hit the red carpet.",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16009873/Hannah-Waddingham-boyfriend-Nick-Beresford-Cleary-Ted-Lasso-premiere.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/07/28/08/110290321-0-image-m-19_1785225294066.jpg",
+    "publishedAt": "2026-07-28T08:05:36Z",
+    "content": "Hannah Waddingham looked smitten as she cosied up to her new boyfriend Nick Beresford-Cleary at the Ted Lasso season four premiere on Monday. \r\nThe actress, who stars as AFC Richmond owner Rebecca We… [+6466 chars]"
   },
   {
     "source": {
@@ -109,25 +57,25 @@
       "name": "Pypi.org"
     },
     "author": "yijiexia@pku.edu.cn",
-    "title": "mokda-xponge 1.7b5",
+    "title": "mokda-xponge 1.7b7",
     "description": "A Python package to perform pre- and post-processing of molecular simulations",
-    "url": "https://pypi.org/project/mokda-xponge/1.7b5/",
+    "url": "https://pypi.org/project/mokda-xponge/1.7b7/",
     "urlToImage": null,
-    "publishedAt": "2026-07-27T06:18:11Z",
+    "publishedAt": "2026-07-28T08:01:32Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Abcnews.com"
+      "name": "Thecoolist.com"
     },
-    "author": "MICHAEL CASEY Associated Press",
-    "title": "Trial begins for Lindsay Clancy, mother on trial in deaths of her 3 children",
-    "description": "A Massachusetts woman has gone on trial in a case in which her lawyers are expected to argue that postpartum issues were the reason she killed her three children",
-    "url": "https://abcnews.com/Health/wireStory/trial-begins-lindsay-clancy-mother-trial-deaths-3-135109766",
-    "urlToImage": "https://i.abcnewsfe.com/a/18968533-58b9-404d-8917-9de8552ff8b1/wirestory_b70bfa592ea1c0fbdc62792e4e7b9be6_16x9.jpg?w=1600",
-    "publishedAt": "2026-07-27T06:16:24Z",
-    "content": "PLYMOUTH, Mass. -- In the months after the birth of her third child, Lindsay Clancy 's mental health collapsed. Manic, unable to sleep and stricken with thoughts of harming herself, she sought care f… [+4480 chars]"
+    "author": "TheCoolist Team",
+    "title": "Three spots almost no one thinks to clean hold the most bacteria in your kitchen",
+    "description": "You scrub the countertops after every meal. You run the dishwasher nightly. The sink gleams under the pendant lights. But the surfaces you can see aren’t necessarily the ones causing trouble. The problem is what happens in the spaces you forget exist, and how…",
+    "url": "https://www.thecoolist.com/three-spots-almost-no-one-thinks-to-clean-hold-the-most-bacteria-in-your-kitchen-h2r4/",
+    "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/07/iStock-1254788325.jpg",
+    "publishedAt": "2026-07-28T08:00:49Z",
+    "content": "You scrub the countertops after every meal. You run the dishwasher nightly. The sink gleams under the pendant lights. But the surfaces you can see aren’t necessarily the ones causing trouble. The pro… [+4665 chars]"
   },
   {
     "source": {
@@ -135,102 +83,180 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "Is zeolite bad for ferrets?",
-    "description": "Is Zeolite Bad for Ferrets? A Comprehensive Guide While zeolite boasts numerous health benefits for some species, its impact on ferrets requires careful consideration. The definitive answer is that zeolite can be harmful to ferrets if not used appropriately a…",
-    "url": "https://www.lifesciencesworld.com/is-zeolite-bad-for-ferrets/",
+    "title": "Do bats lay eggs?",
+    "description": "Do Bats Lay Eggs? Unveiling the Truth About Bat Reproduction The answer to the question “Do bats lay eggs?” is a resounding no. Bats are mammals, and mammals are characterized by giving birth to live young and nourishing them with milk. Understanding Mammalia…",
+    "url": "https://www.lifesciencesworld.com/do-bats-lay-eggs/",
     "urlToImage": null,
-    "publishedAt": "2026-07-27T06:15:59Z",
-    "content": "Is Zeolite Bad for Ferrets? A Comprehensive Guide\r\nWhile zeolite boasts numerous health benefits for some species, its impact on ferrets requires careful consideration. The definitive answer is that … [+7084 chars]"
+    "publishedAt": "2026-07-28T07:58:03Z",
+    "content": "The answer to the question “Do bats lay eggs?” is a resounding no. Bats are mammals, and mammals are characterized by giving birth to live young and nourishing them with milk.\r\nUnderstanding Mammalia… [+7888 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Artfulparent.com"
+      "name": "Improbable.com"
     },
-    "author": "The Artful Parent Editorial Team",
-    "title": "When a child paints a wax-crayon drawing with watercolour, the pigment beads and slides off the waxed lines because the crayon’s paraffin is hydrophobic — the same molecular resistance that keeps rain from soaking into a candle, now doing the work of a resist technique on a kitchen table.",
-    "description": "A child's wax-resist painting works because paraffin crayon is chemically identical to candle wax — long hydrocarbon chains with nothing for water molecules to grab onto. The paint beads up on the crayon and sinks into the bare paper, running the same experim…",
-    "url": "https://artfulparent.com/ap-when-a-child-paints-a-wax-crayon-drawing-with-watercolour-the-pigment-beads-and-slides-off-the-waxed-lines-because-the-crayons-paraffin-is-hydrophobic-the-same-molecular-resistance-that-keeps-rain/",
-    "urlToImage": "https://artfulparent.com/wp-content/uploads/2026/07/when-a-child-paints-a-wax-crayon-drawing.jpg",
-    "publishedAt": "2026-07-27T06:11:06Z",
-    "content": "Wax crayon on paper, then a wash of watercolour on top, and the paint flees the waxed lines like water off a duck’s back. The pigment pools in the untouched fibres of the paper and beads up on the cr… [+10916 chars]"
+    "author": "Marc Abrahams",
+    "title": "LOOKING BACK: Official kudos for then-new Ig Nobel Prize winners",
+    "description": "If you’d like some warm nostalgia, look back to the year before the Covid pandemic arrived. Here are some accolades from home institutions of some of the 2019 Ig Nobel Prize winners. Centre for Quantum Technologies [Singapore]: Cockroaches win award for quant…",
+    "url": "https://improbable.com/2026/07/28/looking-back-official-kudos-for-then-new-ig-nobel-prize-winners/",
+    "urlToImage": "https://improbable.com/wp-content/uploads/2026/07/magnetic-cockroach-study-DETAIL.jpg",
+    "publishedAt": "2026-07-28T07:58:03Z",
+    "content": "If youd like some warm nostalgia, look back to the year before the Covid pandemic arrived. Here are some accolades from home institutions of some of the 2019 Ig Nobel Prize winners.\r\nCentre for Quant… [+2472 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TNN",
+    "title": "Opposition steps up attack over Punjab pharmacy exam row; Arvind Kejriwal alleges ‘BJP lies’",
+    "description": "Opposition parties are intensifying their criticism of Punjab's chief minister regarding alleged exam irregularities. The Shiromani Akali Dal is seeking a judicial investigation into the pharmacy officers' recruitment. The Bharatiya Janata Party has demanded …",
+    "url": "https://timesofindia.indiatimes.com/city/chandigarh/opposition-steps-up-attack-over-punjab-pharmacy-exam-row-arvind-kejriwal-alleges-bjp-lies/articleshow/132678396.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-132678603,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-07-28T07:53:28Z",
+    "content": "<ul><li>News</li>\r\n<li>Opposition steps up attack over Punjab pharmacy exam row; Arvind Kejriwal alleges BJP lies</li></ul>\r\nFollow Us On Social Media\r\nJuly 20 protest: RAF used tear gas, anti-riot g… [+1912 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Space Daily"
+      "name": "The Diplomat"
     },
-    "author": "Space Daily Editorial Team",
-    "title": "A spider in the Himalayas wears the same red smiling face as Hawaii’s famous happy-face spider — and its DNA marks it as a new species, not the Hawaiian one long thought to wear that grin alone",
-    "description": "Researchers in Uttarakhand described a new spider, Theridion himalayana, carrying the red-and-black smile that made Hawaii's happy-face spider famous. A gene barcode sets it about 8.5 percent apart from the Hawaiian species, enough to call it its own lineage.…",
-    "url": "https://spacedaily.com/s-a-spider-in-the-himalayas-wears-the-same-red-smiling-face-as-hawaiis-famous-happy-face-spider-and-its-dna-marks-it-as-a-new-species-not-the-hawaiian-one-long-thought-to-wear-that-grin-alone/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/07/hawaiian-happy-face-spider-theridion-grallator-1600x840-1.jpg",
-    "publishedAt": "2026-07-27T06:00:00Z",
-    "content": "On the underside of a leaf more than two kilometers up in the mountains of Uttarakhand, a tiny spider carries a bright smile on its back. Two dark dots for eyes, a red curve for a mouth, the whole ca… [+6212 chars]"
+    "author": "Akhilesh Pillalamarri",
+    "title": "What Ails India’s Education Sector",
+    "description": "What India needs is deep systemic changes to its education system, economy, and more generally, the life that it offers its youth.",
+    "url": "https://thediplomat.com/2026/07/what-ails-indias-education-sector/",
+    "urlToImage": "https://thediplomat.com/wp-content/uploads/2025/11/sizes/td-story-s-2/thediplomat_2025-11-14-025803-scaled.jpg",
+    "publishedAt": "2026-07-28T07:50:00Z",
+    "content": "On July 25, student protests in India, led by the satirical Cockroach Janata Party (CJP), achieved their demand of forcing Dharmendra Pradhan, the minister of education in the Bharatiya Janata Party … [+14438 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI Education",
+    "title": "GATE 2027: IIT Madras revises Biotechnology syllabus, expands two-paper options for aspirants",
+    "description": "IIT Madras has updated the GATE 2027 information brochure, revising the Biotechnology syllabus and expanding two-paper combinations for several engineering disciplines, including Robotics and Automation. While the examination schedule, eligibility criteria an…",
+    "url": "https://timesofindia.indiatimes.com/education/news/gate-2027-iit-madras-revises-biotechnology-syllabus-expands-two-paper-options-for-aspirants/articleshow/132678150.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-132678333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-07-28T07:38:39Z",
+    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>News</li>\r\n<li>GATE 2027: IIT Madras revises Biotechnology syllabus, expands two-paper options for aspirants</li></ul>\r\nFollow Us On Social Media\r\nAhea… [+1841 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Yahoo Entertainment"
+      "name": "PRNewswire"
     },
-    "author": "Nick Lichtenberg",
-    "title": "AI and the ‘skinny hamburger, fat bun’ problem — why the future of work needs to look more like a pizza",
-    "description": "Yahoo Finance GM George Leimer led the development of a new investing product, AlphaSpace, and his team has shipped over 100 new features in two months.",
-    "url": "https://tech.yahoo.com/ai/articles/ai-skinny-hamburger-fat-bun-060000642.html",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/ae337c73d0cc330778ee97b175809bba64d7b3b79c34583bd27131513cf9815a/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F0e1101c11a19dddedd756d3330befc59",
-    "publishedAt": "2026-07-27T06:00:00Z",
-    "content": "George Leimer recognized it immediately.\r\nOn a recent call with the Yahoo Finance product chief, I pulled up a slide that looked like two burgers, side by side, to represent eras of work before and a… [+10337 chars]"
+    "author": null,
+    "title": "Registration Now Open for the Mininglamp Technology WebRetriever Global Challenge--Win Your Share of the $15,000 Prize Pool!",
+    "description": "Registration for the WebRetriever Global Challenge is officially open! BEIJING, July 28, 2026 /PRNewswire/ -- This competition is hosted by Mininglamp Technology and co-organized by Peking University, the Institute of Automation of the Chinese Academy of Scie…",
+    "url": "https://www.prnewswire.com/news-releases/registration-now-open-for-the-mininglamp-technology-webretriever-global-challengewin-your-share-of-the-15-000-prize-pool-302836206.html",
+    "urlToImage": null,
+    "publishedAt": "2026-07-28T07:37:00Z",
+    "content": "Registration for the WebRetriever Global Challenge is officially open!\r\nBEIJING, July 28, 2026 /PRNewswire/ -- This competition is hosted by Mininglamp Technology and co-organized by Peking Universit… [+8797 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Naturalnews.com"
+      "name": "Biztoc.com"
     },
-    "author": "Coco Somers",
-    "title": "Study: Soluble Fiber, Probiotic Strains May Improve Bowel Regularity, According to Report",
-    "description": "Synbiotic Supplement Promoted for Regularity Many Americans experience irregular bowel movements despite maintaining healthy habits, according to a July 2026 article from mindbodygreen. Estimates suggest up to 20 percent of the general population experience c…",
-    "url": "https://www.naturalnews.com/2026-07-27-soluble-fiber-probiotic-strains-improve-bowel-regularity.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/soluble-fiber-probiotic-strains-bowel-regularity-2994-original.jpg",
-    "publishedAt": "2026-07-27T06:00:00Z",
-    "content": "Synbiotic Supplement Promoted for Regularity\r\nMany Americans experience irregular bowel movements despite maintaining healthy habits, according to a July 2026 article from mindbodygreen. Estimates su… [+5827 chars]"
+    "author": "fortune.com",
+    "title": "This CEO was bedridden 16 hours a day. She turned her own misdiagnosis into a self-funded, multimillion-dollar thyroid clinic",
+    "description": "McCall McPherson was 27, practicing medicine, and on the drug nearly 90% of thyroid patients in the U.S. rely on, when she found herself spending 16 hours a day in bed.\nShe’d go to work as a physician assistant, come home at 3:30 p.m., and lie flat on her bac…",
+    "url": "https://biztoc.com/x/e45f8edd57c5067a",
+    "urlToImage": "https://biztoc.com/cdn/e45f8edd57c5067a_s.webp",
+    "publishedAt": "2026-07-28T07:35:14Z",
+    "content": "McCall McPherson was 27, practicing medicine, and on the drug nearly 90% of thyroid patients in the U.S. rely on, when she found herself spending 16 hours a day in bed.Shed go to work as a physician … [+137 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Shreedhar Rathi",
+    "title": "No place to grieve: India's pet crematorium crisis, city by city",
+    "description": "Many Indian cities lack dignified pet cremation and burial options. Pet owners often resort to improper disposal methods due to this deficit. Some cities are establishing new facilities after years of public demand. Existing facilities face challenges like ov…",
+    "url": "https://timesofindia.indiatimes.com/city/delhi/no-place-to-grieve-indias-pet-crematorium-crisis-city-by-city/articleshow/132655043.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-132678274,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-07-28T07:34:46Z",
+    "content": "Follow Us On Social Media\r\nJuly 20 protest: RAF used tear gas, anti-riot guns and plastic pelletsAshadha Purnima 2026: Date, timings, puja rituals and significanceGATE 2027: IIT Madras revises Biotec… [+1787 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Naturalnews.com"
+      "name": "New York Post"
     },
-    "author": "Morgan S. Verity",
-    "title": "Plant compound shows promise for treating rheumatoid arthritis at its source, study finds",
-    "description": "Natural compound may fight rheumatoid arthritis at its source, study finds A plant-derived compound called obakulactone (OL) reduced swelling, inflammation and joint damage in rats with rheumatoid arthritis, according to a study published in Engineering. The …",
-    "url": "https://www.naturalnews.com/2026-07-27-plant-compound-promising-treatment-for-rheumatoid-arthritis.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/obakulactone-rheumatoid-arthritis-acot1-2996-original.jpg",
-    "publishedAt": "2026-07-27T06:00:00Z",
-    "content": "Natural compound may fight rheumatoid arthritis at its source, study finds\r\nA plant-derived compound called obakulactone (OL) reduced swelling, inflammation and joint damage in rats with rheumatoid a… [+4190 chars]"
+    "author": "Chris Bradford",
+    "title": "Nolan Wells drank heavily, chose to stay on remote island before vanishing on July 4 trip: report",
+    "description": "Tragic Mississippi teenager Nolan Wells had been drinking heavily before vanishing on what became an ill-fated Fourth of July trip with friends – and chose to remain on the island with an \"unknown female\" when his pals left, according to witnesses.",
+    "url": "https://nypost.com/2026/07/28/us-news/nolan-wells-had-been-drinking-heavily-with-pals-before-vanishing-on-fourth-of-july-trip-chose-to-stay-on-horn-island-when-they-left-report/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135731073.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-07-28T07:33:05Z",
+    "content": "Tragic Mississippi teenager Nolan Wells had been drinking heavily before vanishing on what became an ill-fated Fourth of July trip with friends and chose to remain on the island with an “unknown fema… [+3426 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Naturalnews.com"
+      "name": "GlobeNewswire"
     },
-    "author": "Patrick Lewis",
-    "title": "The silent healing power of peaches: Nature’s supreme cancer-fighting fruit under attack by Big Pharma",
-    "description": "Peaches contain cancer-fighting polyphenols and carotenoids, including beta-cryptoxanthin, which combat oxidative stress and inhibit cancer growth naturally. The fiber in peaches supports gut health by feeding beneficial bacteria, reducing inflammation and pr…",
-    "url": "https://www.naturalnews.com/2026-07-27-silent-healing-power-peaches-cancer-fighting-fruit.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/Peaches-Fresh-Fruit.jpg",
-    "publishedAt": "2026-07-27T06:00:00Z",
-    "content": "<ul><li>Peaches contain cancer-fighting polyphenols and carotenoids, including beta-cryptoxanthin, which combat oxidative stress and inhibit cancer growth naturally.</li><li>The fiber in peaches supp… [+5452 chars]"
+    "author": "Promatix Biosciences, Ltd.",
+    "title": "Promatix Biosciences Awarded Innovate UK Biomedical Catalyst Grant to Advance First-in-Class EGFR × EphA2 Cis-Bispecific ADC",
+    "description": "Promatix Biosciences Awarded Innovate UK Biomedical Catalyst Grant to Advance First-in-Class EGFR × EphA2 Cis-Bispecific ADC ...",
+    "url": "https://www.globenewswire.com/news-release/2026/07/28/3334016/0/en/Promatix-Biosciences-Awarded-Innovate-UK-Biomedical-Catalyst-Grant-to-Advance-First-in-Class-EGFR-EphA2-Cis-Bispecific-ADC.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/9974c756-5f06-489e-adfb-6d302f15607d",
+    "publishedAt": "2026-07-28T07:30:00Z",
+    "content": "Promatix Biosciences Awarded Innovate UK Biomedical Catalyst Grant to Advance First-in-Class EGFR × EphA2 Cis-Bispecific ADC \r\n<ul><li>Non-dilutive Biomedical Catalyst funding from Innovate UK will s… [+6751 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Naturalnews.com"
+      "name": "Lifesciencesworld.com"
     },
-    "author": "Mike Adams",
-    "title": "Wake Up to the Power of Lucid Dreaming: Why This Natural State Can Transform Your Life",
-    "description": "The Moment You Realize You’re Dreaming Lucid dreaming is not some fringe occult practice or New Age fantasy. It is a natural, measurable state of awareness where you wake up inside your own dream. As I explored this phenomenon over the years, I found that it …",
-    "url": "https://www.naturalnews.com/2026-07-27-wake-up-to-the-power-lucid-dreaming.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/lucid-dreaming-self-awareness-healing-potential-3010-original.jpg",
-    "publishedAt": "2026-07-27T06:00:00Z",
-    "content": "The Moment You Realize Youre Dreaming\r\nLucid dreaming is not some fringe occult practice or New Age fantasy. It is a natural, measurable state of awareness where you wake up inside your own dream. As… [+7343 chars]"
+    "author": "Ava Reynolds",
+    "title": "Do opossums drink water?",
+    "description": "Do Opossums Drink Water? The Hydration Habits of North America’s Marsupial Yes, opossums absolutely drink water. Like all living creatures, they require hydration to survive, though they can also obtain moisture from their diet. Introduction: Opossums and The…",
+    "url": "https://www.lifesciencesworld.com/do-opossums-drink-water/",
+    "urlToImage": null,
+    "publishedAt": "2026-07-28T07:28:32Z",
+    "content": "Do Opossums Drink Water? The Hydration Habits of North America’s Marsupial\r\nYes, opossums absolutely drink water.Like all living creatures, they require hydration to survive, though they can also obt… [+7080 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Antaranews.com"
+    },
+    "author": "PR Wire",
+    "title": "Gene Solutions Showcases Global Evidence and Responsible Innovation",
+    "description": "Gene Solutions, a global biotechnology company focused on accessible and responsible genomics, participated as a Premier Partner at the 30th International ...",
+    "url": "https://en.antaranews.com/news/424259/gene-solutions-showcases-global-evidence-and-responsible-innovation",
+    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/07/28/ispd.jpg",
+    "publishedAt": "2026-07-28T07:22:48Z",
+    "content": "As a Premier Partner, Gene Solutions presented Asia-led real-world evidence from large-scale NIPT-integrated carrier screening, alongside advances in AI-enabled pregnancy-risk assessment and minimall… [+8303 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PezCycling News"
+    },
+    "author": "Scott Steele",
+    "title": "How Many Carbs Per Hour Do Cyclists Really Need?",
+    "description": "TOOLBOX: Professional cyclists increasingly report consuming 100–120 grams of carbohydrate per hour, but does more fuel actually produce more performance? Recent research examines ultra-high carbohydrate intake and suggests that, for most cyclists, the benefi…",
+    "url": "https://pezcyclingnews.com/cycling-training-nutrition-recovery-pez-toolbox/how-many-carbs-per-hour-cycling/",
+    "urlToImage": "https://pezcyclingnews.com/wp-content/uploads/2026/07/riders-jells-1200.jpg",
+    "publishedAt": "2026-07-28T07:01:22Z",
+    "content": "TOOLBOX: Cyclists are being encouraged to consume more carbohydrates than ever, with some professionals reporting 100150 grams per hour. But does ultra-high carbohydrate intake improve performanceor … [+9916 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "How do you make a easy terrarium fast?",
+    "description": "How To Make An Easy Terrarium Fast: A Beginner’s Guide Crafting a terrarium doesn’t have to be complicated! This guide provides a simple and quick method to build an easy terrarium fast, focusing on accessible materials and straightforward steps to bring a to…",
+    "url": "https://www.lifesciencesworld.com/how-do-you-make-a-easy-terrarium-fast/",
+    "urlToImage": null,
+    "publishedAt": "2026-07-28T06:56:39Z",
+    "content": "How To Make An Easy Terrarium Fast: A Beginner’s Guide\r\nCrafting a terrarium doesn’t have to be complicated! This guide provides a simple and quick method to build an easy terrarium fast, focusing on… [+9218 chars]"
   }
 ]
