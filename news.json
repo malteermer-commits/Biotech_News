@@ -2,28 +2,15 @@
   {
     "source": {
       "id": null,
-      "name": "BBC News"
+      "name": "GlobeNewswire"
     },
-    "author": "BBC",
-    "title": "Gang of men hurl racist abuse at takeaway owner before violent attack",
-    "description": "The BBC understands police are treating the attack in Falkirk last month as a hate crime.",
-    "url": "https://www.bbc.com/news/articles/c2eln8drwlmo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/cb729a50c92bc9ae9197e33349e8564e393edf1149010a844082fc1957136b1e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd097fe7a803220a7870a6e8d48e188cf",
-    "publishedAt": "2026-08-02T08:43:58Z",
-    "content": "A business owner has said that a group of men hurled racist abuse at him before punching him and smashing his head into a wall in the street in Falkirk.\r\nDr Zohaib Arshad said the group approached hi… [+3621 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "Do octopus get sick?",
-    "description": "Do Octopus Get Sick? Understanding Cephalopod Health Yes, like all living creatures, octopuses can get sick. While our understanding of octopus diseases is still evolving, research reveals they are susceptible to various ailments, ranging from infections to p…",
-    "url": "https://www.lifesciencesworld.com/do-octopus-get-sick/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-02T08:40:26Z",
-    "content": "Yes, like all living creatures, octopuses can get sick. While our understanding of octopus diseases is still evolving, research reveals they are susceptible to various ailments, ranging from infectio… [+8072 chars]"
+    "author": "NRG Therapeutics Limited",
+    "title": "NRG Therapeutics Announces the Appointment of Claus Sundgreen M.D. as Chief Medical Officer",
+    "description": "STEVENAGE, United Kingdom, Aug. 03, 2026 (GLOBE NEWSWIRE) -- NRG Therapeutics Ltd. (“NRG”), a clinical stage neuroscience company developing novel disease-modifying therapeutics that rectify mitochondrial dysfunction in neurodegenerative diseases, is pleased …",
+    "url": "https://www.globenewswire.com/news-release/2026/08/03/3337255/0/en/NRG-Therapeutics-Announces-the-Appointment-of-Claus-Sundgreen-M-D-as-Chief-Medical-Officer.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/c416e882-62c0-4c01-8125-756c0f07f710",
+    "publishedAt": "2026-08-03T08:05:00Z",
+    "content": "STEVENAGE, United Kingdom, Aug. 03, 2026 (GLOBE NEWSWIRE) -- NRG Therapeutics Ltd. (NRG), a clinical stage neuroscience company developing novel disease-modifying therapeutics that rectify mitochondr… [+4147 chars]"
   },
   {
     "source": {
@@ -31,90 +18,38 @@
       "name": "CBC News"
     },
     "author": null,
-    "title": "Ships stranded in Gulf could pose global invasive-species threat, study says",
-    "description": "Ships stalled in the Gulf region due to the blockade of the Strait of Hormuz could pose an 'immense' threat, according to a paper published last week. Experts say biofouling on hundreds of ships over several months could lead to the spread of invasive species.",
-    "url": "https://www.cbc.ca/news/world/hormuz-invasive-species-super-spreader-9.7293025",
-    "urlToImage": "https://i.cbc.ca/ais/767814b4-2f3e-44dc-8c39-0f2626424baa,1785534364729/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620",
-    "publishedAt": "2026-08-02T08:00:00Z",
-    "content": "Ships stalled in the Gulf region because of the closure of the Strait of Hormuz could trigger a \"super-spreader\" event, with long-term environmental consequences, according to a paper published last … [+4961 chars]"
-  },
-  {
-    "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
-    },
-    "author": null,
-    "title": "As Trump rolls back endangered species protection, experts say Canadian wildlife is also at risk",
-    "description": "The Trump administration is being sued by conservation groups over a change they say will weaken habitat protection for endangered species. In Canada, experts say the move could also harm animals that move between the two countries, including migratory birds …",
-    "url": "https://www.cbc.ca/news/world/trump-endangered-species-protection-canadian-wildlife-9.7293137",
-    "urlToImage": "https://i.cbc.ca/ais/7f2dff52-3aa1-4792-a163-3c558d80ddea,1785535605343/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C85%2C4500%2C2531%29%3BResize%3D620",
-    "publishedAt": "2026-08-02T08:00:00Z",
-    "content": "Canadian conservationists and wildlife experts are raising alarm after U.S. President Donald Trump's administration moved in July to weaken habitat protections for endangered species.\r\nThe U.S. Depar… [+5488 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "Been bitten by a dog and left with a wound? Doctor says one activity can increase risk of being diagnosed with rabies: ‘It introduces rabies virus to your nervous system…’",
-    "description": "Suffering a dog bite can be extremely painful. There is also the risk of becoming diagnosed with rabies, a fatal disease. However, there is one activity which can increase the risk of being diagnosed with rabies after you have been bitten, warned Dr Priyam Bo…",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/been-bitten-by-a-dog-and-left-with-a-wound-doctor-says-one-activity-can-increase-risk-of-being-diagnosed-with-rabies-it-introduces-rabies-virus-to-your-nervous-system/articleshow/132802797.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-132802797,width-1200,height-630,imgsize-107979,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-08-02T07:36:47Z",
-    "content": "Having a dog bite you can be traumatising. Apart from being extremely painful, dog bites can also cause rabies, which can be fatal after the symptoms start. Internal medicine expert Dr Priyam Bordolo… [+1831 chars]"
+    "title": "Relying on GPS for directions makes your brain lazy. Here's how to give it a workout",
+    "description": "Getting lost is actually great exercise for your brain. As is putting limits on how much guidance you get from your mapping and GPS tools this summer, be it on a drive to the cottage or exploring a new city.",
+    "url": "https://www.cbc.ca/radio/sunday/gps-driving-road-trip-brain-health-9.7291083",
+    "urlToImage": "https://i.cbc.ca/ais/af9d621f-7b8c-4abf-87da-525633506719,1785443421057/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C325%2C6240%2C3510%29%3BResize%3D620",
+    "publishedAt": "2026-08-03T08:00:00Z",
+    "content": "When Tara McAndrew found herself at the edge of a forest in Wellington, N.Z., instead of at the rental apartment she was meant to view, she had an epiphany. \r\nPerhaps, she decided, it was time to rel… [+6082 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Science Daily"
+      "name": "GlobeNewswire"
     },
-    "author": null,
-    "title": "This once-a-week workout may help cut belly fat, study shows",
-    "description": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing 75 minutes of brisk interval walking in…",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/woman-measuring-tape-belly-fat-weight-loss.webp",
-    "publishedAt": "2026-08-02T07:33:41Z",
-    "content": "Researchers at the School of Public Health at the LKS Faculty of Medicine, the University of Hong Kong (HKUMed), have found that completing brisk interval walking once per week can reduce body fat an… [+4534 chars]"
+    "author": "Oculis Holding AG",
+    "title": "Oculis Announces Positive FDA Pre-IND Feedback Supporting Privosegtor Development Strategy for Treatment of Acute Multiple Sclerosis Relapses",
+    "description": "ZUG, Switzerland, Aug. 03, 2026 (GLOBE NEWSWIRE) -- Oculis Holding AG (Nasdaq: OCS / XICE: OCS) (“Oculis” or the “Company”), a global biopharmaceutical company focused on breakthrough innovations to address significant unmet medical needs in neuro-ophthalmolo…",
+    "url": "https://www.globenewswire.com/news-release/2026/08/03/3337249/0/en/Oculis-Announces-Positive-FDA-Pre-IND-Feedback-Supporting-Privosegtor-Development-Strategy-for-Treatment-of-Acute-Multiple-Sclerosis-Relapses.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f6fa6e90-83a4-4baa-a3b6-5483017d26b9",
+    "publishedAt": "2026-08-03T08:00:00Z",
+    "content": "<ul><li>The FDA Division of Neurology provided positive feedback supporting a regulatory pathway for Privosegtor in acute multiple sclerosis (MS) relapses, addressing a significant unmet medical need… [+12797 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "GlobeNewswire"
     },
-    "author": "Ciaran Foreman",
-    "title": "Experts flag troubling rise in Huntington's - 'a mix between dementia and motor neurone disease'...and thousands don't know they have it",
-    "description": "Experts have flagged a mysterious doubling in cases of a devastating lethal condition that's been dubbed a combination of dementia, Parkinson's and motor neurone disease.",
-    "url": "https://www.dailymail.com/health/article-16011023/huntingtons-disease-rise-dementia.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/07/29/09/110315611-0-image-m-12_1785312375062.jpg",
-    "publishedAt": "2026-08-02T06:56:14Z",
-    "content": "Experts have flagged a mysterious rise in cases of a devastating lethal condition that's been dubbed a combination of dementia, Parkinson's and motor neurone disease.\r\nDiagnoses of Huntington's disea… [+5064 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Heavy.com"
-    },
-    "author": "DJ Siddiqi",
-    "title": "Ex-Maple Leafs Veteran Comes Clean on Gavin McKenna Situation",
-    "description": "Former Toronto Maple Leafs veteran Jeff O'Neill is clearing the air on his claim about Gavin McKenna. The post Ex-Maple Leafs Veteran Comes Clean on Gavin McKenna Situation appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nhl/toronto-maple-leafs/maple-leafs-jeff-oneill-gavin-mckenna/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/27c55d88892aa37f2a8620e9b15f9581d34c6d918b9bbd3d57de188f1e51b515/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fbcf531b8cf1bb243565bca6043da996d",
-    "publishedAt": "2026-08-02T06:53:35Z",
-    "content": "It looks like Gavin McKenna's decision to wear the No. 92 jersey has nothing to do with former Toronto Maple Leafs veteran Jeff O'Neill after all.\r\nO'Neill currently works as a host on TSN Radio anal… [+3142 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Stemlynsblog.org"
-    },
-    "author": "Simon Carley",
-    "title": "TTL tips 18: Lead Yourself Before You Lead the Team",
-    "description": "St.Emlyn's - Emergency Medicine #FOAMed\nLearn practical stress management techniques for Trauma Team Leaders, including I'M SAFE and BTFS, to improve performance under pressure and lead complex resuscitations safely.\nThe post TTL tips 18: Lead Yourself Before…",
-    "url": "https://www.stemlynsblog.org/ttl-tips-18-lead-yourself-before-you-lead-the-team/",
-    "urlToImage": "https://www.stemlynsblog.org/wp-content/uploads/2026/08/Lead-yourself-before-you-lead-your-team-1.jpg",
-    "publishedAt": "2026-08-02T06:48:45Z",
-    "content": "As TTL its important that you are in the right frame of mind in order to run any complex resuscitation. This means that you should objectively determine whether you are the best person to lead the te… [+2645 chars]"
+    "author": "Aravax",
+    "title": "Aravax Awarded FDA Fast Track Designation for PVX108, a Next-Generation Immunotherapy for the Treatment of Peanut Allergy",
+    "description": "MELBOURNE, Australia and OXFORD, United Kingdom, Aug. 03, 2026 (GLOBE NEWSWIRE) -- Aravax, a clinical-stage biotechnology company developing next-generation, disease-modifying immunotherapies for food allergy, today announces it has received Fast Track design…",
+    "url": "https://www.globenewswire.com/news-release/2026/08/03/3337248/0/en/Aravax-Awarded-FDA-Fast-Track-Designation-for-PVX108-a-Next-Generation-Immunotherapy-for-the-Treatment-of-Peanut-Allergy.html",
+    "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/80e76fbd-e468-448d-b2f9-58e5742f7f0f",
+    "publishedAt": "2026-08-03T08:00:00Z",
+    "content": "MELBOURNE, Australia and OXFORD, United Kingdom, Aug. 03, 2026 (GLOBE NEWSWIRE) -- Aravax, a clinical-stage biotechnology company developing next-generation, disease-modifying immunotherapies for foo… [+3122 chars]"
   },
   {
     "source": {
@@ -122,38 +57,25 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "Can pets choke on food?",
-    "description": "Can Pets Choke on Food? A Comprehensive Guide Yes, pets can choke on food, and it’s a serious emergency requiring immediate attention. This guide provides essential information on recognizing, preventing, and responding to food-related choking incidents in do…",
-    "url": "https://www.lifesciencesworld.com/can-pets-choke-on-food/",
+    "title": "What is the lifespan of a musk deer?",
+    "description": "What is the Lifespan of a Musk Deer? The lifespan of a musk deer varies depending on factors like species and environment, but generally, these elusive creatures live for 10 to 14 years in the wild and can sometimes exceed 20 years in captivity. What is the l…",
+    "url": "https://www.lifesciencesworld.com/what-is-the-lifespan-of-a-musk-deer/",
     "urlToImage": null,
-    "publishedAt": "2026-08-02T06:38:09Z",
-    "content": "Can Pets Choke on Food? A Comprehensive Guide\r\nYes, pets can choke on food, and it’s a serious emergency requiring immediate attention. This guide provides essential information on recognizing, preve… [+9827 chars]"
+    "publishedAt": "2026-08-03T07:52:40Z",
+    "content": "What is the Lifespan of a Musk Deer?\r\nThe lifespan of a musk deer varies depending on factors like species and environment, but generally, these elusive creatures live for 10 to 14 years in the wild … [+7534 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The42"
+      "name": "Ibtimes.com.au"
     },
-    "author": "Niall O'Connor",
-    "title": "Inside the pro cycling team using Formula One science to transform the sport",
-    "description": "The 42 travelled to meet engineers and sports scientists inside Red Bull Bora Hansgrohe as they battled to a podium place at the Tour de France.",
-    "url": "https://www.the42.ie/cycling-science-7118483-Aug2026/",
-    "urlToImage": "https://img2.thejournal.ie/article/7118483/river/?height=400&version=7118956",
-    "publishedAt": "2026-08-02T06:30:50Z",
-    "content": "IN PROFESSIONAL CYCLING, lessons learned in Formula One are being adopted to deal with the high-performance human engines on bicycles.\r\nRecently The 42 travelled to meet engineers and sports scientis… [+12375 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "Do male sugar gliders need to be neutered?",
-    "description": "Do Male Sugar Gliders Need to Be Neutered? Unlocking the Truth The short answer is: Yes, neutering male sugar gliders is often highly recommended for their health, behavior, and social compatibility, especially when kept as pets. Understanding the reasons beh…",
-    "url": "https://www.lifesciencesworld.com/do-male-sugar-gliders-need-to-be-neutered/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-02T06:29:14Z",
-    "content": "Do Male Sugar Gliders Need to Be Neutered? Unlocking the Truth\r\nThe short answer is:Yes,neutering male sugar gliders is often highly recommended for their health, behavior, and social compatibility, … [+7643 chars]"
+    "author": "Mike Clair",
+    "title": "PYC Therapeutics Shares Jump 7% as ASX Biotech Extends Strong Run on Clinical Pipeline Progress",
+    "description": "PYC Therapeutics' stock rose 7.06% amid ongoing advancements in RNA-based treatments for rare genetic diseases, supported by a strong financial position and promising clinical trial results.",
+    "url": "https://www.ibtimes.com.au/pyc-therapeutics-advancing-rna-treatments-genetic-diseases-1873419",
+    "urlToImage": "https://d.ibtimes.com.au/en/full/1895481/pyc-therapeutics-shares-jump-7-asx-biotech-extends-strong.jpg",
+    "publishedAt": "2026-08-03T07:49:37Z",
+    "content": "Shares of PYC Therapeutics rose 7.06% on Monday, closing at $1.82 after adding 12 cents, extending a stretch of strong momentum for the Perth-based RNA therapeutics company as it continues advancing … [+5060 chars]"
   },
   {
     "source": {
@@ -161,38 +83,142 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "Can a hedgehog make you sick?",
-    "description": "Can a Hedgehog Make You Sick? A Comprehensive Guide to Hedgehog-Related Health Risks Yes, hedgehogs can potentially make you sick. While adorable, they can carry and transmit various bacteria, parasites, and fungal infections, posing a health risk to humans, …",
-    "url": "https://www.lifesciencesworld.com/can-a-hedgehog-make-you-sick/",
+    "title": "Do both hummingbird eggs hatch at the same time?",
+    "description": "Do Hummingbird Eggs Both Hatch at the Same Time? Unveiling the Truth Generally, no, both hummingbird eggs do not hatch at the same time. While close, there’s usually a slight delay of hours to a day between hatchings, dictated by the individual development of…",
+    "url": "https://www.lifesciencesworld.com/do-both-hummingbird-eggs-hatch-at-the-same-time/",
     "urlToImage": null,
-    "publishedAt": "2026-08-02T06:17:03Z",
-    "content": "Yes, hedgehogs can potentially make you sick. While adorable, they can carry and transmit various bacteria, parasites, and fungal infections, posing a health risk to humans, especially children, preg… [+8021 chars]"
+    "publishedAt": "2026-08-03T07:44:47Z",
+    "content": "Do Hummingbird Eggs Both Hatch at the Same Time? Unveiling the Truth\r\nGenerally, no, both hummingbird eggs do not hatch at the same time. While close, there’s usually a slight delay of hours to a day… [+10657 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "War on the Rocks"
+    },
+    "author": "April Arnold, Al Mauroni",
+    "title": "Possible Is Not Plausible: How Nightmare Scenarios Hijack Unconventional Weapons Policy",
+    "description": "Current conversations surrounding unconventional weapons — chemical, biological, radiological, and nuclear — have become so fantastical as to be unserious. As the Chinese military fundamentally rethinks biological warfare and Russia continues to use chloropic…",
+    "url": "https://warontherocks.com/possible-is-not-plausible-how-nightmare-scenarios-hijack-unconventional-weapons-policy/",
+    "urlToImage": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-45995-7761570291db.jpg",
+    "publishedAt": "2026-08-03T07:30:16Z",
+    "content": "Current conversations surrounding unconventional weapons — chemical, biological, radiological, and nuclear — have become so fantastical as to be unserious. As the Chinese military fundamentally rethi… [+18638 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Kylo Lab LLC",
+    "title": "Klow Peptide Stack Introduced by Kylo Peptides for Laboratory Research in 2026",
+    "description": "Kylo Peptides adds Klow Peptide Stack to its research catalog: four sealed vials of GHK-Cu, BPC-157, TB-500, and KPV, each with its own lot-matched COA....",
+    "url": "https://www.globenewswire.com/news-release/2026/08/03/3337244/0/en/Klow-Peptide-Stack-Introduced-by-Kylo-Peptides-for-Laboratory-Research-in-2026.html",
+    "urlToImage": null,
+    "publishedAt": "2026-08-03T07:19:00Z",
+    "content": "Sheridan, WY, Aug. 03, 2026 (GLOBE NEWSWIRE) -- Kylo Peptides today introduced the KLOW Peptide Stack, a four-component research peptide stack in its catalog, primarily supplied for laboratory resear… [+9308 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Dr. Diane Hamilton, Contributor, \n Dr. Diane Hamilton, Contributor\n https://www.forbes.com/sites/dianehamilton/",
+    "title": "Communication Problems: Why Employees Miss What Seems Obvious",
+    "description": "Communication problems often begin long before anyone speaks. Discover the psychology behind why employees miss obvious information and how AI can reinforce those issues.",
+    "url": "https://www.forbes.com/sites/dianehamilton/2026/08/03/communication-problems-why-employees-miss-what-seems-obvious/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a5ce903a004ac8c25832764/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "publishedAt": "2026-08-03T07:00:00Z",
+    "content": "Communication Problems: Why Employees Miss What Seems Obvious\r\ngetty\r\nSince I am a computer enthusiast, or you might say, a bit of a nerd, I have become the default tech support person. Whether I'm h… [+7067 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Katherine Knott",
+    "title": "Acupuncture and Integrative Medicine College Closes",
+    "description": "The Acupuncture and Integrative Medicine College (AIMC), which has locations in California and Texas, is closing, the institution announced last week.",
+    "url": "https://www.insidehighered.com/news/quick-takes/2026/08/03/acupuncture-and-integrative-medicine-college-close",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/GettyImages-1933038371.jpg?itok=5b1RShM8",
+    "publishedAt": "2026-08-03T07:00:00Z",
+    "content": "The Acupuncture and Integrative Medicine College (AIMC), which has locations in California and Texas, is closing, the institution announced last week. \r\nDavid Solin Lee, president and CEO of the coll… [+1846 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "Is it safe to touch a baby raccoon?",
+    "description": "Is it Safe to Touch a Baby Raccoon? Touching a baby raccoon might seem tempting, but is it safe to touch a baby raccoon? No, it is generally not safe due to the risk of disease transmission and the potential for triggering a defensive reaction from the mother…",
+    "url": "https://www.lifesciencesworld.com/is-it-safe-to-touch-a-baby-raccoon/",
+    "urlToImage": null,
+    "publishedAt": "2026-08-03T06:37:14Z",
+    "content": "Is it Safe to Touch a Baby Raccoon?\r\nTouching a baby raccoon might seem tempting, but is it safe to touch a baby raccoon?No, it is generally not safe due to the risk of disease transmission and the p… [+10531 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mertbulan.com"
+    },
+    "author": "Mert Bulan",
+    "title": "More German than many Germans",
+    "description": "I just wanted to do an internship in Europe so it would be easier to find a job after graduation. That internship completely changed my life.",
+    "url": "https://mertbulan.com/more-german-than-many-germans/",
+    "urlToImage": "https://cdn.synaps.media/mertbulan/content/images/size/w1200/2026/08/IMG_8938.webp",
+    "publishedAt": "2026-08-03T06:00:14Z",
+    "content": "In 2017, after I finished the third year of my Computer Science studies, I decided to do an internship in Europe. So while I was applying for the Erasmus Scholarship, I also started looking for inter… [+14975 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Naturalnews.com"
     },
-    "author": "Ava Grace",
-    "title": "The delicate balance: Navigating anticoagulants, vitamin KÂ and heart health",
-    "description": "Warfarin works by inhibiting vitamin K, a nutrient essential for producing blood clotting factors, thereby reducing the risk of dangerous clots. Consistent vitamin K intake is critical for patients on warfarin; sudden increases or decreases in consumption can…",
-    "url": "https://www.naturalnews.com/2026-08-02-navigating-anticoagulants-vitamin-k-and-heart-health.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/K-Vitamin-Biotechnology-Care-Chemical-Clinic-Clinician.jpg",
-    "publishedAt": "2026-08-02T06:00:00Z",
-    "content": "<ul><li>Warfarin works by inhibiting vitamin K, a nutrient essential for producing blood clotting factors, thereby reducing the risk of dangerous clots.</li><li>Consistent vitamin K intake is critica… [+7247 chars]"
+    "author": "Coco Somers",
+    "title": "Study: Daily Almond Consumption Linked to Improved Perceived Sleep Quality",
+    "description": "A randomized controlled trial published in Frontiers in Nutrition examined whether daily almond consumption improves sleep among adults with poor sleep quality. Researchers enrolled 175 adults ages 21 to 55, according to the study. Half of the participants co…",
+    "url": "https://www.naturalnews.com/2026-08-03-study-almond-consumption-linked-improved-sleep-quality.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/almond-consumption-sleep-quality-randomized-controlled-trial-3102-original.jpg",
+    "publishedAt": "2026-08-03T06:00:00Z",
+    "content": "A randomized controlled trial published in Frontiers in Nutrition examined whether daily almond consumption improves sleep among adults with poor sleep quality.\r\nResearchers enrolled 175 adults ages … [+5296 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Naturalnews.com"
     },
-    "author": "Petra Stone",
-    "title": "Study: Collagen Peptides May Support Skin Aging Through Cellular Cleanup, Energy Pathways",
-    "description": "A scientific review published July 30, in the journal Molecules found that collagen peptides may support skin aging by influencing mitochondria, lysosomes and other cellular processes, according to the study authors. The researchers said they searched three m…",
-    "url": "https://www.naturalnews.com/2026-08-02-collagen-peptides-skin-aging-cellular-cleanup-pathways.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/collagen-peptides-skin-aging-hydrolyzed-collagen-3086-original.jpg",
-    "publishedAt": "2026-08-02T06:00:00Z",
-    "content": "A scientific review published July 30, in the journal Molecules found that collagen peptides may support skin aging by influencing mitochondria, lysosomes and other cellular processes, according to t… [+5168 chars]"
+    "author": "Mike Adams",
+    "title": "The Diesel Shortage Is Realâand Refineries Are At Risk of Blowing Up From Lack of Scheduled Maintenance",
+    "description": "The Diesel Shortage Is Real For years, I’ve been documenting the slow-motion collapse of America’s refining capacity and the coming diesel catastrophe. The mainstream media has mocked these warnings as conspiracy theories. But now the truth is spilling out in…",
+    "url": "https://www.naturalnews.com/2026-08-03-diesel-shortage-real-refineries-start-blowing-up.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/diesel-shortage-refinery-utilization-deferred-maintenance-3143-original.jpg",
+    "publishedAt": "2026-08-03T06:00:00Z",
+    "content": "The Diesel Shortage Is Real\r\nFor years, I've been documenting the slow-motion collapse of America's refining capacity and the coming diesel catastrophe. The mainstream media has mocked these warnings… [+9000 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Kevin Hughes",
+    "title": "Boost your health naturally: Top selenium-rich foods for thyroid and immune support",
+    "description": "Selenium is a critical trace mineral that supports thyroid health, immune function and antioxidant defense, helping combat chronic diseases and inflammation. Deficiency can lead to serious conditions like Keshan disease, while excess intake (especially from s…",
+    "url": "https://www.naturalnews.com/2026-08-03-top-selenium-foods-for-thyroid-immune-support.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Brazil-Nuts-2.jpg",
+    "publishedAt": "2026-08-03T06:00:00Z",
+    "content": "<ul><li>Selenium is a critical trace mineral that supports thyroid health, immune function and antioxidant defense, helping combat chronic diseases and inflammation. Deficiency can lead to serious co… [+5404 chars]"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Lindsey Bever",
+    "title": "Melatonin v magnesium: Which is better for your sleep?",
+    "description": "Washington Post: Science-backed advice on the best sleep supplement for you.",
+    "url": "https://www.washingtonpost.com/wellness/2026/08/02/melatonin-vs-magnesium-which-is-better-your-sleep/",
+    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/YND22H4VK5EOPN4IEY2742OWBU.jpg?auth=201c3a78b7b531e433d2e5da5e3a5a8826a093060833812c5ddd6465987102fb&width=1200&height=675&quality=70&focal=1485%2C755&smart=false",
+    "publishedAt": "2026-08-03T06:00:00Z",
+    "content": "So how do you know whether to consider melatonin or magnesium? We spoke to health experts and combed through the research to help answer that question.\r\nMelatonin: If you have trouble falling asleep\r… [+5981 chars]"
   },
   {
     "source": {
@@ -200,50 +226,11 @@
       "name": "Naturalnews.com"
     },
     "author": "Iva Greene",
-    "title": "Bitter Melon: A Review of Science-Backed Health Benefits and Risks",
-    "description": "Bitter Melon and Its Potential Health Effects Bitter melon (Momordica charantia), a tropical vine fruit known for its knobby exterior and intensely bitter flavor, has been used for centuries in traditional medicine systems including Ayurveda and Traditional C…",
-    "url": "https://www.naturalnews.com/2026-08-02-bitter-melon-science-backed-health-benefits-risks.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/bitter-melon-momordica-charantia-type-2-diabetes-3054-original.jpg",
-    "publishedAt": "2026-08-02T06:00:00Z",
-    "content": "Bitter Melon and Its Potential Health Effects\r\nBitter melon (Momordica charantia), a tropical vine fruit known for its knobby exterior and intensely bitter flavor, has been used for centuries in trad… [+8133 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What is Cuba’s national fish?",
-    "description": "What is Cuba’s National Fish? Unveiling the Majesty of the Cuban Gar Cuba’s national fish is the Cuban Gar, also known as Manjuarí. This ancient and unique species represents a significant part of Cuba’s natural heritage and biodiversity. Introduction to the …",
-    "url": "https://www.lifesciencesworld.com/what-is-cubas-national-fish/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-02T05:40:27Z",
-    "content": "Cuba’s national fish is the Cuban Gar, also known as Manjuarí. This ancient and unique species represents a significant part of Cuba’s natural heritage and biodiversity.\r\nIntroduction to the Cuban Ga… [+8422 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "CNBC"
-    },
-    "author": "Priyanka Salve, Raksha Murali",
-    "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-    "description": "While the leak of key exam papers was the trigger for the recent student protest in India, rising unemployment is the real fuel angering Gen Z in the country.",
-    "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
-    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108342934-1785468596098-gettyimages-2286390819-20260720_dli-rkr-mn_cjp_lathi_charge-31.jpeg?v=1785468606&w=1920&h=1080",
-    "publishedAt": "2026-08-02T05:18:21Z",
-    "content": "NEW DELHI, INDIA - JULY 20: Security personnel carry out Lathi charge during CJP protest March to near the Parliament House on July 20, 2026 in New Delhi, India. (Photo by Raj K Raj/Hindustan Times v… [+8593 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "Is it possible to kill a bear with a knife?",
-    "description": "Is It Possible to Kill a Bear with a Knife? A Survival Expert’s Perspective Is it possible to kill a bear with a knife? The answer is a resounding maybe, but it’s overwhelmingly unlikely and incredibly dangerous, representing a last-ditch survival scenario wh…",
-    "url": "https://www.lifesciencesworld.com/is-it-possible-to-kill-a-bear-with-a-knife/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-02T04:54:42Z",
-    "content": "Is it possible to kill a bear with a knife? The answer is a resounding maybe, but it’s overwhelmingly unlikely and incredibly dangerous, representing a last-ditch survival scenario where all other op… [+8413 chars]"
+    "title": "Low Magnesium: Symptoms, Risks, and Treatment Options",
+    "description": "Magnesium is the fourth most abundant element in the human body and one of the seven essential minerals, according to an article on Mercola.com [1]. It is necessary for the healthy functioning of most cells, particularly the heart, kidneys, and muscles; low l…",
+    "url": "https://www.naturalnews.com/2026-08-03-low-magnesium-symptoms-risks-and-treatment-options.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/magnesium-deficiency-hypomagnesemia-magnesium-deficiency-symptoms-3112-original.jpg",
+    "publishedAt": "2026-08-03T06:00:00Z",
+    "content": "Magnesium is the fourth most abundant element in the human body and one of the seven essential minerals, according to an article on Mercola.com [1]. It is necessary for the healthy functioning of mos… [+7899 chars]"
   }
 ]
