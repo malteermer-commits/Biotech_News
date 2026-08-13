@@ -2,236 +2,145 @@
   {
     "source": {
       "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Senhwa's CX-5461 Opens a New Frontier in Photoimmunotherapy; Multinational Study Published in Nucleic Acids Research",
+    "description": "TAIPEI and SAN DIEGO, Aug. 12, 2026 /PRNewswire/ -- Senhwa Biosciences, Inc. (TPEx: 6492) today announced a significant research advance involving its investigational drug Pidnarulex (CX-5461). A multinational research team comprising investigators from Polan…",
+    "url": "https://www.prnewswire.com/news-releases/senhwas-cx-5461-opens-a-new-frontier-in-photoimmunotherapy-multinational-study-published-in-nucleic-acids-research-302849454.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1018401/Senhwa-Logo-Logo-Logo.jpg?id=OA2865121&p=facebook",
+    "publishedAt": "2026-08-12T07:01:00Z",
+    "content": "TAIPEI and SAN DIEGO, Aug. 12, 2026 /PRNewswire/ -- Senhwa Biosciences, Inc. (TPEx: 6492) today announced a significant research advance involving its investigational drug Pidnarulex (CX-5461). A mul… [+5588 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Joshua Hong",
+    "title": "Universities are buying and selling property for data centers, prompting concerns about an AI brain drain",
+    "description": "The George Washington University recently sold its Virginia campus to Amazon, and The University of Michigan proposed a new $1.2 billion data center development.",
+    "url": "https://fortune.com/2026/08/12/george-washington-university-of-michigan-property-sale-ai-data-center-development/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2215736974-e1786475943838.jpg?resize=1200,600",
+    "publishedAt": "2026-08-12T07:00:00Z",
+    "content": "The AI boom is putting a new kind of pressure on American universities. The topic of AI has long been a point of contention within higher education from educators, students, and university administra… [+7060 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Inside Higher Ed"
+    },
+    "author": "Elizabeth Redden",
+    "title": "Academic Forests Are Higher Ed’s Hidden Jewels",
+    "description": "Academic Forests Are Higher Ed’s Hidden Jewels\n\n \n\n\n \nElizabeth Redden\n\nWed, 08/12/2026 - 03:00 AM\n\nForests are an asset for employee and student well-being and offer invaluable opportunities for teaching, research and recreation. Universities should protect …",
+    "url": "https://www.insidehighered.com/opinion/views/2026/08/12/academic-forests-are-hidden-jewels-higher-ed-opinion",
+    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/GettyImages-1471370789.jpg?itok=OIo5-ePk",
+    "publishedAt": "2026-08-12T07:00:00Z",
+    "content": "Forests and other natural areas are more integral to academic life than is widely known. Many academic institutions own and use significant areas of forested land for research, education and conserva… [+10584 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Veer Sharma",
+    "title": "Molbio Diagnostics IPO Day 3: GMP hints at 17% listing gain, issue booked nearly 5x. Should you participate?",
+    "description": "Molbio Diagnostics IPO entered its final bidding day with strong demand, with the Rs 939.70-crore issue subscribed 4.91 times. Its GMP has risen to 17.1%, signalling expectations of a strong listing. The IPO comprises a Rs 200-crore fresh issue and a Rs 739.7…",
+    "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-ipo-day-3-gmp-hints-at-17-listing-gain-issue-booked-nearly-5x-should-you-participate/articleshow/133173828.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133173894,width-1200,height-630,imgsize-2099906,overlay-etmarkets/articleshow.jpg",
+    "publishedAt": "2026-08-12T06:46:14Z",
+    "content": "Molbio Diagnostics IPO entered its third and final day of bidding on Wednesday with strong investor demand, with the Rs 939.70 crore issue subscribed 4.91 times. The point-of-care molecular diagnosti… [+4871 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "What is the most common antibiotic given to animals?",
+    "description": "What Is The Most Common Antibiotic Given to Animals? Understanding Antibiotic Use in Veterinary Medicine The most common antibiotic given to animals is tetracycline, particularly in livestock settings. Its widespread use stems from its broad spectrum of activ…",
+    "url": "https://www.lifesciencesworld.com/what-is-the-most-common-antibiotic-given-to-animals/",
+    "urlToImage": null,
+    "publishedAt": "2026-08-12T06:39:05Z",
+    "content": "The most common antibiotic given to animals is tetracycline, particularly in livestock settings. Its widespread use stems from its broad spectrum of activity, affordability, and availability as both … [+8727 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "Reuters",
+    "title": "South Korea unveils future technology projects, targets moon landing by 2030",
+    "description": "The \"Seven Major SEED\" ‌initiative comes as South Korea looks to prepare for slower long-term economic growth and ‌intensifying global competition in emerging technologies",
+    "url": "https://www.thehindubusinessline.com/news/science/south-korea-unveils-future-technology-projects-targets-moon-landing-by-2030/article71335304.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/p4nl3j/article70883090.ece/alternates/LANDSCAPE_1200/2026-04-20T020826Z_156199479_RC2P8IA5HXMZ_RTRMADP_3_INDIA-SOUTHKOREA.JPG",
+    "publishedAt": "2026-08-12T06:38:33Z",
+    "content": "The seven projects cover small modular reactors, fusion energy, next-generation renewable energy, quantum technology, space and aviation, advanced biotechnology, and critical minerals and materials s… [+1319 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Theregister.com"
+    },
+    "author": "Mark Pesce",
+    "title": "Agents made my retro tech safe to use again and showed their real value as testers of ideas",
+    "description": "Let's all go a bit mad scientist and see if software can validate our wildest theories",
+    "url": "https://www.theregister.com/columnists/2026/08/12/agents-made-my-retro-tech-safe-to-use-again-and-showed-their-real-value-as-testers-of-ideas/5286632",
+    "urlToImage": "https://image.theregister.com/254604.jpg?imageId=254604&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "publishedAt": "2026-08-12T06:29:00Z",
+    "content": "Over the years, my home has become something of an Island of Misfit Kit because its filled with ancient computers, all of them well and truly out of support.\r\nMost still work but it was always inadvi… [+3267 chars]"
+  },
+  {
+    "source": {
+      "id": "rte",
+      "name": "RTE"
+    },
+    "author": "RTÉ Sport",
+    "title": "IOC wants regular monitoring of athletes' mental health",
+    "description": "Sports bodies should prioritise routine screening and regular monitoring of elite athletes' mental health, the International Olympic Committee has reported.",
+    "url": "https://www.rte.ie/sport/athletics/2026/0812/1587529-ioc-wants-regular-monitoring-of-athletes-mental-health/",
+    "urlToImage": "https://www.rte.ie/images/001d42fc-1600.jpg",
+    "publishedAt": "2026-08-12T06:21:27Z",
+    "content": "Sports bodies should prioritise routine screening and regular monitoring of elite athletes' mental health, the International Olympic Committee has reported.\r\nThe IOC says fostering good mental health… [+1901 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Github.com"
+    },
+    "author": "chdominguez",
+    "title": "Show HN: Pantheon. Production-ready scientific workflows for the Horus Runtime",
+    "description": "Production-ready scientific workflows for the Horus Runtime: molecular dynamics, virtual screening, docking, LLM training and more. HPC pipelines that actually run at scale. - temple-compute/pantheon",
+    "url": "https://github.com/temple-compute/pantheon",
+    "urlToImage": "https://opengraph.githubassets.com/ef8c9c5b3daeda95684ca11687a07967be6131eba1f660c9bcc9c1c747b57961/temple-compute/pantheon",
+    "publishedAt": "2026-08-12T06:13:10Z",
+    "content": "Production-ready scientific workflows for the Horus Runtime. Molecular dynamics, virtual screening, docking, LLM training, and more. Each workflow is a multi-stage pipeline that routes every stage to… [+6244 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Mukesh Thapliyal",
+    "title": "Quote of the day by Sigmund Freud: 'The virtuous man contents himself with dreaming that which the wicked man does...' - Life lesson from the founder of psychoanalysis on the conflict between morality and desire",
+    "description": "Quote of the day by Sigmund Freud: As the pioneer of psychoanalysis, Sigmund Freud revolutionized our grasp of the complexities of the human mind. Through his groundbreaking theories on unconscious motivations and dream symbolism, Freud not only provided insi…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-sigmund-freud-the-virtuous-man-contents-himself-with-dreaming-that-which-the-wicked-man-does-life-lesson-from-the-founder-of-psychoanalysis-on-the-conflict-between-morality-and-desire/articleshow/133173018.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133173051,width-1200,height-630,imgsize-443806,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-12T06:12:23Z",
+    "content": "Quote of the day by Sigmund Freud: Sigmund Freud was an Austrian neurologist whose ideas transformed the way people thought about the human mind. Born in 1856, Freud became the founder of psychoanaly… [+4036 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Biztoc.com"
     },
     "author": "tech.eu",
-    "title": "German biotech AquaNab secures funding to tackle sea lice with nanoantibodies",
-    "description": "Hamburg-based\nbiotechnology startup AquaNab has secured investment from Nordic Foodtech VC to\nadvance its nanoantibody platform for treating and preventing diseases in\naquaculture. The investment marks the Finnish early-stage venture capital\nfirm's first inve…",
-    "url": "https://biztoc.com/x/9e4d01685091e32c",
-    "urlToImage": "https://biztoc.com/cdn/9e4d01685091e32c_s.webp",
-    "publishedAt": "2026-08-11T07:00:55Z",
-    "content": "Hamburg-basedbiotechnology startup AquaNab has secured investment from Nordic Foodtech VC toadvance its nanoantibody platform for treating and preventing diseases inaquaculture. The investment marks … [+134 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "jessica.blake@insidehighered.com",
-    "title": "Trump Admin Invests $180M in Mining Colleges",
-    "description": "The Trump administration is investing $180 million into America’s mining colleges in an effort to revitalize the nation’s mining and mineral processing industry and reduce reliance on foreign competitors, like China.",
-    "url": "https://www.insidehighered.com/news/quick-takes/2026/08/11/mining-colleges-get-180m-boost-trump-administration",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-05/Trump_GettyImages-2278476003_edit.jpg?itok=8jhyJDF6",
-    "publishedAt": "2026-08-11T07:00:00Z",
-    "content": "The Trump administration is investing $180 million into Americas mining colleges in an effort to revitalize the nations mining and mineral processing industry and reduce reliance on foreign competito… [+2142 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Inside Higher Ed"
-    },
-    "author": "kathryn.palmer@insidehighered.com",
-    "title": "When Funding Gets Scarce, Savvy Scientists Get … OnlyFans?",
-    "description": "When Funding Gets Scarce, Savvy Scientists Get … OnlyFans? \n\n \n\n\n \nkathryn.palmer…\n\nTue, 08/11/2026 - 03:00 AM\n\nAs federal funding cuts threaten scientific research, a group of researchers is following in the footsteps of a fictional single mom who launched a…",
-    "url": "https://www.insidehighered.com/news/faculty/research/2026/08/11/when-funding-gets-scarce-savvy-scientists-get-onlyfans",
-    "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-08/marmot_dandelion_adler_edit.jpg?itok=vPCKyk5d",
-    "publishedAt": "2026-08-11T07:00:00Z",
-    "content": "Ecologist Daniel Blumstein has spent much of his career studying marmots, whose behaviors offer scientists insights into how animals respond to climate change. A professor of ecology and evolutionary… [+9619 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "How do you know if you have toxoplasmosis while pregnant?",
-    "description": "How Do You Know If You Have Toxoplasmosis While Pregnant? Wondering how do you know if you have toxoplasmosis while pregnant? The most reliable way is through blood tests ordered by your doctor to detect the presence of Toxoplasma gondii antibodies, especiall…",
-    "url": "https://www.lifesciencesworld.com/how-do-you-know-if-you-have-toxoplasmosis-while-pregnant/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-11T06:51:31Z",
-    "content": "Wondering how do you know if you have toxoplasmosis while pregnant? The most reliable way is through blood tests ordered by your doctor to detect the presence of Toxoplasma gondii antibodies, especia… [+10271 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Arxiv.org"
-    },
-    "author": "Eran Kopel",
-    "title": "How many labels can a biological oscillator carry? A quality-factor screen for proposed information carriers",
-    "description": "How many distinguishable labels can a biological oscillator carry? Proposals invoking collective vibrational modes, endogenous electromagnetic fields, microtubule excitations and oscillatory phase codes are each debated on grounds particular to themselves, wi…",
-    "url": "https://arxiv.org/abs/2608.10560",
-    "urlToImage": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-    "publishedAt": "2026-08-11T06:47:51Z",
-    "content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.\r\nBoth individuals and organizations that work with arXivLabs have embraced and acce… [+257 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "Is hair loss from stress reversible?",
-    "description": "Is Hair Loss from Stress Reversible? While alarming, hair loss from stress is often reversible. Understanding the different types of stress-related hair loss and adopting appropriate coping mechanisms are key to regaining a healthy head of hair. Understanding…",
-    "url": "https://www.lifesciencesworld.com/is-hair-loss-from-stress-reversible/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-11T06:42:21Z",
-    "content": "While alarming, hair lossfrom stress is often reversible. Understanding the different types of stress-related hair loss and adopting appropriate coping mechanisms are key to regaining a healthy head … [+9460 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Business Standard"
-    },
-    "author": "Capital Market",
-    "title": "Minister highlights need to enhance private sector participation in India's Biotechnology ecosystem",
-    "description": "Powered by Capital Market - Live News",
-    "url": "https://www.business-standard.com/markets/capital-market-news/minister-highlights-need-to-enhance-private-sector-participation-in-india-s-biotechnology-ecosystem-126081100562_1.html",
-    "urlToImage": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-    "publishedAt": "2026-08-11T06:20:02Z",
-    "content": "Last Updated : Aug 11 2026 | 11:50 AM IST\r\nDon't miss the most important news and views of the day. Get them on our \r\nTelegram channel\r\nFirst Published: Aug 11 2026 | 11:50 AMIST"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Vanguard"
-    },
-    "author": "Akinbayo Wahab",
-    "title": "UN decries children exposure to unregulated AI, online harms",
-    "description": "The UN also called on advertisers, media organisations and researchers to prioritise children’s safety and participation in shaping digital policies.\nThe post UN decries children exposure to unregulated AI, online harms appeared first on Vanguard News.",
-    "url": "https://www.vanguardngr.com/2026/08/un-decries-children-exposure-to-unregulated-ai-online-harms/",
-    "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Kids-using-AI-header-1.png",
-    "publishedAt": "2026-08-11T06:19:23Z",
-    "content": "The United Nations has urged governments and technology companies to urgently protect children from growing online risks.\r\nThe UN also called on advertisers, media organisations and researchers to pr… [+3239 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What cool things can gorillas do?",
-    "description": "What Cool Things Can Gorillas Do?: Unveiling the Apes’ Amazing Abilities Gorillas are far more than just powerful primates; they exhibit remarkable intelligence, intricate social behaviors, and surprising problem-solving skills. Discover fascinating aspects o…",
-    "url": "https://www.lifesciencesworld.com/what-cool-things-can-gorillas-do/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-11T06:17:52Z",
-    "content": "What Cool Things Can Gorillas Do?: Unveiling the Apes’ Amazing Abilities\r\nGorillas are far more than just powerful primates; they exhibit remarkable intelligence, intricate social behaviors, and surp… [+10376 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "Why are Christmas Island crabs not edible?",
-    "description": "Why Are Christmas Island Crabs Not Edible? A Deep Dive Christmas Island Red Crabs are not considered edible, primarily due to their natural toxicity and low meat yield. The risk of ingesting harmful substances outweighs any potential nutritional benefit. Intr…",
-    "url": "https://www.lifesciencesworld.com/why-are-christmas-island-crabs-not-edible/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-11T06:16:41Z",
-    "content": "Christmas Island Red Crabs are not considered edible, primarily due to their natural toxicity and low meat yield. The risk of ingesting harmful substances outweighs any potential nutritional benefit.… [+9754 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Mike Adams",
-    "title": "Trump’s Vaccine EO Won’t Stop the Extermination Agenda",
-    "description": "The EO Is a Cheap Distraction Donald Trump’s executive order on vaccines is a stage prop, not a shield. The administration can sign all the paper it wants, but the FDA, the CDC, and Big Pharma have ignored executive orders before, and they will ignore this on…",
-    "url": "https://www.naturalnews.com/2026-08-11-trump-vaccine-eo-wont-stop-extermination-agenda.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/executive-order-vaccine-mandate-mrna-vaccine-3296-original.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "The EO Is a Cheap Distraction\r\nDonald Trump's executive order on vaccines is a stage prop, not a shield. The administration can sign all the paper it wants, but the FDA, the CDC, and Big Pharma have … [+7426 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Kevin Hughes",
-    "title": "Decentralize or Die: A wake-up call against centralized tyranny",
-    "description": "History proves that concentrated power—whether in governments, corporations, or agencies like the FDA and CDC—breeds corruption, oppression and collapse (e.g., Soviet Union, Nazi Germany, modern China). Institutions like the Federal Reserve and Big Pharma man…",
-    "url": "https://www.naturalnews.com/2026-08-11-decentralize-or-die-warning-against-centralized-tyranny.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Decentralize-or-Die.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "<ul><li>History proves that concentrated powerwhether in governments, corporations, or agencies like the FDA and CDCbreeds corruption, oppression and collapse (e.g., Soviet Union, Nazi Germany, moder… [+6212 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Morgan S. Verity",
-    "title": "Cinnamon Supplementation Associated With Lower Blood Sugar and Cholesterol in Review of 21 Meta-Analyses",
-    "description": "Cinnamon Tied to Lower Blood Sugar and Cholesterol in Pooled Analysis A pooled analysis of 21 meta-analyses, including 139 placebo-controlled comparisons, found cinnamon supplementation associated with lower HbA1c, total cholesterol, LDL cholesterol, and bloo…",
-    "url": "https://www.naturalnews.com/2026-08-11-cinnamon-supplementation-associated-lower-blood-sugar-and-cholesterol.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/cinnamon-supplementation-blood-sugar-cholesterol-3289-original.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "Cinnamon Tied to Lower Blood Sugar and Cholesterol in Pooled Analysis\r\nA pooled analysis of 21 meta-analyses, including 139 placebo-controlled comparisons, found cinnamon supplementation associated w… [+6835 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Iva Greene",
-    "title": "Peppermint Tea and Sleep: Reported Effects and Safety Considerations",
-    "description": "Peppermint tea, a caffeine-free herbal infusion, appears in consumer guides to beverages used before bed. According to a 2026 report on nighttime beverages, warm milk, herbal teas and other natural alternatives offer calming nutrients such as tryptophan and m…",
-    "url": "https://www.naturalnews.com/2026-08-11-peppermint-tea-and-sleep-reported-effects-safety-considerations.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/peppermint-tea-sleep-quality-menthol-3268-original.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "Peppermint tea, a caffeine-free herbal infusion, appears in consumer guides to beverages used before bed. According to a 2026 report on nighttime beverages, warm milk, herbal teas and other natural a… [+5802 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Coco Somers",
-    "title": "Early-Life Sugar Restriction Linked to Lower Alzheimer’s, Dementia Risk, Study Finds",
-    "description": "Study: Less Sugar in First 1,000 Days Associated With Lower Alzheimer’s Risk People exposed to less sugar before birth and during their first one to two years of life were less likely to develop dementia more than six decades later, according to a study repor…",
-    "url": "https://www.naturalnews.com/2026-08-11-early-life-sugar-restriction-lowers-dementia-risk.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/sugar-restriction-alzheimers-disease-dementia-risk-3277-original.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "Study: Less Sugar in First 1,000 Days Associated With Lower Alzheimer's Risk\r\nPeople exposed to less sugar before birth and during their first one to two years of life were less likely to develop dem… [+6267 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Coco Somers",
-    "title": "Yoga Timing: Consistency Matters More Than Clock, Experts Say",
-    "description": "Best Time to Practice Yoga Yoga instructors and writers who study movement said the best time to practice yoga is the time a person will do it consistently. Valerie Moselle, author of “Breathwork”, wrote that consistency is important and that practicing regul…",
-    "url": "https://www.naturalnews.com/2026-08-11-yoga-timing-consistency-matters-more-than-clock.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/yoga-yoga-timing-consistency-3096-original.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "Best Time to Practice Yoga\r\nYoga instructors and writers who study movement said the best time to practice yoga is the time a person will do it consistently. Valerie Moselle, author of \"Breathwork\", … [+6749 chars]"
-  },
-  {
-    "source": {
-      "id": "the-washington-post",
-      "name": "The Washington Post"
-    },
-    "author": "Beth Krietsch",
-    "title": "5 breathing exercises that actually help you feel calmer",
-    "description": "Washington Post: How to slow down and relax your body when you're feeling on edge.",
-    "url": "https://www.washingtonpost.com/wellness/2026/08/06/5-breathing-exercises-help-you-feel-calmer/",
-    "urlToImage": "https://www.nzherald.co.nz/resizer/v2/QRMVIZQZR5ARHFBCZMGKKRFY4Q.jpg?auth=e033b5b14c537226df2e0aa0b7b163f3f163df77618013f1b436710dd9cb0320&width=1200&height=675&quality=70&smart=true",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "By keeping a few specific breathing exercises in your back pocket, youll have tools to turn to when you need a quick way to calm down. Here are five evidence-based techniques that experts recommend.\r… [+6040 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "HRS Editors",
-    "title": "The natural choice: Why more families are switching to fluoride-free toothpaste",
-    "description": "The main reason most parents switch to fluoride-free toothpaste is safety. Young children often swallow toothpaste while learning to spit after brushing. Swallowing too much fluoride can cause permanent stains on adult teeth or an upset stomach, so natural to…",
-    "url": "https://www.naturalnews.com/2026-08-11-why-more-families-switching-fluoride-free-toothpaste.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Brushing-Teeth-Toothbrush-2.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "<ul><li>The main reason most parents switch to fluoride-free toothpaste is safety. Young children often swallow toothpaste while learning to spit after brushing. Swallowing too much fluoride can caus… [+5711 chars]"
+    "title": "Again acquires Geno to combine AI-driven discovery with industrial biomanufacturing",
+    "description": "Technology company Again has acquired\nindustrial biotechnology company Genomatica (Geno), bringing together their\ncapabilities in bioprocess engineering, computational biotechnology and\nindustrial-scale manufacturing. Financial terms of the transaction were n…",
+    "url": "https://biztoc.com/x/8e3f85e5dff76f01",
+    "urlToImage": "https://biztoc.com/cdn/8e3f85e5dff76f01_s.webp",
+    "publishedAt": "2026-08-12T06:03:31Z",
+    "content": "Technology company Again has acquiredindustrial biotechnology company Genomatica (Geno), bringing together theircapabilities in bioprocess engineering, computational biotechnology andindustrial-scale… [+136 chars]"
   },
   {
     "source": {
@@ -239,12 +148,38 @@
       "name": "Naturalnews.com"
     },
     "author": "Willow Tohi",
-    "title": "AI’s rogue summer: From viral design to digital mind reading, regulators scramble for control",
-    "description": "Multiple AI systems from Meta, Moonshot AI and others have reportedly escaped containment during security testing, raising public alarm and regulatory demands. AI-generated “doctor” accounts are spreading dangerous health misinformation on TikTok, reaching mi…",
-    "url": "https://www.naturalnews.com/2026-08-11-ai-from-viral-design-to-digital-mind-reading.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/AI-Artificial-Intelligence-Letters.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "<ul><li>Multiple AI systems from Meta, Moonshot AI and others have reportedly escaped containment during security testing, raising public alarm and regulatory demands.</li><li>AI-generated \"doctor\" a… [+6255 chars]"
+    "title": "Unlikely alliance targets GRAS loophole in America’s ultra-processed food crisis",
+    "description": "Federal data confirms ultra-processed foods constitute 55% of the average American’s daily caloric intake, with youth consuming nearly 62%. A 1958 regulatory loophole, known as GRAS, allows companies to self-certify food additives without direct FDA approval.…",
+    "url": "https://www.naturalnews.com/2026-08-12-unlikely-alliance-targets-gras-loophole-americas-upf-crisis.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Food-Junk-Diet-Greasy-Fried-Poor-Carbs.jpg",
+    "publishedAt": "2026-08-12T06:00:00Z",
+    "content": "<ul><li>Federal data confirms ultra-processed foods constitute 55% of the average American's daily caloric intake, with youth consuming nearly 62%.</li><li>A 1958 regulatory loophole, known as GRAS, … [+5699 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Belle Carter",
+    "title": "“ATB Personal Restoration Class” on BrightU: The hidden causes behind symptoms",
+    "description": "Dr. Alphonzo Monzo’s fourth episode of “ATB Personal Restoration Class” explored the idea that pain or symptoms may not always reveal the true source of a problem, proposing that disruptions in the body’s energetic pathways could create issues elsewhere. Monz…",
+    "url": "https://www.naturalnews.com/2026-08-12-atb-on-brightu-hidden-causes-behind-symptoms.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Kidneys-pain-1.jpeg",
+    "publishedAt": "2026-08-12T06:00:00Z",
+    "content": "<ul><li>Dr. Alphonzo Monzo's fourth episode of \"ATB Personal Restoration Class\" explored the idea that pain or symptoms may not always reveal the true source of a problem, proposing that disruptions … [+5423 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Coco Somers",
+    "title": "Chamomile Rinse Matches Chlorhexidine in Reducing Plaque and Gum Inflammation, Trial Finds",
+    "description": "Clinical Trial Finds Chamomile Rinse Effective Against Gum Disease A chamomile herbal rinse reduced plaque buildup and gum inflammation on par with chlorhexidine in a clinical trial published in April 2026, according to the study. Researchers at a university …",
+    "url": "https://www.naturalnews.com/2026-08-12-chamomile-rinse-matches-chlorhexidine-reducing-plaque-gum-inflammation.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/chamomile-rinse-chlorhexidine-dental-plaque-3315-original.jpg",
+    "publishedAt": "2026-08-12T06:00:00Z",
+    "content": "Clinical Trial Finds Chamomile Rinse Effective Against Gum Disease\r\nA chamomile herbal rinse reduced plaque buildup and gum inflammation on par with chlorhexidine in a clinical trial published in Apr… [+6298 chars]"
   },
   {
     "source": {
@@ -252,11 +187,50 @@
       "name": "Naturalnews.com"
     },
     "author": "Morgan S. Verity",
-    "title": "Report: FDA’s Review of Moderna’s mRNA Flu Vaccine Concealed Statistically Significant Safety Signal",
-    "description": "The Food and Drug Administration (FDA) on Aug. 6 licensed Moderna’s mRNA influenza vaccine, mFLUSIVA, for adults 50 and older – marking the first time the agency has approved an mRNA shot for seasonal flu, according to a company statement cited by the Epoch T…",
-    "url": "https://www.naturalnews.com/2026-08-11-fda-review-moderna-vaccine-concealed-safety-signal.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/fda-review-moderna-mrna-flu-vaccine-3295-original.jpg",
-    "publishedAt": "2026-08-11T06:00:00Z",
-    "content": "The Food and Drug Administration (FDA) on Aug. 6 licensed Moderna's mRNA influenza vaccine, mFLUSIVA, for adults 50 and older  marking the first time the agency has approved an mRNA shot for seasonal… [+5602 chars]"
+    "title": "Researchers Map Six Enzymes Behind Toxic Compounds With Medicinal Potential in Wolfsbane, Larkspur",
+    "description": "Researchers from Michigan State University and the Czech Academy of Sciences have mapped six enzymes that wolfsbane and larkspur use to produce diterpenoid alkaloids, a class of toxic compounds with reported potential uses against pain, cancer, and malaria, a…",
+    "url": "https://www.naturalnews.com/2026-08-12-researchers-map-enzymes-behind-compounds-with-medicinal-potential.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/diterpenoid-alkaloids-biosynthetic-pathway-enzymes-3278-original.jpg",
+    "publishedAt": "2026-08-12T06:00:00Z",
+    "content": "Researchers from Michigan State University and the Czech Academy of Sciences have mapped six enzymes that wolfsbane and larkspur use to produce diterpenoid alkaloids, a class of toxic compounds with … [+6218 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Ava Grace",
+    "title": "How a simple glass of tart cherry juice may quiet inflammation and lull you to sleep",
+    "description": "Tart cherry juice is rich in anthocyanins, which are powerful antioxidants that reduce inflammation. Clinical studies show it can lower inflammatory markers, providing relief for conditions like osteoarthritis and gout and aiding muscle recovery after exercis…",
+    "url": "https://www.naturalnews.com/2026-08-12-tart-cherry-juice-may-quiet-inflammation.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/cherry.jpg",
+    "publishedAt": "2026-08-12T06:00:00Z",
+    "content": "<ul><li>Tart cherry juice is rich in anthocyanins, which are powerful antioxidants that reduce inflammation. Clinical studies show it can lower inflammatory markers, providing relief for conditions l… [+7552 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Cassie B.",
+    "title": "Trump executive order on vaccines sparks new debate, directs Justice Department to target states",
+    "description": "President Trump signed an executive order to reduce routine childhood vaccinations and split the MMR vaccine into three doses. The order shifts several vaccines out of universal recommendation into shared clinical decision-making for parents and doctors. Lega…",
+    "url": "https://www.naturalnews.com/2026-08-12-trump-order-vaccines-debate-states.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Syringes-Needles-Vaccines-3.jpg",
+    "publishedAt": "2026-08-12T06:00:00Z",
+    "content": "<ul><li>President Trump signed an executive order to reduce routine childhood vaccinations and split the MMR vaccine into three doses.</li><li>The order shifts several vaccines out of universal recom… [+5314 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Mike Adams",
+    "title": "AI Is Now Engineering Pathogenic Proteins That Could Threaten the Entire Human Race",
+    "description": "Some Things Should Never Be Unleashed Artificial intelligence has crossed a line that should alarm every living human being. Researchers at Stanford University and the Arc Institute used generative AI models to produce 16 novel bacteriophages — complete, func…",
+    "url": "https://www.naturalnews.com/2026-08-12-ai-is-now-engineering-pathogenic-proteins.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/ai-generated-viruses-pathogenic-proteins-bioweapons-3322-original.jpg",
+    "publishedAt": "2026-08-12T06:00:00Z",
+    "content": "Some Things Should Never Be Unleashed\r\nArtificial intelligence has crossed a line that should alarm every living human being. Researchers at Stanford University and the Arc Institute used generative … [+10247 chars]"
   }
 ]
