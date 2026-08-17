@@ -1,81 +1,94 @@
 [
   {
     "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ANI",
+    "title": "Anthropic CEO Dario Amodei rejects claim AI regulation would concentrate power",
+    "description": "Responding to a debate sparked by comments from investor Gavin Baker, Amodei said the choice between concentrating AI power through regulation and distributing it widely was a \"false choice\". He argued that fair institutional processes can constrain corporate…",
+    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power/articleshow/133271001.cms",
+    "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-66200,resizemode-75,msid-133271001/tech/artificial-intelligence/anthropic-ceo-dario-amodei-rejects-claim-ai-regulation-would-concentrate-power.jpg",
+    "publishedAt": "2026-08-16T06:19:57Z",
+    "content": "Anthropic CEO Dario Amodei has pushed back against claims that regulating artificial intelligence would inevitably concentrate power in the hands of a few companies and governments, arguing that care… [+2515 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Why Gen Z women know more about periods than their mums",
+    "description": "From PMOS to cycle syncing, young women are teaching their mums about periods.",
+    "url": "https://www.bbc.co.uk/news/articles/c5y0qp43zv0o",
+    "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d54/live/c7e7cd30-97b8-11f1-ba0b-f992fff710db.jpg",
+    "publishedAt": "2026-08-16T06:12:31Z",
+    "content": "Iqra Wasim from Fishponds in Bristol has struggled with PMOS symptoms such as painful acne since the age of 11.\r\nPMOS affects about one in eight women. It is a major cause of female infertility and s… [+1398 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thewoksoflife.com"
+    },
+    "author": "Judy",
+    "title": "Scrambled Eggs with Shiso",
+    "description": "Scrambled Eggs with Shiso is my new favorite egg stir-fry. Aromatic shiso leaves, also known as perilla leaves, are sliced up and quickly scrambled with tender fluffy eggs for a tasty egg dish you feel good about eating.  (It’s even taken the lead over our fa…",
+    "url": "https://thewoksoflife.com/scrambled-eggs-shiso/",
+    "urlToImage": "https://thewoksoflife.com/wp-content/uploads/2026/07/shiso-scrambled-eggs-9.jpg",
+    "publishedAt": "2026-08-16T06:08:00Z",
+    "content": "Scrambled Eggs with Shiso is my new favorite egg stir-fry. Aromatic shiso leaves, also known as perilla leaves, are sliced up and quickly scrambled with tender fluffy eggs for a tasty egg dish you fe… [+5465 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "Are opossums friendly to humans?",
-    "description": "Are Opossums Friendly to Humans? Understanding the Marsupial’s Behavior Are opossums friendly to humans? The answer is generally no, opossums are not inherently friendly to humans. While they may tolerate human presence and avoid confrontation, they are wild …",
-    "url": "https://www.lifesciencesworld.com/are-opossums-friendly-to-humans/",
+    "title": "How often should you hold your hermit crab?",
+    "description": "How Often Should You Hold Your Hermit Crab? Understanding Interaction Frequency The ideal frequency for handling your hermit crab is rarely. While tempting, holding hermit crabs should be kept to a minimum to reduce stress and ensure their well-being. Introdu…",
+    "url": "https://www.lifesciencesworld.com/how-often-should-you-hold-your-hermit-crab/",
     "urlToImage": null,
-    "publishedAt": "2026-08-15T06:09:14Z",
-    "content": "Are opossums friendly to humans? The answer is generally no, opossums are not inherently friendly to humans. While they may tolerate human presence and avoid confrontation, they are wild animals with… [+7819 chars]"
+    "publishedAt": "2026-08-16T06:06:22Z",
+    "content": "The ideal frequency for handling your hermit crab is rarely. While tempting, holding hermit crabs should be kept to a minimum to reduce stress and ensure their well-being.\r\nIntroduction: The Delicate… [+8265 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Naturalnews.com"
+      "name": "Lifesciencesworld.com"
     },
-    "author": "Willow Tohi",
-    "title": "Struggling with your gains? Here’s why nutrition and rest are key to your athletic performance",
-    "description": "Overtraining can negate fitness gains and lead to substandard performance, persistent fatigue and an elevated resting heart rate. Muscle repair and growth occur during rest and recovery, not during the workout itself. Adequate protein intake is essential for …",
-    "url": "https://www.naturalnews.com/2026-08-15-nutrition-rest-key-to-your-athletic-performance.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/taurine-supplementation-exercise-performance-hot-conditions-1808-original.jpg",
-    "publishedAt": "2026-08-15T06:00:00Z",
-    "content": "<ul><li>Overtraining can negate fitness gains and lead to substandard performance, persistent fatigue and an elevated resting heart rate.</li><li>Muscle repair and growth occur during rest and recove… [+6334 chars]"
+    "author": "Ava Reynolds",
+    "title": "Is it OK to wake your hedgehog up?",
+    "description": "Is it OK to Wake Your Hedgehog Up? Understanding Hedgehog Sleep Cycles Absolutely not, generally speaking. Forcing a hedgehog awake disrupts their natural sleep cycle and can lead to significant stress, negatively impacting their health and well-being. It’s c…",
+    "url": "https://www.lifesciencesworld.com/is-it-ok-to-wake-your-hedgehog-up/",
+    "urlToImage": null,
+    "publishedAt": "2026-08-16T06:02:05Z",
+    "content": "Is it OK to Wake Your Hedgehog Up? Understanding Hedgehog Sleep Cycles\r\nAbsolutely not, generally speaking. Forcing a hedgehog awake disrupts their natural sleep cycle and can lead to significant str… [+8783 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Naturalnews.com"
+      "name": "Eliteresidenceinternational.com"
     },
-    "author": "Jacob Thomas",
-    "title": "Nearly half of U.S. adults will have obesity by 2035, study warns",
-    "description": "According to research, nearly half (47%) of U.S. adults are projected to have obesity by 2035, a significant rise from 42% this year and a more than threefold increase since 1990. The rise is not uniform, with the highest prevalence forecast for Midwestern an…",
-    "url": "https://www.naturalnews.com/2026-08-15-nearly-half-american-adults-will-have-obesity-2035.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/thick-373064_1280.jpg",
-    "publishedAt": "2026-08-15T06:00:00Z",
-    "content": "<ul><li>According to research, nearly half (47%) of U.S. adults are projected to have obesity by 2035, a significant rise from 42% this year and a more than threefold increase since 1990.</li><li>The… [+4957 chars]"
+    "author": null,
+    "title": "Home Wellness Concierge: Why LA's Elite Are Hiring In-House Health Teams in 2026",
+    "description": "Home Wellness Concierge: Why LA's Elite Are Hiring In-House Health Teams in 2026eliteresidenceinternational.com",
+    "url": "https://eliteresidenceinternational.com/blog/home-wellness-concierge-why-las-elite-are-hiring-in-house-health-teams-in-2026",
+    "urlToImage": "https://media-production.lp-cdn.com/cdn-cgi/image/format=auto,quality=85,fit=scale-down,width=960/https://media-production.lp-cdn.com/media/ccffec94-07bc-4378-bb1e-2c6cad439084",
+    "publishedAt": "2026-08-16T06:00:20Z",
+    "content": "Home wellness concierge services have become the standard of care for those who expect more from their healthcare than a crowded waiting room and a 15-minute appointment. Concierge medicine first too… [+22374 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Naturalnews.com"
+      "id": "the-irish-times",
+      "name": "The Irish Times"
     },
-    "author": "Coco Somers",
-    "title": "Daily Legume Intake Linked to Lower Cholesterol, Blood Sugar in 24-Trial Review",
-    "description": "Review of 24 Trials Links Legumes to Lower Lab Values A meta-analysis by researchers at the University of Otago found that adding roughly half a cup of beans or other legumes to daily meals was associated with lower total cholesterol, LDL cholesterol, and fas…",
-    "url": "https://www.naturalnews.com/2026-08-15-daily-legume-intake-linked-lower-cholesterol-blood-sugar.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/legumes-beans-meta-analysis-3266-original.jpg",
-    "publishedAt": "2026-08-15T06:00:00Z",
-    "content": "Review of 24 Trials Links Legumes to Lower Lab Values\r\nA meta-analysis by researchers at the University of Otago found that adding roughly half a cup of beans or other legumes to daily meals was asso… [+5810 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Patrick Lewis",
-    "title": "FDA’s quiet retreat: The chlorine dioxide warning pages have vanished",
-    "description": "The FDA quietly deleted its warning pages on chlorine dioxide, effectively admitting its prior safety claims were part of a deceptive campaign to protect Big Pharma profits, and now critics can no longer cite the agency as an authority against this molecule. …",
-    "url": "https://www.naturalnews.com/2026-08-15-fda-retreat-chlorine-dioxide-warning-pages-vanished.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/FDA.png",
-    "publishedAt": "2026-08-15T06:00:00Z",
-    "content": "<ul><li>The FDA quietly deleted its warning pages on chlorine dioxide, effectively admitting its prior safety claims were part of a deceptive campaign to protect Big Pharma profits, and now critics c… [+6490 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Naturalnews.com"
-    },
-    "author": "Morgan S. Verity",
-    "title": "VP Vance, RFK Jr. Refer Gender Clinics for Prosecution Following HHS Billing Fraud Report",
-    "description": "Vice President J.D. Vance and Health Secretary Robert F. Kennedy Jr. referred hospitals and gender clinics flagged in a new Department of Health and Human Services (HHS) billing fraud report for criminal investigation and departmental review, according to let…",
-    "url": "https://www.naturalnews.com/2026-08-15-vance-rfkjr-refer-gender-clinics-for-prosecution.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/gender-affirming-care-billing-fraud-gender-clinics-3388-original.jpg",
-    "publishedAt": "2026-08-15T06:00:00Z",
-    "content": "Vice President J.D. Vance and Health Secretary Robert F. Kennedy Jr. referred hospitals and gender clinics flagged in a new Department of Health and Human Services (HHS) billing fraud report for crim… [+6203 chars]"
+    "author": "Mary Carolan",
+    "title": "Man concerned over his children’s welfare gets protection order against wife",
+    "description": "Woman has gone ‘off the rails’ and has placed listening devices around their house, court told",
+    "url": "https://www.irishtimes.com/crime-law/courts/2026/08/16/man-concerned-over-his-childrens-welfare-gets-protection-order-against-wife/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/FPCWIB45363ANVA3VK7DXT6Z64.jpg?smart=true&auth=234d86eaa8992ddca8ab28c3aa647ee6f83c5c31bd56495318ca577d81c842ee&width=1200&height=630",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "A man who said he is very concerned for the welfare of his young children, especially his five-year-old daughter, has been given a protection order against his wife.\r\nThey still live together but are… [+4528 chars]"
   },
   {
     "source": {
@@ -83,168 +96,129 @@
       "name": "Naturalnews.com"
     },
     "author": "Ava Grace",
-    "title": "Study finds cheap nasal spray rivals steroids for children’s sleep breathing issues, could curtail surgeries",
-    "description": "Saline spray is as effective as a steroid spray for treating sleep-disordered breathing in children, resolving symptoms for about 40-44% of kids in a clinical trial. This simple, over-the-counter treatment could prevent many unnecessary tonsil surgeries, whic…",
-    "url": "https://www.naturalnews.com/2026-08-15-nasal-spray-rivals-steroids-children-sleep-breathing-issues.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Nasal-Nose-Spray-Allergies.jpg",
-    "publishedAt": "2026-08-15T06:00:00Z",
-    "content": "<ul><li>Saline spray is as effective as a steroid spray for treating sleep-disordered breathing in children, resolving symptoms for about 40-44% of kids in a clinical trial.</li><li>This simple, over… [+6530 chars]"
-  },
-  {
-    "source": {
-      "id": "rte",
-      "name": "RTE"
-    },
-    "author": "Fergal Bowers",
-    "title": "Weight loss drugs - can the demand be contained?",
-    "description": "Weight loss drugs are effectively the blockbuster drugs of the modern era.",
-    "url": "https://www.rte.ie/news/analysis-and-comment/2026/0815/1587925-weight-loss-drugs/",
-    "urlToImage": "https://www.rte.ie/images/0024d41d-1600.jpg",
-    "publishedAt": "2026-08-15T06:00:00Z",
-    "content": "Weight loss drugs are effectively the blockbuster drugs of the modern era.\r\nMuch like Valium and Prozac were in the past, and the modern-day statins to reduce cholesterol, and before them, aspirin an… [+6323 chars]"
+    "title": "The silent saboteur: How modern night habits are fueling a heart disease epidemic",
+    "description": "A large-scale study using objective light sensor data found that higher nighttime exposure to artificial light is directly associated with a significantly increased risk of major cardiac events, including heart attacks, strokes and heart failure. Artificial l…",
+    "url": "https://www.naturalnews.com/2026-08-16-modern-night-habits-are-fueling-heart-disease.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Teenager-Boy-Light-Night-Smartphone-Sleep.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "<ul><li>A large-scale study using objective light sensor data found that higher nighttime exposure to artificial light is directly associated with a significantly increased risk of major cardiac even… [+7154 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Naturalnews.com"
     },
-    "author": "Petra Stone",
-    "title": "High-Intensity Exercise Tied to Rise in Bone-Building Protein, Meta-Analysis Finds",
-    "description": "A new meta-analysis of 24 randomized controlled trials involving 1,238 healthy adults found that only high-intensity training produced a clear increase in osteocalcin, a protein marker of bone-building activity, according to a report published in Sports Medic…",
-    "url": "https://www.naturalnews.com/2026-08-15-high-intensity-exercise-tied-bone-building-protein.html",
-    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/high-intensity-exercise-osteocalcin-meta-analysis-3309-original.jpg",
-    "publishedAt": "2026-08-15T06:00:00Z",
-    "content": "A new meta-analysis of 24 randomized controlled trials involving 1,238 healthy adults found that only high-intensity training produced a clear increase in osteocalcin, a protein marker of bone-buildi… [+5486 chars]"
+    "author": "Iva Greene",
+    "title": "Study: Organic Land Management Enhances Soil Enzyme Activity, Reduces Reliance on Petrochemical Fertilizers",
+    "description": "A study published in Agriculture, Ecosystems & Environment found that organic land management enhances the activity of soil enzymes, particularly on sandy soils known for poor water and nutrient retention. Researchers collected soil samples from 74 convention…",
+    "url": "https://www.naturalnews.com/2026-08-16-organic-land-management-enhances-soil-enzyme-activity.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/organic-land-management-soil-enzyme-activity-petrochemical-fertilizers-3391-original.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "A study published in Agriculture, Ecosystems &amp; Environment found that organic land management enhances the activity of soil enzymes, particularly on sandy soils known for poor water and nutrient … [+6272 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Punch"
+      "name": "Naturalnews.com"
     },
-    "author": "Punch Newspapers",
-    "title": "Meet Nigerian professor, Ibrahim Abubakar, appointed CEPI CEO",
-    "description": "Nigerian professor Ibrahim Abubakar has been appointed CEO of CEPI. Learn about his background, research, and global health contributions in this profile.\n\nRead More: https://punchng.com/meet-nigerian-professor-ibrahim-abubakar-appointed-cepi-ceo/",
-    "url": "https://punchng.com/meet-nigerian-professor-ibrahim-abubakar-appointed-cepi-ceo/",
-    "urlToImage": "https://punchng.com/wp-content/uploads/2026/08/image-20_1786746289.webp",
-    "publishedAt": "2026-08-15T05:50:04Z",
-    "content": "Nigerian professor of infectious disease epidemiology, Ibrahim Abubakar, has been appointed the new Chief Executive Officer of the Coalition for Epidemic Preparedness Innovations.\r\nThe appointment wa… [+4081 chars]"
+    "author": "Coco Somers",
+    "title": "Study: Taking Stairs Associated With Lower Risk of Death",
+    "description": "Climbing stairs regularly is associated with a 24% lower risk of death from any cause and a 39% lower risk of death from cardiovascular disease, according to a study published in the American Journal of Cardiovascular Drugs. Researchers at the University of E…",
+    "url": "https://www.naturalnews.com/2026-08-16-study-taking-stairs-associated-lower-risk-death.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/stair-climbing-cardiovascular-disease-all-cause-mortality-3356-original.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "Climbing stairs regularly is associated with a 24% lower risk of death from any cause and a 39% lower risk of death from cardiovascular disease, according to a study published in the American Journal… [+6069 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Naturalnews.com"
     },
-    "author": null,
-    "title": "dpastra 0.1.0",
-    "description": "Cloud-native, ASE-compatible molecular dynamics sessions powered by DPA potentials",
-    "url": "https://pypi.org/project/dpastra/0.1.0/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-15T05:44:57Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "author": "Coco Somers",
+    "title": "Teas for Cold Symptoms: What the Evidence Shows",
+    "description": "A recent overview of natural remedies for cold and influenza symptoms listed herbs, vitamins and foods said to support immune function. According to an article published by Paleohacks and summarized by NaturalNews.com, these remedies are presented as alternat…",
+    "url": "https://www.naturalnews.com/2026-08-16-teas-for-cold-symptoms-what-evidence-shows.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/herbal-tea-common-cold-cold-symptoms-3353-original.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "A recent overview of natural remedies for cold and influenza symptoms listed herbs, vitamins and foods said to support immune function.\r\nAccording to an article published by Paleohacks and summarized… [+7176 chars]"
+  },
+  {
+    "source": {
+      "id": "medical-news-today",
+      "name": "Medical News Today"
+    },
+    "author": "Erika Watts",
+    "title": "3-part treatment may eliminate HIV in newborns, according to animal study",
+    "description": "A study in rhesus macaques suggests that a three-part treatment administered shortly after infection could eliminate HIV in newborns.",
+    "url": "https://www.medicalnewstoday.com/articles/3-part-treatment-may-eliminate-hiv-in-newborns-animal-study",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/08/getty_2277442936_facebook_1200x630-1200x628.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "<ul><li>Researchers at Oregon Health and Science University recently conducted a study on treating a virus similar to human immunodeficiency virus (HIV) in infant monkeys. </li><li>They tested a comb… [+5657 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Naturalnews.com"
     },
-    "author": null,
-    "title": "dpastra added to PyPI",
-    "description": "Cloud-native, ASE-compatible molecular dynamics sessions powered by DPA potentials",
-    "url": "https://pypi.org/project/dpastra/",
-    "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
-    "publishedAt": "2026-08-15T05:44:57Z",
-    "content": "DPAstra = DPA + astra (stars).DPA-native. API-first. Built for frontier MLIPs.\r\nRun molecular dynamics through an LLM-style API\r\nThe destination: interact from a local Python notebook, run molecular … [+3775 chars]"
+    "author": "Patrick Lewis",
+    "title": "Study Says Folic Acid May Prevent Neural Tube Defects Through Vitamin A Pathway",
+    "description": "A study published in PNAS reports that folic acid may protect fetal brain and spinal cord development by supporting the body’s production of retinoic acid, an active form of vitamin A. The findings were described in an article published Aug. 4, 2026, by mindb…",
+    "url": "https://www.naturalnews.com/2026-08-16-study-folic-acid-may-prevent-neural-tube-defects.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/folic-acid-neural-tube-defects-retinoic-acid-3216-original.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "A study published in PNAS reports that folic acid may protect fetal brain and spinal cord development by supporting the bodys production of retinoic acid, an active form of vitamin A. The findings we… [+5742 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Business Standard"
+      "name": "Naturalnews.com"
     },
-    "author": "Auhona Mukherjee",
-    "title": "PM Modi announces AI training for 10 million youth over the next year",
-    "description": "The programme would mark a sharp expansion of existing AI skilling efforts, with Modi also highlighting opportunities in aviation, sports, green mobility and other emerging sectors",
-    "url": "https://www.business-standard.com/india-news/modi-ai-training-one-crore-youth-independence-day-viksit-bharat-126081500716_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/15/full/1786772403-8023.jpg",
-    "publishedAt": "2026-08-15T05:41:33Z",
-    "content": "The programme would mark a sharp expansion of existing AI skilling efforts, with Modi also highlighting opportunities in aviation, sports, green mobility and other emerging sectors\r\nPrime Minister Na… [+2907 chars]"
+    "author": "Ramon Tomey",
+    "title": "Study: Arginine deficiency may weaken immune system",
+    "description": "Researchers at Rockefeller University found that low levels of the amino acid arginine prevent cells from producing MHC-1 proteins, which the immune system uses to identify and destroy cancer cells and viruses. Arginine levels naturally decline with age, and …",
+    "url": "https://www.naturalnews.com/2026-08-16-study-arginine-deficiency-may-weaken-immune-system.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Arginine-sources-1.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "<ul><li>Researchers at Rockefeller University found that low levels of the amino acid arginine prevent cells from producing MHC-1 proteins, which the immune system uses to identify and destroy cancer… [+6382 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Insightmyanmar.org"
+      "name": "Naturalnews.com"
     },
-    "author": "Moe Gyo",
-    "title": "Beyond Disease: Climate Change and Health Insecurity in Myanmar’s Ethnic States — Insight Myanmar",
-    "description": "Beyond Disease: Climate Change and Health Insecurity in Myanmar’s Ethnic States — Insight Myanmarinsightmyanmar.org",
-    "url": "https://insightmyanmar.org/burmadhammablog/2026/8/14/beyond-disease-climate-change-and-health-insecurity-in-myanmars-ethnic-states",
-    "urlToImage": "http://static1.squarespace.com/static/597faad1197aea5e1f3f2378/5e4e375a387ebe2b8e6ef675/6a7ff7598f84e405d825049e/1786772386195/Beyond+Disease.jpg?format=1500w",
-    "publishedAt": "2026-08-15T05:34:50Z",
-    "content": "In Myanmars ethnic regions, climate change is expected to significantly reshape the pattern, distribution, and intensity of many diseases. These changes will not occur in isolation. Instead, they wil… [+12654 chars]"
+    "author": "Kevin Hughes",
+    "title": "Ancient brain surgery: Viking-era skull reveals early medical intervention",
+    "description": "Archaeologists uncovered a Viking-era skull (circa 9th century) in Cambridgeshire with a meticulously drilled 3-centimeter hole—evidence of trepanation, an early surgical procedure to relieve severe headaches or neurological conditions, likely caused by a pit…",
+    "url": "https://www.naturalnews.com/2026-08-16-viking-era-skull-reveals-early-medical-intervention.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Human-Skull.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "<ul><li>Archaeologists uncovered a Viking-era skull (circa 9th century) in Cambridgeshire with a meticulously drilled 3-centimeter holeevidence of trepanation, an early surgical procedure to relieve … [+5628 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Freerepublic.com"
+      "name": "Naturalnews.com"
     },
-    "author": "My Catholic Life! (YouTube)",
-    "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: A Promise and Sign of Hope - Saturday, August 15, 2026",
-    "description": "Daily Readings from the USCCBSolemnity of the Assumption of the Blessed Virgin Mary Mass during the Day“My soul proclaims the greatness of the Lord; my spirit rejoices in God my Savior for he has looked with favor on his lowly servant. From this day all gener…",
-    "url": "https://freerepublic.com/focus/f-religion/4391873/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-08-15T05:33:39Z",
-    "content": "Skip to comments.\r\n[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: A Promise and Sign of Hope - Saturday, August 15, 2026My Catholic Life! (YouTube) ^\r\n | Saturday, August … [+42699 chars]"
+    "author": "Coco Somers",
+    "title": "Cinnamon Tied to Lower Blood Sugar and Cholesterol in 21-Study Analysis",
+    "description": "A new analysis of 21 meta-analyses reports that cinnamon supplementation was associated with lower blood sugar, cholesterol and blood pressure readings, according to findings published in the journal Frontiers in Nutrition. Researchers combined 139 head-to-he…",
+    "url": "https://www.naturalnews.com/2026-08-16-cinnamon-tied-lower-blood-sugar-cholesterol-analysis.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/cinnamon-supplementation-blood-sugar-cholesterol-3305-original.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "A new analysis of 21 meta-analyses reports that cinnamon supplementation was associated with lower blood sugar, cholesterol and blood pressure readings, according to findings published in the journal… [+6527 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Space Daily"
+      "name": "Naturalnews.com"
     },
-    "author": "Mission Notes",
-    "title": "Astronauts’ weight-bearing bones lose around 1 to 1.5 percent of their mineral density every month in microgravity — and with a journey to Mars potentially lasting nine months, their bodies could already be substantially deconditioned before they take a single step on another planet.",
-    "description": "NASA's monthly bone-loss range shows the scale of the Mars-transit risk, but individual outcomes depend on duration, exercise, nutrition and whether loss continues linearly beyond six months.\nThe post Astronauts’ weight-bearing bones lose around 1 to 1.5 perc…",
-    "url": "https://spacedaily.com/t-astronaut-bone-density-loss-nine-month-mars-journey/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-spacedaily-kuipers-ared-iss031e157839-1024x576.jpg",
-    "publishedAt": "2026-08-15T05:30:00Z",
-    "content": "Astronauts do not lose bone evenly in microgravity. The largest changes occur in structures that normally support body weight, particularly the hips, pelvis, legs and spine. Remove the daily forces o… [+5531 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "Do all deers have musk?",
-    "description": "Do All Deer Have Musk? Unveiling the Truth About Cervine Scent Production No, not all deer species possess a musk gland, nor do all individuals within musked species produce significant amounts of it. Musk production and its location vary considerably across …",
-    "url": "https://www.lifesciencesworld.com/do-all-deers-have-musk/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-15T05:27:19Z",
-    "content": "No, not alldeer species possess a musk gland, nor do all individuals within musked species produce significant amounts of it. Musk production and its location vary considerably across the deer family… [+8166 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What is a symbiotic species?",
-    "description": "What is a Symbiotic Species? Unlocking the Secrets of Mutual Dependence Symbiotic species are organisms that live in close proximity with another species, engaging in a reciprocal relationship. These relationships can be mutually beneficial, parasitic, or com…",
-    "url": "https://www.lifesciencesworld.com/what-is-a-symbiotic-species/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-15T05:00:10Z",
-    "content": "Symbiotic species are organisms that live in close proximity with another species, engaging in a reciprocal relationship. These relationships can be mutually beneficial, parasitic, or commensal, shap… [+9234 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Santa Fe New Mexican"
-    },
-    "author": "Margaret O’hara Moharasfnewmexican.com",
-    "title": "Some health clinics seeing more patients as they plan amid shifting federal policies",
-    "description": "Amid a boom in patients nationwide, about half of federally funded clinics in New Mexico saw an increase in patients.",
-    "url": "https://www.santafenewmexican.com/news/local_news/some-health-clinics-seeing-more-patients-as-they-plan-amid-shifting-federal-policies/article_ceff387f-85f1-409c-a10d-0f0947ad31b5.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/5/fa/5fa1ce33-14a7-425b-895d-76b2daac3ff7/6a7e7e8c616fd.image.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-    "publishedAt": "2026-08-15T05:00:00Z",
-    "content": "New Mexicos federally funded health clinics might be coming down with something.\r\nWhile about half of them saw an increase in patients in 2025, the clinics which serve more than 300,000 patients acro… [+8194 chars]"
+    "author": "Coco Somers",
+    "title": "Studies Show Better Sleep Boosts Academic Performance",
+    "description": "Two new studies indicate that regulating sleep may be a significant factor in academic performance for students at multiple ages, according to researchers. The first study was conducted by researchers at the University of Pittsburgh, Carnegie Mellon Universit…",
+    "url": "https://www.naturalnews.com/2026-08-16-studies-show-better-sleep-boosts-academic-performance.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/sleep-academic-performance-college-students-3333-original.jpg",
+    "publishedAt": "2026-08-16T06:00:00Z",
+    "content": "Two new studies indicate that regulating sleep may be a significant factor in academic performance for students at multiple ages, according to researchers.\r\nThe first study was conducted by researche… [+5414 chars]"
   },
   {
     "source": {
@@ -252,11 +226,37 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "Are all mammals two sexes?",
-    "description": "Are All Mammals Two Sexes? The Complexity of Biological Sex in Mammals No, are all mammals two sexes? is a misleading simplification. While most mammals exhibit a clear male/female dichotomy, biological sex determination is more nuanced and exceptions do exis…",
-    "url": "https://www.lifesciencesworld.com/are-all-mammals-two-sexes/",
+    "title": "Why do body cells require oxygen?",
+    "description": "Why Body Cells Need Oxygen: The Vital Role of Oxygen in Cellular Life Our bodies depend on oxygen for survival. Body cells require oxygen primarily for aerobic respiration, the process that efficiently converts nutrients into energy. Without oxygen, cells mus…",
+    "url": "https://www.lifesciencesworld.com/why-do-body-cells-require-oxygen/",
     "urlToImage": null,
-    "publishedAt": "2026-08-15T04:46:59Z",
-    "content": "Are All Mammals Two Sexes? The Complexity of Biological Sex in Mammals\r\nNo, are all mammals two sexes? is a misleading simplification. While most mammals exhibit a clear male/female dichotomy, biolog… [+8508 chars]"
+    "publishedAt": "2026-08-16T05:57:03Z",
+    "content": "Why Body Cells Need Oxygen: The Vital Role of Oxygen in Cellular Life\r\nOur bodies depend on oxygen for survival. Body cells require oxygen primarily for aerobic respiration, the process that efficien… [+9338 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "Who invented charcoal?",
+    "description": "The Unsung Heroes of Fire: Who Invented Charcoal? – A Deep Dive into Charcoal’s Origins While pinpointing a single inventor of charcoal is impossible, due to its discovery predating recorded history, we can attribute its early production and widespread adopti…",
+    "url": "https://www.lifesciencesworld.com/who-invented-charcoal/",
+    "urlToImage": null,
+    "publishedAt": "2026-08-16T05:38:21Z",
+    "content": "The Unsung Heroes of Fire: Who Invented Charcoal? – A Deep Dive into Charcoal’s Origins\r\nWhile pinpointing a single inventor of charcoal is impossible, due to its discovery predating recorded history… [+9197 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Antaranews.com"
+    },
+    "author": "Mecca Yumna, Resinta Sulistiyandari",
+    "title": "NTT quake: Health Ministry acts to restore medical care in 1 week",
+    "description": "The Ministry of Health is targeting for all Regional General Hospitals (RSUD) affected by the earthquake in East Nusa Tenggara (NTT) to resume basic ...",
+    "url": "https://en.antaranews.com/news/427280/ntt-quake-health-ministry-acts-to-restore-medical-care-in-1-week",
+    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/08/16/gempa-bumi-di-labuan-bajo-ntt-1owir-dom.jpg",
+    "publishedAt": "2026-08-16T05:36:23Z",
+    "content": "The Ministry of Health is targeting for all Regional General Hospitals (RSUD) affected by the earthquake in East Nusa Tenggara (NTT) to resume basic services within a week, focusing on trauma surgery… [+2747 chars]"
   }
 ]
