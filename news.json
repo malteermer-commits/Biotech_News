@@ -2,119 +2,67 @@
   {
     "source": {
       "id": null,
-      "name": "Freerepublic.com"
+      "name": "Science Daily"
     },
-    "author": "NY Post",
-    "title": "Judge finds NYC mom with postpartum psychosis not guilty of killing her 2 young kids",
-    "description": "A Bronx judge found a mother of two suffering from postpartum psychosis not guilty of killing her young children in 2022 — while jurors in Massachusetts are in the middle of deliberating a similar fate for Lindsay Clancy. Dimone Fleming, 26, was found not res…",
-    "url": "https://freerepublic.com/focus/f-chat/4393527/posts",
+    "author": null,
+    "title": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
+    "description": "Scientists have cracked a long-standing chemistry problem, creating nanocrystals from tough metal nitrides that were previously extremely difficult to produce at this scale. The breakthrough could turn familiar materials used in LEDs, implants, and supercondu…",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/metal-nitride-nanocrystals.webp",
+    "publishedAt": "2026-08-30T11:45:32Z",
+    "content": "Nanocrystals have become an important part of modern materials science, with quantum dots helping inspire the 2023 Nobel Prize in Chemistry. Yet despite their enormous potential, researchers have onl… [+5048 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Aastha Raj",
+    "title": "Science says some spiders can launch into the sky using silk and electricity to fly and the physics is wild",
+    "description": "Ballooning is a form of aerial dispersal in which a spider climbs to an exposed spot, lifts its abdomen, releases strands of silk and allows the wind to carry it into the air. Some spiders have been recorded at altitudes of around 4 kilometers and are capable…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/science-says-some-spiders-can-launch-into-the-sky-using-silk-and-electricity-to-fly-and-the-physics-is-wild/articleshow/133627833.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133628347,width-1200,height-630,imgsize-136078,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-30T11:25:40Z",
+    "content": "A spider standing on a plant, raising its abdomen and releasing several strands of silk may look like it is simply being carried away by the wind. But the physics of this strange behavior, known as b… [+7841 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ibtimes.com.au"
+    },
+    "author": "Anthony Will",
+    "title": "Jury in Lindsay Clancy Murder Trial Ends the Week Without a Verdict After Asking to See Key Evidence",
+    "description": "The jury in Lindsay Clancy's murder trial deliberates her criminal responsibility amid claims of postpartum psychosis, highlighting maternal mental health issues. A verdict could lead to life imprisonment or psychiatric commitment.",
+    "url": "https://www.ibtimes.com.au/lindsay-clancy-murder-trial-jury-deliberation-1874756",
+    "urlToImage": "https://d.ibtimes.com.au/en/full/1895772/lindsay-clancy-trial-cut-short-judge-cites-unforeseen-circumstance.jpg",
+    "publishedAt": "2026-08-30T11:22:50Z",
+    "content": "Mass. — Jurors in the murder trial of Lindsay Clancy, the Massachusetts mother accused of killing her three young children in 2023, ended their second day of deliberations Friday without reaching a v… [+5680 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": "darrenjwilkinson@btinternet.com",
+    "title": "smfsb 1.2.2",
+    "description": "Python code relating to the textbook, Stochastic modelling for systems biology, third edition",
+    "url": "https://pypi.org/project/smfsb/1.2.2/",
     "urlToImage": null,
-    "publishedAt": "2026-08-29T10:38:06Z",
-    "content": "Skip to comments.\r\nJudge finds NYC mom with postpartum psychosis not guilty of killing her 2 young kidsNY Post ^\r\n | 8/28/26\r\n | Ella Morrison\r\nPosted on 08/29/2026 3:38:06 AM PDT by Libloather\r\nA Br… [+4626 chars]"
+    "publishedAt": "2026-08-30T11:22:33Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Forbes"
+      "name": "Pypi.org"
     },
-    "author": "Toni Fitzgerald, Senior Contributor, \n Toni Fitzgerald, Senior Contributor\n https://www.forbes.com/sites/tonifitzgerald/",
-    "title": "10 Stress Management Books That Can Change How You Handle Pressure",
-    "description": "Discover stress management books that offer practical strategies for reducing burnout, building resilience, and improving your mental well-being.",
-    "url": "https://www.forbes.com/sites/entertainment/article/stress-management-books/",
-    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6a91b03a65ebba6c3af2d946/0x0.jpg?format=jpg&crop=1249,832,x0,y0,safe&height=900&width=1600&fit=bounds",
-    "publishedAt": "2026-08-29T10:30:00Z",
-    "content": "Stress management books can help you gain focus, reduce anxiety, improve relationships and worry less. According to Gallup polling data\r\n, nearly half of Americans report feeling stressed on a daily … [+6344 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Chdgroup.org"
-    },
-    "author": "Chd Group Team",
-    "title": "CHD Group | India's leading public health organization",
-    "description": "For decades, malnutrition sat quietly at the root of many of India's public health challenges, stunted growth in children, anaemia in mothers, and low birth weights that echoed across generations. In 2018, the government launched what is now known as POSHAN A…",
-    "url": "https://chdgroup.org/chd-opinions/how-india&#039;s-is-reshaping-the-nutritional-landscape-and-what-needs-integration",
-    "urlToImage": "https://chdgroup.org/images/6a8d5df6d12ac-reshaping india.png",
-    "publishedAt": "2026-08-29T10:24:51Z",
-    "content": "For decades, malnutrition sat quietly at the root of many of India's public health challenges, stunted growth in children, anaemia in mothers, and low birth weights that echoed across generations. In… [+6629 chars]"
-  },
-  {
-    "source": {
-      "id": "associated-press",
-      "name": "Associated Press"
-    },
-    "author": "Peptides Til",
-    "title": "Peptides TIL Covers Emerging Retatrutide Data From Landmark Phase 3 Trials",
-    "description": "Indianapolis, India - August 29, 2026 - In response to extraordinary scientific momentum surrounding multi-receptor metabolic research, Peptides TIL (an acronym for \" Peptides, Today I Learned \") has officially added Retatrutide to its public analytical repos…",
-    "url": "https://apnews.com/press-release/getnews/press-release-057c882a404347efbfc8520c4eb7482f",
-    "urlToImage": "https://dims.apnews.com/dims4/default/0255526/2147483647/strip/true/crop/773x515+83+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2Fac%2Fbd7c3ed1f62d74e3ecf5c7a76eb8%2F303d124af0db7f112f4bfce05c73b740",
-    "publishedAt": "2026-08-29T10:20:58Z",
-    "content": "Indianapolis, India - August 29, 2026 - In response to extraordinary scientific momentum surrounding multi-receptor metabolic research, Peptides TIL (an acronym for \" Peptides, Today I Learned \") has… [+9539 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "PTI",
-    "title": "Cipla Pharma license cancellation: FDA withdraws order after HC raps it for going 'overboard'",
-    "description": "Maharashtra FDA withdrew its order to cancel Cipla Pharma's drug sale license after court intervention. The Bombay High Court criticized the regulator for acting in a high-handed and overboard manner. The FDA will now issue a fresh show cause notice to the co…",
-    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cipla-pharma-license-cancellation-fda-withdraws-order-after-hc-raps-it-for-going-overboard/articleshow/133609532.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133609555,width-1200,height-630,imgsize-60966,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T10:19:46Z",
-    "content": "Mumbai: The Maharashtra FDA on Saturday withdrew its order to cancel the drug sale licence of Cipla Pharma &amp; Life Sciences Ltd's Carry and Forwarding unit in Pune after the Bombay High Court pull… [+3331 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Abcnews.com"
-    },
-    "author": "MICHAEL CASEY Associated Press",
-    "title": "As jurors deliberate in the Lindsay Clancy trial, here are key moments they may be considering",
-    "description": "Jurors in the Lindsay Clancy murder case must decide whether the former labor and delivery nurse is criminally responsible for killing her three children at her Massachusetts home in 2023",
-    "url": "https://abcnews.com/US/wireStory/jurors-deliberate-lindsay-clancy-trial-key-moments-136052545",
-    "urlToImage": "https://i.abcnewsfe.com/a/ad049905-e3cd-476e-ab12-4aa973a96d03/wirestory_7e3d5aca36b47a1676b63dd3716eb5c0_16x9.jpg?w=1600",
-    "publishedAt": "2026-08-29T10:12:13Z",
-    "content": "PLYMOUTH, Mass. -- Jurors in the closely watched Lindsay Clancy trial began deliberating this week but had not reached a verdict by the end of the day Friday.\r\nThey have a lot to consider.\r\nOver the … [+5503 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The-digital-reader.com"
-    },
-    "author": "Johannes Gottwald",
-    "title": "Interesting Facts About Plants: Amazing Things You Never Knew",
-    "description": "We can find plants all around us, small flowers sprouting in the cracks of pavements and giant trees hundreds of years in the forest. They feed, supply oxygen, shelter, medicine, and a myriad of other things that ensure life on Earth is possible. Plants are o…",
-    "url": "https://the-digital-reader.com/interesting-facts-about-plants/",
-    "urlToImage": "https://the-digital-reader.com/wp-content/uploads/2026/08/Interesting-Facts-About-Plants.webp",
-    "publishedAt": "2026-08-29T10:09:39Z",
-    "content": "29.08.2026Johannes Gottwald\r\n(Senior Editor)\r\nWe can find plants all around us, small flowers sprouting in the cracks of pavements and giant trees hundreds of years in the forest. They feed, supply o… [+12803 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "PTI",
-    "title": "A sick European to 7,044 deaths: How influenza became notifiable disease in Delhi over a century ago",
-    "description": "Influenza claimed over seven thousand lives in Delhi city during the 1918 pandemic.  Archival records show the disease spread rapidly after an initial mild outbreak.  British India administration declared influenza an infectious disease in Delhi in 1920.  Thi…",
-    "url": "https://economictimes.indiatimes.com/news/india/a-sick-european-to-7044-deaths-how-influenza-became-notifiable-disease-in-delhi-over-a-century-ago/articleshow/133609151.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133609402,width-1200,height-630,imgsize-155818,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-29T10:05:48Z",
-    "content": "New Delhi: An ailing European who arrived in Delhi from Shimla was among the first cases recorded as influenza began spreading in the city in 1918. Within months, the disease had claimed 7,044 lives … [+5879 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BusinessLine"
-    },
-    "author": "cuelive",
-    "title": "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water",
-    "description": "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water",
-    "url": "https://www.thehindubusinessline.com/brandhub/pr-release/amid-growing-water-crisis-chandigarh-university-biotechnology-researchers-get-patent-for-innovative-device-to-kitchen-wastewater-reuse-save-potable-water/article71404196.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/incoming/joitfg/article71404195.ece/alternates/LANDSCAPE_1200/PRESS-PIC-001-CU-STUDENTS.jpg",
-    "publishedAt": "2026-08-29T10:00:17Z",
-    "content": "CU Researchers' Patent Two-Stage Filtering Device to Address Water Scarcity with Recycling of Kitchen Wastewater for Gardening, Cleaning and Other Uses\r\nCHANDIGARH, India , Aug. 29, 2026 /PRNewswire/… [+7715 chars]"
+    "author": "koujioku81@gmail.com",
+    "title": "abmptools 2.13.4",
+    "description": "Pre/post-processing and analysis toolkit for ABINIT-MP Fragment Molecular Orbital calculations",
+    "url": "https://pypi.org/project/abmptools/2.13.4/",
+    "urlToImage": null,
+    "publishedAt": "2026-08-30T11:17:26Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
@@ -122,128 +70,193 @@
       "name": "HuffPost"
     },
     "author": "HuffPost",
-    "title": "Compression Socks, Wedge Pillows, Warming Gloves: We Dug Into Which Tools Help Combat Poor Circulation",
-    "description": "Circulation is key to the body’s healing process, according to a doctor.",
-    "url": "https://www.huffpost.com/entry/best-products-for-poor-circulation-ud2_l_6a8dd3f4e4b0bc51108bc781",
-    "urlToImage": "https://img.huffingtonpost.com/asset/696fda8117000099f5aad1e3.jpg?cache=2Y2I35ex3J&ops=500_281%2Cscalefit_1200_630",
-    "publishedAt": "2026-08-29T10:00:17Z",
-    "content": "This past summer, when Donald Trumps medical team claimed that the President had been diagnosed with chronic venous insufficiency, many of us learned that this was just a common form of vein-related … [+7318 chars]"
-  },
-  {
-    "source": {
-      "id": "medical-news-today",
-      "name": "Medical News Today"
-    },
-    "author": "Amy McLean",
-    "title": "Coffee: What the research says about your daily caffeine intake",
-    "description": "Recent research has found that daily cups of coffee could help reduce the risk of liver problems. Regular coffee consumption could also support heart health.",
-    "url": "https://www.medicalnewstoday.com/articles/coffee-what-the-research-says-about-your-daily-coffee-intake",
-    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/08/getty_1468873595_facebook_1200x630-1200x628.jpg",
-    "publishedAt": "2026-08-29T10:00:00Z",
-    "content": "<ul><li>Medical News Today has gathered its recent coverage about some of the possible benefits of coffee.</li><li>The American Heart Association (AHA) suggests that up to 5 cups of coffee per day co… [+5433 chars]"
+    "title": "People On GLP-1s Say They Suddenly Have This 1 Unexpected Obsession",
+    "description": "As food becomes less stimulating, GLP-1 users are gravitating toward this pricey obsession.",
+    "url": "https://www.huffpost.com/entry/people-on-glp-1s-say-they-suddenly-have-this-1-unexpected-obsession-g_l_6a90338ee4b0a9d5e57d07e0",
+    "urlToImage": "https://img.huffingtonpost.com/asset/6a064c74150000e2b6a1f2ea.jpeg?cache=B5ubsgNuhX&ops=500_281%2Cscalefit_1200_630",
+    "publishedAt": "2026-08-30T11:00:19Z",
+    "content": "About three months into taking Zepbound, comedian Todd Masterson got a whiff of a certain Le Labo fragrance and thought about it for days.\r\nI had to go back and buy it. I was obsessed, said Masterson… [+6054 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Scientific American"
+      "name": "HuffPost"
     },
-    "author": "Masha Remskar, The Conversation US",
-    "title": "Why your ability to cope with stress changes with time",
-    "description": "Seasonal changes have more effects on your biology and behavior than you might realize",
-    "url": "https://www.scientificamerican.com/article/why-your-ability-to-cope-with-stress-changes-with-time/",
-    "urlToImage": "https://static.scientificamerican.com/dam/m/2bda795ba4785681/original/man_with_head_in_a_cloud_illustration.jpg?m=1744053466.901&w=1200",
-    "publishedAt": "2026-08-29T10:00:00Z",
-    "content": "Do you feel like the same person in February as in June? For most people, the answer is a resounding no.\r\nDuring winter, your energy tends to dip, your immune system takes a hit and you may feel less… [+7998 chars]"
+    "author": "HuffPost",
+    "title": "'Old Person Smell' Is Real, And Science Will Dictate Whether It Happens To You",
+    "description": "That musty smell could be more than just your old clothes, experts say.",
+    "url": "https://www.huffpost.com/entry/old-person-smell-is-real-and-science-will-dictate-whether-it-happens-to-you-g_l_6a9033cae4b0a9d5e57d0821",
+    "urlToImage": "https://img.huffingtonpost.com/asset/69977e321b00007a4f4cc5c3.jpeg?cache=pusbyOi7Az&ops=500_281%2Cscalefit_1200_630",
+    "publishedAt": "2026-08-30T11:00:19Z",
+    "content": "Can you remember how your favorite grandma smelled? If you think back to a beloved elder, you might be able to summon up the memory of a scent thats been described as a blend of stale oil and musty c… [+6998 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Team Global",
+    "title": "In 1972, NASA sealed 3 astronauts inside a 20-foot chamber for 56 days to rehearse Skylab; the ground experiment exposed hardware and medical problems before launch",
+    "description": "In 1972, three astronauts conducted a remarkable ground simulation, residing in a sealed chamber for a staggering 56 days. This experiment was pivotal in preparing for the upcoming Skylab space station mission. Unexpectedly, engineers uncovered hardware failu…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/in-1972-nasa-sealed-3-astronauts-inside-a-20-foot-chamber-for-56-days-to-rehearse-skylab-the-ground-experiment-exposed-hardware-and-medical-problems-before-launch/articleshow/133608571.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133608612,width-1200,height-630,imgsize-2320660,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-30T10:40:00Z",
+    "content": "On September 20, 1972, three NASA astronauts stepped out of a 20-foot altitude chamber in Houston after spending 56 days sealed inside it. They hadn't been anywhere near space. The test, called the S… [+4990 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mojo4music.com"
+    },
+    "author": "Graeme Thomson",
+    "title": "The Waterboys live in Glasgow review: A spellbinding celebration of their masterpiece",
+    "description": "Featuring honorary new member Steve Earle, The Fisherman’s Blues Revue finds Mike Scott and co diving deep into their landmark 1988 LP, Fisherman's Blues.",
+    "url": "https://www.mojo4music.com/articles/stories/the-waterboys-live-in-glasgow-review/",
+    "urlToImage": "https://images.bauerhosting.com/marketing/sites/16/2026/08/Waterboys-live-smaller--e1788083092338.jpeg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+    "publishedAt": "2026-08-30T10:33:09Z",
+    "content": "OVO Hydro, Glasgow, August 29, 2026\r\nIt seems a little incongruous: The Waterboys taking the homespun music they conceived half a lifetime ago in village pubs, modest front rooms, dilapidated country… [+7151 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Space Daily"
     },
-    "author": "Chris Jeremia",
-    "title": "Cameras on whale shark fins caught them feeding as deep as 68.8 metres",
-    "description": "Camera tags went onto ten whale sharks at Ningaloo Reef and five came back with usable video. In 22 hours and 27 minutes of it, researchers scored 13 behaviours, eight of them feeding, and the deepest feeding they filmed reached 68.8 metres. Those eight sit i…",
-    "url": "https://spacedaily.com/s-cameras-on-whale-shark-fins-caught-them-feeding-as-deep-as-68-8-metres/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/08/whale-shark-fgbnms-1600x840-1.jpg",
-    "publishedAt": "2026-08-29T10:00:00Z",
-    "content": "A whale shark tips nose down, holds its tail almost still, and sinks. The camera watching this is clamped to the leading edge of its dorsal fin, roughly 1.5 to 2 metres behind a mouth it cannot see. … [+8589 chars]"
+    "author": "Daniel Moran",
+    "title": "The mimic octopus off Indonesia can transform itself into a flatfish, lionfish or banded sea snake — and researchers have even watched it switch into the form of a predator of the fish attacking it, suggesting the disguise can change with the threat",
+    "description": "A small octopus on Indonesia's open seafloor has cracked an unexpected survival code: impersonate whatever predator is currently trying to eat you.\nThe post The mimic octopus off Indonesia can transform itself into a flatfish, lionfish or banded sea snake — a…",
+    "url": "https://spacedaily.com/d-the-mimic-octopus-off-indonesia-can-transform-itself-into-a-flatfish-lionfish-or-banded-sea-snake-and-researchers-have-even-watched-it-switch-into-the-form-of-a-predator-of-the-fish-attacki/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/08/Posts-1600840-32.png",
+    "publishedAt": "2026-08-30T10:30:40Z",
+    "content": "Out on the open sand flats off Sulawesi there is nothing to hide behind, which is an awkward situation if you happen to be soft, boneless and roughly the size of somebody’s lunch.\r\nOne octopus there … [+4866 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Intercept"
+      "name": "Richmondmagazine.com"
     },
-    "author": "Austin Campbell",
-    "title": "Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead.",
-    "description": "As the G20 descends on Asheville, the communities that helped rebuild after Hurricane Helene live in fear of Trump’s immigration regime.\nThe post Western North Carolina Pleaded for Hurricane Help. It Got ICE Instead. appeared first on The Intercept.",
-    "url": "https://theintercept.com/2026/08/29/hurricane-helene-ice-asheville-nc-g20-trump/",
-    "urlToImage": "https://theintercept.com/wp-content/uploads/2026/08/Rec-Park-Pool-2026-e1787935780283.jpg?fit=6000%2C3000&w=1200&h=800",
-    "publishedAt": "2026-08-29T10:00:00Z",
-    "content": "After Hurricane Helene, a group called Latinos Aventureros covered more than 4,300 miles crisscrossing Western North Carolina, spending 650 volunteer hours delivering food, water, medicine\r\n,\r\n and o… [+9592 chars]"
+    "author": "Audrey Polverari",
+    "title": "River Teacher",
+    "description": "A whitewater master shares his expertise downstream.",
+    "url": "https://richmondmagazine.com/news/sunday-story/river-teacher/",
+    "urlToImage": "https://richmondmagazine.com/downloads/48919/download/fall-line-river-school_jay-paul.jpg?cb=57e523a3595e531120d5a46e21b125e9&w=1200",
+    "publishedAt": "2026-08-30T10:30:00Z",
+    "content": "In 2009, Karl Schmidt found his niche. A junior at Ohios Kent State University looking for a summer job, he spoke with some whitewater rafting guides at a job fair. No experience required, paychecks … [+5560 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Haaretz"
+      "name": "Science Daily"
     },
-    "author": "Dani Bar On",
-    "title": "Stimulating a single nerve could treat depression and fight inflammation. Is it too good to be true?",
-    "description": "Implants that stimulate the body's longest cranial nerve are already treating epilepsy, depression and rheumatoid arthritis. Scientists are now testing whether they can also combat cancer-related wasting, obesity and PTSD. Meanwhile, can an ice bath or an ear…",
-    "url": "https://www.haaretz.com/science-and-health/2026-08-29/ty-article-magazine/nerve-stimulation-could-fight-depression-and-inflammation-too-good-to-be-true/000001a0-379b-d9fc-ada6-3f9f47730000",
-    "urlToImage": "https://img.haarets.co.il/bs/000001a0-379b-d9fc-ada6-3f9f47730000/fd/9c/02cdede645eab78bcf0921cb8684/brain.jpg?precrop=2000,1163,x0,y604&width=1200&height=630&cmsprod",
-    "publishedAt": "2026-08-29T09:57:11Z",
-    "content": "When Kevin Tracey was five years old and his mother was 29, she was diagnosed with brain cancer. His memory of the last time he saw her is poignant. He was riding with his two younger brothers in the… [+24373 chars]"
+    "author": null,
+    "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
+    "description": "Scientists have discovered seven new species of Madagascar’s elusive diamond frogs, using DNA from modern and century-old museum specimens to solve a long-running biological puzzle. The findings reveal surprising hidden diversity and could help protect these …",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/diamond-frog-rhombophryne-mavokely.webp",
+    "publishedAt": "2026-08-30T10:28:59Z",
+    "content": "An international research team has identified seven previously undescribed species of Madagascar's elusive diamond frogs (Rhombophryne), adding new evidence that this unusual amphibian group is far m… [+5175 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "BusinessLine"
+      "name": "Montreal Gazette"
     },
-    "author": "PTI",
-    "title": "Cipla Pharma license cancellation order withdrawn as HC chides Maharashtra FDA",
-    "description": "FDA withdraws Cipla Pharma's license cancellation after Bombay High Court criticizes its \"high-handed\" approach and lack of due process.",
-    "url": "https://www.thehindubusinessline.com/companies/cipla-pharma-license-cancellation-order-withdrawn-as-hc-chides-maharashtra-fda/article71404120.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/incoming/jt3k3g/article71404138.ece/alternates/LANDSCAPE_1200/2023-10-27T082701Z_855430605_RC2V04A4LSBQ_RTRMADP_3_CIPLA-RESULTS.JPG",
-    "publishedAt": "2026-08-29T09:34:06Z",
-    "content": "The Maharashtra FDA on Saturday withdrew its order to cancel the drug sale licence of Cipla Pharma &amp; Life Sciences Ltd's Carry and Forwarding unit in Pune after the Bombay High Court pulled up th… [+3170 chars]"
+    "author": "Jill Barker",
+    "title": "Fitness: The secret to healthy knees and hips",
+    "description": "Spend less time on the couch and use a combination of diet, exercise and the restorative properties of sleep.",
+    "url": "https://montrealgazette.com/opinion/columnists/fitness-the-secret-to-healthy-knees-and-hips/",
+    "urlToImage": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/08/gettyimages-688005548_302237183.jpg",
+    "publishedAt": "2026-08-30T10:18:05Z",
+    "content": "With so many baby boomers complaining of sore hips and knees and the number of diagnosed cases of osteoarthritis on the rise, researchers are actively exploring strategies to reduce its burden on sub… [+5506 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "mindbodygreen.com"
+      "name": "PRNewswire"
     },
-    "author": "Shamita Trivedi, D.O.",
-    "title": "Your Thyroid Labs Are “Normal”—So Why Don’t You Feel Normal?",
-    "description": "An endocrinologist explains why thyroid numbers are important, but they aren’t always the entire story.",
-    "url": "https://www.mindbodygreen.com/articles/your-thyroid-labs-are-normalso-why-dont-you-feel-normal",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1787924978198_3ubwcv3n2ux.jpg",
-    "publishedAt": "2026-08-29T09:25:00Z",
-    "content": "One of the most common conversations I have with women in my practice starts with: I know my thyroid labs are normal. But I still dont feel like myself. \r\nThey may describe exhaustion despite getting… [+9888 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "Hilary Brueck",
-    "title": "Hormone therapy was once linked to dementia. A huge study found it might lower risk — if you start early enough.",
-    "description": "New studies suggest starting hormone replacement therapy (HRT) in the 40s and 50s can protect brain health, contrary to previous dementia concerns.",
-    "url": "https://www.businessinsider.com/hrt-may-reduce-dementia-risk-if-started-early-menopause-study-2026-8#article",
-    "urlToImage": "https://i.insider.com/6a9185993f7df8787cff4a37?width=1200&format=jpeg",
-    "publishedAt": "2026-08-29T09:00:01Z",
-    "content": "A growing body of evidence suggests hormone therapy can protect the aging brain, if it's timed right.Fiordaliso/Getty Images\r\n<ul><li>Hormone therapy may protect a woman's aging brain, but timing is … [+9124 chars]"
+    "author": null,
+    "title": "Ascletis Announces First Participant Dosed in a Global Phase III Clinical Program of Once-Daily Oral Small Molecule GLP-1 Receptor Agonist ASC30 for Chronic Weight Management",
+    "description": "- Expected to enroll approximately 4,600 participants with obesity or overweight across two pivotal trials (AURORA-1 and AURORA-2) in the U.S., Europe, and Canada. - Global Phase III clinical program to investigate efficacy and safety of three maintenance dos…",
+    "url": "https://www.prnewswire.com/news-releases/ascletis-announces-first-participant-dosed-in-a-global-phase-iii-clinical-program-of-once-daily-oral-small-molecule-glp-1-receptor-agonist-asc30-for-chronic-weight-management-302864376.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1810014/Ascletis-Pharma-Logo.jpg?id=OA2919156&p=facebook",
+    "publishedAt": "2026-08-30T10:15:00Z",
+    "content": "- Expected to enroll approximately 4,600 participants with obesity or overweight across two pivotal trials (AURORA-1 and AURORA-2) in the U.S., Europe, and Canada. \r\n- Global Phase III clinical progr… [+7558 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Business Standard"
+      "name": "Freerepublic.com"
     },
-    "author": "Bloomberg",
-    "title": "How Russia is teaching its children to fight the wars of the future",
-    "description": "The mandatory classes for teenagers include learning about the main types of armaments including machine guns, anti-tank weapons and hand grenades, as well as general military discipline",
-    "url": "https://www.business-standard.com/world-news/how-russia-is-teaching-its-children-to-fight-the-wars-of-the-future-126082900401_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/29/thumb/fitandfill/1200X628/1787993760-4591.jpg",
-    "publishedAt": "2026-08-29T08:56:49Z",
-    "content": "The mandatory classes for teenagers include learning about the main types of armaments including machine guns, anti-tank weapons and hand grenades, as well as general military discipline\r\nA poster of… [+7081 chars]"
+    "author": "Spaceflight Now Spaceflight Now",
+    "title": "Live: SpaceX Falcon Heavy launches NASA's Roman Space Telescope from Kennedy Space Center (Launch 07:25EST)",
+    "description": "Watch live coverage as SpaceX launches a Falcon Heavy rocket from Kennedy Space Center with NASA's $4.3 billion Roman Space Telescope. Liftoff from Launch Complex 39A is scheduled for Sunday, August 30, 2026, at 7:26 a.m. EDT (1126 UTC). The Falcon Heavy's si…",
+    "url": "https://freerepublic.com/focus/f-chat/4393628/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-08-30T10:11:06Z",
+    "content": "Skip to comments.\r\nLive: SpaceX Falcon Heavy launches NASA's Roman Space Telescope from Kennedy Space Center (Launch 07:25EST)Spaceflight Now Spaceflight Now ^\r\n | 08/30/2026\r\n | Spaceflight Now Spac… [+3548 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "HuffPost"
+    },
+    "author": "HuffPost",
+    "title": "'My Grip Isn’t What It Was And This Is My Go To': This Jar Opener Is An $8 Lifesaver",
+    "description": "No more twisting, turning and banging jar tops against the counters. This little find is here to save the day.",
+    "url": "https://www.huffpost.com/entry/otstar-jar-opener-arthritis-kitchen-tool-2026_l_6a90b387e4b0edeb8bbc4f5a",
+    "urlToImage": "https://img.huffingtonpost.com/asset/6937058e19000013487f38ed.jpeg?cache=6Gc3bJ0c7B&ops=500_281%2Cscalefit_1200_630",
+    "publishedAt": "2026-08-30T10:00:17Z",
+    "content": "\"Ordered for wife as a goofy stocking stuffer. I actually needed to use it this morning easily opened an orange juice I was having difficulty getting a grip on.\" M. Richard\r\nStruggling to open a tigh… [+2716 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Married at 9, she lost her only son at 14. She braved being attacked with cow dung, stones to become India’s 1st certified female doctor in 1886",
+    "description": "Anandibai Joshi did not live to see her 22nd birthday. However, in her short life, she achieved multiple milestones, becoming the first certified female doctor who specialised in Western medicine and the first Indian woman to travel to the USA to study medici…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/married-at-9-she-lost-her-only-son-at-14-she-braved-being-attacked-with-cow-dung-stones-to-become-indias-1st-certified-female-doctor-in-1886/articleshow/133626376.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133626704,width-1200,height-630,imgsize-146611,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-08-30T09:19:02Z",
+    "content": "She did not live to be 22, but today, her name is immortalised on a planet. Anandibai Gopalrao Joshi was a trailblazer in many ways. She was the first certified Indian female doctor of Western medici… [+3510 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": "17516970902@163.com",
+    "title": "mapspatial 0.1.2",
+    "description": "Unifying physical and molecular coordinates systems across modalities in spatial biology",
+    "url": "https://pypi.org/project/mapspatial/0.1.2/",
+    "urlToImage": null,
+    "publishedAt": "2026-08-30T09:02:19Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "What does an eagle egg look like?",
+    "description": "What Does an Eagle Egg Look Like? Unveiling the Secrets of Avian Majesty Eagle eggs are typically large, oval-shaped, and possess a dull white or creamy-white coloration, often with subtle brown or reddish-brown speckles. Their impressive size and protective …",
+    "url": "https://www.lifesciencesworld.com/what-does-an-eagle-egg-look-like/",
+    "urlToImage": null,
+    "publishedAt": "2026-08-30T08:08:38Z",
+    "content": "What Does an Eagle Egg Look Like? Unveiling the Secrets of Avian Majesty\r\nEagle eggs are typically large, oval-shaped, and possess a dull white or creamy-white coloration, often with subtle brown or … [+7460 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "Can birds scream in pain?",
+    "description": "Can Birds Scream in Pain? Unveiling Avian Distress Signals Birds, while often perceived as chirping and singing creatures, can indeed scream in pain, although not always in the way humans understand it. Their vocalizations are complex, acting as crucial survi…",
+    "url": "https://www.lifesciencesworld.com/can-birds-scream-in-pain/",
+    "urlToImage": null,
+    "publishedAt": "2026-08-30T08:00:05Z",
+    "content": "Can Birds Scream in Pain? Unveiling Avian Distress Signals\r\nBirds, while often perceived as chirping and singing creatures, can indeed scream in pain, although not always in the way humans understand… [+8252 chars]"
   }
 ]
