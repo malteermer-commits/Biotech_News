@@ -2,171 +2,80 @@
   {
     "source": {
       "id": null,
-      "name": "Science Daily"
+      "name": "Pharmaceutical Technology"
     },
-    "author": null,
-    "title": "A new recipe unlocks “impossible” nanocrystals for LEDs, implants, and superconductors",
-    "description": "Scientists have cracked a long-standing chemistry problem, creating nanocrystals from tough metal nitrides that were previously extremely difficult to produce at this scale. The breakthrough could turn familiar materials used in LEDs, implants, and supercondu…",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260827010510.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/metal-nitride-nanocrystals.webp",
-    "publishedAt": "2026-08-30T11:45:32Z",
-    "content": "Nanocrystals have become an important part of modern materials science, with quantum dots helping inspire the 2023 Nobel Prize in Chemistry. Yet despite their enormous potential, researchers have onl… [+5048 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Aastha Raj",
-    "title": "Science says some spiders can launch into the sky using silk and electricity to fly and the physics is wild",
-    "description": "Ballooning is a form of aerial dispersal in which a spider climbs to an exposed spot, lifts its abdomen, releases strands of silk and allows the wind to carry it into the air. Some spiders have been recorded at altitudes of around 4 kilometers and are capable…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/science-says-some-spiders-can-launch-into-the-sky-using-silk-and-electricity-to-fly-and-the-physics-is-wild/articleshow/133627833.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133628347,width-1200,height-630,imgsize-136078,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-30T11:25:40Z",
-    "content": "A spider standing on a plant, raising its abdomen and releasing several strands of silk may look like it is simply being carried away by the wind. But the physics of this strange behavior, known as b… [+7841 chars]"
+    "author": "Salong Debbarma",
+    "title": "Teva Pharmaceuticals to acquire BioXcel assets for up to $125m",
+    "description": "The transaction would see Teva obtain worldwide rights to Igalmi and the investigational BXCL501.",
+    "url": "https://www.pharmaceutical-technology.com/news/teva-to-acquire-bioxcel-assets/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/f457117cb5937437639ffdd309b2fb3067552e0bfe16da65374604150d32a116/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpharmaceutical_technology_376%2F296495988f158c5b04dd0f8c3e00ffcf.jpg",
+    "publishedAt": "2026-08-31T10:32:23Z",
+    "content": "Teva Pharmaceuticals International has made a bid to acquire a range of neuroscience assets from BioXcel Therapeutics for a total deal value of $125m.\r\nThe agreement arises as part of BioXcel Therape… [+2122 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Ibtimes.com.au"
+      "name": "Medical Daily"
     },
-    "author": "Anthony Will",
-    "title": "Jury in Lindsay Clancy Murder Trial Ends the Week Without a Verdict After Asking to See Key Evidence",
-    "description": "The jury in Lindsay Clancy's murder trial deliberates her criminal responsibility amid claims of postpartum psychosis, highlighting maternal mental health issues. A verdict could lead to life imprisonment or psychiatric commitment.",
-    "url": "https://www.ibtimes.com.au/lindsay-clancy-murder-trial-jury-deliberation-1874756",
-    "urlToImage": "https://d.ibtimes.com.au/en/full/1895772/lindsay-clancy-trial-cut-short-judge-cites-unforeseen-circumstance.jpg",
-    "publishedAt": "2026-08-30T11:22:50Z",
-    "content": "Mass. — Jurors in the murder trial of Lindsay Clancy, the Massachusetts mother accused of killing her three young children in 2023, ended their second day of deliberations Friday without reaching a v… [+5680 chars]"
+    "author": "Dorothy Brooks",
+    "title": "Older Pedestrians Are Injured at No Higher Rate Than Younger Ones but Die Far More Often",
+    "description": "Older pedestrians are hit no more often than younger ones but die far more often. Federal data show the gap has not narrowed in years.",
+    "url": "https://www.medicaldaily.com/older-pedestrian-deaths-fatality-gap-nhtsa-iihs-data-477955",
+    "urlToImage": "https://d.medicaldaily.com/en/full/485206/joaquin-carfagna-pexels.jpg",
+    "publishedAt": "2026-08-31T10:30:17Z",
+    "content": "Adults 65 and older are not injured by vehicles at a higher rate than younger pedestrians. They are far more likely to die when it happens, and that gap has barely moved in nearly two decades.\r\nThe d… [+7695 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Insurance Journal"
     },
-    "author": "darrenjwilkinson@btinternet.com",
-    "title": "smfsb 1.2.2",
-    "description": "Python code relating to the textbook, Stochastic modelling for systems biology, third edition",
-    "url": "https://pypi.org/project/smfsb/1.2.2/",
+    "author": "Admin",
+    "title": "China’s Humanoid Robots Aren’t Smart Enough to Take Your Job – Yet",
+    "description": "Inside a training center in southern China, more than 100 humanoid robots stand in neat rows. A dozen human trainers wearing headsets guide some of them through simple tasks – sorting crates, packaging noodles, making coffee. The humanoids are slow …",
+    "url": "https://www.insurancejournal.com/news/international/2026/08/31/883381.htm",
+    "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/08/robots-ahead-of-opening-ceremony-humanoid-robot-games-in-beijing-AP-scaled.jpg",
+    "publishedAt": "2026-08-31T10:21:50Z",
+    "content": "Inside a training center in southern China, more than 100 humanoid robots stand in neat rows. A dozen human trainers wearing headsets guide some of them through simple tasks sorting crates, packaging… [+18003 chars]"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Gina Vivinetto",
+    "title": "The sardine shortage is real — and it’s not all Gen Z’s fault",
+    "description": "Where are the sardines? There are multiple reasons why the tinned fish can be hard to find, including hot demand and warmer ocean temperatures.",
+    "url": "https://www.nbcnews.com/health/health-news/sardine-shortage-real-tinned-fish-sometimes-hard-find-rcna594538",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260827-sardines-missing-cs-ca446f.jpg",
+    "publishedAt": "2026-08-31T10:18:10Z",
+    "content": "Where are the sardines? The humble little fish, once a plentiful, budget-friendly staple in your grandpas pantry, can sometimes be hard to find. \r\nSardines have become so celebrated by wellness influ… [+4645 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Sarah Shamim",
+    "title": "Nepal tunnel traps hinder flood rescue: How many are dead or missing?",
+    "description": "Flash floods on the Nepal-Tibet border have left nearly 5,000 people missing, many trapped in hydropower tunnels.",
+    "url": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a9539388e-1788164408.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-08-31T10:17:22Z",
+    "content": "Rescue teams in Nepal continue to search for thousands of missing people, five days after devastating flash floods that have left the Himalayan nation grappling with a major humanitarian crisis.\r\nSev… [+6093 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Upenn.edu"
+    },
+    "author": "Mark Liberman",
+    "title": "Evolution of laughing",
+    "description": "…and speech? or at least \"vocal control\"? Chiara De Gregorio, Marina Davila-Ross, & Adriano R. Lameira, \"Rhythm and timing in laughter reveal that human vocal plasticity falls on a hominid continuum\", Nature Communications Biology, 6/25/2026: Laughter is an i…",
+    "url": "https://languagelog.ldc.upenn.edu/nll/?p=74149",
     "urlToImage": null,
-    "publishedAt": "2026-08-30T11:22:33Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "koujioku81@gmail.com",
-    "title": "abmptools 2.13.4",
-    "description": "Pre/post-processing and analysis toolkit for ABINIT-MP Fragment Molecular Orbital calculations",
-    "url": "https://pypi.org/project/abmptools/2.13.4/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-30T11:17:26Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "HuffPost"
-    },
-    "author": "HuffPost",
-    "title": "People On GLP-1s Say They Suddenly Have This 1 Unexpected Obsession",
-    "description": "As food becomes less stimulating, GLP-1 users are gravitating toward this pricey obsession.",
-    "url": "https://www.huffpost.com/entry/people-on-glp-1s-say-they-suddenly-have-this-1-unexpected-obsession-g_l_6a90338ee4b0a9d5e57d07e0",
-    "urlToImage": "https://img.huffingtonpost.com/asset/6a064c74150000e2b6a1f2ea.jpeg?cache=B5ubsgNuhX&ops=500_281%2Cscalefit_1200_630",
-    "publishedAt": "2026-08-30T11:00:19Z",
-    "content": "About three months into taking Zepbound, comedian Todd Masterson got a whiff of a certain Le Labo fragrance and thought about it for days.\r\nI had to go back and buy it. I was obsessed, said Masterson… [+6054 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "HuffPost"
-    },
-    "author": "HuffPost",
-    "title": "'Old Person Smell' Is Real, And Science Will Dictate Whether It Happens To You",
-    "description": "That musty smell could be more than just your old clothes, experts say.",
-    "url": "https://www.huffpost.com/entry/old-person-smell-is-real-and-science-will-dictate-whether-it-happens-to-you-g_l_6a9033cae4b0a9d5e57d0821",
-    "urlToImage": "https://img.huffingtonpost.com/asset/69977e321b00007a4f4cc5c3.jpeg?cache=pusbyOi7Az&ops=500_281%2Cscalefit_1200_630",
-    "publishedAt": "2026-08-30T11:00:19Z",
-    "content": "Can you remember how your favorite grandma smelled? If you think back to a beloved elder, you might be able to summon up the memory of a scent thats been described as a blend of stale oil and musty c… [+6998 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Team Global",
-    "title": "In 1972, NASA sealed 3 astronauts inside a 20-foot chamber for 56 days to rehearse Skylab; the ground experiment exposed hardware and medical problems before launch",
-    "description": "In 1972, three astronauts conducted a remarkable ground simulation, residing in a sealed chamber for a staggering 56 days. This experiment was pivotal in preparing for the upcoming Skylab space station mission. Unexpectedly, engineers uncovered hardware failu…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/in-1972-nasa-sealed-3-astronauts-inside-a-20-foot-chamber-for-56-days-to-rehearse-skylab-the-ground-experiment-exposed-hardware-and-medical-problems-before-launch/articleshow/133608571.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133608612,width-1200,height-630,imgsize-2320660,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-30T10:40:00Z",
-    "content": "On September 20, 1972, three NASA astronauts stepped out of a 20-foot altitude chamber in Houston after spending 56 days sealed inside it. They hadn't been anywhere near space. The test, called the S… [+4990 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mojo4music.com"
-    },
-    "author": "Graeme Thomson",
-    "title": "The Waterboys live in Glasgow review: A spellbinding celebration of their masterpiece",
-    "description": "Featuring honorary new member Steve Earle, The Fisherman’s Blues Revue finds Mike Scott and co diving deep into their landmark 1988 LP, Fisherman's Blues.",
-    "url": "https://www.mojo4music.com/articles/stories/the-waterboys-live-in-glasgow-review/",
-    "urlToImage": "https://images.bauerhosting.com/marketing/sites/16/2026/08/Waterboys-live-smaller--e1788083092338.jpeg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
-    "publishedAt": "2026-08-30T10:33:09Z",
-    "content": "OVO Hydro, Glasgow, August 29, 2026\r\nIt seems a little incongruous: The Waterboys taking the homespun music they conceived half a lifetime ago in village pubs, modest front rooms, dilapidated country… [+7151 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Space Daily"
-    },
-    "author": "Daniel Moran",
-    "title": "The mimic octopus off Indonesia can transform itself into a flatfish, lionfish or banded sea snake — and researchers have even watched it switch into the form of a predator of the fish attacking it, suggesting the disguise can change with the threat",
-    "description": "A small octopus on Indonesia's open seafloor has cracked an unexpected survival code: impersonate whatever predator is currently trying to eat you.\nThe post The mimic octopus off Indonesia can transform itself into a flatfish, lionfish or banded sea snake — a…",
-    "url": "https://spacedaily.com/d-the-mimic-octopus-off-indonesia-can-transform-itself-into-a-flatfish-lionfish-or-banded-sea-snake-and-researchers-have-even-watched-it-switch-into-the-form-of-a-predator-of-the-fish-attacki/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/08/Posts-1600840-32.png",
-    "publishedAt": "2026-08-30T10:30:40Z",
-    "content": "Out on the open sand flats off Sulawesi there is nothing to hide behind, which is an awkward situation if you happen to be soft, boneless and roughly the size of somebody’s lunch.\r\nOne octopus there … [+4866 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Richmondmagazine.com"
-    },
-    "author": "Audrey Polverari",
-    "title": "River Teacher",
-    "description": "A whitewater master shares his expertise downstream.",
-    "url": "https://richmondmagazine.com/news/sunday-story/river-teacher/",
-    "urlToImage": "https://richmondmagazine.com/downloads/48919/download/fall-line-river-school_jay-paul.jpg?cb=57e523a3595e531120d5a46e21b125e9&w=1200",
-    "publishedAt": "2026-08-30T10:30:00Z",
-    "content": "In 2009, Karl Schmidt found his niche. A junior at Ohios Kent State University looking for a summer job, he spoke with some whitewater rafting guides at a job fair. No experience required, paychecks … [+5560 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Science Daily"
-    },
-    "author": null,
-    "title": "Seven new frog species were hiding beneath Madagascar’s forest floor",
-    "description": "Scientists have discovered seven new species of Madagascar’s elusive diamond frogs, using DNA from modern and century-old museum specimens to solve a long-running biological puzzle. The findings reveal surprising hidden diversity and could help protect these …",
-    "url": "https://www.sciencedaily.com/releases/2026/08/260828082347.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/diamond-frog-rhombophryne-mavokely.webp",
-    "publishedAt": "2026-08-30T10:28:59Z",
-    "content": "An international research team has identified seven previously undescribed species of Madagascar's elusive diamond frogs (Rhombophryne), adding new evidence that this unusual amphibian group is far m… [+5175 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Montreal Gazette"
-    },
-    "author": "Jill Barker",
-    "title": "Fitness: The secret to healthy knees and hips",
-    "description": "Spend less time on the couch and use a combination of diet, exercise and the restorative properties of sleep.",
-    "url": "https://montrealgazette.com/opinion/columnists/fitness-the-secret-to-healthy-knees-and-hips/",
-    "urlToImage": "https://montrealgazette.com/wp-content/uploads/sites/2/2026/08/gettyimages-688005548_302237183.jpg",
-    "publishedAt": "2026-08-30T10:18:05Z",
-    "content": "With so many baby boomers complaining of sore hips and knees and the number of diagnosed cases of osteoarthritis on the rise, researchers are actively exploring strategies to reduce its burden on sub… [+5506 chars]"
+    "publishedAt": "2026-08-31T10:13:51Z",
+    "content": "« previous post | \r\n…and speech? or at least \"vocal control\"?\r\nChiara De Gregorio, Marina Davila-Ross, &amp; Adriano R. Lameira, \"Rhythm and timing in laughter reveal that human vocal plasticity fall… [+1885 chars]"
   },
   {
     "source": {
@@ -174,89 +83,167 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Ascletis Announces First Participant Dosed in a Global Phase III Clinical Program of Once-Daily Oral Small Molecule GLP-1 Receptor Agonist ASC30 for Chronic Weight Management",
-    "description": "- Expected to enroll approximately 4,600 participants with obesity or overweight across two pivotal trials (AURORA-1 and AURORA-2) in the U.S., Europe, and Canada. - Global Phase III clinical program to investigate efficacy and safety of three maintenance dos…",
-    "url": "https://www.prnewswire.com/news-releases/ascletis-announces-first-participant-dosed-in-a-global-phase-iii-clinical-program-of-once-daily-oral-small-molecule-glp-1-receptor-agonist-asc30-for-chronic-weight-management-302864376.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1810014/Ascletis-Pharma-Logo.jpg?id=OA2919156&p=facebook",
-    "publishedAt": "2026-08-30T10:15:00Z",
-    "content": "- Expected to enroll approximately 4,600 participants with obesity or overweight across two pivotal trials (AURORA-1 and AURORA-2) in the U.S., Europe, and Canada. \r\n- Global Phase III clinical progr… [+7558 chars]"
+    "title": "The Roxbury Institute Announces In-Network Cigna Access Effective October 15, 2026, for Eligible Patients Seeking Specialized Lipedema Care in California",
+    "description": "LOS ANGELES, Aug. 31, 2026 /PRNewswire/ -- The Roxbury Institute today announced that it will be in-network with Cigna, effective October 15, 2026, for eligible patients seeking specialized lipedema care in California. Dr. David Amron and Dr. Aria Vazirnia, a…",
+    "url": "https://www.prnewswire.com/news-releases/the-roxbury-institute-announces-in-network-cigna-access-effective-october-15-2026-for-eligible-patients-seeking-specialized-lipedema-care-in-california-302863128.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1962367/The-Roxbury-Institute-Logo.jpg?id=OA2918546&p=facebook",
+    "publishedAt": "2026-08-31T10:05:00Z",
+    "content": "LOS ANGELES, Aug. 31, 2026 /PRNewswire/ -- The Roxbury Institute today announced that it will be in-network with Cigna, effective October 15, 2026, for eligible patients seeking specialized lipedema … [+4148 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Freerepublic.com"
+      "name": "PRNewswire"
     },
-    "author": "Spaceflight Now Spaceflight Now",
-    "title": "Live: SpaceX Falcon Heavy launches NASA's Roman Space Telescope from Kennedy Space Center (Launch 07:25EST)",
-    "description": "Watch live coverage as SpaceX launches a Falcon Heavy rocket from Kennedy Space Center with NASA's $4.3 billion Roman Space Telescope. Liftoff from Launch Complex 39A is scheduled for Sunday, August 30, 2026, at 7:26 a.m. EDT (1126 UTC). The Falcon Heavy's si…",
-    "url": "https://freerepublic.com/focus/f-chat/4393628/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-08-30T10:11:06Z",
-    "content": "Skip to comments.\r\nLive: SpaceX Falcon Heavy launches NASA's Roman Space Telescope from Kennedy Space Center (Launch 07:25EST)Spaceflight Now Spaceflight Now ^\r\n | 08/30/2026\r\n | Spaceflight Now Spac… [+3548 chars]"
+    "author": null,
+    "title": "Karmanos Now Offers FDA-Approved Daraxonrasib (Rasonque) for Metastatic Pancreatic Cancer",
+    "description": "Karmanos participated in the pivotal international RASolute 302 clinical trial supporting FDA approval DETROIT, Aug. 31, 2026 /PRNewswire/ -- The Barbara Ann Karmanos Cancer Institute is now offering a new treatment for pancreatic cancer that will soon change…",
+    "url": "https://www.prnewswire.com/news-releases/karmanos-now-offers-fda-approved-daraxonrasib-rasonque-for-metastatic-pancreatic-cancer-302863163.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1977815/Prescription-Pills_GettyImages-2177205229.jpg?id=OA2918725&p=facebook",
+    "publishedAt": "2026-08-31T10:05:00Z",
+    "content": "Karmanos participated in the pivotal international RASolute 302 clinical trial supporting FDA approval\r\nDETROIT, Aug. 31, 2026 /PRNewswire/ -- The Barbara Ann Karmanos Cancer Institute is now offerin… [+3944 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "HuffPost"
+      "name": "Business Standard"
     },
-    "author": "HuffPost",
-    "title": "'My Grip Isn’t What It Was And This Is My Go To': This Jar Opener Is An $8 Lifesaver",
-    "description": "No more twisting, turning and banging jar tops against the counters. This little find is here to save the day.",
-    "url": "https://www.huffpost.com/entry/otstar-jar-opener-arthritis-kitchen-tool-2026_l_6a90b387e4b0edeb8bbc4f5a",
-    "urlToImage": "https://img.huffingtonpost.com/asset/6937058e19000013487f38ed.jpeg?cache=6Gc3bJ0c7B&ops=500_281%2Cscalefit_1200_630",
-    "publishedAt": "2026-08-30T10:00:17Z",
-    "content": "\"Ordered for wife as a goofy stocking stuffer. I actually needed to use it this morning easily opened an orange juice I was having difficulty getting a grip on.\" M. Richard\r\nStruggling to open a tigh… [+2716 chars]"
+    "author": "SI Reporter",
+    "title": "Hy-Tech may outshine Skyways, Symbiotec on listing day, GMP signals",
+    "description": "Hy-Tech Engineers IPO GMP is 79 per cent, while Skyways Air and Symbiotec Pharmalab are expected to list at over 20 per cent premium: Skyways Air IPO GMP",
+    "url": "https://www.business-standard.com/markets/ipo/hy-tech-ipo-may-outshine-skyways-symbiotec-on-listing-day-gmp-signals-126083100690_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/12/thumb/featurecrop/1200X628/1786526524-7727.jpg",
+    "publishedAt": "2026-08-31T10:04:50Z",
+    "content": "Hy-Tech Engineers IPO GMP is 79 per cent, while Skyways Air and Symbiotec Pharmalab are expected to list at over 20 per cent premium.\r\nThe three IPOs had opened for bidding last week on August 24 and… [+3132 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Jacqueline Howard, CNN",
+    "title": "Is it safe to eat lettuce yet? What to know as cyclosporiasis outbreak lingers",
+    "description": "As federal health officials continue to investigate this summer’s outbreak of cyclosporiasis that has been tied to iceberg lettuce, many people are wondering...",
+    "url": "https://www.cnn.com/2026/08/31/health/lettuce-cyclosporiasis-outbreak-wellness",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/2fda524390ad2e3559ba7daa3de6fd2c156983f45fe1a418353799994ad1bc41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F66ef4192ca37fb3a8a4779c1cfbc152b.jpg",
+    "publishedAt": "2026-08-31T10:00:30Z",
+    "content": "As federal health officials continue to investigate this summer's outbreak of cyclosporiasis tied to iceberg lettuce, many people are left wondering: Is it safe to eat lettuce yet?\r\nFor now, the answ… [+7749 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Dr. Jacquelyn Shaw",
+    "title": "The biggest myths about a common women’s condition — and why it’s so difficult to diagnose",
+    "description": "Polyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), is a complex condition involving multiple interconnected body systems with symptoms that extend well beyond the ovaries and fertility.",
+    "url": "https://nypost.com/2026/08/31/health/the-biggest-myths-about-pmos-and-why-its-so-hard-to-diagnose/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40516154_a2db0c.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-08-31T10:00:00Z",
+    "content": "What’s in a name?\r\nWhen it comes to medical conditions, the right moniker can mean the difference between a delayed diagnosis and an accurate one.\r\nTake polyendocrine metabolic ovarian syndrome (PMOS… [+6467 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Ziihera® (zanidatamab-hrii) plus Chemotherapy Demonstrates Statistically Significant Overall Survival Benefit Versus Trastuzumab plus Chemotherapy in First-Line HER2+ Advanced GEA",
+    "description": "HERIZON-GEA-01 results reinforce recently FDA-approved Ziihera as the definitive HER2-targeted backbone therapy in first-line GEA Longer follow up of Ziihera plus tislelizumab and chemotherapy shows improved OS hazard ratio, further supporting this regimen as…",
+    "url": "https://www.prnewswire.com/news-releases/ziihera-zanidatamab-hrii-plus-chemotherapy-demonstrates-statistically-significant-overall-survival-benefit-versus-trastuzumab-plus-chemotherapy-in-first-line-her2-advanced-gea-302864427.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS378420/Jazz-Pharmaceuticals-New-Logo.jpg?id=OA2919218&p=facebook",
+    "publishedAt": "2026-08-31T10:00:00Z",
+    "content": "HERIZON-GEA-01 results reinforce recently FDA-approved Ziihera as the definitive HER2-targeted backbone therapy in first-line GEA\r\nLonger follow up of Ziihera plus tislelizumab and chemotherapy shows… [+22387 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "IDEAYA Biosciences Announces Successful FDA Type C Meeting for IDE849, DLL3 TOP1 ADC, on Phase 3 Registrational Trial Design for Potential Accelerated and Full Approval in Extensive Stage Small Cell Lung Cancer",
+    "description": "Based on FDA Type C meeting, targeting to initiate a randomized Phase 3 registrational trial for IDE849 monotherapy by year-end 2026 in ES-SCLC, with ORR by BICR as the primary endpoint for potential accelerated approval and median OS as the primary endpoint …",
+    "url": "https://www.prnewswire.com/news-releases/ideaya-biosciences-announces-successful-fda-type-c-meeting-for-ide849-dll3-top1-adc-on-phase-3-registrational-trial-design-for-potential-accelerated-and-full-approval-in-extensive-stage-small-cell-lung-cancer-302864315.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1161589/IDEAYA-v2-Logo.jpg?id=OA2917373&p=facebook",
+    "publishedAt": "2026-08-31T10:00:00Z",
+    "content": "<ul><li>Based on FDA Type C meeting, targeting to initiate a randomized Phase 3 registrational trial for IDE849 monotherapy by year-end 2026 in ES-SCLC, with ORR by BICR as the primary endpoint for p… [+9797 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": "Michele McDougall",
+    "title": "Manitoba should be monitoring prairie pothole marshes, university instructor says",
+    "description": "There are thousands of prairie pothole marshes in southwestern Manitoba. Gordon Goldsborough, an associate professor of biological sciences, says the province is not keeping track of these important ecological areas — and it should.",
+    "url": "https://www.cbc.ca/news/canada/manitoba/prairie-pothole-marshes-wetlands-university-9.7323370",
+    "urlToImage": "https://i.cbc.ca/ais/96016038-2fbd-4849-bce2-49441f113680,1788115707722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C60%2C1882%2C1058%29%3BResize%3D620",
+    "publishedAt": "2026-08-31T10:00:00Z",
+    "content": "There are thousands of prairie pothole marshes also called nature's kidneys because of their purification powers in southwestern Manitoba.\r\nBut Gordon Goldsborough, an ecologist and an associate prof… [+3692 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "DW (English)"
+    },
+    "author": "Aditi Rajagopal",
+    "title": "Inside the sea cucumber smuggling boom",
+    "description": "A quiet multimillion‑dollar black market is exploding across the Indian Ocean, driven by one unlikely animal: the sea cucumber.",
+    "url": "https://www.dw.com/en/inside-the-sea-cucumber-smuggling-boom/a-78005662",
+    "urlToImage": "https://static.dw.com/image/77970285_6.jpg",
+    "publishedAt": "2026-08-31T09:59:00Z",
+    "content": "When it comes to smuggling, squishy sea blobs that spend their lives eating and pooping are probably not what comes to mind. But a group of lumpen creatures known as sea cucumbers are at the center o… [+6287 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "ET Online",
-    "title": "Married at 9, she lost her only son at 14. She braved being attacked with cow dung, stones to become India’s 1st certified female doctor in 1886",
-    "description": "Anandibai Joshi did not live to see her 22nd birthday. However, in her short life, she achieved multiple milestones, becoming the first certified female doctor who specialised in Western medicine and the first Indian woman to travel to the USA to study medici…",
-    "url": "https://economictimes.indiatimes.com/magazines/panache/married-at-9-she-lost-her-only-son-at-14-she-braved-being-attacked-with-cow-dung-stones-to-become-indias-1st-certified-female-doctor-in-1886/articleshow/133626376.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133626704,width-1200,height-630,imgsize-146611,overlay-etpanache/articleshow.jpg",
-    "publishedAt": "2026-08-30T09:19:02Z",
-    "content": "She did not live to be 22, but today, her name is immortalised on a planet. Anandibai Gopalrao Joshi was a trailblazer in many ways. She was the first certified Indian female doctor of Western medici… [+3510 chars]"
+    "author": "Teena Thacker",
+    "title": "Mahajan Imaging, Neuberg Diagnostics join hands to scale pathology, genomics in North India",
+    "description": "Mahajan Imaging and Neuberg Diagnostics have formed a strategic joint venture. This partnership aims to expand pathology and genomics services across North India. The collaboration will leverage combined infrastructure and expertise for enhanced diagnostic ca…",
+    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/mahajan-imaging-and-neuberg-diagnostics-strategic-joint-venture-to-transform-pathology-and-genomics-services-in-north-india/articleshow/133648890.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133649170,width-1200,height-630,imgsize-64906,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-08-31T09:53:01Z",
+    "content": "Mahajan Imaging &amp; Labs and Chennai based-Neuber Diagnostics have entered into a strategic joint venture to strengthen and expand pathology, genomics and wellness services across North India.Radio… [+1967 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Pypi.org"
     },
-    "author": "17516970902@163.com",
-    "title": "mapspatial 0.1.2",
-    "description": "Unifying physical and molecular coordinates systems across modalities in spatial biology",
-    "url": "https://pypi.org/project/mapspatial/0.1.2/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-30T09:02:19Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "author": "remi.trimbour@gmail.com",
+    "title": "recon 0.0.4",
+    "description": "ReCoN: [Reconstruction of multicellular systems from single-cell data to predict perturbation responses and cell programs coordination]",
+    "url": "https://pypi.org/project/recon/",
+    "urlToImage": "https://pypi.org/static/images/og-card.00947198.webp",
+    "publishedAt": "2026-08-31T09:49:24Z",
+    "content": "ReCoN is a new tool for reconstructing multicellular models.\r\nIt combines both gene regulatory networks and cell communication networks to explore the molecular coordinations between multiple cell ty… [+4025 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lifesciencesworld.com"
+      "name": "The Root"
     },
-    "author": "Ava Reynolds",
-    "title": "What does an eagle egg look like?",
-    "description": "What Does an Eagle Egg Look Like? Unveiling the Secrets of Avian Majesty Eagle eggs are typically large, oval-shaped, and possess a dull white or creamy-white coloration, often with subtle brown or reddish-brown speckles. Their impressive size and protective …",
-    "url": "https://www.lifesciencesworld.com/what-does-an-eagle-egg-look-like/",
+    "author": "Krissah Thompson",
+    "title": "What Happens on the Vineyard Doesn’t Stay on the Vineyard",
+    "description": "Black leaders came to Martha's Vineyard for rest. They left with candidate pipelines, donor networks and a set of instructions that don't expire in November.Read more...",
+    "url": "https://www.theroot.com/what-happens-on-the-vineyard-doesnt-stay-on-the-vineyar-2000123725",
     "urlToImage": null,
-    "publishedAt": "2026-08-30T08:08:38Z",
-    "content": "What Does an Eagle Egg Look Like? Unveiling the Secrets of Avian Majesty\r\nEagle eggs are typically large, oval-shaped, and possess a dull white or creamy-white coloration, often with subtle brown or … [+7460 chars]"
+    "publishedAt": "2026-08-31T09:39:47Z",
+    "content": "Throughout the summer, your social media feed has likely given you a narrow glimpse of Martha’s Vineyard: endless all-white-attire parties, a who’s who of Black political figures and influencers, and… [+11848 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lifesciencesworld.com"
+      "name": "Crypto Briefing"
     },
-    "author": "Ava Reynolds",
-    "title": "Can birds scream in pain?",
-    "description": "Can Birds Scream in Pain? Unveiling Avian Distress Signals Birds, while often perceived as chirping and singing creatures, can indeed scream in pain, although not always in the way humans understand it. Their vocalizations are complex, acting as crucial survi…",
-    "url": "https://www.lifesciencesworld.com/can-birds-scream-in-pain/",
-    "urlToImage": null,
-    "publishedAt": "2026-08-30T08:00:05Z",
-    "content": "Can Birds Scream in Pain? Unveiling Avian Distress Signals\r\nBirds, while often perceived as chirping and singing creatures, can indeed scream in pain, although not always in the way humans understand… [+8252 chars]"
+    "author": "Editorial Team",
+    "title": "Anthropic expands into health care to boost investor confidence",
+    "description": "Anthropic's healthcare expansion could significantly enhance operational efficiencies, potentially increasing its market valuation and IPO appeal.\nThe post Anthropic expands into health care to boost investor confidence appeared first on Crypto Briefing.",
+    "url": "https://cryptobriefing.com/anthropic-healthcare-expansion-investor-confidence/",
+    "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/31053718/library-anthropic-expands-into-health-care-to-boost-investor-con-800x450.png",
+    "publishedAt": "2026-08-31T09:37:22Z",
+    "content": "The AI lab's HIPAA-compliant Claude for Healthcare platform is signing hospital deals and posting real efficiency numbers as Anthropic's valuation approaches $1 trillion. Anthropic launched Claude fo… [+1893 chars]"
   }
 ]
