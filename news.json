@@ -2,80 +2,15 @@
   {
     "source": {
       "id": null,
-      "name": "Pharmaceutical Technology"
+      "name": "Pypi.org"
     },
-    "author": "Salong Debbarma",
-    "title": "Teva Pharmaceuticals to acquire BioXcel assets for up to $125m",
-    "description": "The transaction would see Teva obtain worldwide rights to Igalmi and the investigational BXCL501.",
-    "url": "https://www.pharmaceutical-technology.com/news/teva-to-acquire-bioxcel-assets/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/f457117cb5937437639ffdd309b2fb3067552e0bfe16da65374604150d32a116/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpharmaceutical_technology_376%2F296495988f158c5b04dd0f8c3e00ffcf.jpg",
-    "publishedAt": "2026-08-31T10:32:23Z",
-    "content": "Teva Pharmaceuticals International has made a bid to acquire a range of neuroscience assets from BioXcel Therapeutics for a total deal value of $125m.\r\nThe agreement arises as part of BioXcel Therape… [+2122 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Dorothy Brooks",
-    "title": "Older Pedestrians Are Injured at No Higher Rate Than Younger Ones but Die Far More Often",
-    "description": "Older pedestrians are hit no more often than younger ones but die far more often. Federal data show the gap has not narrowed in years.",
-    "url": "https://www.medicaldaily.com/older-pedestrian-deaths-fatality-gap-nhtsa-iihs-data-477955",
-    "urlToImage": "https://d.medicaldaily.com/en/full/485206/joaquin-carfagna-pexels.jpg",
-    "publishedAt": "2026-08-31T10:30:17Z",
-    "content": "Adults 65 and older are not injured by vehicles at a higher rate than younger pedestrians. They are far more likely to die when it happens, and that gap has barely moved in nearly two decades.\r\nThe d… [+7695 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Insurance Journal"
-    },
-    "author": "Admin",
-    "title": "China’s Humanoid Robots Aren’t Smart Enough to Take Your Job – Yet",
-    "description": "Inside a training center in southern China, more than 100 humanoid robots stand in neat rows. A dozen human trainers wearing headsets guide some of them through simple tasks – sorting crates, packaging noodles, making coffee. The humanoids are slow …",
-    "url": "https://www.insurancejournal.com/news/international/2026/08/31/883381.htm",
-    "urlToImage": "https://www.insurancejournal.com/app/uploads/2026/08/robots-ahead-of-opening-ceremony-humanoid-robot-games-in-beijing-AP-scaled.jpg",
-    "publishedAt": "2026-08-31T10:21:50Z",
-    "content": "Inside a training center in southern China, more than 100 humanoid robots stand in neat rows. A dozen human trainers wearing headsets guide some of them through simple tasks sorting crates, packaging… [+18003 chars]"
-  },
-  {
-    "source": {
-      "id": "nbc-news",
-      "name": "NBC News"
-    },
-    "author": "Gina Vivinetto",
-    "title": "The sardine shortage is real — and it’s not all Gen Z’s fault",
-    "description": "Where are the sardines? There are multiple reasons why the tinned fish can be hard to find, including hot demand and warmer ocean temperatures.",
-    "url": "https://www.nbcnews.com/health/health-news/sardine-shortage-real-tinned-fish-sometimes-hard-find-rcna594538",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260827-sardines-missing-cs-ca446f.jpg",
-    "publishedAt": "2026-08-31T10:18:10Z",
-    "content": "Where are the sardines? The humble little fish, once a plentiful, budget-friendly staple in your grandpas pantry, can sometimes be hard to find. \r\nSardines have become so celebrated by wellness influ… [+4645 chars]"
-  },
-  {
-    "source": {
-      "id": "al-jazeera-english",
-      "name": "Al Jazeera English"
-    },
-    "author": "Sarah Shamim",
-    "title": "Nepal tunnel traps hinder flood rescue: How many are dead or missing?",
-    "description": "Flash floods on the Nepal-Tibet border have left nearly 5,000 people missing, many trapped in hydropower tunnels.",
-    "url": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing",
-    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a9539388e-1788164408.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-08-31T10:17:22Z",
-    "content": "Rescue teams in Nepal continue to search for thousands of missing people, five days after devastating flash floods that have left the Himalayan nation grappling with a major humanitarian crisis.\r\nSev… [+6093 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Upenn.edu"
-    },
-    "author": "Mark Liberman",
-    "title": "Evolution of laughing",
-    "description": "…and speech? or at least \"vocal control\"? Chiara De Gregorio, Marina Davila-Ross, & Adriano R. Lameira, \"Rhythm and timing in laughter reveal that human vocal plasticity falls on a hominid continuum\", Nature Communications Biology, 6/25/2026: Laughter is an i…",
-    "url": "https://languagelog.ldc.upenn.edu/nll/?p=74149",
+    "author": "h-matsui@yz.yamagata-u.ac.jp",
+    "title": "yu-bcal added to PyPI",
+    "description": "Program for the calculation of band structure and effective mass using the tight-binding method",
+    "url": "https://pypi.org/project/yu-bcal/",
     "urlToImage": null,
-    "publishedAt": "2026-08-31T10:13:51Z",
-    "content": "« previous post | \r\n…and speech? or at least \"vocal control\"?\r\nChiara De Gregorio, Marina Davila-Ross, &amp; Adriano R. Lameira, \"Rhythm and timing in laughter reveal that human vocal plasticity fall… [+1885 chars]"
+    "publishedAt": "2026-09-01T10:00:05Z",
+    "content": "bcal: Program for the calculation of band structure and effective mass for organic semiconductor crystals\r\nEnglish / \r\nOverview\r\nbcal is a tool for calculating the band structure and effective masses… [+13873 chars]"
   },
   {
     "source": {
@@ -83,12 +18,12 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "The Roxbury Institute Announces In-Network Cigna Access Effective October 15, 2026, for Eligible Patients Seeking Specialized Lipedema Care in California",
-    "description": "LOS ANGELES, Aug. 31, 2026 /PRNewswire/ -- The Roxbury Institute today announced that it will be in-network with Cigna, effective October 15, 2026, for eligible patients seeking specialized lipedema care in California. Dr. David Amron and Dr. Aria Vazirnia, a…",
-    "url": "https://www.prnewswire.com/news-releases/the-roxbury-institute-announces-in-network-cigna-access-effective-october-15-2026-for-eligible-patients-seeking-specialized-lipedema-care-in-california-302863128.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1962367/The-Roxbury-Institute-Logo.jpg?id=OA2918546&p=facebook",
-    "publishedAt": "2026-08-31T10:05:00Z",
-    "content": "LOS ANGELES, Aug. 31, 2026 /PRNewswire/ -- The Roxbury Institute today announced that it will be in-network with Cigna, effective October 15, 2026, for eligible patients seeking specialized lipedema … [+4148 chars]"
+    "title": "Pinnacle Fertility Ohio Expands Columbus Physician Team with Addition of Dr. Morgan Wilhoite",
+    "description": "WESTERVILLE, Ohio, Sept. 1, 2026 /PRNewswire/ -- Pinnacle Fertility Ohio proudly welcomes Morgan Wilhoite, DO, FACOG, a fellowship-trained reproductive endocrinologist and infertility specialist, to its physician team. Dr. Wilhoite will see patients at the pr…",
+    "url": "https://www.prnewswire.com/news-releases/pinnacle-fertility-ohio-expands-columbus-physician-team-with-addition-of-dr-morgan-wilhoite-302865591.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1978981/Pinnacle-Fertility-Headshot.jpg?id=OA2921840&p=facebook",
+    "publishedAt": "2026-09-01T10:00:00Z",
+    "content": "WESTERVILLE, Ohio, Sept. 1, 2026 /PRNewswire/ -- Pinnacle Fertility Ohio proudly welcomes Morgan Wilhoite, DO, FACOG, a fellowship-trained reproductive endocrinologist and infertility specialist, to … [+5032 chars]"
   },
   {
     "source": {
@@ -96,51 +31,12 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Karmanos Now Offers FDA-Approved Daraxonrasib (Rasonque) for Metastatic Pancreatic Cancer",
-    "description": "Karmanos participated in the pivotal international RASolute 302 clinical trial supporting FDA approval DETROIT, Aug. 31, 2026 /PRNewswire/ -- The Barbara Ann Karmanos Cancer Institute is now offering a new treatment for pancreatic cancer that will soon change…",
-    "url": "https://www.prnewswire.com/news-releases/karmanos-now-offers-fda-approved-daraxonrasib-rasonque-for-metastatic-pancreatic-cancer-302863163.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1977815/Prescription-Pills_GettyImages-2177205229.jpg?id=OA2918725&p=facebook",
-    "publishedAt": "2026-08-31T10:05:00Z",
-    "content": "Karmanos participated in the pivotal international RASolute 302 clinical trial supporting FDA approval\r\nDETROIT, Aug. 31, 2026 /PRNewswire/ -- The Barbara Ann Karmanos Cancer Institute is now offerin… [+3944 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Business Standard"
-    },
-    "author": "SI Reporter",
-    "title": "Hy-Tech may outshine Skyways, Symbiotec on listing day, GMP signals",
-    "description": "Hy-Tech Engineers IPO GMP is 79 per cent, while Skyways Air and Symbiotec Pharmalab are expected to list at over 20 per cent premium: Skyways Air IPO GMP",
-    "url": "https://www.business-standard.com/markets/ipo/hy-tech-ipo-may-outshine-skyways-symbiotec-on-listing-day-gmp-signals-126083100690_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/12/thumb/featurecrop/1200X628/1786526524-7727.jpg",
-    "publishedAt": "2026-08-31T10:04:50Z",
-    "content": "Hy-Tech Engineers IPO GMP is 79 per cent, while Skyways Air and Symbiotec Pharmalab are expected to list at over 20 per cent premium.\r\nThe three IPOs had opened for bidding last week on August 24 and… [+3132 chars]"
-  },
-  {
-    "source": {
-      "id": "cnn",
-      "name": "CNN"
-    },
-    "author": "Jacqueline Howard, CNN",
-    "title": "Is it safe to eat lettuce yet? What to know as cyclosporiasis outbreak lingers",
-    "description": "As federal health officials continue to investigate this summer’s outbreak of cyclosporiasis that has been tied to iceberg lettuce, many people are wondering...",
-    "url": "https://www.cnn.com/2026/08/31/health/lettuce-cyclosporiasis-outbreak-wellness",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/2fda524390ad2e3559ba7daa3de6fd2c156983f45fe1a418353799994ad1bc41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F66ef4192ca37fb3a8a4779c1cfbc152b.jpg",
-    "publishedAt": "2026-08-31T10:00:30Z",
-    "content": "As federal health officials continue to investigate this summer's outbreak of cyclosporiasis tied to iceberg lettuce, many people are left wondering: Is it safe to eat lettuce yet?\r\nFor now, the answ… [+7749 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Dr. Jacquelyn Shaw",
-    "title": "The biggest myths about a common women’s condition — and why it’s so difficult to diagnose",
-    "description": "Polyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), is a complex condition involving multiple interconnected body systems with symptoms that extend well beyond the ovaries and fertility.",
-    "url": "https://nypost.com/2026/08/31/health/the-biggest-myths-about-pmos-and-why-its-so-hard-to-diagnose/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40516154_a2db0c.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-08-31T10:00:00Z",
-    "content": "What’s in a name?\r\nWhen it comes to medical conditions, the right moniker can mean the difference between a delayed diagnosis and an accurate one.\r\nTake polyendocrine metabolic ovarian syndrome (PMOS… [+6467 chars]"
+    "title": "IDEAYA Biosciences Announces London Investor R&D Day and Participation in Upcoming September 2026 Investor Conferences",
+    "description": "SOUTH SAN FRANCISCO, Calif., Sept. 1, 2026 /PRNewswire/ -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted therapeutics, today announced its upcoming Investor R&D Day in Lon…",
+    "url": "https://www.prnewswire.com/news-releases/ideaya-biosciences-announces-london-investor-rd-day-and-participation-in-upcoming-september-2026-investor-conferences-302865528.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1161589/IDEAYA-v2-Logo.jpg?id=OA2921901&p=facebook",
+    "publishedAt": "2026-09-01T10:00:00Z",
+    "content": "SOUTH SAN FRANCISCO, Calif., Sept. 1, 2026 /PRNewswire/ -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted therap… [+4339 chars]"
   },
   {
     "source": {
@@ -148,102 +44,180 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Ziihera® (zanidatamab-hrii) plus Chemotherapy Demonstrates Statistically Significant Overall Survival Benefit Versus Trastuzumab plus Chemotherapy in First-Line HER2+ Advanced GEA",
-    "description": "HERIZON-GEA-01 results reinforce recently FDA-approved Ziihera as the definitive HER2-targeted backbone therapy in first-line GEA Longer follow up of Ziihera plus tislelizumab and chemotherapy shows improved OS hazard ratio, further supporting this regimen as…",
-    "url": "https://www.prnewswire.com/news-releases/ziihera-zanidatamab-hrii-plus-chemotherapy-demonstrates-statistically-significant-overall-survival-benefit-versus-trastuzumab-plus-chemotherapy-in-first-line-her2-advanced-gea-302864427.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS378420/Jazz-Pharmaceuticals-New-Logo.jpg?id=OA2919218&p=facebook",
-    "publishedAt": "2026-08-31T10:00:00Z",
-    "content": "HERIZON-GEA-01 results reinforce recently FDA-approved Ziihera as the definitive HER2-targeted backbone therapy in first-line GEA\r\nLonger follow up of Ziihera plus tislelizumab and chemotherapy shows… [+22387 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "IDEAYA Biosciences Announces Successful FDA Type C Meeting for IDE849, DLL3 TOP1 ADC, on Phase 3 Registrational Trial Design for Potential Accelerated and Full Approval in Extensive Stage Small Cell Lung Cancer",
-    "description": "Based on FDA Type C meeting, targeting to initiate a randomized Phase 3 registrational trial for IDE849 monotherapy by year-end 2026 in ES-SCLC, with ORR by BICR as the primary endpoint for potential accelerated approval and median OS as the primary endpoint …",
-    "url": "https://www.prnewswire.com/news-releases/ideaya-biosciences-announces-successful-fda-type-c-meeting-for-ide849-dll3-top1-adc-on-phase-3-registrational-trial-design-for-potential-accelerated-and-full-approval-in-extensive-stage-small-cell-lung-cancer-302864315.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1161589/IDEAYA-v2-Logo.jpg?id=OA2917373&p=facebook",
-    "publishedAt": "2026-08-31T10:00:00Z",
-    "content": "<ul><li>Based on FDA Type C meeting, targeting to initiate a randomized Phase 3 registrational trial for IDE849 monotherapy by year-end 2026 in ES-SCLC, with ORR by BICR as the primary endpoint for p… [+9797 chars]"
-  },
-  {
-    "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
-    },
-    "author": "Michele McDougall",
-    "title": "Manitoba should be monitoring prairie pothole marshes, university instructor says",
-    "description": "There are thousands of prairie pothole marshes in southwestern Manitoba. Gordon Goldsborough, an associate professor of biological sciences, says the province is not keeping track of these important ecological areas — and it should.",
-    "url": "https://www.cbc.ca/news/canada/manitoba/prairie-pothole-marshes-wetlands-university-9.7323370",
-    "urlToImage": "https://i.cbc.ca/ais/96016038-2fbd-4849-bce2-49441f113680,1788115707722/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C60%2C1882%2C1058%29%3BResize%3D620",
-    "publishedAt": "2026-08-31T10:00:00Z",
-    "content": "There are thousands of prairie pothole marshes also called nature's kidneys because of their purification powers in southwestern Manitoba.\r\nBut Gordon Goldsborough, an ecologist and an associate prof… [+3692 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "DW (English)"
-    },
-    "author": "Aditi Rajagopal",
-    "title": "Inside the sea cucumber smuggling boom",
-    "description": "A quiet multimillion‑dollar black market is exploding across the Indian Ocean, driven by one unlikely animal: the sea cucumber.",
-    "url": "https://www.dw.com/en/inside-the-sea-cucumber-smuggling-boom/a-78005662",
-    "urlToImage": "https://static.dw.com/image/77970285_6.jpg",
-    "publishedAt": "2026-08-31T09:59:00Z",
-    "content": "When it comes to smuggling, squishy sea blobs that spend their lives eating and pooping are probably not what comes to mind. But a group of lumpen creatures known as sea cucumbers are at the center o… [+6287 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Teena Thacker",
-    "title": "Mahajan Imaging, Neuberg Diagnostics join hands to scale pathology, genomics in North India",
-    "description": "Mahajan Imaging and Neuberg Diagnostics have formed a strategic joint venture. This partnership aims to expand pathology and genomics services across North India. The collaboration will leverage combined infrastructure and expertise for enhanced diagnostic ca…",
-    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/mahajan-imaging-and-neuberg-diagnostics-strategic-joint-venture-to-transform-pathology-and-genomics-services-in-north-india/articleshow/133648890.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133649170,width-1200,height-630,imgsize-64906,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-08-31T09:53:01Z",
-    "content": "Mahajan Imaging &amp; Labs and Chennai based-Neuber Diagnostics have entered into a strategic joint venture to strengthen and expand pathology, genomics and wellness services across North India.Radio… [+1967 chars]"
+    "title": "NAVC Launches Inaugural Best Places to Practice Alongside the Return of the VETTY® Awards",
+    "description": "Celebrating clinics setting the standard in workplace culture and industry-leading storytellers ORLANDO, Fla., Sept. 1, 2026 /PRNewswire/ -- NAVC, a leading provider of veterinary education, is launching two exciting award programs honoring excellence in anim…",
+    "url": "https://www.prnewswire.com/news-releases/navc-launches-inaugural-best-places-to-practice-alongside-the-return-of-the-vetty-awards-302865573.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS695709/NAVC-Logo.jpg?id=OA2921911&p=facebook",
+    "publishedAt": "2026-09-01T10:00:00Z",
+    "content": "Celebrating clinics setting the standard in workplace culture and industry-leading storytellers\r\nORLANDO, Fla., Sept. 1, 2026 /PRNewswire/ -- NAVC, a leading provider of veterinary education, is laun… [+4000 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Pypi.org"
     },
-    "author": "remi.trimbour@gmail.com",
-    "title": "recon 0.0.4",
-    "description": "ReCoN: [Reconstruction of multicellular systems from single-cell data to predict perturbation responses and cell programs coordination]",
-    "url": "https://pypi.org/project/recon/",
-    "urlToImage": "https://pypi.org/static/images/og-card.00947198.webp",
-    "publishedAt": "2026-08-31T09:49:24Z",
-    "content": "ReCoN is a new tool for reconstructing multicellular models.\r\nIt combines both gene regulatory networks and cell communication networks to explore the molecular coordinations between multiple cell ty… [+4025 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Root"
-    },
-    "author": "Krissah Thompson",
-    "title": "What Happens on the Vineyard Doesn’t Stay on the Vineyard",
-    "description": "Black leaders came to Martha's Vineyard for rest. They left with candidate pipelines, donor networks and a set of instructions that don't expire in November.Read more...",
-    "url": "https://www.theroot.com/what-happens-on-the-vineyard-doesnt-stay-on-the-vineyar-2000123725",
+    "author": "kangmg@kentech.ac.kr",
+    "title": "aseview 0.0.18",
+    "description": "A molecular viewer for ASE (Atomic Simulation Environment) data",
+    "url": "https://pypi.org/project/aseview/0.0.18/",
     "urlToImage": null,
-    "publishedAt": "2026-08-31T09:39:47Z",
-    "content": "Throughout the summer, your social media feed has likely given you a narrow glimpse of Martha’s Vineyard: endless all-white-attire parties, a who’s who of Black political figures and influencers, and… [+11848 chars]"
+    "publishedAt": "2026-09-01T09:47:32Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Crypto Briefing"
+      "name": "PRNewswire"
     },
-    "author": "Editorial Team",
-    "title": "Anthropic expands into health care to boost investor confidence",
-    "description": "Anthropic's healthcare expansion could significantly enhance operational efficiencies, potentially increasing its market valuation and IPO appeal.\nThe post Anthropic expands into health care to boost investor confidence appeared first on Crypto Briefing.",
-    "url": "https://cryptobriefing.com/anthropic-healthcare-expansion-investor-confidence/",
-    "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/31053718/library-anthropic-expands-into-health-care-to-boost-investor-con-800x450.png",
-    "publishedAt": "2026-08-31T09:37:22Z",
-    "content": "The AI lab's HIPAA-compliant Claude for Healthcare platform is signing hospital deals and posting real efficiency numbers as Anthropic's valuation approaches $1 trillion. Anthropic launched Claude fo… [+1893 chars]"
+    "author": null,
+    "title": "Global-Leading Robobrain Firm Mech-Mind Robotics Lists on Hong Kong Stock Exchange",
+    "description": "SHANGHAI, Sept. 1, 2026 /PRNewswire/ -- Mech-Mind Robotics, a portfolio company of Qiming Venture Partners and a global-leading robobrain company, successfully listed on the Hong Kong Stock Exchange on September 1, 2026 Beijing time and became the first liste…",
+    "url": "https://www.prnewswire.com/news-releases/global-leading-robobrain-firm-mech-mind-robotics-lists-on-hong-kong-stock-exchange-302866076.html",
+    "urlToImage": null,
+    "publishedAt": "2026-09-01T09:41:00Z",
+    "content": "SHANGHAI, Sept. 1, 2026 /PRNewswire/ -- Mech-Mind Robotics, a portfolio company of Qiming Venture Partners and a global-leading robobrain company, successfully listed on the Hong Kong Stock Exchange … [+4936 chars]"
+  },
+  {
+    "source": {
+      "id": "the-irish-times",
+      "name": "The Irish Times"
+    },
+    "author": "Vivienne Clarke",
+    "title": "Academic resigns from Leaving Cert maths reform group over ‘incoherent and inaccurate’ courses",
+    "description": "Proposed changes would ‘do a disservice to our young people’, DCU professor Aoibhinn Ní Shúilleabháin says",
+    "url": "https://www.irishtimes.com/ireland/education/2026/09/01/academic-resigns-from-leaving-cert-maths-reform-group-over-incoherent-and-inaccurate-courses/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/BV5U77O6236Q77YXV5PQZCX73E.jpg?smart=true&auth=5630ad90ae74d7a8f7acc38d8036b4f8af93954807a8f8cae6803e4b39938137&width=1200&height=630",
+    "publishedAt": "2026-09-01T09:38:37Z",
+    "content": "A prominent member of the group tasked with reforming Leaving Certificate maths courses has said she resigned from the body because she did not want to be associated with draft courses that were inco… [+3556 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Boredpanda.com"
+    },
+    "author": "Mantas Kačerauskas",
+    "title": "Noisy Neighbors Ignore Repeated Complaints, Person Finds A Creative Way To Make Them Regret It",
+    "description": "Noisy neighbors have a special talent for testing our patience. So when one Redditor politely asked theirs to turn the music down and they responded by making it even louder, they decided it was time to fight back. What followed was a petty revenge plan that …",
+    "url": "https://www.boredpanda.com/neighbor-bass-war-petty-revenge/",
+    "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/09/neighbor-bass-war-petty-revenge-fb.jpg",
+    "publishedAt": "2026-09-01T09:32:34Z",
+    "content": "Who among us hasn’t had a noisy neighbor test the limits of our patience? Whether it’s a dog that won’t stop barking, parties that last until sunrise, or the unmistakable sound of a drill going throu… [+936 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Business Standard"
+    },
+    "author": "Press Trust of India",
+    "title": "74% Gen Z Indians prefer work-life balance over leadership titles: Report",
+    "description": "Seventy-four per cent of Gen Z Indians prioritise work-life balance over formal leadership titles, while at least 65 per cent believe a successful career does not require becoming an executive leader, according to a new report.\nThe report, titled \"India's Gen…",
+    "url": "https://www.business-standard.com/industry/news/74-gen-z-indians-prefer-work-life-balance-over-leadership-titles-report-126090100562_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/18/thumb/fitandfill/1200X628/1684387354-9844.jpg",
+    "publishedAt": "2026-09-01T09:30:35Z",
+    "content": "Seventy-four per cent of Gen Z Indians prioritise work-life balance over formal leadership titles, while at least 65 per cent believe a successful career does not require becoming an executive leader… [+3164 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": "arootin.gharibian@vsb.cz, milos.kudelka@vsb.cz",
+    "title": "clmsynth added to PyPI",
+    "description": "Synthetic label generator with configurable cluster-label matching (CLM) against ground-truth clusters",
+    "url": "https://pypi.org/project/clmsynth/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-01T09:28:37Z",
+    "content": "CLMSynth generates synthetic label columns on top of existing or generated clusters,\r\nwith mathematically controlled agreement\r\n(recall, class balance, spatial placement, or a solved target metric)\r\n… [+13906 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Www.gov.uk"
+    },
+    "author": "Medicines and Healthcare products Regulatory Agency",
+    "title": "MHRA concludes review of Avacopan Vifor following reassessment of benefit-risk balance",
+    "description": "Avacopan Vifor is used in the treatment of some rare autoimmune diseases affecting small blood vessels.",
+    "url": "https://www.gov.uk/government/news/mhra-concludes-review-of-avacopan-vifor-following-reassessment-of-benefit-risk-balance",
+    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+    "publishedAt": "2026-09-01T09:25:20Z",
+    "content": "The Medicines and Healthcare products Regulatory Agency (MHRA) has completed its review of Avacopan Vifor (previously known as Tavneos) and determined that the available evidence no longer supports a… [+3797 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "NYU Langone Health Names Clinician-Scientist as New Chair of Psychiatry",
+    "description": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- NYU Langone Health has named William Gordon Frankle, MD, MBA, an established leader with a proven track record of success, as the new chair of the Department of Psychiatry at NYU Grossman School of Medicine. Dr. Frankle…",
+    "url": "https://www.prnewswire.com/news-releases/nyu-langone-health-names-clinician-scientist-as-new-chair-of-psychiatry-302865543.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1978763/William-Gordon-Frankle-MD-NYU-Langone-Health.jpg?id=OA2921347&p=facebook",
+    "publishedAt": "2026-09-01T09:00:00Z",
+    "content": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- NYU Langone Health has named William Gordon Frankle, MD, MBA, an established leader with a proven track record of success, as the new chair of the Department o… [+4487 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "LancasterOnline"
+    },
+    "author": "LEROY HOPKINS | SPECIAL TO LNP | LANCASTERONLINE",
+    "title": "Harriet Sweeney and a woman's rise as Lancaster County's legendary powwow doctor",
+    "description": "Editor’s Note: This column is part of an ongoing series by Made by History and LNP | LancasterOnline to commemorate the 250-year anniversary of the signing of the Declaration of Independence. To read more about this series go here.",
+    "url": "https://lancasteronline.com/news/local/harriet-sweeney-and-a-womans-rise-as-lancaster-countys-legendary-powwow-doctor/article_09556682-7f77-4bcb-9418-557b6fb64596.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/e/5e/e5e79880-0af6-11ee-a67b-ef5c8ceb54b3/648a2b1b0d657.image.jpg?crop=1441%2C757%2C2%2C99&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2026-09-01T09:00:00Z",
+    "content": "Editors Note: This column is part of an ongoing series by Made by History and LNP | LancasterOnline to commemorate the 250-year anniversary of the signing of the Declaration of Independence. To read … [+8666 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "National Observer"
+    },
+    "author": "Rachel Santarsiero",
+    "title": "It just got way easier to sue fossil fuel companies over climate change",
+    "description": "For years, industry has argued you can’t prove which company caused which disaster. A new study says otherwise.",
+    "url": "https://www.nationalobserver.com/2026/09/01/news/fossil-fuels-climate-change-source-attribution",
+    "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2026/08/30/new_york_city_nexrad_radar_kokx_in_upton_ny_under_smoky_skies_july_15_2026.jpg",
+    "publishedAt": "2026-09-01T08:55:07Z",
+    "content": "This story was originally published by Mother Jones and appears here as part of the Climate Desk collaboration\r\nDeadly heatwaves in May smashed records in the UK, France, Spain, and parts of North Af… [+10062 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": null,
+    "title": "genome-ml-reportcard added to PyPI",
+    "description": "GenomeML Report Card: estimand-matched audit for genome ML evaluation",
+    "url": "https://pypi.org/project/genome-ml-reportcard/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-01T08:45:16Z",
+    "content": "GenomeML Report Card an executable audit for genome machine learning when labels are assigned at biological-group levels (species, lineage, cluster, ).\r\nRecords label-assignment units and blocking un… [+1769 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Grist"
+    },
+    "author": "Joseph Winters",
+    "title": "When plastic companies write the lesson plans",
+    "description": "The plastics industry is offering schools curricula that cast plastics as safe, recyclable, and a source of good jobs. Critics say it’s propaganda.",
+    "url": "https://grist.org/article/plastics-industry-lesson-plans-school-curricula/",
+    "urlToImage": "https://grist.org/wp-content/uploads/2026/08/polymer-experiment.jpg",
+    "publishedAt": "2026-09-01T08:45:00Z",
+    "content": "This fall, 54 million K-12 students are headed back to the classroom for another year of lessons in all the classic subjects: math, English, history, biology. But theres another subject thats been sn… [+8240 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "What is the lifespan of a morning dove?",
+    "description": "What is the Lifespan of a Morning Dove? The typical lifespan of a morning dove is surprisingly short, with most birds living only 1.5 years, although some individuals can survive considerably longer. However, what is the lifespan of a morning dove? truly depe…",
+    "url": "https://www.lifesciencesworld.com/what-is-the-lifespan-of-a-morning-dove/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-01T08:27:23Z",
+    "content": "The typical lifespan of a morning dove is surprisingly short, with most birds living only 1.5 years, although some individuals can survive considerably longer. However, what is the lifespan of a morn… [+7277 chars]"
   }
 ]
