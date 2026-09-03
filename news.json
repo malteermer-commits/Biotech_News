@@ -2,145 +2,119 @@
   {
     "source": {
       "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "Reuters",
+    "title": "Too weak, too strict: FSSAI’s food warning labels draw fire from all sides",
+    "description": "The Indian government is facing fierce opposition on proposed food warning labels from both health experts and food giants - activists say many items will escape ‌scrutiny while companies warn that the strict thresholds will put red flags on a wide range of ​…",
+    "url": "https://www.thehindubusinessline.com/news/too-weak-too-strict-fssais-food-warning-labels-draw-fire-from-all-sides/article71418868.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/ra7kzu/article71419025.ece/alternates/LANDSCAPE_1200/2026-08-25T022428Z_121745827_RC2O1NA5UP43_RTRMADP_3_INDIA-FOOD.JPG",
+    "publishedAt": "2026-09-02T10:03:34Z",
+    "content": "The Indian government is facing fierce opposition on proposed food warning labels from both health experts and food giants - activists say many items will escape scrutiny while companies warn that th… [+4654 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KQED"
+    },
+    "author": "Maya Cueva",
+    "title": "Silicon Valley’s Earliest Self Trackers",
+    "description": "Before Apple Watches, Oura Rings and Fitbits delivered mountains of health data to the masses, a group of obsessive self-tracking enthusiasts in Silicon Valley started a movement with the tagline “self-knowledge through numbers.” This was the Quantified Self.…",
+    "url": "https://www.kqed.org/news/12098023/silicon-valleys-earliest-self-trackers",
+    "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/09/CAT_Quantified-Self.img_.png",
+    "publishedAt": "2026-09-02T10:00:00Z",
+    "content": "View the full episode transcript.\r\nBefore Apple Watches, Oura Rings and Fitbits delivered mountains of health data to the masses, a group of obsessive self-tracking enthusiasts in Silicon Valley star… [+30213 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nextgov"
+    },
+    "author": "David DiMolfetta",
+    "title": "Dozens of current, former officials see at least a 10% chance humans lose control of AI",
+    "description": "Nearly half of respondents in the survey released Wednesday serve or have served in the Defense Department, an agency locked in fierce discourse over military use of AI systems.",
+    "url": "https://www.nextgov.com/artificial-intelligence/2026/09/dozens-current-former-officials-see-least-10-chance-humans-lose-control-ai/415762/",
+    "urlToImage": "https://cdn.nextgov.com/media/img/cd/2026/09/01/090126AING/open-graph.jpg",
+    "publishedAt": "2026-09-02T10:00:00Z",
+    "content": "Dozens of current and former national security officials put the chances that artificial intelligence systems will operate outside human control within the next decade at 10% or higher, according to … [+3862 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "NovaGo Therapeutics Closes USD 30 Million Series B Financing to Advance Proof-of-Concept Study in Acute Spinal Cord Injury",
+    "description": "Round led by Neurimmune and Pureos, with participation from existing and new investors; complemented by non-dilutive funding from the Swiss Paraplegic Foundation and Wings for Life - Spinal Cord Research Foundation. SCHLIEREN, Switzerland, Sept. 2, 2026 /PRNe…",
+    "url": "https://www.prnewswire.com/news-releases/novago-therapeutics-closes-usd-30-million-series-b-financing-to-advance-proof-of-concept-study-in-acute-spinal-cord-injury-302866193.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1977407/Novago_NewLogog.jpg?id=OA2917641&p=facebook",
+    "publishedAt": "2026-09-02T10:00:00Z",
+    "content": "Round led by Neurimmune and Pureos, with participation from existing and new investors; complemented by non-dilutive funding from the Swiss Paraplegic Foundation and Wings for Life - Spinal Cord Rese… [+5106 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "Nadjib Mohamed Mokraoui, Médecin épidémiologiste, doctorant au Centre de recherche en Épidémiologie et Santé des Populations (CESP), équipe Épidémiologie Gynécologique (EpiGyn), Inserm. Travaux de recherche portant sur l’endométriose, Inserm; Université Paris-Saclay",
+    "title": "Endometriosis: a long-ignored disease, despite symptoms that can be traced back to ancient times",
+    "description": "Endometriosis is an age-old condition and yet until recently, the complex disorder remained largely overlooked due to medical and social perceptions of women’s pain.",
+    "url": "https://theconversation.com/endometriosis-a-long-ignored-disease-despite-symptoms-that-can-be-traced-back-to-ancient-times-289011",
+    "urlToImage": "https://images.theconversation.com/files/751798/original/file-20260402-57-vyfwyk.jpg?ixlib=rb-4.1.1&rect=0%2C247%2C1596%2C798&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-09-02T09:56:00Z",
+    "content": "A rotogravure depicting hysterectomy surgery being performed in the 19th century at Paris’ Salpêtrière Hospital, a French institution for psychological disorders where women diagnosed with hysteria w… [+7482 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Pypi.org"
     },
-    "author": "h-matsui@yz.yamagata-u.ac.jp",
-    "title": "yu-bcal added to PyPI",
-    "description": "Program for the calculation of band structure and effective mass using the tight-binding method",
-    "url": "https://pypi.org/project/yu-bcal/",
+    "author": "dvzankov@gmail.com",
+    "title": "qsarmil 1.0.6",
+    "description": "Molecular multi-instance machine learning",
+    "url": "https://pypi.org/project/qsarmil/1.0.6/",
     "urlToImage": null,
-    "publishedAt": "2026-09-01T10:00:05Z",
-    "content": "bcal: Program for the calculation of band structure and effective mass for organic semiconductor crystals\r\nEnglish / \r\nOverview\r\nbcal is a tool for calculating the band structure and effective masses… [+13873 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Pinnacle Fertility Ohio Expands Columbus Physician Team with Addition of Dr. Morgan Wilhoite",
-    "description": "WESTERVILLE, Ohio, Sept. 1, 2026 /PRNewswire/ -- Pinnacle Fertility Ohio proudly welcomes Morgan Wilhoite, DO, FACOG, a fellowship-trained reproductive endocrinologist and infertility specialist, to its physician team. Dr. Wilhoite will see patients at the pr…",
-    "url": "https://www.prnewswire.com/news-releases/pinnacle-fertility-ohio-expands-columbus-physician-team-with-addition-of-dr-morgan-wilhoite-302865591.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1978981/Pinnacle-Fertility-Headshot.jpg?id=OA2921840&p=facebook",
-    "publishedAt": "2026-09-01T10:00:00Z",
-    "content": "WESTERVILLE, Ohio, Sept. 1, 2026 /PRNewswire/ -- Pinnacle Fertility Ohio proudly welcomes Morgan Wilhoite, DO, FACOG, a fellowship-trained reproductive endocrinologist and infertility specialist, to … [+5032 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "IDEAYA Biosciences Announces London Investor R&D Day and Participation in Upcoming September 2026 Investor Conferences",
-    "description": "SOUTH SAN FRANCISCO, Calif., Sept. 1, 2026 /PRNewswire/ -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted therapeutics, today announced its upcoming Investor R&D Day in Lon…",
-    "url": "https://www.prnewswire.com/news-releases/ideaya-biosciences-announces-london-investor-rd-day-and-participation-in-upcoming-september-2026-investor-conferences-302865528.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1161589/IDEAYA-v2-Logo.jpg?id=OA2921901&p=facebook",
-    "publishedAt": "2026-09-01T10:00:00Z",
-    "content": "SOUTH SAN FRANCISCO, Calif., Sept. 1, 2026 /PRNewswire/ -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted therap… [+4339 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "NAVC Launches Inaugural Best Places to Practice Alongside the Return of the VETTY® Awards",
-    "description": "Celebrating clinics setting the standard in workplace culture and industry-leading storytellers ORLANDO, Fla., Sept. 1, 2026 /PRNewswire/ -- NAVC, a leading provider of veterinary education, is launching two exciting award programs honoring excellence in anim…",
-    "url": "https://www.prnewswire.com/news-releases/navc-launches-inaugural-best-places-to-practice-alongside-the-return-of-the-vetty-awards-302865573.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS695709/NAVC-Logo.jpg?id=OA2921911&p=facebook",
-    "publishedAt": "2026-09-01T10:00:00Z",
-    "content": "Celebrating clinics setting the standard in workplace culture and industry-leading storytellers\r\nORLANDO, Fla., Sept. 1, 2026 /PRNewswire/ -- NAVC, a leading provider of veterinary education, is laun… [+4000 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "kangmg@kentech.ac.kr",
-    "title": "aseview 0.0.18",
-    "description": "A molecular viewer for ASE (Atomic Simulation Environment) data",
-    "url": "https://pypi.org/project/aseview/0.0.18/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-01T09:47:32Z",
+    "publishedAt": "2026-09-02T09:37:55Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PRNewswire"
+      "name": "Yahoo Entertainment"
     },
-    "author": null,
-    "title": "Global-Leading Robobrain Firm Mech-Mind Robotics Lists on Hong Kong Stock Exchange",
-    "description": "SHANGHAI, Sept. 1, 2026 /PRNewswire/ -- Mech-Mind Robotics, a portfolio company of Qiming Venture Partners and a global-leading robobrain company, successfully listed on the Hong Kong Stock Exchange on September 1, 2026 Beijing time and became the first liste…",
-    "url": "https://www.prnewswire.com/news-releases/global-leading-robobrain-firm-mech-mind-robotics-lists-on-hong-kong-stock-exchange-302866076.html",
-    "urlToImage": null,
-    "publishedAt": "2026-09-01T09:41:00Z",
-    "content": "SHANGHAI, Sept. 1, 2026 /PRNewswire/ -- Mech-Mind Robotics, a portfolio company of Qiming Venture Partners and a global-leading robobrain company, successfully listed on the Hong Kong Stock Exchange … [+4936 chars]"
-  },
-  {
-    "source": {
-      "id": "the-irish-times",
-      "name": "The Irish Times"
-    },
-    "author": "Vivienne Clarke",
-    "title": "Academic resigns from Leaving Cert maths reform group over ‘incoherent and inaccurate’ courses",
-    "description": "Proposed changes would ‘do a disservice to our young people’, DCU professor Aoibhinn Ní Shúilleabháin says",
-    "url": "https://www.irishtimes.com/ireland/education/2026/09/01/academic-resigns-from-leaving-cert-maths-reform-group-over-incoherent-and-inaccurate-courses/",
-    "urlToImage": "https://www.irishtimes.com/resizer/v2/BV5U77O6236Q77YXV5PQZCX73E.jpg?smart=true&auth=5630ad90ae74d7a8f7acc38d8036b4f8af93954807a8f8cae6803e4b39938137&width=1200&height=630",
-    "publishedAt": "2026-09-01T09:38:37Z",
-    "content": "A prominent member of the group tasked with reforming Leaving Certificate maths courses has said she resigned from the body because she did not want to be associated with draft courses that were inco… [+3556 chars]"
+    "author": "Angelo Guinhawa",
+    "title": "Skip Bayless Criticizes ‘Outrageously Wrong’ Shedeur Sanders Situation",
+    "description": "Skip Bayless believes Shedeur Sanders has been placed in an unfair situation with the Cleveland Browns, and the outspoken sports commentator did not hold back in his latest criticism of the organization. Bayless described the quarterback’s circumstances as ou…",
+    "url": "https://sports.yahoo.com/articles/skip-bayless-criticizes-outrageously-wrong-092810295.html",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/af8d926ffc579b61a02c8203d8591b4b2c31f2d4c40916bb93352d754b4f6368/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgridiron_heroics_307%2F6bbfe5581801b396bf2726228f9fc00a.jpg",
+    "publishedAt": "2026-09-02T09:28:10Z",
+    "content": "Skip Bayless believes Shedeur Sanders has been placed in an unfair situation with the Cleveland Browns, and the outspoken sports commentator did not hold back in his latest criticism of the organizat… [+2678 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Boredpanda.com"
+      "name": "Dailymail.com"
     },
-    "author": "Mantas Kačerauskas",
-    "title": "Noisy Neighbors Ignore Repeated Complaints, Person Finds A Creative Way To Make Them Regret It",
-    "description": "Noisy neighbors have a special talent for testing our patience. So when one Redditor politely asked theirs to turn the music down and they responded by making it even louder, they decided it was time to fight back. What followed was a petty revenge plan that …",
-    "url": "https://www.boredpanda.com/neighbor-bass-war-petty-revenge/",
-    "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/09/neighbor-bass-war-petty-revenge-fb.jpg",
-    "publishedAt": "2026-09-01T09:32:34Z",
-    "content": "Who among us hasn’t had a noisy neighbor test the limits of our patience? Whether it’s a dog that won’t stop barking, parties that last until sunrise, or the unmistakable sound of a drill going throu… [+936 chars]"
+    "author": "Ciaran Foreman",
+    "title": "Alert as common antidepressant is 'out of stock' in the UK",
+    "description": "Packs of 75mg immediate-release (IR) venlafaxine tablets, used to treat depression, anxiety and even menopause, will be unavailable until November.",
+    "url": "https://www.dailymail.com/health/article-16098309/Alert-common-antidepressant-stock-UK.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/09/02/10/110978595-0-image-a-27_1788339623089.jpg",
+    "publishedAt": "2026-09-02T09:10:16Z",
+    "content": "A widely prescribed antidepressant is out of stock in the UK, health chiefs have warned.\r\nVenlafaxine tablets, used to treat depression, anxiety and even menopause, will be unavailable until November… [+3505 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Business Standard"
+      "name": "Courier Journal"
     },
-    "author": "Press Trust of India",
-    "title": "74% Gen Z Indians prefer work-life balance over leadership titles: Report",
-    "description": "Seventy-four per cent of Gen Z Indians prioritise work-life balance over formal leadership titles, while at least 65 per cent believe a successful career does not require becoming an executive leader, according to a new report.\nThe report, titled \"India's Gen…",
-    "url": "https://www.business-standard.com/industry/news/74-gen-z-indians-prefer-work-life-balance-over-leadership-titles-report-126090100562_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-05/18/thumb/fitandfill/1200X628/1684387354-9844.jpg",
-    "publishedAt": "2026-09-01T09:30:35Z",
-    "content": "Seventy-four per cent of Gen Z Indians prioritise work-life balance over formal leadership titles, while at least 65 per cent believe a successful career does not require becoming an executive leader… [+3164 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "arootin.gharibian@vsb.cz, milos.kudelka@vsb.cz",
-    "title": "clmsynth added to PyPI",
-    "description": "Synthetic label generator with configurable cluster-label matching (CLM) against ground-truth clusters",
-    "url": "https://pypi.org/project/clmsynth/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-01T09:28:37Z",
-    "content": "CLMSynth generates synthetic label columns on top of existing or generated clusters,\r\nwith mathematically controlled agreement\r\n(recall, class balance, spatial placement, or a solved target metric)\r\n… [+13906 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Www.gov.uk"
-    },
-    "author": "Medicines and Healthcare products Regulatory Agency",
-    "title": "MHRA concludes review of Avacopan Vifor following reassessment of benefit-risk balance",
-    "description": "Avacopan Vifor is used in the treatment of some rare autoimmune diseases affecting small blood vessels.",
-    "url": "https://www.gov.uk/government/news/mhra-concludes-review-of-avacopan-vifor-following-reassessment-of-benefit-risk-balance",
-    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-09-01T09:25:20Z",
-    "content": "The Medicines and Healthcare products Regulatory Agency (MHRA) has completed its review of Avacopan Vifor (previously known as Tavneos) and determined that the available evidence no longer supports a… [+3797 chars]"
+    "author": "Stephanie Kuzydym, Louisville Courier Journal",
+    "title": "Heat is killing football linemen. What are Kentucky schools doing about it?",
+    "description": "Linemen face the highest risk of heat stroke, but new safety guidelines remain optional for Kentucky schools.",
+    "url": "https://www.courier-journal.com/story/sports/high-school/2026/09/02/football-linemen-in-kentucky-face-deadly-heat-stroke-risks/91341708007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/c27789f457e5f1282665994203575391c20f2078e2f5736dc88e744da599f801/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-courier-journal%2Fd4d56864e9f6393585a67de05cf0a5a0.jpg",
+    "publishedAt": "2026-09-02T09:02:40Z",
+    "content": "The leading cause of death in football players from youth to college level is 100% preventable.\r\nStill, every year, an average of three football players die of exertional heat stroke.\r\nOf those death… [+9890 chars]"
   },
   {
     "source": {
@@ -148,64 +122,90 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "NYU Langone Health Names Clinician-Scientist as New Chair of Psychiatry",
-    "description": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- NYU Langone Health has named William Gordon Frankle, MD, MBA, an established leader with a proven track record of success, as the new chair of the Department of Psychiatry at NYU Grossman School of Medicine. Dr. Frankle…",
-    "url": "https://www.prnewswire.com/news-releases/nyu-langone-health-names-clinician-scientist-as-new-chair-of-psychiatry-302865543.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1978763/William-Gordon-Frankle-MD-NYU-Langone-Health.jpg?id=OA2921347&p=facebook",
-    "publishedAt": "2026-09-01T09:00:00Z",
-    "content": "NEW YORK, Sept. 1, 2026 /PRNewswire/ -- NYU Langone Health has named William Gordon Frankle, MD, MBA, an established leader with a proven track record of success, as the new chair of the Department o… [+4487 chars]"
+    "title": "Norroy Bioscience Initiates Pivotal Phase III Clinical Trial of 177Lu-NYM032, a PSMA-Targeted Radioligand Therapy for mCRPC",
+    "description": "WUXI, China, Sept. 2, 2026 /PRNewswire/ -- NORROY BIOSCIENCE (NORROY), a clinical-stage biotechnology company focused on innovative targeted radiopharmaceuticals, announced that it has received regulatory clearance from China's National Medical Products Admin…",
+    "url": "https://www.prnewswire.com/news-releases/norroy-bioscience-initiates-pivotal-phase-iii-clinical-trial-of-177lu-nym032-a-psma-targeted-radioligand-therapy-for-mcrpc-302867430.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1972041/Norroy-Bioscience-Logo.jpg?id=OA2922580&p=facebook",
+    "publishedAt": "2026-09-02T09:00:00Z",
+    "content": "WUXI, China, Sept. 2, 2026 /PRNewswire/ -- NORROY BIOSCIENCE (NORROY), a clinical-stage biotechnology company focused on innovative targeted radiopharmaceuticals, announced that it has received regul… [+5426 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "Alejandra Borunda",
+    "title": "He died in a sweltering house. Why doesn't his death record show it?",
+    "description": "When Arizona counts heat-related deaths, Adam Willson isn't included. His story shows how thousands of heat deaths can go uncounted every year in the United States.",
+    "url": "https://www.npr.org/2026/09/02/nx-s1-5887544/heat-deaths-undercount",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3361x1890+370+655/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Faf%2F977ff4f645f7985352b4db9cee2b%2F359a9872-edit.jpg",
+    "publishedAt": "2026-09-02T09:00:00Z",
+    "content": "An NPR investigation finds that heat kills thousands of Americans every year. But official records radically undercount the toll. In this series, we are bringing you stories that reveal why this happ… [+8044 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Team Global",
+    "title": "In 2010, NASA launched a 12-pound, loaf-of-bread-sized satellite with two Bacillus populations; radiation exposure reached about 15 times that of the ISS orbit",
+    "description": "NASA's O/OREOS mission embarked on an exciting journey to observe how bacteria withstand the rigors of space radiation. The compact satellite, about the size of a loaf of bread, zipped around Earth’s magnetic poles, subjecting dried bacterial spores to intens…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/in-2011-nasa-launched-a-12-pound-satellite-the-size-of-a-loaf-of-bread-with-2-bacillus-populations-radiation-exposure-reached-nearly-15-times-the-iss-orbit/articleshow/133675438.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133675523,width-1200,height-630,imgsize-1163557,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-02T09:00:00Z",
+    "content": "Space exploration and spaceflight research often evoke images of astronauts and large spacecraft, but some of the most revealing experiments have flown on satellites no bigger than a loaf of bread. H… [+5736 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "LancasterOnline"
     },
-    "author": "LEROY HOPKINS | SPECIAL TO LNP | LANCASTERONLINE",
-    "title": "Harriet Sweeney and a woman's rise as Lancaster County's legendary powwow doctor",
-    "description": "Editor’s Note: This column is part of an ongoing series by Made by History and LNP | LancasterOnline to commemorate the 250-year anniversary of the signing of the Declaration of Independence. To read more about this series go here.",
-    "url": "https://lancasteronline.com/news/local/harriet-sweeney-and-a-womans-rise-as-lancaster-countys-legendary-powwow-doctor/article_09556682-7f77-4bcb-9418-557b6fb64596.html",
-    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/e/5e/e5e79880-0af6-11ee-a67b-ef5c8ceb54b3/648a2b1b0d657.image.jpg?crop=1441%2C757%2C2%2C99&resize=1200%2C630&order=crop%2Cresize",
-    "publishedAt": "2026-09-01T09:00:00Z",
-    "content": "Editors Note: This column is part of an ongoing series by Made by History and LNP | LancasterOnline to commemorate the 250-year anniversary of the signing of the Declaration of Independence. To read … [+8666 chars]"
+    "author": "MARK SCOLFORO | Breaking News Reporter",
+    "title": "Lancaster stair climb to honor 9/11 victims as part of 25th year observances",
+    "description": "The annual stair climb inside Lancaster’s minor league baseball stadium in honor of the firefighters who died after terrorists flew two jetliners into the World Trade Center towers 25 years ago could probably go on without people like Scott Yuill…",
+    "url": "https://lancasteronline.com/news/local/lancaster-stair-climb-to-honor-9-11-victims-as-part-of-25th-year-observances/article_d2221723-9455-41da-b7c0-bafbfb5ba273.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/da/3daef772-b451-11e8-9648-f7b2e8b72f60/5b9550a57c017.image.jpg?crop=1694%2C889%2C0%2C166&resize=1200%2C630&order=crop%2Cresize",
+    "publishedAt": "2026-09-02T09:00:00Z",
+    "content": "The annual stair climb inside Lancasters minor league baseball stadium in honor of the firefighters who died after terrorists flew two jetliners into the World Trade Center towers 25 years ago could … [+7433 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "National Observer"
+      "name": "TechNode"
     },
-    "author": "Rachel Santarsiero",
-    "title": "It just got way easier to sue fossil fuel companies over climate change",
-    "description": "For years, industry has argued you can’t prove which company caused which disaster. A new study says otherwise.",
-    "url": "https://www.nationalobserver.com/2026/09/01/news/fossil-fuels-climate-change-source-attribution",
-    "urlToImage": "https://www.nationalobserver.com/sites/default/files/img/2026/08/30/new_york_city_nexrad_radar_kokx_in_upton_ny_under_smoky_skies_july_15_2026.jpg",
-    "publishedAt": "2026-09-01T08:55:07Z",
-    "content": "This story was originally published by Mother Jones and appears here as part of the Climate Desk collaboration\r\nDeadly heatwaves in May smashed records in the UK, France, Spain, and parts of North Af… [+10062 chars]"
+    "author": "TechNode Staff",
+    "title": "China’s Humanoid Robot Boom, Part I: Moving Beyond the Show Floor",
+    "description": "Editor’s note: This article was written by Lucia, a TechNode reporter. A robot cooked noodles in about a minute. Another prepared breakfast. Humanoids climbed stairs, crawled across obstacles and sparred inside a fighting cage. Elsewhere, robots sorted packag…",
+    "url": "https://technode.com/2026/09/02/chinas-humanoid-robot-boom-i-moving-beyond-the-show-floor/",
+    "urlToImage": "https://i0.wp.com/technode.com/wp-content/uploads/2026/09/moving-beyond-show-floor-image1.jpeg?fit=1318%2C742&ssl=1",
+    "publishedAt": "2026-09-02T08:50:42Z",
+    "content": "Every Wednesday and Friday, TechNodes Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox.\r\nEditors note: This article was written by Lucia, a Tech… [+3760 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Pypi.org"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": null,
-    "title": "genome-ml-reportcard added to PyPI",
-    "description": "GenomeML Report Card: estimand-matched audit for genome ML evaluation",
-    "url": "https://pypi.org/project/genome-ml-reportcard/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-01T08:45:16Z",
-    "content": "GenomeML Report Card an executable audit for genome machine learning when labels are assigned at biological-group levels (species, lineage, cluster, ).\r\nRecords label-assignment units and blocking un… [+1769 chars]"
+    "author": "Team Global",
+    "title": "In 1998, NASA sent oyster toadfish into space on Space Shuttle Columbia; over 16 days in orbit, researchers studied how their balance systems adapted to microgravity",
+    "description": "In 1998, saltwater toadfish participated in the Columbia's Neurolab mission, offering insights into the effects of microgravity on the nervous system. Their inner ear adaptations revealed how their vestibular system modified its sensitivity in the absence of …",
+    "url": "https://economictimes.indiatimes.com/news/international/us/in-1998-nasa-sent-oyster-toadfish-into-space-on-space-shuttle-columbia-over-16-days-in-orbit-researchers-studied-how-their-balance-systems-adapted-to-microgravity/articleshow/133678796.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133679318,width-1200,height-630,imgsize-241706,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-02T08:30:00Z",
+    "content": "A group of saltwater toadfish went aboard Columbia in April 1998. No one watching the launch would have guessed that fish were part of the cargo. Over the 16 days, changes inside their inner ears gav… [+4547 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Grist"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Joseph Winters",
-    "title": "When plastic companies write the lesson plans",
-    "description": "The plastics industry is offering schools curricula that cast plastics as safe, recyclable, and a source of good jobs. Critics say it’s propaganda.",
-    "url": "https://grist.org/article/plastics-industry-lesson-plans-school-curricula/",
-    "urlToImage": "https://grist.org/wp-content/uploads/2026/08/polymer-experiment.jpg",
-    "publishedAt": "2026-09-01T08:45:00Z",
-    "content": "This fall, 54 million K-12 students are headed back to the classroom for another year of lessons in all the classic subjects: math, English, history, biology. But theres another subject thats been sn… [+8240 chars]"
+    "author": "Team Global",
+    "title": "In 1998, NASA flew crickets on Neurolab to study how spaceflight affects developing nervous systems; across the 16-day mission, they joined about 2,000 animals in space",
+    "description": "During the Neurolab mission, the space shuttle Columbia hosted 2,000 animals, crickets being one of them, to examine spaceflight's impacts on brain and nervous system development. By focusing on the crickets' fundamental gravity-sensing mechanisms, scientists…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/in-1998-nasa-flew-crickets-on-neurolab-to-study-how-spaceflight-affects-developing-nervous-systems-across-the-16-day-mission-they-joined-about-2000-animals-in-space/articleshow/133678477.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133678790,width-1200,height-630,imgsize-165580,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-02T08:20:00Z",
+    "content": "On April 17, 1998, space shuttle Columbia took off from NASA's Kennedy Space Center with a crew of seven people and some very special passengers. Onboard Spacelab were 2,000 animals, including rats, … [+4401 chars]"
   },
   {
     "source": {
@@ -213,11 +213,24 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "What is the lifespan of a morning dove?",
-    "description": "What is the Lifespan of a Morning Dove? The typical lifespan of a morning dove is surprisingly short, with most birds living only 1.5 years, although some individuals can survive considerably longer. However, what is the lifespan of a morning dove? truly depe…",
-    "url": "https://www.lifesciencesworld.com/what-is-the-lifespan-of-a-morning-dove/",
+    "title": "How do fish adapt to pressure?",
+    "description": "How Do Fish Adapt to Pressure: Unveiling the Secrets of Deep-Sea Survival Fish adapt to pressure through a remarkable suite of physiological mechanisms, primarily involving controlling internal gas volume and cellular adaptations to withstand extreme forces. …",
+    "url": "https://www.lifesciencesworld.com/how-do-fish-adapt-to-pressure/",
     "urlToImage": null,
-    "publishedAt": "2026-09-01T08:27:23Z",
-    "content": "The typical lifespan of a morning dove is surprisingly short, with most birds living only 1.5 years, although some individuals can survive considerably longer. However, what is the lifespan of a morn… [+7277 chars]"
+    "publishedAt": "2026-09-02T08:17:36Z",
+    "content": "Fish adapt to pressure through a remarkable suite of physiological mechanisms, primarily involving controlling internal gas volume and cellular adaptations to withstand extreme forces. This adaptatio… [+9285 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "PTI",
+    "title": "When roads end, drones carry dead home in flood-hit Nepal",
+    "description": "Drones are now carrying the dead home from inaccessible flood-ravaged areas in Nepal.  These unmanned aerial vehicles are also delivering vital food and medicine to cut-off communities.  AI-enabled drones are assessing villagers' needs through simple question…",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/when-roads-end-drones-carry-dead-home-in-flood-hit-nepal/articleshow/133703442.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133703507,width-1200,height-630,imgsize-492360,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-02T08:08:59Z",
+    "content": "Kathmandu, In the flood-ravaged hills of Nepal, drones are doing something far beyond their traditional role of taking aerial photographs or mapping -- carrying the dead home.Seven bodies were airlif… [+4105 chars]"
   }
 ]
