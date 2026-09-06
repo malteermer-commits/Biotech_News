@@ -2,171 +2,132 @@
   {
     "source": {
       "id": null,
-      "name": "Yale.edu"
-    },
-    "author": null,
-    "title": "Satellite Images of Penguin Droppings Reveal Impact of Antarctic Warming",
-    "description": "Penguin colonies are so large that their masses of excrement can be seen from space, offering scientists a useful means of studying the Antarctic birds. An analysis of 30 years of satellite images of penguin guano shows how the birds' diets are shifting in re…",
-    "url": "https://e360.yale.edu/digest/penguin-guano-diet-climate-change",
-    "urlToImage": "https://yale-threesixty.transforms.svdcdn.com/production/Penguin-Poo_WHOI.jpg?w=1200&q=60&auto=format&fit=max&dm=1788452706&s=ac4a1c55f7c982887c816ef62803e21d",
-    "publishedAt": "2026-09-04T09:28:00Z",
-    "content": "An aerial photo of a penguin colony on an island off the coast of the Antarctic Peninsula. Penguin guano leaves a clear mark on the landscape.Thomas Sayre-McCord / WHOI / MIT\r\nPenguin colonies are so… [+2671 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Team Global",
-    "title": "In 2017, Jordan sank a 100-foot C-130 Hercules cargo plane off Aqaba; marine life has been colonizing it ever since",
-    "description": "A retired Jordanian C-130 Hercules plane was intentionally sunk offshore Aqaba. This created an artificial reef to foster marine life and coral growth. Studies show artificial reefs increase fish species diversity and invertebrate biomass. Marine life quickly…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/in-2017-jordan-sank-a-100-foot-c-130-hercules-cargo-plane-off-aqaba-marine-life-has-been-colonizing-it-ever-since/articleshow/133732186.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133732549,width-1200,height-630,imgsize-204840,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-04T09:20:00Z",
-    "content": "Sinking a military cargo plane on purpose might sound like something out of an action movie, but that is exactly what happened off the coast of Aqaba, Jordan, in November 2017. A retired Royal Jordan… [+4015 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Www.gov.uk"
-    },
-    "author": null,
-    "title": "Precision bred organisms: application guidance",
-    "description": "Precision bred organisms: application guidance",
-    "url": "https://www.gov.uk/guidance/precision-bred-organisms-application-guidance",
-    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-09-04T09:07:00Z",
-    "content": "What are precision bred organisms?\r\nPrecision bred organisms (PBOs) are plants or animals where the genetic makeup of the organism has been altered using techniques of modern biotechnology (such as g… [+29169 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "JONATHAN TURLEY: Talarico brings a touch of Trotsky to the Texas Senate race",
-    "description": "Video shows James Talarico at a climate forum calling capitalism an \"oppressive system\" linked to White supremacy that must be \"dismantled.\"",
-    "url": "https://www.foxnews.com/opinion/jonathan-turley-talarico-brings-touch-trotsky-texas-senate-race",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/james-talarico-nyt-interview.jpg",
-    "publishedAt": "2026-09-04T09:00:08Z",
-    "content": "Senate Democratic nominee James Talarico appears ready to bring a touch of Trotsky to Texas. In a video from a climate forum, Talarico is shown declaring capitalism an \"oppressive system\" linked with… [+7161 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NPR"
-    },
-    "author": "Maria Godoy",
-    "title": "Dry eyes are common in women. Here's why you shouldn't ignore them",
-    "description": "Research suggests around half of all women in the menopausal transition years experience symptoms, like red, watery or gritty-feeling eyes. Hormonal shifts play a role, as do a lot of other factors.",
-    "url": "https://www.npr.org/2026/09/04/nx-s1-5954560/dry-eyes-women-menopause-perimenopause",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2F16%2F7e8fbf3f4cbcb25bb176e8db63fb%2Fhbarczyk-npr-dryeyes-finalart3.jpg",
-    "publishedAt": "2026-09-04T09:00:00Z",
-    "content": "To paraphrase Jane Austen, it is a truth universally acknowledged that a woman approaching midlife will experience physical changes that will take her by surprise. Take, for example, dry eyes. Turns … [+5017 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Business Standard"
-    },
-    "author": "Sohini Das, Ananya Podder",
-    "title": "OncoStem eyes wider access to breast cancer risk test with hospital-use kit",
-    "description": "Bengaluru company expects annual volumes to double as decentralised test lowers logistical barriers to personalised treatment",
-    "url": "https://www.business-standard.com/industry/news/oncostem-eyes-wider-access-to-breast-cancer-risk-test-with-hospital-use-kit-126090400602_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/04/thumb/fitandfill/1200X628/1788511976-7232.jpg",
-    "publishedAt": "2026-09-04T08:56:15Z",
-    "content": "Bengaluru company expects annual volumes to double as decentralised test lowers logistical barriers to personalised treatment\r\nOncoStem has raised around $9 million from Artiman Ventures and Sequoia … [+5980 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "India Today"
-    },
-    "author": "Sumi Sukanya Dutta",
-    "title": "MRD blood test India: MedGenome launches OncoTrack for solid tumour monitoring",
-    "description": "MedGenome has launched OncoTrack MRD, a tumour-informed blood test for monitoring residual disease in solid cancers. The test adds molecular tracking alongside scans, though doctors must interpret results with clinical context and separate validation data.",
-    "url": "https://www.indiatoday.in/health/story/mrd-blood-test-india-medgenome-oncotrack-solid-tumour-monitoring-2986932-2026-09-04",
-    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/cancer-injection-27221523-16x9.jpg?VersionId=eaPVPeDx5ry70M27rySuhq.3aLLK98S3",
-    "publishedAt": "2026-09-04T08:49:52Z",
-    "content": "For cancer patients who have completed treatment, one of the most difficult questions is often not whether the tumour has disappeared on a scan, but whether a microscopic amount of cancer is still hi… [+5916 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Www.gov.uk"
-    },
-    "author": null,
-    "title": "Cosmetics Sandbox – Bioengineered Ingredients",
-    "description": "This is OPSS' first Sandbox and is designed to support businesses developing innovative cosmetic ingredients using bioengineering approaches.",
-    "url": "https://www.gov.uk/guidance/cosmetics-sandbox-bioengineered-ingredients",
-    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-09-04T08:30:02Z",
-    "content": "This is OPSS first sandbox and forms part of a wider Product Regulation Sandbox programme designed to support innovation while helping ensure products are safe for consumers.\r\nApply to join the Cosme… [+3525 chars]"
-  },
-  {
-    "source": {
-      "id": null,
       "name": "Pypi.org"
     },
-    "author": "v.j.lagerweij@tudelft.nl",
-    "title": "octp-pp 0.2.0",
-    "description": "Post-processing toolkit for OCTP LAMMPS molecular-dynamics output",
-    "url": "https://pypi.org/project/octp-pp/0.2.0/",
+    "author": null,
+    "title": "molecularnodes 520.0.0",
+    "description": "Toolbox for molecular animations with Blender and Geometry Nodes.",
+    "url": "https://pypi.org/project/molecularnodes/520.0.0/",
     "urlToImage": null,
-    "publishedAt": "2026-09-04T08:22:25Z",
+    "publishedAt": "2026-09-05T09:29:27Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
+      "id": null,
+      "name": "The Punch"
+    },
+    "author": "Punch Newspapers",
+    "title": "Best Hair Transplant Clinics in Turkey",
+    "description": "Discover the best hair transplant clinics in Turkey. Compare top options like HairNeva, Elithair, and Şule Hair for personalized treatment and natural resu\n\nRead More: https://punchng.com/best-hair-transplant-clinics-in-turkey/",
+    "url": "https://punchng.com/best-hair-transplant-clinics-in-turkey/",
+    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/09/05112917/hair_1788604157.webp",
+    "publishedAt": "2026-09-05T09:26:37Z",
+    "content": "Finding the best hair transplant clinics in Turkey sounds straightforward until you begin comparing the options. One clinic highlights its medical team, another focuses on graft numbers, and another … [+15320 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "Hilary Brueck",
+    "title": "Two scientists made huge bets on 'impossible' cancer treatments. They're finally paying off.",
+    "description": "Greg Verdine at Revolution Medicines and Tal Zaks at Moderna pushed biotech boundaries with risky, groundbreaking cancer experiments.",
+    "url": "https://www.businessinsider.com/scientists-bet-impossible-cancer-treatments-transforming-biotech-2026-9#article",
+    "urlToImage": "https://i.insider.com/6a99de0fa86b54c44313ff52?width=1200&format=jpeg",
+    "publishedAt": "2026-09-05T09:00:01Z",
+    "content": "Tal Zaks, the former chief medical officer of Moderna, said he took \"a very large financial bet just based on first principle beliefs.\"Mike Coppola/Getty Images for Klick Health\r\n<ul><li>2026 is the … [+9957 chars]"
+  },
+  {
+    "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
     "author": "Team Global",
-    "title": "In 1966, NASA launched Biosatellite I with 13 biology experiments and more than 10 million organisms; its retrorocket failed, and the spacecraft was never recovered",
-    "description": "In 1966, NASA's Biosatellite I mission attempted to carry over ten million organisms into orbit, but a retrorocket malfunction led to the capsule's tragic loss upon re-entry. This setback, however, was instrumental, offering invaluable insights that benefitte…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/in-1966-nasa-launched-biosatellite-i-with-13-biology-experiments-and-more-than-10-million-organisms-its-retrorocket-failed-and-the-spacecraft-was-never-recovered/articleshow/133726678.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133726742,width-1200,height-630,imgsize-161908,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-04T08:10:00Z",
-    "content": "In December 1966, during the Cold War period of space competition between NASA and the Soviet Union, and roughly two and a half years prior to sending humans to the Moon, the United States space agen… [+3395 chars]"
+    "title": "Arkansas recycled old I-30 concrete in place, avoiding more than 95,000 tons of new stone and about $15,000 in truck fuel",
+    "description": "Arkansas has made strides in sustainable development by recycling old concrete on Interstate 30 near Little Rock. The innovative technique involved crushing existing slabs to create subbase material, sparing over 95,000 tons of stone extraction. This eco-frie…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/arkansas-recycled-old-i-30-concrete-in-place-avoiding-more-than-95000-tons-of-new-stone-and-about-15000-in-truck-fuel/articleshow/133756942.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133757004,width-1200,height-630,imgsize-402048,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-05T09:00:00Z",
+    "content": "Infrastructure upgrades often get expensive because of the materials that must be hauled in and hauled away. Arkansas avoided that expense on a stretch of Interstate 30 just outside Little Rock by cr… [+4309 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Ibtimes.com.au"
+      "name": "Universe Today"
     },
-    "author": "Jerry Thompson",
-    "title": "Genetically Engineered Pig Kidneys Show Success In Human Transplant Trials At Massachusetts Hospital",
-    "description": "Massachusetts General Hospital successfully transplanted genetically engineered pig kidneys into five patients, marking a significant step in addressing the human organ shortage through xenotransplantation.",
-    "url": "https://www.ibtimes.com.au/breakthrough-pig-kidney-transplants-organ-shortage-1875000",
-    "urlToImage": "https://d.ibtimes.com.au/en/full/1896027/genetically-engineered-pig-kidneys-show-success-human-transplant-trials.jpg",
-    "publishedAt": "2026-09-04T08:02:14Z",
-    "content": "BOSTON — Genetically engineered pig kidneys have been successfully transplanted into five patients at Massachusetts General Hospital, marking a significant milestone in the decades-long effort to use… [+6872 chars]"
+    "author": "Laurence Tognetti, MSc, Laurence Tognetti, MSc (https://www.universetoday.com/authors/laurencetognetti)",
+    "title": "Could life exist on Venus? Peptides survive harsh acid.",
+    "description": "The planet Venus is arguably the most mischievous planetary body in the solar system. This is because like Saturn’s largest moon, Titan, Venus is shrouded in a thick atmosphere that can’t be viewed with optical telescopes and require radar images to see the s…",
+    "url": "https://www.universetoday.com/articles/could-life-exist-on-venus-peptides-survive-harsh-acid",
+    "urlToImage": "https://www.universetoday.com/article_images/ezgif-8d7f317c4b9b8a6d_20260905_083440.jpg",
+    "publishedAt": "2026-09-05T08:40:20Z",
+    "content": "The planet Venus is arguably the most mischievous planetary body in the solar system. This is because like Saturns largest moon, Titan, Venus is shrouded in a thick atmosphere that cant be viewed wit… [+4012 chars]"
   },
   {
     "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
+      "id": null,
+      "name": "Freerepublic.com"
     },
-    "author": "Team Global",
-    "title": "In 1967, NASA flew flour beetle pupae on Biosatellite II for 45 hours; radiation and weightlessness raised wing abnormalities in flight from 29.9% to 44.8%",
-    "description": "During the 1967 Biosatellite II mission, flour beetles displayed notable wing deformities, underscoring how weightlessness amplified the adverse effects of radiation on living organisms. This early research in space biology played a pivotal role in understand…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/in-1967-nasa-flew-flour-beetle-pupae-on-biosatellite-ii-for-45-hours-radiation-and-weightlessness-raised-wing-abnormalities-in-flight-from-29-9-to-44-8/articleshow/133726401.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133726483,width-1200,height-630,imgsize-291080,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-04T08:00:00Z",
-    "content": "During the fall of 1967, as the United States awaited the next Apollo update, a crew of flour beetles, frog eggs, wheat seedlings and fruit flies was strapped into a NASA capsule. They did not get ti… [+4588 chars]"
+    "author": "The Gateway Pundit",
+    "title": "JUST IN: Illinois Mother Charged with Murder After Her 2-Year-Old Son Found Dead in Basement Earlier This Week",
+    "description": "Clancy copycat? As previously reported, a 2-year-old child was found unresponsive in the basement of a Frankfort, Illinois, home on Tuesday. The child was later pronounced dead at the hospital. The mother, Corie Walsh, 38, was charged with murder on Friday. A…",
+    "url": "https://freerepublic.com/focus/f-chat/4394308/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-09-05T08:27:36Z",
+    "content": "Skip to comments.\r\nJUST IN: Illinois Mother Charged with Murder After Her 2-Year-Old Son Found Dead in Basement Earlier This WeekThe Gateway Pundit ^\r\n | September 4, 2026\r\n | Cristina Laila\r\nPosted … [+1580 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Economictimes.com"
+    },
+    "author": "Agencies",
+    "title": "Adobe to WhatsApp: 18 Indian-origin CEOs leading some of the world's biggest companies",
+    "description": "Adobe named Chakravarthy its next president and CEO on September 3, 2026, effective December 1. He will succeed fellow Indian-origin executive Shantanu Narayen, who is moving to executive chair after more than 18 years as CEO. Born in India, Anil Chakravarthy…",
+    "url": "https://m.economictimes.com/news/india/adobe-to-whatsapp-18-indian-origin-ceos-leading-some-of-the-worlds-biggest-companies/anil-chakravarthy-adobe-ceo/slideshow/133793524.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133793524,width-1200,height-900,overlay-economictimes/slideshow.jpg",
+    "publishedAt": "2026-09-05T08:01:29Z",
+    "content": "Sep 05, 2026, 01:32:27 PM IST\r\nAdobe named Chakravarthy its next president and CEO on September 3, 2026, effective December 1. He will succeed fellow Indian-origin executive Shantanu Narayen, who is … [+5908 chars]"
   },
   {
     "source": {
       "id": "cbc-news",
       "name": "CBC News"
     },
-    "author": "John MacFarlane",
-    "title": "Health-care hiring has propped up Canada’s job market. Will patients see a difference?",
-    "description": "A hiring boom across Alberta and Ontario health-care systems has been singlehandedly propping up Canada's national job market — but that growth may say more about the sluggish state of the rest of the economy than about improving patient outcomes.",
-    "url": "https://www.cbc.ca/news/health/health-jobs-growth-alberta-ontario-9.7329685",
-    "urlToImage": "https://i.cbc.ca/ais/9d4c332f-2719-4a84-9d53-7fad8304026b,1788372352270/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C324%2C6228%2C3503%29%3BResize%3D620",
-    "publishedAt": "2026-09-04T08:00:00Z",
-    "content": "A hiring boom across Alberta and Ontario health-care systems has been singlehandedly propping up Canada's national job market but that growth may say more about the sluggish state of the rest of the … [+7050 chars]"
+    "author": "Colin Butler",
+    "title": "Some Great Lakes sturgeon may be 400 years old. Scientists are rethinking how to save them",
+    "description": "New research suggests Great Lake sturgeon may live more than 400 years — far longer than previously thought. The discovery is forcing scientists to rethink the already-generations-long effort to bring the giant fish back from the brink of extinction.",
+    "url": "https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250",
+    "urlToImage": "https://i.cbc.ca/ais/c40dfe6f-c31f-432e-a6d8-c031f9b75513,1788444469065/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C192%2C2048%2C1152%29%3BResize%3D620",
+    "publishedAt": "2026-09-05T08:00:00Z",
+    "content": "Some of the lake sturgeon swimming around in the Great Lakes today may have been alive when Samuel de Champlain first reached Lake Huron more than four centuries ago.\r\nNew research suggests these anc… [+6402 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ScienceAlert"
+    },
+    "author": "Michelle Starr",
+    "title": "Broken Skeleton Could Be The First Evidence of Medieval Death by Trebuchet",
+    "description": "His bones were shattered in more than 160 places.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+    "url": "https://www.sciencealert.com/broken-skeleton-could-be-the-first-evidence-of-medieval-death-by-trebuchet",
+    "urlToImage": "https://www.sciencealert.com/images/2026/09/sk150.jpg",
+    "publishedAt": "2026-09-05T08:00:00Z",
+    "content": "Some seven centuries ago, a man in Scotland had a terrible, horrible, no-good, very bad day indeed.\r\nThere he was, going about the business of living, when something interrupted.\r\nSomething that slam… [+9218 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "What is the opposite animal of a ram?",
+    "description": "What is the Opposite Animal of a Ram? The opposite of a ram, considering various symbolic and biological angles, is most accurately represented by a ewe, the female sheep. Understanding the Ram: A Foundation The ram, a male sheep known for its powerful horns …",
+    "url": "https://www.lifesciencesworld.com/what-is-the-opposite-animal-of-a-ram/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-05T07:57:02Z",
+    "content": "What is the Opposite Animal of a Ram?\r\nThe opposite of a ram, considering various symbolic and biological angles, is most accurately represented by a ewe, the female sheep.\r\nUnderstanding the Ram: A … [+6092 chars]"
   },
   {
     "source": {
@@ -174,51 +135,38 @@
       "name": "The Times of India"
     },
     "author": "Team Global",
-    "title": "In 1992, NASA studied C. elegans worms exposed to space radiation on IML-1; the experiment reported higher mutation rates than in ground controls",
-    "description": "In 1992, micro worms unveiled the troubling effects of space radiation on DNA, showcasing considerable genetic harm to these minuscule creatures. This finding raises alarm for astronauts who lack Earth's magnetic shield, exposing them to similar hazards. As N…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/in-1992-nasa-exposed-c-elegans-worms-to-space-radiation-on-iml-1-mutation-rates-ran-about-8-times-those-of-ground-controls-with-13-unc-22-and-53-lethal-mutations/articleshow/133726150.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-133726229,width-1200,height-630,imgsize-180184,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-04T07:50:00Z",
-    "content": "In January of 1992, the space shuttle Discovery made an unprecedented trip through space with the delivery of about seven million micro worms for a NASA experiment that sought to solve a question wit… [+3672 chars]"
+    "title": "In 2005, ESA exposed two kinds of lichen to space for 14.6 days; both remained metabolically active and recovered after returning to Earth",
+    "description": "In a groundbreaking experiment, two lichen species, Rhizocarpon geographicum and Xanthoria elegans, showcased extraordinary durability by surviving unprotected in the harsh conditions of space for over two weeks. Post-return, they resumed normal metabolic pro…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/in-2005-esa-exposed-two-kinds-of-lichen-to-space-for-14-6-days-both-remained-metabolically-active-and-recovered-after-returning-to-earth/articleshow/133754769.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-133754870,width-1200,height-630,imgsize-217530,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-05T07:50:00Z",
+    "content": "Imagine two crusty patches of lichen, scraped off a mountain rock in Spain, strapped to the outside of a satellite, with nothing between them and the vacuum of space. No spacesuit, no shield, just ra… [+4193 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Business Standard"
+      "name": "Space Daily"
     },
-    "author": "Sohini Das",
-    "title": "Dadachanji Group launches Kaisha Pharma with 45-mn euros initial investment",
-    "description": "Kaisha Pharma will manufacture ampoules, vials, prefilled syringes and cartridges, while targeting Indian and global pharmaceutical and biotechnology companies",
-    "url": "https://www.business-standard.com/industry/news/dadachanji-group-kaisha-pharma-glass-packaging-investment-126090400497_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/24/thumb/fitandfill/1200X628/1774373357-1222.jpg",
-    "publishedAt": "2026-09-04T07:41:45Z",
-    "content": "Kaisha Pharma will manufacture ampoules, vials, prefilled syringes and cartridges, while targeting Indian and global pharmaceutical and biotechnology companies\r\nThe group said the 45-million deployme… [+2319 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "TOI Science Desk",
-    "title": "Harvard neuroscientists kept human brain organoids alive for over five years, breaking the 694-day record and mimicking brain development",
-    "description": "Harvard neuroscientists have kept human brain organoids alive for over five years. These organoids matured and followed molecular patterns of human brain development. Older cells retained developmental information, allowing them to skip ahead in neuron produc…",
-    "url": "https://timesofindia.indiatimes.com/science/harvard-neuroscientists-kept-human-brain-organoids-alive-for-over-five-years-breaking-the-694-day-record-and-mimicking-brain-development/articleshow/133755673.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-133755839,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-09-04T07:40:19Z",
-    "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Harvard neuroscientists kept human brain organoids alive for over five years, breaking the 694-day record and mimicking brain development</li></ul>\r\nFoll… [+2166 chars]"
+    "author": "Deep Field",
+    "title": "Nearly every element in your body except hydrogen was forged by stars—the calcium in your bones and much of the iron in your blood came through ancient supernovae, while the hydrogen flowing through you was born before the first star existed.",
+    "description": "Hydrogen predates the stars, while generations of stellar fusion, supernovae and galactic recycling supplied the heavier elements now arranged into living bodies.\nThe post Nearly every element in your body except hydrogen was forged by stars—the calcium in yo…",
+    "url": "https://spacedaily.com/t-elements-body-stars-supernovae-primordial-hydrogen/",
+    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/09/stardust-body-milky-way-pexels-32237.jpg",
+    "publishedAt": "2026-09-05T07:10:22Z",
+    "content": "A glass of water contains two different eras of cosmic history. Its hydrogen nuclei were made in the young universe, before stars existed. Its oxygen was built much later inside stars and released wh… [+11045 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lifesciencesworld.com"
+      "name": "Hurriyet Daily News"
     },
-    "author": "Ava Reynolds",
-    "title": "What is the new treatment for autism?",
-    "description": "What is the New Treatment for Autism? The landscape of autism treatment is constantly evolving. While there isn’t a single new cure, the focus has shifted towards personalized, multi-faceted approaches incorporating cutting-edge research in genetics, neurobio…",
-    "url": "https://www.lifesciencesworld.com/what-is-the-new-treatment-for-autism/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-04T07:09:24Z",
-    "content": "The landscape of autism treatment is constantly evolving. While there isn’t a single new cure, the focus has shifted towards personalized, multi-faceted approaches incorporating cutting-edge research… [+9701 chars]"
+    "author": "hurriyetdailynews.com",
+    "title": "Cairo museum showcases Ottoman treasures from Egypt, Türkiye",
+    "description": "In the heart of the Egyptian capital Cairo stands the Museum of Islamic Art housing treasures that span centuries of Islamic history.",
+    "url": "https://www.hurriyetdailynews.com/cairo-museum-showcases-ottoman-treasures-from-egypt-turkiye-226452",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6a9a879e5548acce712514b8.jpg",
+    "publishedAt": "2026-09-05T06:47:39Z",
+    "content": "CAIRO\r\nThis file photo shows the ornate stone\r\nfacade of the Museum of Islamic Art\r\nlocated in Cairo, Egypt. (Getty Images)\r\nIn the heart of the Egyptian capital Cairo stands the Museum of Islamic Ar… [+3700 chars]"
   },
   {
     "source": {
@@ -226,24 +174,89 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "Can black bears have white markings?",
-    "description": "Can Black Bears Have White Markings? Exploring Color Variations in Ursus Americanus Yes, black bears can indeed have white markings, though it’s relatively uncommon. These markings most often appear as a white patch on their chest or throat, often referred to…",
-    "url": "https://www.lifesciencesworld.com/can-black-bears-have-white-markings/",
+    "title": "How does a hypotonic environment affect an animal cell?",
+    "description": "How a Hypotonic Environment Affects an Animal Cell: Understanding Osmotic Stress Animal cells in a hypotonic environment face a critical challenge: water rushes in, potentially causing them to swell and even burst due to the difference in solute concentration…",
+    "url": "https://www.lifesciencesworld.com/how-does-a-hypotonic-environment-affect-an-animal-cell/",
     "urlToImage": null,
-    "publishedAt": "2026-09-04T07:02:55Z",
-    "content": "Can Black Bears Have White Markings? Exploring Color Variations in Ursus Americanus\r\nYes, black bears can indeed have white markings, though it’s relatively uncommon. These markings most often appear… [+8564 chars]"
+    "publishedAt": "2026-09-05T06:19:10Z",
+    "content": "How a Hypotonic Environment Affects an Animal Cell: Understanding Osmotic Stress\r\nAnimal cells in a hypotonic environment face a critical challenge: water rushes in, potentially causing them to swell… [+8324 chars]"
   },
   {
     "source": {
-      "id": "al-jazeera-english",
-      "name": "Al Jazeera English"
+      "id": null,
+      "name": "Ibtimes.com.au"
     },
-    "author": "Urooba Jamal",
-    "title": "Nepal floods: How DNA identification of bodies works",
-    "description": "DNA testing helps identify bodies that may be unrecognisable due to mutilation and decomposition.",
-    "url": "https://www.aljazeera.com/news/2026/9/4/nepal-floods-how-does-dna-identification-of-bodies-work",
-    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a99817ad4376-1788445050.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-09-04T06:56:11Z",
-    "content": "More than a week after a glacial collapse near the Langtang Lirung mountain peak set off devastating floods in Nepal and Tibet, sending a deluge of rocks, mud and water to the valleys below, forensic… [+4741 chars]"
+    "author": "Scott Lance",
+    "title": "Bill Gates Warns AI Could Erase Jobs Permanently, Proposes Robot Tax And 'Human Reserved' Work In New Essay",
+    "description": "Bill Gates warns of AI's potential to disrupt jobs, urging governments to prepare. He proposes governance reforms, human-reserved roles, and taxing AI to mitigate impacts.",
+    "url": "https://www.ibtimes.com.au/bill-gates-ai-job-disruption-solutions-1875050",
+    "urlToImage": "https://d.ibtimes.com.au/en/full/216719/bill-gates.jpg",
+    "publishedAt": "2026-09-05T06:06:43Z",
+    "content": "SEATTLE — Microsoft co-founder Bill Gates has issued a stark warning about artificial intelligence's potential to permanently eliminate large numbers of jobs, calling on governments to prepare now fo… [+7571 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Morgan S. Verity",
+    "title": "Prolonged Sitting Linked to 9% Higher Cancer Death Risk per Hour, Study Finds",
+    "description": "Each additional hour of prolonged, uninterrupted sitting is associated with a 9% higher risk of cancer death, according to a new study from researchers at the University of Glasgow. The study, published Sept. 2 in PLOS Medicine, analyzed data from 91,292 UK B…",
+    "url": "https://www.naturalnews.com/2026-09-05-prolonged-sitting-linked-to-higher-cancer-death.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/prolonged-sitting-cancer-mortality-sedentary-behavior-3900-original.jpg",
+    "publishedAt": "2026-09-05T06:00:00Z",
+    "content": "Each additional hour of prolonged, uninterrupted sitting is associated with a 9% higher risk of cancer death, according to a new study from researchers at the University of Glasgow. The study, publis… [+7083 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Coco Somers",
+    "title": "Ashwagandha for Sleep: What the Evidence Shows and What to Consider",
+    "description": "Ashwagandha, an herb with roots in Ayurvedic medicine dating back thousands of years, is increasingly marketed as a natural remedy for stress and poor sleep. Known as an adaptogen, the plant is described by proponents as a “rejuvenator” that enhances the body…",
+    "url": "https://www.naturalnews.com/2026-09-05-ashwaganda-for-sleep-what-evidence-shows.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/ashwagandha-sleep-ayurveda-3905-original-1.jpg",
+    "publishedAt": "2026-09-05T06:00:00Z",
+    "content": "Ashwagandha, an herb with roots in Ayurvedic medicine dating back thousands of years, is increasingly marketed as a natural remedy for stress and poor sleep. Known as an adaptogen, the plant is descr… [+7908 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Ava Grace",
+    "title": "Creatine: A natural boost for aging muscles?",
+    "description": "A 12-week trial found creatine supplementation (10g/day) improved lean mass and strength in sedentary middle-aged adults (45–65) without exercise, challenging the notion that rigorous gym routines are essential for combating age-related muscle loss (sarcopeni…",
+    "url": "https://www.naturalnews.com/2026-09-05-creatine-natural-boost-for-aging-muscles.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Creatine-Glutamine-L-Carnitine-Burner-Fat-Monohydrate.jpg",
+    "publishedAt": "2026-09-05T06:00:00Z",
+    "content": "<ul><li> A 12-week trial found creatine supplementation (10g/day) improved lean mass and strength in sedentary middle-aged adults (4565) without exercise, challenging the notion that rigorous gym rou… [+8395 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Patrick Lewis",
+    "title": "The hidden power of puttering: How small, unstructured movements can transform your health and happiness",
+    "description": "Puttering—gentle, unstructured movement like tidying or gardening—boosts mood, metabolic health and longevity without the pressure of productivity. Studies show light activity (e.g., 30 minutes daily) lowers death risk by 17%, improves blood sugar and reduces…",
+    "url": "https://www.naturalnews.com/2026-09-05-puttering-small-unstructured-movements-can-transform-health.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Dancer-Light-Energy-Movement-Woman-Creative-Black.jpg",
+    "publishedAt": "2026-09-05T06:00:00Z",
+    "content": "<ul><li>Putteringgentle, unstructured movement like tidying or gardeningboosts mood, metabolic health and longevity without the pressure of productivity.</li><li>Studies show light activity (e.g., 30… [+5566 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Naturalnews.com"
+    },
+    "author": "Ava Grace",
+    "title": "Beyond one-size-fits-all: Study reveals gender-specific diets for a longer life",
+    "description": "Women gain the most life expectancy from a diet emphasizing whole grains, while men benefit most from prioritizing coffee and avoiding sugary drinks. For women, the Alternate Mediterranean Diet (AMED)—which highlights whole grains like quinoa and brown rice—i…",
+    "url": "https://www.naturalnews.com/2026-09-05-study-reveals-gender-specific-nutrition-for-longer-life.html",
+    "urlToImage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Couple-Eating-Healthy-Kitchen-Adult-Apron-Board.jpg",
+    "publishedAt": "2026-09-05T06:00:00Z",
+    "content": "<ul><li>Women gain the most life expectancy from a diet emphasizing whole grains, while men benefit most from prioritizing coffee and avoiding sugary drinks.</li><li>For women, the Alternate Mediterr… [+7258 chars]"
   }
 ]
