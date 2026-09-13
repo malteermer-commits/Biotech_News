@@ -1,146 +1,55 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Space Daily"
+      "id": "business-insider",
+      "name": "Business Insider"
     },
-    "author": "Daniel Moran",
-    "title": "Modern humans interbred with Neanderthals before they disappeared, and most people of non-African ancestry still carry roughly 1 to 4 percent Neanderthal DNA today — meaning part of the human population we once thought we simply replaced never actually vanished",
-    "description": "The fossil record suggested modern humans simply wiped out their evolutionary cousins, but genetic evidence now reveals a messier, more intimate history of coexistence and interbreeding.\nThe post Modern humans interbred with Neanderthals before they disappear…",
-    "url": "https://spacedaily.com/d-modern-humans-interbred-with-neanderthals-before-they-disappeared-and-most-people-of-non-african-ancestry-still-carry-roughly-1-to-4-percent-neanderthal-dna-today-meaning-part-of-the-human/",
-    "urlToImage": "https://spacedaily.com/wp-content/uploads/2026/09/Posts-1600840-2026-09-11T125452.185.png",
-    "publishedAt": "2026-09-11T09:30:22Z",
-    "content": "A man who died in a Romanian cave about 40,000 years ago carried more Neanderthal DNA than any other human ever sequenced, ancient or modern. His jawbone turned up in Petera cu Oase, and when genetic… [+5419 chars]"
+    "author": "Ayelet Sheffey",
+    "title": "'It's going to hurt': How a surging student-loan payment is reshaping a family's future",
+    "description": "From a second job to reconsidering a career path, a family of four details how they're navigating a student-loan payment increase.",
+    "url": "https://www.businessinsider.com/student-loan-payment-surge-affects-georgia-family-retirement-jobs-debt-2026-9#article",
+    "urlToImage": "https://i.insider.com/6aa41d80cc23a829a3b905ba?width=1200&format=jpeg",
+    "publishedAt": "2026-09-12T10:30:01Z",
+    "content": "The Sprague family is determining the sacrifices they need to make to navigate higher student-loan payments.Alyssa Pointer for BI\r\nJodi and Paul Sprague raised their daughters with a guiding principl… [+9163 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Digital Journal"
+      "name": "Yahoo Entertainment"
     },
-    "author": "AFP",
-    "title": "Doomsday tech: could AI really kill us all?",
-    "description": "In 2023, hundreds of AI scientists and industry figures, including the heads of top US labs, signed a \"statement on AI extinction risk\" calling for the issue to be treated as seriously as pandemics or nuclear war.\nThe post Doomsday tech: could AI really kill …",
-    "url": "https://www.digitaljournal.com/article/doomsday-tech-could-ai-really-kill-us-all/",
-    "urlToImage": "https://www.digitaljournal.com/wp-content/uploads/2026/09/9c46580d1fca117215e57ebfdf3ae52e114251ef.jpg",
-    "publishedAt": "2026-09-11T09:30:09Z",
-    "content": "Stark warnings from artificial intelligence researchers that advanced forms of the technology could wipe out humanity have raised questions over whether governments are moving fast enough to regulate… [+4344 chars]"
+    "author": "Maham Fatima",
+    "title": "AUCATZYL Sales Are Exploding, But Autolus (AUTL) Still Isn’t In The Black",
+    "description": "On August 11, Autolus Therapeutics (NASDAQ:AUTL) reported second-quarter results that finally showed the kind of growth investors had been waiting years to s...",
+    "url": "https://finance.yahoo.com/healthcare/articles/aucatzyl-sales-exploding-autolus-autl-102145491.html",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/56a4a5305704b1f25eb5a9af5d1745bba5a5cdfec24c52d6999b4495fe53a132/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff02ee999c93f36339fe962a7e3e90d42.jpg",
+    "publishedAt": "2026-09-12T10:21:45Z",
+    "content": "On August 11, Autolus Therapeutics (NASDAQ:AUTL) reported second-quarter results that finally showed the kind of growth investors had been waiting years to see. Net product revenue hit $45.7 million,… [+4531 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Www.gov.uk"
+      "name": "Milwaukee Journal Sentinel"
     },
-    "author": null,
-    "title": "Mental health support for British nationals in Estonia",
-    "description": "Information about support for British nationals experiencing mental health difficulties in Estonia.",
-    "url": "https://www.gov.uk/guidance/mental-health-support-for-british-nationals-in-estonia",
-    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-09-11T09:25:27Z",
-    "content": "Read guidance on mental health abroad for broader advice on mental health issues while travelling or living abroad.\r\nWhat to do in an emergency\r\nIn an emergency or for urgent medical attention call 1… [+5048 chars]"
+    "author": "Mark Stewart, Milwaukee Journal Sentinel",
+    "title": "Wisconsin donor Ted Kellner calls indoor facility 'a labor of love'",
+    "description": "Wisconsin opened its new indoor facility last month but held the ribbon cutting ceremony Sept. 11. Top donors Mary and Ted Kellner were on hand.",
+    "url": "https://www.jsonline.com/story/sports/college/uw/2026/09/12/wisconsin-donor-ted-kellner-calls-indoor-facility-a-labor-of-love/91724418007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/3677d7c77cb094f2ca7d80ae8400f51508c84625544033ed17e471159fcf82be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilwaukee_journal_sentinel_natl_articles_362%2F2c2a8f89f68ec2a62dc5fee9c60220e1.jpg",
+    "publishedAt": "2026-09-12T10:12:33Z",
+    "content": "MADISON As Ted Kellner stood in front of the athletic center that bears his family's name, he recalled the conversation with Barry Alvarez that started the whole thing.\r\n\"We were going to a football … [+2914 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Root"
+      "name": "New York Post"
     },
-    "author": "Asheea Smith",
-    "title": "13 Skincare Tips Every Black Man Should Know",
-    "description": "Fellas, if your skincare routine starts and ends with whatever soap is already sitting in the shower, we need to have a little talk. Your skin deserves more than a quick wash and a splash of water, especially when it comes to tackling pesky skincare concerns.…",
-    "url": "https://www.theroot.com/13-skincare-tips-every-black-man-should-know-2000125270",
-    "urlToImage": null,
-    "publishedAt": "2026-09-11T09:18:29Z",
-    "content": "A man cleanses his face with soap in his modern bathroom mirror. The bright and serene atmosphere emphasizes personal hygiene, skincare, and morning grooming rituals for a refreshing start to the day… [+6679 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Stemlynsblog.org"
-    },
-    "author": "Rick Body",
-    "title": "The Fifth Universal Definition of Myocardial Infarction: What Emergency Clinicians Need to Know",
-    "description": "St.Emlyn's - Emergency Medicine #FOAMed\nMany years ago, when I was working as a registrar in Emergency Medicine and starting my PhD, my supervisor (a social scientist) got me to think about the assumptions I […]\nThe post The Fifth Universal Definition of Myoc…",
-    "url": "https://www.stemlynsblog.org/the-fifth-universal-definition-of-myocardial-infarction-what-emergency-clinicians-need-to-know/",
-    "urlToImage": "https://www.stemlynsblog.org/wp-content/uploads/2026/09/5UDMI.png",
-    "publishedAt": "2026-09-11T09:15:05Z",
-    "content": "Many years ago, when I was working as a registrar in Emergency Medicine and starting my PhD, my supervisor (a social scientist) got me to think about the assumptions I was making in my research. “Is … [+14326 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Zhané Slambee",
-    "title": "These 5 Vitamins May Have A Surprising Link To Lower Cancer Risk",
-    "description": "Five everyday vitamins stood out in a large study linking higher intake to lower colorectal cancer risk and mortality.",
-    "url": "https://www.mindbodygreen.com/articles/these-5-nutrients-stood-out-in-study-of-100k-people",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/ghkzc9u87l3bth8ar.jpg",
-    "publishedAt": "2026-09-11T09:11:00Z",
-    "content": "There are plenty of reasons to eat a colorful mix of fruits, vegetables, whole grains, and other nutrient-rich foods. Still, it's hard to know which nutrients matter most for long-term health.\r\nA new… [+3741 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Team Global",
-    "title": "In 2018, 11,336 American Gut participants mailed samples from used toilet paper to scientists; the dataset characterized microbial diversity on an unprecedented scale",
-    "description": "In an extensive research initiative, scientists collected toilet paper swabs from a diverse group of thousands worldwide, revealing a significant increase in bacterial diversity compared to earlier studies. Notably, participants who incorporated numerous plan…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/in-2018-11336-american-gut-participants-mailed-samples-from-used-toilet-paper-to-scientists-the-dataset-characterized-microbial-diversity-on-an-unprecedented-scale/articleshow/134004314.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-134004392,width-1200,height-630,imgsize-120148,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-11T09:10:00Z",
-    "content": "In 2018, 11,336 people in the United States, the United Kingdom, and dozens of other countries mailed in swabs taken from used toilet paper as part of that research effort. \"American Gut\" is the proj… [+5527 chars]"
-  },
-  {
-    "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
-    },
-    "author": "Abby Russchen",
-    "title": "Canada’s youngest female hot air balloon pilot launches in hometown festival",
-    "description": "Twenty-one-year-old Delia Dorey is the youngest female hot air balloon pilot in Canada, but she didn't always see that for herself. Dorey grew up in a town famous for its annual balloon festival, and, this year, she'll be flying in it.",
-    "url": "https://www.cbc.ca/news/canada/new-brunswick/youngest-female-hot-air-balloon-pilot-in-hometown-festival-9.7339258",
-    "urlToImage": "https://i.cbc.ca/ais/5b697234-7859-49d5-a18f-881a8f8dc564,1789069888107/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C602%2C5712%2C3213%29%3BResize%3D620",
-    "publishedAt": "2026-09-11T09:00:00Z",
-    "content": "Delia Dorey grew up watching hot air balloons in Sussex, home to the Atlantic Balloon Fiesta, but never imagined she would be flying them much less being the youngest female pilot in Canada at 21.\r\nI… [+3653 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Kegeltrainer.net"
-    },
-    "author": "artmanja111",
-    "title": "Show HN: FOSS browser-based visual Kegel trainer for men",
-    "description": "Hey, HN. Long time reader; first submission.I read HN daily and greatly enjoy looking at the projects that people are working on. I find the single-page websites particularly fun and decided to make one of my own.KegelTrainer.net is a visual Kegel trainer for…",
-    "url": "https://kegeltrainer.net/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-11T08:54:09Z",
-    "content": "<table><tr><th>Mode</th><th>What it does</th><th>Timer</th><th>When to use it</th></tr>\r\n<tr><td>Learn</td><td>Technique practice</td><td>5 × 3-sec squeeze / 6-sec release</td><td>When you are still … [+12948 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Stemlynsblog.org"
-    },
-    "author": "Simon Carley",
-    "title": "TTL tips 19: Find one spinal injury – look for another.",
-    "description": "St.Emlyn's - Emergency Medicine #FOAMed\nWe see a lot of patients with mechanisms of injury and/or clinical signs that suggest a spinal column injury. Should you image the whole spine or just the areas that […]\nThe post TTL tips 19: Find one spinal injury – lo…",
-    "url": "https://www.stemlynsblog.org/ttl-tips-19-find-one-spinal-injury-look-for-another/",
-    "urlToImage": "https://www.stemlynsblog.org/wp-content/uploads/2026/09/TTL-tip-19-1.jpg",
-    "publishedAt": "2026-09-11T08:38:50Z",
-    "content": "We see a lot of patients with mechanisms of injury and/or clinical signs that suggest a spinal column injury. Should you image the whole spine or just the areas that you think might be fractured?\r\nTh… [+1401 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What bird can pick up a person?",
-    "description": "What Bird Can Pick Up a Person?: The Improbable Power of Avian Lifting The idea of a bird lifting a person seems fantastical. In reality, no bird alive today is capable of physically lifting a human being, due to the limitations of avian physiology and the im…",
-    "url": "https://www.lifesciencesworld.com/what-bird-can-pick-up-a-person/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-11T08:26:47Z",
-    "content": "What Bird Can Pick Up a Person?: The Improbable Power of Avian Lifting\r\nThe idea of a bird lifting a person seems fantastical. In reality, no bird alive today is capable of physically lifting a human… [+8326 chars]"
+    "author": "Associated Press",
+    "title": "Greek couple welcomes daughter born from an embryo frozen for 22 years after tragedy",
+    "description": "She gave birth on Wednesday to a girl who weighed in at 3.49 kilograms.",
+    "url": "https://nypost.com/2026/09/12/world-news/greek-woman-54-gives-birth-to-baby-from-embryo-frozen-for-22-years/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140768368.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-09-12T10:00:02Z",
+    "content": "Out of their darkest moment, a Greek couple managed to make a new start with a baby born this week. Doing so meant using one of Cristina RaptiTzelepis decades-old embryos and racing to beat a governm… [+2899 chars]"
   },
   {
     "source": {
@@ -148,25 +57,116 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "The U.S. FDA grants orphan drug designation for Lundbeck's investigational anti-ACTH monoclonal antibody asedebart for treatment of endogenous Cushing's syndrome",
-    "description": "The U.S. FDA has granted Orphan Drug Designation for asedebart (Lu AG13909), Lundbeck's novel investigational anti-ACTH monoclonal antibody, for the treatment of endogenous Cushing's syndrome Endogenous Cushing's Syndrome is a rare endocrine disorder driven i…",
-    "url": "https://www.prnewswire.com/news-releases/the-us-fda-grants-orphan-drug-designation-for-lundbecks-investigational-anti-acth-monoclonal-antibody-asedebart-for-treatment-of-endogenous-cushings-syndrome-302876249.html",
-    "urlToImage": null,
-    "publishedAt": "2026-09-11T08:24:00Z",
-    "content": "<ul><li>The U.S. FDA has granted Orphan Drug Designation for asedebart (Lu AG13909), Lundbeck's novel investigational anti-ACTH monoclonal antibody, for the treatment of endogenous Cushing's syndrome… [+9434 chars]"
+    "title": "Aignostics Launches PathoSearch, a Visual Search Engine for Pathology Cases",
+    "description": "Now available via early access: image-based search retrieves real, diagnosed reference cases from world-class centers, spanning 300+ diagnostic entities. BERLIN and NEW YORK, Sept. 12, 2026 /PRNewswire/ -- Today, Aignostics announced the early access release …",
+    "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876588.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1613057/Aignostics-updated-Logo.jpg?id=OA2943748&p=facebook",
+    "publishedAt": "2026-09-12T10:00:00Z",
+    "content": "Now available via early access: image-based search retrieves real, diagnosed reference cases from world-class centers, spanning 300+ diagnostic entities.\r\nBERLIN and NEW YORK, Sept. 12, 2026 /PRNewsw… [+3400 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "PM Modi calls global governance a ‘pyramid of privilege’, seeks BRICS roadmap for reform",
+    "description": "Prime Minister Narendra Modi proposed reforming global governance structures. He described the current system as a pyramid with concentrated power at the top. Modi stated the Global South faces crises but lacks decision-making influence. He called for transfo…",
+    "url": "https://economictimes.indiatimes.com/news/india/pm-modi-calls-global-governance-a-pyramid-of-privilege-seeks-brics-roadmap-for-reform-global-south/articleshow/134122666.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-134122913,width-1200,height-630,imgsize-79794,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-12T09:55:24Z",
+    "content": "Prime Minister Narendra Modi on Saturday linked the current structure of global governance to a pyramid, saying power and decision-making remain concentrated at the top while countries affected by th… [+3445 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Heavy.com"
+      "name": "Foxweather.com"
     },
-    "author": "Josh Buckhalter",
-    "title": "Myles Garrett Tells Eyebrow-Raising Truth After Blowout Loss in Rams Debut",
-    "description": "Myles Garrett spoke candidly after the a blowout loss in his debut with the Los Angeles Rams in the regular-season opener. The post Myles Garrett Tells Eyebrow-Raising Truth After Blowout Loss in Rams Debut appeared first on HEAVY.",
-    "url": "https://heavy.com/sports/nfl/los-angeles-rams/garrett-truth-knee-injury-verse-trade/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/5e2e65b11fbb396cf039ed7806adf61fc6d9513b40884c3baf49b8277845e486/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2F8c83efca7272909a172c3cde2096d012.jpg",
-    "publishedAt": "2026-09-11T08:23:40Z",
-    "content": "MELBOURNE, AUSTRALIA - SEPTEMBER 11: Myles Garrett #95 of the Los Angeles Rams warms up prior to the NFL football game against the San Francisco 49ers at the Melbourne Cricket Ground on September 11,… [+4240 chars]"
+    "author": "FOX Weather",
+    "title": "Great white family tree takes shape after DNA reveals 2 tagged sharks are siblings",
+    "description": "According to OCEARCH, the study revealed three pairs of full siblings and seven likely half-sibling pairs of great white sharks.",
+    "url": "https://www.foxweather.com/earth-space/study-ocearch-white-sharks-sibling-jekyll-olympia-dna",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140766929.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-09-12T09:48:30Z",
+    "content": "What is believed to be the first genomic study of white sharks in the Western North Atlantic has yielded fascinating results that are helping scientists further understand these apex predators and th… [+4813 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "BL New Delhi Bureau",
+    "title": "NDRI, G B Pant University produce first Badri cattle calf using IVF technology",
+    "description": "The team is also working on cloning high-yielding Badri cows and plans to transfer both IVF- and cloning-derived embryos into a range of surrogate cows in the next phase of the project",
+    "url": "https://www.thehindubusinessline.com/economy/agri-business/ndri-g-b-pant-university-produce-first-badri-cattle-calf-using-ivf-technology/article71459616.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/5kavf6/article70761099.ece/alternates/LANDSCAPE_1200/10215_14_9_2023_17_53_48_2_WHATSAPPIMAGE2023_09_14AT54409PM.JPG",
+    "publishedAt": "2026-09-12T09:43:24Z",
+    "content": "Scientists in ICARs Karnal-based National Dairy Research Institute (NDRI) and Pantnagar-based G B Pant University of Agriculture and Technology have produced a healthy female calf of Uttarakhands fam… [+1726 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "Zhané Slambee",
+    "title": "Think Insomnia Only Steals Sleep? This Finding Says Otherwise",
+    "description": "Treating persistent insomnia may do more than improve your nights, with one study finding a change in a marker of biological aging.",
+    "url": "https://www.mindbodygreen.com/articles/unexpected-link-between-insomnia-treatment-and-biological-aging",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/hadmkznt7kbb6wpua.jpg",
+    "publishedAt": "2026-09-12T09:36:00Z",
+    "content": "You can be exhausted all day and still lie awake the moment your head hits the pillow. Night after night, chronic insomnia can leave you foggy, frustrated, and wondering whether your body has forgott… [+4778 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "Sela Breen",
+    "title": "Eating Jet Lag? This Habit May Be Increasing Your Heart Disease Risk",
+    "description": "Your weekly brunch plans may take a toll on your heart.",
+    "url": "https://www.mindbodygreen.com/articles/could-your-weekend-brunch-be-increasing-your-heart-attack-risk",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/td1bdr6sgjzu29z68.jpg",
+    "publishedAt": "2026-09-12T09:20:00Z",
+    "content": "Saturday rolls around and you sleep in, letting yourself enjoy the feeling of lingering in bed without the responsibilities of the work week bearing down on you. Before you know it, you aren't eating… [+5346 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "SystImmune, Inc. to Present New Global Data on Iza-bren (izalontamab brengitecan) in EGFR-mutated Non-Small Cell Lung Cancer at WCLC Congress 2026",
+    "description": "- New global Phase 1 data from a randomized dose-expansion cohort of iza-bren in previously treated EGFR-mutated metastatic NSCLC demonstrate promising antitumor activity and a tolerable safety profile, supporting selection of 2.5 mg/kg D1D8 Q3W as the recomm…",
+    "url": "https://www.prnewswire.com/news-releases/systimmune-inc-to-present-new-global-data-on-iza-bren-izalontamab-brengitecan-in-egfr-mutated-non-small-cell-lung-cancer-at-wclc-congress-2026-302875960.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1856841/Systimmune-Logo.jpg?id=OA2941399&p=facebook",
+    "publishedAt": "2026-09-12T09:15:00Z",
+    "content": "- New global Phase 1 data from a randomized dose-expansion cohort of iza-bren in previously treated EGFR-mutated metastatic NSCLC demonstrate promising antitumor activity and a tolerable safety profi… [+4598 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Twistedsifter.com"
+    },
+    "author": "Jayne Elliott",
+    "title": "She Was Excited For Her Boyfriend’s Brother’s Wedding In The Mountains — Poor Planning Turned It Into A Disaster",
+    "description": "It's like the bride and groom didn't care about their wedding guests at all.\nThe post She Was Excited For Her Boyfriend’s Brother’s Wedding In The Mountains — Poor Planning Turned It Into A Disaster appeared first on TwistedSifter.",
+    "url": "https://twistedsifter.com/2026/09/she-was-excited-for-her-boyfriends-brothers-wedding-in-the-mountains-poor-planning-turned-it-into-a-disaster/",
+    "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/09/Twisted-Sifter-12.png",
+    "publishedAt": "2026-09-12T09:10:47Z",
+    "content": "Shutterstock\r\nImagine being invited to a wedding that’s happening in the mountains in just one week, and you’re supposed to bring your own chair.. Would you happily RSVP yes without any questions, or… [+7076 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "National Institutes of Health"
+    },
+    "author": "ultral",
+    "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+    "description": "The aim of this overview of reviews was to determine the impact of resistance training (RT) prescription on muscle function and hypertrophy, utilizing evidence synthesis methods. It updates the American College of Sports Medicine 2009 Position ...",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+    "urlToImage": "https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0",
+    "publishedAt": "2026-09-12T09:08:54Z",
+    "content": "Exercise is crucial for health throughout the human lifespan, and muscle strength and function are essential components of fitness. Resistance training (RT), also known as strength or weight training… [+55149 chars]"
   },
   {
     "source": {
@@ -174,76 +174,63 @@
       "name": "Lifesciencesworld.com"
     },
     "author": "Ava Reynolds",
-    "title": "What noises do owls hate?",
-    "description": "What Noises Do Owls Hate? Protecting Silent Hunters Owls, masters of silent flight and sharp hearing, are surprisingly sensitive to certain sounds. The noises owls hate most are loud, sudden, and unnatural sounds, which disrupt their hunting, communication, a…",
-    "url": "https://www.lifesciencesworld.com/what-noises-do-owls-hate/",
+    "title": "Do possums hold diseases?",
+    "description": "Do Possums Hold Diseases? A Comprehensive Look While often perceived as disease-ridden creatures, possums are actually relatively resistant to many diseases. They are less likely to carry rabies than many other mammals, though they can carry other pathogens. …",
+    "url": "https://www.lifesciencesworld.com/do-possums-hold-diseases/",
     "urlToImage": null,
-    "publishedAt": "2026-09-11T08:17:28Z",
-    "content": "Owls, masters of silent flight and sharp hearing, are surprisingly sensitive to certain sounds. The noises owls hate most are loud, sudden, and unnatural sounds, which disrupt their hunting, communic… [+9471 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Trending Desk",
-    "title": "Keep humans as pets? Amid Anthropic researcher’s ‘AI will kill humans’ warning, how AI could take over the world without wiping us out",
-    "description": "AI researchers express concerns about potential human extinction and enfeeblement.  These fears stem from loss-of-control scenarios and deliberate human misuse of AI.  Highly intelligent AI agents might pursue their own goals, disregarding human well-being.  …",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/keep-humans-as-pets-amid-anthropic-researchers-ai-will-kill-humans-warning-how-ai-could-take-over-the-world-without-wiping-us-out/articleshow/134051265.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-134054312,width-1200,height-630,imgsize-1396219,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-11T08:07:41Z",
-    "content": "Amid Anthropic researcher Jacob Coxons decision to quit the company over AI concerns, researchers, including father of AI Marvin Minsky, have warned of a future where advanced AI could potentially tr… [+4624 chars]"
+    "publishedAt": "2026-09-12T08:22:10Z",
+    "content": "While often perceived as disease-ridden creatures, possums are actually relatively resistant to many diseases. They are less likely to carry rabies than many other mammals, though they can carry othe… [+7120 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lithub.com"
+      "name": "Lifesciencesworld.com"
     },
-    "author": "Lit Hub Excerpts",
-    "title": "The Birthing Tree",
-    "description": "February 1968 On a bone-chilling day in February, over a table of textbooks and potato chips, Susan and I, despite me being only twelve years old, decided we were going to go to college together and studied more than we",
-    "url": "https://lithub.com/the-birthing-tree/",
-    "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2026/08/the-birthing-tree.jpg",
-    "publishedAt": "2026-09-11T08:02:02Z",
-    "content": "February 1968\r\nArticle continues after advertisement\r\nOn a bone-chilling day in February, over a table of textbooks and potato chips, Susan and I, despite me being only twelve years old, decided we w… [+30161 chars]"
+    "author": "Ava Reynolds",
+    "title": "Would osmosis cause the fish cells to gain or lose water?",
+    "description": "Would Osmosis Cause Fish Cells to Gain or Lose Water? The answer to would osmosis cause the fish cells to gain or lose water? depends entirely on the relative concentration of solutes between the fish’s internal environment and the surrounding water. Fish cel…",
+    "url": "https://www.lifesciencesworld.com/would-osmosis-cause-the-fish-cells-to-gain-or-lose-water/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-12T08:11:22Z",
+    "content": "Would Osmosis Cause Fish Cells to Gain or Lose Water?\r\nThe answer to would osmosis cause the fish cells to gain or lose water? depends entirely on the relative concentration of solutes between the fi… [+8396 chars]"
   },
   {
     "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
+      "id": null,
+      "name": "Careerwebsite.com"
     },
     "author": null,
-    "title": "Inside the New York lab using genetic genealogy to identify 9/11 victims’ remains",
-    "description": "Forty per cent of the 2,753 people who died at Ground Zero on 9/11 have not had their remains identified, including approximately 10 of the 24 Canadian victims. Last month, the lab announced it made its first identification of previously unknown remains using…",
-    "url": "https://www.cbc.ca/news/world/lab-identifying-911-victim-remains-9.7338354",
-    "urlToImage": "https://i.cbc.ca/ais/d9c5d813-ff95-42d8-ada0-b4a97ef1b826,1789079270233/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C51%2C1530%2C860%29%3BResize%3D620",
-    "publishedAt": "2026-09-11T08:01:40Z",
-    "content": "Inside a lab in Manhattan, forensic scientists in white lab coats are still diligently working to keep a promise made 25 years ago.\r\nThey're extracting DNA from thousands of pieces of human remains r… [+8225 chars]"
+    "title": "Senior Media Relations / Public Affairs - Leidos - Falls Church, VA",
+    "description": "A new Senior Media Relations / Public Affairs job is available in Falls Church, Virginia. Check it out on PR News Online.",
+    "url": "https://womenintechnology-jobs.careerwebsite.com/job/senior-media-relations-public-affairs/85949752/",
+    "urlToImage": "https://d3ogvqw9m2inp7.cloudfront.net/assets/dynamic/assets/recruiters/images/1884524/logo.jpg",
+    "publishedAt": "2026-09-12T07:55:44Z",
+    "content": "Description\r\nLeidos currently has a contingent opening for a Senior Media Relations/Public Affairs position to work between our Reston, VA office and the customer site in Falls Church, VA. This is an… [+9531 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "Careerwebsite.com"
     },
-    "author": "Tamara Prenn",
-    "title": "How nepo-baby Ben Shelton became US tennis' new superstar: Big-hitting American downed Carlos Alcaraz, is dating NBA legend Dennis Rodman's daughter and is now on the cusp of a $10MILLION brand deal after New York exploits",
-    "description": "TAMARA PRENN IN NEW YORK: If you had told Ben Shelton he would play the second US Open semi-final of his career tonight in July, he might not have believed you.",
-    "url": "https://www.dailymail.com/sport/tennis/article-16121457/ben-shelton-open-tennis-alcaraz-rodman.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/09/10/17/111171675-0-image-m-20_1789059562109.jpg",
-    "publishedAt": "2026-09-11T08:00:46Z",
-    "content": "If you had told Ben Shelton he would play the second US Open semi-final of his career tonight in July, he might not have believed you. The 23-year-old had endured a blink-and-youll-miss-it first-roun… [+4546 chars]"
+    "author": null,
+    "title": "Junior Media Relations / Public Affairs - Leidos - Falls Church, VA",
+    "description": "A new Junior Media Relations / Public Affairs job is available in Falls Church, Virginia. Check it out on PR News Online.",
+    "url": "https://womenintechnology-jobs.careerwebsite.com/job/junior-media-relations-public-affairs/85949751/",
+    "urlToImage": "https://d3ogvqw9m2inp7.cloudfront.net/assets/dynamic/assets/recruiters/images/1884524/logo.jpg",
+    "publishedAt": "2026-09-12T07:55:38Z",
+    "content": "Description\r\nLeidos currently has a contingent opening for a Junior Media Relations/Public Affairs position to work between our Reston, VA office and the customer site in Falls Church, VA. This is an… [+9348 chars]"
   },
   {
     "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
+      "id": null,
+      "name": "Lifesciencesworld.com"
     },
-    "author": "Inayat Singh",
-    "title": "Wildfires, permafrost melt in Canada causing even more climate change, new study shows",
-    "description": "These climate feedback loops, where climate change triggers more greenhouse gas emissions that in turn feed into even more climate change, could add 20 to 30 per cent more warming over current estimates for this century.",
-    "url": "https://www.cbc.ca/news/science/climate-feedbacks-emissions-permafrost-wildfires-wetlands-9.7339116",
-    "urlToImage": "https://i.cbc.ca/ais/e43eb003-ef46-4ab3-9d0c-464ef8da3f0c,1789066451513/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C437%2C6000%2C3375%29%3BResize%3D620",
-    "publishedAt": "2026-09-11T08:00:00Z",
-    "content": "We know that global warming has made wildfires worse, and melted permafrost that's been frozen for years.\r\nNow, a new study is detailing how the fires, permafrost thaw and other changes are adding ev… [+5396 chars]"
+    "author": "Ava Reynolds",
+    "title": "What are the best rocks to purify water?",
+    "description": "What are the Best Rocks to Purify Water? The best rocks to purify water are those that physically filter out sediment, biologically combat harmful microorganisms, and chemically neutralize toxins; sandstone, gravel, lava rock, and zeolite are commonly used fo…",
+    "url": "https://www.lifesciencesworld.com/what-are-the-best-rocks-to-purify-water/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-12T07:50:35Z",
+    "content": "The best rocks to purify water are those that physically filter out sediment, biologically combat harmful microorganisms, and chemically neutralize toxins; sandstone, gravel, lava rock, and zeolite a… [+8590 chars]"
   }
 ]
