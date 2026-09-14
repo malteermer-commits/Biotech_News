@@ -1,236 +1,249 @@
 [
   {
     "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "Ayelet Sheffey",
-    "title": "'It's going to hurt': How a surging student-loan payment is reshaping a family's future",
-    "description": "From a second job to reconsidering a career path, a family of four details how they're navigating a student-loan payment increase.",
-    "url": "https://www.businessinsider.com/student-loan-payment-surge-affects-georgia-family-retirement-jobs-debt-2026-9#article",
-    "urlToImage": "https://i.insider.com/6aa41d80cc23a829a3b905ba?width=1200&format=jpeg",
-    "publishedAt": "2026-09-12T10:30:01Z",
-    "content": "The Sprague family is determining the sacrifices they need to make to navigate higher student-loan payments.Alyssa Pointer for BI\r\nJodi and Paul Sprague raised their daughters with a guiding principl… [+9163 chars]"
-  },
-  {
-    "source": {
       "id": null,
-      "name": "Yahoo Entertainment"
-    },
-    "author": "Maham Fatima",
-    "title": "AUCATZYL Sales Are Exploding, But Autolus (AUTL) Still Isn’t In The Black",
-    "description": "On August 11, Autolus Therapeutics (NASDAQ:AUTL) reported second-quarter results that finally showed the kind of growth investors had been waiting years to s...",
-    "url": "https://finance.yahoo.com/healthcare/articles/aucatzyl-sales-exploding-autolus-autl-102145491.html",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/56a4a5305704b1f25eb5a9af5d1745bba5a5cdfec24c52d6999b4495fe53a132/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Ff02ee999c93f36339fe962a7e3e90d42.jpg",
-    "publishedAt": "2026-09-12T10:21:45Z",
-    "content": "On August 11, Autolus Therapeutics (NASDAQ:AUTL) reported second-quarter results that finally showed the kind of growth investors had been waiting years to see. Net product revenue hit $45.7 million,… [+4531 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Milwaukee Journal Sentinel"
-    },
-    "author": "Mark Stewart, Milwaukee Journal Sentinel",
-    "title": "Wisconsin donor Ted Kellner calls indoor facility 'a labor of love'",
-    "description": "Wisconsin opened its new indoor facility last month but held the ribbon cutting ceremony Sept. 11. Top donors Mary and Ted Kellner were on hand.",
-    "url": "https://www.jsonline.com/story/sports/college/uw/2026/09/12/wisconsin-donor-ted-kellner-calls-indoor-facility-a-labor-of-love/91724418007/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/3677d7c77cb094f2ca7d80ae8400f51508c84625544033ed17e471159fcf82be/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilwaukee_journal_sentinel_natl_articles_362%2F2c2a8f89f68ec2a62dc5fee9c60220e1.jpg",
-    "publishedAt": "2026-09-12T10:12:33Z",
-    "content": "MADISON As Ted Kellner stood in front of the athletic center that bears his family's name, he recalled the conversation with Barry Alvarez that started the whole thing.\r\n\"We were going to a football … [+2914 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Associated Press",
-    "title": "Greek couple welcomes daughter born from an embryo frozen for 22 years after tragedy",
-    "description": "She gave birth on Wednesday to a girl who weighed in at 3.49 kilograms.",
-    "url": "https://nypost.com/2026/09/12/world-news/greek-woman-54-gives-birth-to-baby-from-embryo-frozen-for-22-years/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140768368.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-09-12T10:00:02Z",
-    "content": "Out of their darkest moment, a Greek couple managed to make a new start with a baby born this week. Doing so meant using one of Cristina RaptiTzelepis decades-old embryos and racing to beat a governm… [+2899 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
+      "name": "Pypi.org"
     },
     "author": null,
-    "title": "Aignostics Launches PathoSearch, a Visual Search Engine for Pathology Cases",
-    "description": "Now available via early access: image-based search retrieves real, diagnosed reference cases from world-class centers, spanning 300+ diagnostic entities. BERLIN and NEW YORK, Sept. 12, 2026 /PRNewswire/ -- Today, Aignostics announced the early access release …",
-    "url": "https://www.prnewswire.com/news-releases/aignostics-launches-pathosearch-a-visual-search-engine-for-pathology-cases-302876588.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1613057/Aignostics-updated-Logo.jpg?id=OA2943748&p=facebook",
-    "publishedAt": "2026-09-12T10:00:00Z",
-    "content": "Now available via early access: image-based search retrieves real, diagnosed reference cases from world-class centers, spanning 300+ diagnostic entities.\r\nBERLIN and NEW YORK, Sept. 12, 2026 /PRNewsw… [+3400 chars]"
+    "title": "flybrain added to PyPI",
+    "description": "The complete fruit fly nervous system (MaleCNS connectome, 166,700 neurons) as a spiking network, on CPU or GPU.",
+    "url": "https://pypi.org/project/flybrain/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-13T11:01:07Z",
+    "content": "The complete central nervous system of an adult male fruit fly, Drosophila melanogaster, as a\r\nspiking network you can run on your own computer: 166,700 neurons and 25.6 million\r\nconnections from the… [+2310 chars]"
   },
   {
     "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
+      "id": "fox-news",
+      "name": "Fox News"
     },
-    "author": "ET Online",
-    "title": "PM Modi calls global governance a ‘pyramid of privilege’, seeks BRICS roadmap for reform",
-    "description": "Prime Minister Narendra Modi proposed reforming global governance structures. He described the current system as a pyramid with concentrated power at the top. Modi stated the Global South faces crises but lacks decision-making influence. He called for transfo…",
-    "url": "https://economictimes.indiatimes.com/news/india/pm-modi-calls-global-governance-a-pyramid-of-privilege-seeks-brics-roadmap-for-reform-global-south/articleshow/134122666.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-134122913,width-1200,height-630,imgsize-79794,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-12T09:55:24Z",
-    "content": "Prime Minister Narendra Modi on Saturday linked the current structure of global governance to a pyramid, saying power and decision-making remain concentrated at the top while countries affected by th… [+3445 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Foxweather.com"
-    },
-    "author": "FOX Weather",
-    "title": "Great white family tree takes shape after DNA reveals 2 tagged sharks are siblings",
-    "description": "According to OCEARCH, the study revealed three pairs of full siblings and seven likely half-sibling pairs of great white sharks.",
-    "url": "https://www.foxweather.com/earth-space/study-ocearch-white-sharks-sibling-jekyll-olympia-dna",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140766929.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-09-12T09:48:30Z",
-    "content": "What is believed to be the first genomic study of white sharks in the Western North Atlantic has yielded fascinating results that are helping scientists further understand these apex predators and th… [+4813 chars]"
+    "author": null,
+    "title": "Parkinson's is becoming more common. Here are 5 things everyone should know",
+    "description": "A Parkinson's physician and scientist urges exercise, heart-healthy habits, and social interaction to slow Parkinson's disease as gene therapy research advances.",
+    "url": "https://www.foxnews.com/opinion/parkinsons-becoming-more-common-5-things-everyone-should-know",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/parkinsonsdoc.jpg",
+    "publishedAt": "2026-09-13T11:00:55Z",
+    "content": "Its true. Rates of Parkinsons disease are growing faster than any other neurological condition in the world, with incidence projected to double in the coming decades. Parkinsons is a progressive diso… [+4838 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "BusinessLine"
+      "name": "HuffPost"
     },
-    "author": "BL New Delhi Bureau",
-    "title": "NDRI, G B Pant University produce first Badri cattle calf using IVF technology",
-    "description": "The team is also working on cloning high-yielding Badri cows and plans to transfer both IVF- and cloning-derived embryos into a range of surrogate cows in the next phase of the project",
-    "url": "https://www.thehindubusinessline.com/economy/agri-business/ndri-g-b-pant-university-produce-first-badri-cattle-calf-using-ivf-technology/article71459616.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/incoming/5kavf6/article70761099.ece/alternates/LANDSCAPE_1200/10215_14_9_2023_17_53_48_2_WHATSAPPIMAGE2023_09_14AT54409PM.JPG",
-    "publishedAt": "2026-09-12T09:43:24Z",
-    "content": "Scientists in ICARs Karnal-based National Dairy Research Institute (NDRI) and Pantnagar-based G B Pant University of Agriculture and Technology have produced a healthy female calf of Uttarakhands fam… [+1726 chars]"
+    "author": "HuffPost",
+    "title": "I'm An ER Physician. Here Are 5 Types Of Pain I'd Never Ignore.",
+    "description": "It’s better to be told nothing is wrong than to regret not seeing a medical professional sooner. Here's what you need to know.",
+    "url": "https://www.huffpost.com/entry/im-an-er-physician-here-are-5-types-of-pain-id-never-ignore-goog_l_6aa2e765e4b09fd4319d471d",
+    "urlToImage": "https://img.huffingtonpost.com/asset/67e6c3561700002400e1b2c0.jpeg?cache=3ctSwpgTjN&ops=1200_630",
+    "publishedAt": "2026-09-13T11:00:19Z",
+    "content": "When it comes to severe medical situations, emergency medicine doctors see it all. Theyre the physicians who folks of all ages rush to when something serious goes wrong. But just what does serious me… [+6917 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "HuffPost"
+    },
+    "author": "HuffPost",
+    "title": "The Newest COVID Shot Is Here — Doctors Suggest The Best Time To Get It For The Most Protection",
+    "description": "Who should get the vaccine, when to get it and more.",
+    "url": "https://www.huffpost.com/entry/the-newest-covid-shot-is-here-doctors-suggest-the-best-time-to-get-it-for-the-most-protection-goog_l_6aa2e5fee4b09fd4319d459d",
+    "urlToImage": "https://img.huffingtonpost.com/asset/6aa01e393c00008e404e6878.jpeg?ops=500_281%2Cscalefit_1200_630",
+    "publishedAt": "2026-09-13T11:00:19Z",
+    "content": "The start of September and back-to-school time means respiratory virus season is here an important time for vaccinations and other health protocols to keep folks healthy throughout the colder months.… [+7512 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ScienceAlert"
+    },
+    "author": "David Nield",
+    "title": "Evolution Might Not Be as Random as We Thought, New Study Finds",
+    "description": "There's a hidden force on organisms.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+    "url": "https://www.sciencealert.com/evolution-might-not-be-as-random-as-we-thought-new-study-finds",
+    "urlToImage": "https://www.sciencealert.com/images/2026/09/EvolvingButterfly.jpg",
+    "publishedAt": "2026-09-13T11:00:00Z",
+    "content": "The basics of evolution are pretty straightforward to grasp: organisms better equipped to survive and reproduce tend to have the advantage over others. These animals live on, while others don't.\r\nBio… [+4395 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "KQED"
+    },
+    "author": "Steph Rodriguez",
+    "title": "How Trump’s Immigration Policies Can Leave Doctors Feeling Powerless",
+    "description": "The Trump administration’s immigration crackdown is making it harder for primary care doctors who work with immigrant patients to do their jobs, a UCSF study finds.",
+    "url": "https://www.kqed.org/news/12099177/how-trumps-immigration-policies-can-leave-doctors-feeling-powerless",
+    "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/08/20260826_UCSFStudy_GC-3-KQED.jpg",
+    "publishedAt": "2026-09-13T11:00:00Z",
+    "content": "When a patient comes into Dr. Miguel San Miguel Benavides exam room at San Francisco General Hospital with a cough, a rash, diabetes or high blood pressure, he knows where to start. \r\nBut over the pa… [+4409 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": "Joel Dryden",
+    "title": "Albertans to vote on opting out of federal programs — while keeping cash",
+    "description": "When referendum day arrives in Alberta on Oct. 19, the focus won’t just be on separation and immigration. One of four constitutional questions will ask voters if they support a push to amend the Constitution so Alberta can opt out of federal programs, while k…",
+    "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-federal-programs-geoffrey-sigalet-david-schneiderman-9.7340654",
+    "urlToImage": "https://i.cbc.ca/ais/dbd2a43b-085c-4c94-8d35-527a6f56bb50,1789156067462/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C284%2C5448%2C3064%29%3BResize%3D620",
+    "publishedAt": "2026-09-13T11:00:00Z",
+    "content": "When referendum day arrives in Alberta on Oct. 19, the focus wont just be on separation and immigration.\r\nAlbertans will also be presented with four constitutional questions that range from abolishin… [+5352 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Variety"
+    },
+    "author": "Siddhant Adlakha",
+    "title": "‘Up Against It’ Review: Antonio Banderas Stars in a British Family Dramedy That Ignores Its Own Conundrums",
+    "description": "A crisscrossing family dramedy, Trudie Styler’s “Up Against It” features wonderful performances and intriguingly modern ideas, but it seldom coheres as comedy or drama. A tale of divorced parents, their respective partners and their ailing, precocious teen, t…",
+    "url": "https://variety.com/2026/film/news/up-against-it-review-1236860045/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2026/09/Up-Against-It_01.webp?w=1000&h=563&crop=1",
+    "publishedAt": "2026-09-13T10:54:51Z",
+    "content": "A crisscrossing family dramedy, Trudie Styler’s “Up Against It” features wonderful performances and intriguingly modern ideas, but it seldom coheres as comedy or drama. A tale of divorced parents, th… [+3772 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Defenseturkiye.com"
+    },
+    "author": "Admin",
+    "title": "Türkiye to Push Defence-Sector Tech Into Health, Chips and AI - Defense Turkiye",
+    "description": "Ankara's new 2027-2029 economic plan directs defence-industry technology toward healthcare, semiconductors and AI, as Turkish arms exports hit record levels.",
+    "url": "https://defenseturkiye.com/turkiye-defence-tech-transfer-civilian-sectors/",
+    "urlToImage": "https://defenseturkiye.com/wp-content/uploads/2026/09/cevdet-yilmaz-turkish-vice-president.jpg",
+    "publishedAt": "2026-09-13T10:54:20Z",
+    "content": "Türkiye’s government has written a plan to push technology developed for its defence industry into civilian sectors into national economic policy, formalising an approach officials have floated for m… [+5085 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Grandgoldman.com"
+    },
+    "author": "Daniel Harrolds",
+    "title": "Black Women Fly to South Korea for Affordable Healthcare",
+    "description": "Black Women Fly to South Korea for Affordable Healthcaregrandgoldman.com",
+    "url": "https://grandgoldman.com/blogs/business/black-women-fly-to-south-korea-for-affordable-healthcare",
+    "urlToImage": "http://grandgoldman.com/cdn/shop/articles/500_46a42492-8c01-4b4c-a437-61a63a07a8cc.jpg?v=1784806635",
+    "publishedAt": "2026-09-13T10:50:43Z",
+    "content": "Black American women are increasingly flying to South Korea for affordable healthcare that feels inclusive, with comprehensive diagnostic screenings that could save your life. For years, Americans ha… [+4084 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "mindbodygreen.com"
     },
-    "author": "Zhané Slambee",
-    "title": "Think Insomnia Only Steals Sleep? This Finding Says Otherwise",
-    "description": "Treating persistent insomnia may do more than improve your nights, with one study finding a change in a marker of biological aging.",
-    "url": "https://www.mindbodygreen.com/articles/unexpected-link-between-insomnia-treatment-and-biological-aging",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/hadmkznt7kbb6wpua.jpg",
-    "publishedAt": "2026-09-12T09:36:00Z",
-    "content": "You can be exhausted all day and still lie awake the moment your head hits the pillow. Night after night, chronic insomnia can leave you foggy, frustrated, and wondering whether your body has forgott… [+4778 chars]"
+    "author": "Ailsa Cowell",
+    "title": "Walking Is America's Favorite Workout — Experts Say That's a Problem",
+    "description": "Steps are great, but they can only get you so far (no pun intended).",
+    "url": "https://www.mindbodygreen.com/articles/your-daily-walk-is-missing-critical-component-new-study-shows-that-they",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_315,w_3000,h_1685/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1776095866931_qm4pevhri1e.jpg",
+    "publishedAt": "2026-09-13T10:49:00Z",
+    "content": "If your go-to form of exercise is a daily walk, you're in good company. Walking is America's most popular workout by a landslide. It's accessible, low-stress, and genuinely good for you, and I'm one … [+6095 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "mindbodygreen.com"
+      "name": "Common Dreams"
     },
-    "author": "Sela Breen",
-    "title": "Eating Jet Lag? This Habit May Be Increasing Your Heart Disease Risk",
-    "description": "Your weekly brunch plans may take a toll on your heart.",
-    "url": "https://www.mindbodygreen.com/articles/could-your-weekend-brunch-be-increasing-your-heart-attack-risk",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/td1bdr6sgjzu29z68.jpg",
-    "publishedAt": "2026-09-12T09:20:00Z",
-    "content": "Saturday rolls around and you sleep in, letting yourself enjoy the feeling of lingering in bed without the responsibilities of the work week bearing down on you. Before you know it, you aren't eating… [+5346 chars]"
+    "author": "Peter Dreier",
+    "title": "We All Stand on Gloria Steinem’s Shoulders",
+    "description": "Gloria Steinem, who died September 2 at ninety-two, was the leading voice and public face of second-wave feminism that began in the 1960s. Thanks to the tireless work of Steinem and others, America is today a more inclusive society for women in both attitude …",
+    "url": "https://www.commondreams.org/opinion/gloria-steinem-s-legacy",
+    "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=67757250&width=1200&height=600&coordinates=0%2C394%2C0%2C395",
+    "publishedAt": "2026-09-13T10:45:01Z",
+    "content": "Gloria Steinem, who died September 2 at ninety-two, was the leading voice and public face of second-wave feminism that began in the 1960s. Thanks to the tireless work of Steinem and others, America i… [+20103 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PRNewswire"
+      "name": "Richmondmagazine.com"
     },
-    "author": null,
-    "title": "SystImmune, Inc. to Present New Global Data on Iza-bren (izalontamab brengitecan) in EGFR-mutated Non-Small Cell Lung Cancer at WCLC Congress 2026",
-    "description": "- New global Phase 1 data from a randomized dose-expansion cohort of iza-bren in previously treated EGFR-mutated metastatic NSCLC demonstrate promising antitumor activity and a tolerable safety profile, supporting selection of 2.5 mg/kg D1D8 Q3W as the recomm…",
-    "url": "https://www.prnewswire.com/news-releases/systimmune-inc-to-present-new-global-data-on-iza-bren-izalontamab-brengitecan-in-egfr-mutated-non-small-cell-lung-cancer-at-wclc-congress-2026-302875960.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1856841/Systimmune-Logo.jpg?id=OA2941399&p=facebook",
-    "publishedAt": "2026-09-12T09:15:00Z",
-    "content": "- New global Phase 1 data from a randomized dose-expansion cohort of iza-bren in previously treated EGFR-mutated metastatic NSCLC demonstrate promising antitumor activity and a tolerable safety profi… [+4598 chars]"
+    "author": "Eileen Abbott",
+    "title": "Plain White T",
+    "description": "A former teacher shares an enduring lesson from his students.",
+    "url": "https://richmondmagazine.com/news/sunday-story/plain-white-t/",
+    "urlToImage": "https://richmondmagazine.com/downloads/49032/download/ben-dyer_jay-paul_teaser.jpg?cb=912b80b102d27ae8931d6def93d90163&w=1200",
+    "publishedAt": "2026-09-13T10:30:00Z",
+    "content": "The plain cotton T-shirt Ben Dyer wears to Richmond running events is so worn out and dotted with scattered holes, most people would have tossed it out long ago.\r\nIn fact, he says, fellow racers over… [+5071 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Twistedsifter.com"
+      "name": "Biztoc.com"
     },
-    "author": "Jayne Elliott",
-    "title": "She Was Excited For Her Boyfriend’s Brother’s Wedding In The Mountains — Poor Planning Turned It Into A Disaster",
-    "description": "It's like the bride and groom didn't care about their wedding guests at all.\nThe post She Was Excited For Her Boyfriend’s Brother’s Wedding In The Mountains — Poor Planning Turned It Into A Disaster appeared first on TwistedSifter.",
-    "url": "https://twistedsifter.com/2026/09/she-was-excited-for-her-boyfriends-brothers-wedding-in-the-mountains-poor-planning-turned-it-into-a-disaster/",
-    "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/09/Twisted-Sifter-12.png",
-    "publishedAt": "2026-09-12T09:10:47Z",
-    "content": "Shutterstock\r\nImagine being invited to a wedding that’s happening in the mountains in just one week, and you’re supposed to bring your own chair.. Would you happily RSVP yes without any questions, or… [+7076 chars]"
+    "author": "tippinsights.com",
+    "title": "Bad Medicine: Medicare Wastes Billions on Unnecessary Treatments",
+    "description": "By Jeremy Portnoy | September 3, 2026\nIn 1996, a task force of independent healthcare experts recommended that doctors stop giving urine tests to people who did not show symptoms of a urinary tract infection. The test has “no benefit,” since even a positive r…",
+    "url": "https://biztoc.com/x/b9e8f7c927e78bde",
+    "urlToImage": "https://biztoc.com/cdn/b9e8f7c927e78bde_s.webp",
+    "publishedAt": "2026-09-13T10:29:55Z",
+    "content": "By Jeremy Portnoy | September 3, 2026In 1996, a task force of independent healthcare experts recommended that doctors stop giving urine tests to people who did not show symptoms of a urinary tract in… [+146 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "National Institutes of Health"
+      "name": "Etf-europe.org"
     },
-    "author": "ultral",
-    "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
-    "description": "The aim of this overview of reviews was to determine the impact of resistance training (RT) prescription on muscle function and hypertrophy, utilizing evidence synthesis methods. It updates the American College of Sports Medicine 2009 Position ...",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
-    "urlToImage": "https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0",
-    "publishedAt": "2026-09-12T09:08:54Z",
-    "content": "Exercise is crucial for health throughout the human lifespan, and muscle strength and function are essential components of fitness. Resistance training (RT), also known as strength or weight training… [+55149 chars]"
+    "author": "Adrian",
+    "title": "French ruling adds momentum to Europe-wide debate on aircrew health risks",
+    "description": "The recent ruling recognising former Air France cabin crew member Sophie Lainault's breast cancer as an occupational disease has attracted attention far beyond France.",
+    "url": "https://www.etf-europe.org/news/french-ruling-adds-momentum-europe-wide-debate-aircrew-health-risks",
+    "urlToImage": "https://www.etf-europe.org/sites/default/files/node/images/social-media-share/air%20france%20medium.jpg",
+    "publishedAt": "2026-09-13T10:06:43Z",
+    "content": "The recent ruling recognising former Air France cabin crew member Sophie Lainault's breast cancer as an occupational disease has attracted attention far beyond France. Speaking to Euractiv, the Europ… [+5743 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lifesciencesworld.com"
+      "name": "Salon"
     },
-    "author": "Ava Reynolds",
-    "title": "Do possums hold diseases?",
-    "description": "Do Possums Hold Diseases? A Comprehensive Look While often perceived as disease-ridden creatures, possums are actually relatively resistant to many diseases. They are less likely to carry rabies than many other mammals, though they can carry other pathogens. …",
-    "url": "https://www.lifesciencesworld.com/do-possums-hold-diseases/",
+    "author": "Andrea Suozzo, Agnel Philip",
+    "title": "Ectopic pregnancy deaths have nearly doubled. It’s worse in states with abortion bans",
+    "description": "ProPublica’s analysis of CDC data found that almost 200 women died after an ectopic pregnancy from 2020 to 2025",
+    "url": "https://www.salon.com/2026/09/13/ectopic-pregnancy-deaths-have-nearly-doubled-its-worse-in-states-with-abortion-bans-partner/",
+    "urlToImage": "https://www.salon.com/app/uploads/2026/02/mother-pregnant-prenatal-GettyImages-1415721465.jpg",
+    "publishedAt": "2026-09-13T10:00:28Z",
+    "content": "The number of women who died after an ectopic pregnancy has spiked in recent years, a ProPublica analysis found. The mounting deaths in Centers for Disease Control and Prevention data have drawn litt… [+18986 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nakedcapitalism.com"
+    },
+    "author": "Conor Gallagher",
+    "title": "Organizing for Survival in an Era of Climate Chaos",
+    "description": "Systems are failing. What will replace them?",
+    "url": "https://www.nakedcapitalism.com/2026/09/organizing-for-survival-in-an-era-of-climate-chaos.html",
     "urlToImage": null,
-    "publishedAt": "2026-09-12T08:22:10Z",
-    "content": "While often perceived as disease-ridden creatures, possums are actually relatively resistant to many diseases. They are less likely to carry rabies than many other mammals, though they can carry othe… [+7120 chars]"
+    "publishedAt": "2026-09-13T10:00:15Z",
+    "content": "Conor here: The following episode from Movement Memos discusses ideas for building community to counter state abandonment as economic, climate, and other disasters mount. \r\nBy Kelly Hayes, the host o… [+48352 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lifesciencesworld.com"
+      "name": "Soldiersystems.net"
     },
-    "author": "Ava Reynolds",
-    "title": "Would osmosis cause the fish cells to gain or lose water?",
-    "description": "Would Osmosis Cause Fish Cells to Gain or Lose Water? The answer to would osmosis cause the fish cells to gain or lose water? depends entirely on the relative concentration of solutes between the fish’s internal environment and the surrounding water. Fish cel…",
-    "url": "https://www.lifesciencesworld.com/would-osmosis-cause-the-fish-cells-to-gain-or-lose-water/",
+    "author": "Eric G",
+    "title": "Sailors Shape the Future of Navy Uniforms",
+    "description": "Scientists, designers, engineers and textile experts from the Navy Exchange Service Command’s Navy Clothing and Textile Research Facility worked with nearly 80 female Sailors during a five-day fit evaluation Aug 17-21, 2026, onboard Joint Expeditionary Base L…",
+    "url": "https://soldiersystems.net/2026/09/13/sailors-shape-the-future-of-navy-uniforms/",
     "urlToImage": null,
-    "publishedAt": "2026-09-12T08:11:22Z",
-    "content": "Would Osmosis Cause Fish Cells to Gain or Lose Water?\r\nThe answer to would osmosis cause the fish cells to gain or lose water? depends entirely on the relative concentration of solutes between the fi… [+8396 chars]"
+    "publishedAt": "2026-09-13T10:00:00Z",
+    "content": "Scientists, designers, engineers and textile experts from the Navy Exchange Service Commands Navy Clothing and Textile Research Facility worked with nearly 80 female Sailors during a five-day fit eva… [+4315 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Careerwebsite.com"
+      "name": "The New Yorker"
     },
-    "author": null,
-    "title": "Senior Media Relations / Public Affairs - Leidos - Falls Church, VA",
-    "description": "A new Senior Media Relations / Public Affairs job is available in Falls Church, Virginia. Check it out on PR News Online.",
-    "url": "https://womenintechnology-jobs.careerwebsite.com/job/senior-media-relations-public-affairs/85949752/",
-    "urlToImage": "https://d3ogvqw9m2inp7.cloudfront.net/assets/dynamic/assets/recruiters/images/1884524/logo.jpg",
-    "publishedAt": "2026-09-12T07:55:44Z",
-    "content": "Description\r\nLeidos currently has a contingent opening for a Senior Media Relations/Public Affairs position to work between our Reston, VA office and the customer site in Falls Church, VA. This is an… [+9531 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Careerwebsite.com"
-    },
-    "author": null,
-    "title": "Junior Media Relations / Public Affairs - Leidos - Falls Church, VA",
-    "description": "A new Junior Media Relations / Public Affairs job is available in Falls Church, Virginia. Check it out on PR News Online.",
-    "url": "https://womenintechnology-jobs.careerwebsite.com/job/junior-media-relations-public-affairs/85949751/",
-    "urlToImage": "https://d3ogvqw9m2inp7.cloudfront.net/assets/dynamic/assets/recruiters/images/1884524/logo.jpg",
-    "publishedAt": "2026-09-12T07:55:38Z",
-    "content": "Description\r\nLeidos currently has a contingent opening for a Junior Media Relations/Public Affairs position to work between our Reston, VA office and the customer site in Falls Church, VA. This is an… [+9348 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencesworld.com"
-    },
-    "author": "Ava Reynolds",
-    "title": "What are the best rocks to purify water?",
-    "description": "What are the Best Rocks to Purify Water? The best rocks to purify water are those that physically filter out sediment, biologically combat harmful microorganisms, and chemically neutralize toxins; sandstone, gravel, lava rock, and zeolite are commonly used fo…",
-    "url": "https://www.lifesciencesworld.com/what-are-the-best-rocks-to-purify-water/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-12T07:50:35Z",
-    "content": "The best rocks to purify water are those that physically filter out sediment, biologically combat harmful microorganisms, and chemically neutralize toxins; sandstone, gravel, lava rock, and zeolite a… [+8590 chars]"
+    "author": "Stephanie Horvath",
+    "title": "“Driveway,” by Stephanie Horvath",
+    "description": "Poetry by Stephanie Horvath: “In the gut, / In the mouth, / In the irreducible / ‘Bile’ humor.”",
+    "url": "https://www.newyorker.com/magazine/2026/09/21/driveway-stephanie-horvath-poem",
+    "urlToImage": "https://media.newyorker.com/photos/5d484cee472c990009e99534/16:9/w_1280,c_limit/hp-poetryspots5.jpg",
+    "publishedAt": "2026-09-13T10:00:00Z",
+    "content": "In the gut,In the mouth,In the irreducibleBile humor,In the middleOf the melancholic rainbow,The green best friend,The meat seen, in theThrow-up, pink,In the irreducible mouth,In the phrase didnt lik… [+1030 chars]"
   }
 ]
