@@ -2,28 +2,28 @@
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Biztoc.com"
     },
-    "author": null,
-    "title": "flybrain added to PyPI",
-    "description": "The complete fruit fly nervous system (MaleCNS connectome, 166,700 neurons) as a spiking network, on CPU or GPU.",
-    "url": "https://pypi.org/project/flybrain/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-13T11:01:07Z",
-    "content": "The complete central nervous system of an adult male fruit fly, Drosophila melanogaster, as a\r\nspiking network you can run on your own computer: 166,700 neurons and 25.6 million\r\nconnections from the… [+2310 chars]"
+    "author": "economist.com",
+    "title": "An AI deal with China could get Donald Trump his Nobel prize",
+    "description": "Agreement to collaborate, starting with cyber-security and medicine, would be his biggest achievement, writes Gary Marcus",
+    "url": "https://biztoc.com/x/e9cd14f689162bcf",
+    "urlToImage": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-09-14T10:20:19Z",
+    "content": "Agreement to collaborate, starting with cyber-security and medicine, would be his biggest achievement, writes Gary Marcus\r\nThis story appeared on economist.com, 2026-09-14 09:49:46."
   },
   {
     "source": {
-      "id": "fox-news",
-      "name": "Fox News"
+      "id": null,
+      "name": "Dailymail.com"
     },
-    "author": null,
-    "title": "Parkinson's is becoming more common. Here are 5 things everyone should know",
-    "description": "A Parkinson's physician and scientist urges exercise, heart-healthy habits, and social interaction to slow Parkinson's disease as gene therapy research advances.",
-    "url": "https://www.foxnews.com/opinion/parkinsons-becoming-more-common-5-things-everyone-should-know",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/07/parkinsonsdoc.jpg",
-    "publishedAt": "2026-09-13T11:00:55Z",
-    "content": "Its true. Rates of Parkinsons disease are growing faster than any other neurological condition in the world, with incidence projected to double in the coming decades. Parkinsons is a progressive diso… [+4838 chars]"
+    "author": "Xantha Leatham",
+    "title": "Will AI really kill humans? The scientists, tech bosses and developers who fear superintelligent bots will wipe us out - and those that think fears are overplayed",
+    "description": "A top artificial intelligence safety researcher sparked alarm last week after warning that the technology could 'kill us all' by the end of the decade.",
+    "url": "https://www.dailymail.com/sciencetech/article-16129597/worried-AI-tech-bosses-scientists-alarm.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/09/14/10/111136173-0-A_researcher_at_Anthropic_has_quit_over_concerns_that_big_tech_f-a-15_1789379854253.jpg",
+    "publishedAt": "2026-09-14T10:08:38Z",
+    "content": "A top artificial intelligence safety researcher sparked alarm last week after warning that the technology could 'kill us all' by the end of the decade.\r\nJacob Coxon, who helped train the latest versi… [+6975 chars]"
   },
   {
     "source": {
@@ -31,25 +31,12 @@
       "name": "HuffPost"
     },
     "author": "HuffPost",
-    "title": "I'm An ER Physician. Here Are 5 Types Of Pain I'd Never Ignore.",
-    "description": "It’s better to be told nothing is wrong than to regret not seeing a medical professional sooner. Here's what you need to know.",
-    "url": "https://www.huffpost.com/entry/im-an-er-physician-here-are-5-types-of-pain-id-never-ignore-goog_l_6aa2e765e4b09fd4319d471d",
-    "urlToImage": "https://img.huffingtonpost.com/asset/67e6c3561700002400e1b2c0.jpeg?cache=3ctSwpgTjN&ops=1200_630",
-    "publishedAt": "2026-09-13T11:00:19Z",
-    "content": "When it comes to severe medical situations, emergency medicine doctors see it all. Theyre the physicians who folks of all ages rush to when something serious goes wrong. But just what does serious me… [+6917 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "HuffPost"
-    },
-    "author": "HuffPost",
-    "title": "The Newest COVID Shot Is Here — Doctors Suggest The Best Time To Get It For The Most Protection",
-    "description": "Who should get the vaccine, when to get it and more.",
-    "url": "https://www.huffpost.com/entry/the-newest-covid-shot-is-here-doctors-suggest-the-best-time-to-get-it-for-the-most-protection-goog_l_6aa2e5fee4b09fd4319d459d",
-    "urlToImage": "https://img.huffingtonpost.com/asset/6aa01e393c00008e404e6878.jpeg?ops=500_281%2Cscalefit_1200_630",
-    "publishedAt": "2026-09-13T11:00:19Z",
-    "content": "The start of September and back-to-school time means respiratory virus season is here an important time for vaccinations and other health protocols to keep folks healthy throughout the colder months.… [+7512 chars]"
+    "title": "Finally, Teeth Whitening Options That Actually Work Without Hurting Your Smile",
+    "description": "You can remove years of stains without the shocks of traditional whitening strips.",
+    "url": "https://www.huffpost.com/entry/pain-free-whitening-products-sensitive-teeth-ud-sept_l_6aa4596ae4b0b2af35a676c2",
+    "urlToImage": "https://img.huffingtonpost.com/asset/69851192220000ffe66d990e.jpg?cache=grnbTnEUzF&ops=500_281%2Cscalefit_1200_630",
+    "publishedAt": "2026-09-14T10:00:17Z",
+    "content": "Fewer things light up your entire face like having white teeth, but at what cost? While Crest Whitestrips have long dominated the market as the go-to solution for an instantly bright smile, numerous … [+8409 chars]"
   },
   {
     "source": {
@@ -57,193 +44,219 @@
       "name": "ScienceAlert"
     },
     "author": "David Nield",
-    "title": "Evolution Might Not Be as Random as We Thought, New Study Finds",
-    "description": "There's a hidden force on organisms.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-    "url": "https://www.sciencealert.com/evolution-might-not-be-as-random-as-we-thought-new-study-finds",
-    "urlToImage": "https://www.sciencealert.com/images/2026/09/EvolvingButterfly.jpg",
-    "publishedAt": "2026-09-13T11:00:00Z",
-    "content": "The basics of evolution are pretty straightforward to grasp: organisms better equipped to survive and reproduce tend to have the advantage over others. These animals live on, while others don't.\r\nBio… [+4395 chars]"
+    "title": "China Just Let AI Run an Eye Clinic. Here's What Happened.",
+    "description": "Work to do.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+    "url": "https://www.sciencealert.com/china-just-let-ai-run-an-eye-clinic-heres-what-happened",
+    "urlToImage": "https://www.sciencealert.com/images/2026/05/RedEye.jpg",
+    "publishedAt": "2026-09-14T10:00:00Z",
+    "content": "It's difficult to avoid the discussions around AI at the moment and how useful or otherwise it can be.\r\nScience and healthcare are two of the areas where the tech promises to be transformative.\r\nWe'r… [+4468 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "KQED"
+      "id": "the-irish-times",
+      "name": "The Irish Times"
     },
-    "author": "Steph Rodriguez",
-    "title": "How Trump’s Immigration Policies Can Leave Doctors Feeling Powerless",
-    "description": "The Trump administration’s immigration crackdown is making it harder for primary care doctors who work with immigrant patients to do their jobs, a UCSF study finds.",
-    "url": "https://www.kqed.org/news/12099177/how-trumps-immigration-policies-can-leave-doctors-feeling-powerless",
-    "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/08/20260826_UCSFStudy_GC-3-KQED.jpg",
-    "publishedAt": "2026-09-13T11:00:00Z",
-    "content": "When a patient comes into Dr. Miguel San Miguel Benavides exam room at San Francisco General Hospital with a cough, a rash, diabetes or high blood pressure, he knows where to start. \r\nBut over the pa… [+4409 chars]"
-  },
-  {
-    "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
-    },
-    "author": "Joel Dryden",
-    "title": "Albertans to vote on opting out of federal programs — while keeping cash",
-    "description": "When referendum day arrives in Alberta on Oct. 19, the focus won’t just be on separation and immigration. One of four constitutional questions will ask voters if they support a push to amend the Constitution so Alberta can opt out of federal programs, while k…",
-    "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-federal-programs-geoffrey-sigalet-david-schneiderman-9.7340654",
-    "urlToImage": "https://i.cbc.ca/ais/dbd2a43b-085c-4c94-8d35-527a6f56bb50,1789156067462/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C284%2C5448%2C3064%29%3BResize%3D620",
-    "publishedAt": "2026-09-13T11:00:00Z",
-    "content": "When referendum day arrives in Alberta on Oct. 19, the focus wont just be on separation and immigration.\r\nAlbertans will also be presented with four constitutional questions that range from abolishin… [+5352 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Variety"
-    },
-    "author": "Siddhant Adlakha",
-    "title": "‘Up Against It’ Review: Antonio Banderas Stars in a British Family Dramedy That Ignores Its Own Conundrums",
-    "description": "A crisscrossing family dramedy, Trudie Styler’s “Up Against It” features wonderful performances and intriguingly modern ideas, but it seldom coheres as comedy or drama. A tale of divorced parents, their respective partners and their ailing, precocious teen, t…",
-    "url": "https://variety.com/2026/film/news/up-against-it-review-1236860045/",
-    "urlToImage": "https://variety.com/wp-content/uploads/2026/09/Up-Against-It_01.webp?w=1000&h=563&crop=1",
-    "publishedAt": "2026-09-13T10:54:51Z",
-    "content": "A crisscrossing family dramedy, Trudie Styler’s “Up Against It” features wonderful performances and intriguingly modern ideas, but it seldom coheres as comedy or drama. A tale of divorced parents, th… [+3772 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Defenseturkiye.com"
-    },
-    "author": "Admin",
-    "title": "Türkiye to Push Defence-Sector Tech Into Health, Chips and AI - Defense Turkiye",
-    "description": "Ankara's new 2027-2029 economic plan directs defence-industry technology toward healthcare, semiconductors and AI, as Turkish arms exports hit record levels.",
-    "url": "https://defenseturkiye.com/turkiye-defence-tech-transfer-civilian-sectors/",
-    "urlToImage": "https://defenseturkiye.com/wp-content/uploads/2026/09/cevdet-yilmaz-turkish-vice-president.jpg",
-    "publishedAt": "2026-09-13T10:54:20Z",
-    "content": "Türkiye’s government has written a plan to push technology developed for its defence industry into civilian sectors into national economic policy, formalising an approach officials have floated for m… [+5085 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Grandgoldman.com"
-    },
-    "author": "Daniel Harrolds",
-    "title": "Black Women Fly to South Korea for Affordable Healthcare",
-    "description": "Black Women Fly to South Korea for Affordable Healthcaregrandgoldman.com",
-    "url": "https://grandgoldman.com/blogs/business/black-women-fly-to-south-korea-for-affordable-healthcare",
-    "urlToImage": "http://grandgoldman.com/cdn/shop/articles/500_46a42492-8c01-4b4c-a437-61a63a07a8cc.jpg?v=1784806635",
-    "publishedAt": "2026-09-13T10:50:43Z",
-    "content": "Black American women are increasingly flying to South Korea for affordable healthcare that feels inclusive, with comprehensive diagnostic screenings that could save your life. For years, Americans ha… [+4084 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Ailsa Cowell",
-    "title": "Walking Is America's Favorite Workout — Experts Say That's a Problem",
-    "description": "Steps are great, but they can only get you so far (no pun intended).",
-    "url": "https://www.mindbodygreen.com/articles/your-daily-walk-is-missing-critical-component-new-study-shows-that-they",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_315,w_3000,h_1685/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1776095866931_qm4pevhri1e.jpg",
-    "publishedAt": "2026-09-13T10:49:00Z",
-    "content": "If your go-to form of exercise is a daily walk, you're in good company. Walking is America's most popular workout by a landslide. It's accessible, low-stress, and genuinely good for you, and I'm one … [+6095 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Common Dreams"
-    },
-    "author": "Peter Dreier",
-    "title": "We All Stand on Gloria Steinem’s Shoulders",
-    "description": "Gloria Steinem, who died September 2 at ninety-two, was the leading voice and public face of second-wave feminism that began in the 1960s. Thanks to the tireless work of Steinem and others, America is today a more inclusive society for women in both attitude …",
-    "url": "https://www.commondreams.org/opinion/gloria-steinem-s-legacy",
-    "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=67757250&width=1200&height=600&coordinates=0%2C394%2C0%2C395",
-    "publishedAt": "2026-09-13T10:45:01Z",
-    "content": "Gloria Steinem, who died September 2 at ninety-two, was the leading voice and public face of second-wave feminism that began in the 1960s. Thanks to the tireless work of Steinem and others, America i… [+20103 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Richmondmagazine.com"
-    },
-    "author": "Eileen Abbott",
-    "title": "Plain White T",
-    "description": "A former teacher shares an enduring lesson from his students.",
-    "url": "https://richmondmagazine.com/news/sunday-story/plain-white-t/",
-    "urlToImage": "https://richmondmagazine.com/downloads/49032/download/ben-dyer_jay-paul_teaser.jpg?cb=912b80b102d27ae8931d6def93d90163&w=1200",
-    "publishedAt": "2026-09-13T10:30:00Z",
-    "content": "The plain cotton T-shirt Ben Dyer wears to Richmond running events is so worn out and dotted with scattered holes, most people would have tossed it out long ago.\r\nIn fact, he says, fellow racers over… [+5071 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Biztoc.com"
-    },
-    "author": "tippinsights.com",
-    "title": "Bad Medicine: Medicare Wastes Billions on Unnecessary Treatments",
-    "description": "By Jeremy Portnoy | September 3, 2026\nIn 1996, a task force of independent healthcare experts recommended that doctors stop giving urine tests to people who did not show symptoms of a urinary tract infection. The test has “no benefit,” since even a positive r…",
-    "url": "https://biztoc.com/x/b9e8f7c927e78bde",
-    "urlToImage": "https://biztoc.com/cdn/b9e8f7c927e78bde_s.webp",
-    "publishedAt": "2026-09-13T10:29:55Z",
-    "content": "By Jeremy Portnoy | September 3, 2026In 1996, a task force of independent healthcare experts recommended that doctors stop giving urine tests to people who did not show symptoms of a urinary tract in… [+146 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Etf-europe.org"
-    },
-    "author": "Adrian",
-    "title": "French ruling adds momentum to Europe-wide debate on aircrew health risks",
-    "description": "The recent ruling recognising former Air France cabin crew member Sophie Lainault's breast cancer as an occupational disease has attracted attention far beyond France.",
-    "url": "https://www.etf-europe.org/news/french-ruling-adds-momentum-europe-wide-debate-aircrew-health-risks",
-    "urlToImage": "https://www.etf-europe.org/sites/default/files/node/images/social-media-share/air%20france%20medium.jpg",
-    "publishedAt": "2026-09-13T10:06:43Z",
-    "content": "The recent ruling recognising former Air France cabin crew member Sophie Lainault's breast cancer as an occupational disease has attracted attention far beyond France. Speaking to Euractiv, the Europ… [+5743 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Salon"
-    },
-    "author": "Andrea Suozzo, Agnel Philip",
-    "title": "Ectopic pregnancy deaths have nearly doubled. It’s worse in states with abortion bans",
-    "description": "ProPublica’s analysis of CDC data found that almost 200 women died after an ectopic pregnancy from 2020 to 2025",
-    "url": "https://www.salon.com/2026/09/13/ectopic-pregnancy-deaths-have-nearly-doubled-its-worse-in-states-with-abortion-bans-partner/",
-    "urlToImage": "https://www.salon.com/app/uploads/2026/02/mother-pregnant-prenatal-GettyImages-1415721465.jpg",
-    "publishedAt": "2026-09-13T10:00:28Z",
-    "content": "The number of women who died after an ectopic pregnancy has spiked in recent years, a ProPublica analysis found. The mounting deaths in Centers for Disease Control and Prevention data have drawn litt… [+18986 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Nakedcapitalism.com"
-    },
-    "author": "Conor Gallagher",
-    "title": "Organizing for Survival in an Era of Climate Chaos",
-    "description": "Systems are failing. What will replace them?",
-    "url": "https://www.nakedcapitalism.com/2026/09/organizing-for-survival-in-an-era-of-climate-chaos.html",
-    "urlToImage": null,
-    "publishedAt": "2026-09-13T10:00:15Z",
-    "content": "Conor here: The following episode from Movement Memos discusses ideas for building community to counter state abandonment as economic, climate, and other disasters mount. \r\nBy Kelly Hayes, the host o… [+48352 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Soldiersystems.net"
-    },
-    "author": "Eric G",
-    "title": "Sailors Shape the Future of Navy Uniforms",
-    "description": "Scientists, designers, engineers and textile experts from the Navy Exchange Service Command’s Navy Clothing and Textile Research Facility worked with nearly 80 female Sailors during a five-day fit evaluation Aug 17-21, 2026, onboard Joint Expeditionary Base L…",
-    "url": "https://soldiersystems.net/2026/09/13/sailors-shape-the-future-of-navy-uniforms/",
-    "urlToImage": null,
-    "publishedAt": "2026-09-13T10:00:00Z",
-    "content": "Scientists, designers, engineers and textile experts from the Navy Exchange Service Commands Navy Clothing and Textile Research Facility worked with nearly 80 female Sailors during a five-day fit eva… [+4315 chars]"
+    "author": "León Hernández in Caracas",
+    "title": "Earthquakes expose faultlines in how Venezuela and Colombia wield power",
+    "description": "The disasters highlighted deep differences in media freedom, emergency management and the relationship between citizens and power",
+    "url": "https://www.irishtimes.com/world/americas/2026/09/01/earthquakes-expose-faultlines-in-how-venezuela-and-colombia-wield-power/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/4VG234GDZOBHFHIENPE6L4G6AQ.jpg?smart=true&auth=d1d55bfbe9409e765ae15ee5ffa669b4ad234fc8aa2c54d7f6f6a5336982b7d8&width=1200&height=630",
+    "publishedAt": "2026-09-14T10:00:00Z",
+    "content": "On June 24th, 2026, a double earthquake of magnitudes 7.2 and 7.5 devastated northern Venezuela. Just weeks later, on August 10th, an earthquake of magnitude 7.4 shook much of western and central Col… [+6006 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "The New Yorker"
     },
-    "author": "Stephanie Horvath",
-    "title": "“Driveway,” by Stephanie Horvath",
-    "description": "Poetry by Stephanie Horvath: “In the gut, / In the mouth, / In the irreducible / ‘Bile’ humor.”",
-    "url": "https://www.newyorker.com/magazine/2026/09/21/driveway-stephanie-horvath-poem",
-    "urlToImage": "https://media.newyorker.com/photos/5d484cee472c990009e99534/16:9/w_1280,c_limit/hp-poetryspots5.jpg",
-    "publishedAt": "2026-09-13T10:00:00Z",
-    "content": "In the gut,In the mouth,In the irreducibleBile humor,In the middleOf the melancholic rainbow,The green best friend,The meat seen, in theThrow-up, pink,In the irreducible mouth,In the phrase didnt lik… [+1030 chars]"
+    "author": "Rachel Syme",
+    "title": "Paula Cole Doesn’t Want to Wait",
+    "description": "At the Conservatory Garden, the singer reflects on her new two-album set, “Sonic Memoir: Demos 1989-1998”; launching Lilith Fair with Sarah McLachlan; and the time Jay Leno made fun of her armpit hair. Rachel Syme reports.",
+    "url": "https://www.newyorker.com/magazine/2026/09/21/paula-cole-doesnt-want-to-wait",
+    "urlToImage": "https://media.newyorker.com/photos/6aa4b1bf90cb44d6fe747b9c/16:9/w_1280,c_limit/r50264.png",
+    "publishedAt": "2026-09-14T10:00:00Z",
+    "content": "The 1998 Grammy Awards should have been a triumphant night for the singer-songwriter Paula Cole. She was nominated for seven awards for her second album, This Fire, including Producer of the Year, No… [+4033 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Scientific American"
+    },
+    "author": "Rachel Melegrito",
+    "title": "What caused this woman’s hallucinations? Doctors reveal an infestation of brain worms",
+    "description": "After months of headaches and visual hallucinations, a woman was finally revealed to have brain cysts filled with tapeworm larvae",
+    "url": "https://www.scientificamerican.com/article/what-caused-this-womans-hallucinations-doctors-reveal-an-infestation-of-brain-worms/",
+    "urlToImage": "https://static.scientificamerican.com/dam/asset/fe07d07b-29dc-49ab-b743-d185dd15f5ac/Taenia-solium.jpg?m=1789146850.3&w=1200",
+    "publishedAt": "2026-09-14T10:00:00Z",
+    "content": "Tapeworms are typically thought of as a gut problem: Eat undercooked meat and you could be left with an intestinal parasite. But there’s another, more unsettling way these creatures can enter your bo… [+3250 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thenation.com"
+    },
+    "author": "Susan Choi",
+    "title": "Yale’s President Has Become a Shameful Collaborator With Trump",
+    "description": "Susan Choi\n\n\n\nMaurie McInnis has the power to stand up to the administration. Instead, she’s caving.\r\n\n\r\n\n\nThe post Yale’s President Has Become a Shameful Collaborator With Trump appeared first on The Nation.",
+    "url": "https://www.thenation.com/?post_type=article&p=609489",
+    "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-2.51.25-PM.jpg",
+    "publishedAt": "2026-09-14T09:32:00Z",
+    "content": "Society / September 14, 2026\r\nMaurie McInnis has the power to stand up to the administration. Instead, shes caving.\r\nAd Policy\r\nYale University president Maurie McInnis speaking at the Gibbes Museum … [+8159 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "ledmonds@businessinsider.com (Lauren Edmonds)",
+    "title": "Lady Gaga's tech CEO fiancée is training an AI model on data collected from human skin",
+    "description": "Michael Polansky is no stranger to the spotlight, but one of his most ambitious projects — Outer Bio — has remained largely unknown to the public.",
+    "url": "https://www.businessinsider.com/lady-gaga-michael-polasnky-human-skin-research-ai-2026-9#article",
+    "urlToImage": "https://i.insider.com/6a9ddba161854fb4851a4610?width=1200&format=jpeg",
+    "publishedAt": "2026-09-14T09:31:01Z",
+    "content": "Michael Polansky is busy.\r\nIn the last decade, he's cofounded a philanthropic nonprofit, launched an early-stage venture capital firm, helmed an asset management firm, got engaged to Lady Gaga, and s… [+4900 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Largeheartedboy.com"
+    },
+    "author": "largeheartedboy",
+    "title": "Erin Miller Reid’s Book Notes music playlist for her novel But for Fortune",
+    "description": "\"The revised playlist succinctly reflects the heart of my novel—two women overcoming angst and striving toward hope with a heavy helping of family drama.\"",
+    "url": "https://largeheartedboy.com/2026/09/14/erin-miller-reids-book-notes-music-playlist-for-her-novel-but-for-fortune/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-14T09:30:06Z",
+    "content": "In the Book Notes series, authors create and discuss a music playlist that relates in some way to their recently published book.\r\nPrevious contributors include Jesmyn Ward, Lauren Groff, Bret Easton … [+11664 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "James David Pickering, Assistant Professor in Physical Chemistry, School of Chemistry, University of Leicester",
+    "title": "Who should own the knowledge that underpins AI technology?",
+    "description": "None of the rapid development in AI exists in a vacuum. It is built on decades of blue-skies work by academics.",
+    "url": "https://theconversation.com/who-should-own-the-knowledge-that-underpins-ai-technology-291503",
+    "urlToImage": "https://images.theconversation.com/files/758521/original/file-20260908-50-fmir4o.jpg?ixlib=rb-4.1.1&rect=0%2C166%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-09-14T09:30:04Z",
+    "content": "Russian mathematician Yurii Nesterov's work on gradient descent methods is influential in the development of AI technology. Simons Foundation via Wikimedia Commons, CC BY-NC-ND\r\nRussian mathematician… [+5922 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hurriyet Daily News"
+    },
+    "author": "hurriyetdailynews.com",
+    "title": "Women take the lead at Kaçkar by UTMB",
+    "description": "Women seeking to break barriers in trail running took center stage at the second Kaçkar by UTMB in northeastern Türkiye, where athletes from around the world tackled demanding mountain trails across 4K, 20K, 50K and 100K races in a test of endurance against t…",
+    "url": "https://www.hurriyetdailynews.com/women-take-the-lead-at-kackar-by-utmb-226860",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6aa7bd55242e1cf6f86a2631.jpg",
+    "publishedAt": "2026-09-14T09:25:47Z",
+    "content": "Dilara Özer - RZE\r\nWomen seeking to break barriers in trail running took center stage at the second Kaçkar by UTMB in northeastern Türkiye, where athletes from around the world tackled demanding moun… [+3232 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "Ava Durgin",
+    "title": "844 Million Adults Have This Condition — Yet Millions Don't Know It",
+    "description": "Add these two markers to your longevity checklist",
+    "url": "https://www.mindbodygreen.com/articles/2-simple-tests-that-can-spot-kidney-disease-before-symptoms-start",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/g714z5oa6k1qj2620.jpg",
+    "publishedAt": "2026-09-14T09:24:00Z",
+    "content": "Kidney health probably isn't the first thing that comes to mind when you think about longevity. We talk a lot about maintaining muscle, protecting our heart, keeping blood sugar in check, and support… [+3970 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "nytimes.com",
+    "title": "Is A.I. Raising the Chances of Biological Warfare?",
+    "description": "Current chatbots aren’t likely to help lone actors invent a deadly pathogen, experts say. But newer models, trained in biology, may need stronger safeguards.",
+    "url": "https://biztoc.com/x/9386c0ecc9913b20",
+    "urlToImage": "https://biztoc.com/cdn/9386c0ecc9913b20_s.webp",
+    "publishedAt": "2026-09-14T09:20:17Z",
+    "content": "Current chatbots arent likely to help lone actors invent a deadly pathogen, experts say. But newer models, trained in biology, may need stronger safeguards.\r\nThis story appeared on nytimes.com, 2026-… [+14 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Theartfulage.com"
+    },
+    "author": "The Artful Age Editorial Team",
+    "title": "The last time NASA delivered an instrument to Mars designed specifically to detect living microbes was in 1976",
+    "description": "Fifty years ago, the twin Viking landers carried three biology experiments to Mars designed to detect living microbes in the soil. No NASA mission since has flown that kind of instrument — and scientists still argue about what the 1976 data actually showed.\nT…",
+    "url": "https://theartfulage.com/ap-the-last-time-nasa-delivered-an-instrument-to-mars-designed-specifically-to-detect-living-microbes-was-in-1976/",
+    "urlToImage": "https://theartfulage.com/wp-content/uploads/2026/09/the-last-time-nasa-sent-an-instrument-to.jpg",
+    "publishedAt": "2026-09-14T09:12:01Z",
+    "content": "Fifty years ago, two NASA spacecraft touched down on Mars carrying hardware built to ask an unusually direct question: could anything living in the Martian soil reveal itself through biological activ… [+10779 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GoErie.com"
+    },
+    "author": "Mike Copper, Mike Copper",
+    "title": "Vote in this week's Erie Times-News Seaway Window and AHN Sports Medicine athlete of the week polls",
+    "description": "The Erie Times-News Seaway Window and AHN Sports Medicine athlete of the week polls will run through Sept. 16 at 5 p.m.",
+    "url": "https://www.goerie.com/story/sports/high-school/2026/09/14/erie-times-news-seaway-window-and-ahn-sports-medicine-athlete-of-the-week-polls-for-sept-14-16/91740031007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/0b7ee3fd1e2af09287aee67b8dacbff094f5e5bbf5d9a845b50f0df9ced89962/lightyear_networkapi/resizefill_w628_h628%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ferie-times-news%2F4259a2d6242417e9d9f19eeacc5a2fdc.jpg",
+    "publishedAt": "2026-09-14T09:08:05Z",
+    "content": "The Erie Times-News Seaway Window and AHN Sports Medicine, from now through early November, will conduct football, male athlete and female athlete of the week polls for District 10's fall sports seas… [+618 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Rana Sarkar",
+    "title": "Quote of the Day by Anton Chekhov: ‘Every happy man should have someone with a little hammer at his door to knock and remind him that there are unhappy people, and…’",
+    "description": "Quote of the Day: Anton Chekhov's reflection serves as a poignant reminder that even amidst joy, life is laden with challenges. He posited that a continuous awareness of suffering cultivates empathy and a deeper understanding of others. Chekhov warned against…",
+    "url": "https://economictimes.indiatimes.com/news/international/canada/quote-of-the-day-by-anton-chekhov-every-happy-man-should-have-someone-with-a-little-hammer-at-his-door-to-knock-and-remind-him-that-there-are-unhappy-people-and/articleshow/134236262.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-134237514,width-1200,height-630,imgsize-329434,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-14T09:05:34Z",
+    "content": "There is something strange about happiness: when life is kind to you repeatedly, some of us start to believe it will remain that way. A good morning, a secure home, a healthy family or a piece of goo… [+4410 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Joseph James",
+    "title": "Hair Loss Was Reported Far More Often by Women in Zepbound Trials but New Genetics Covers Only Men",
+    "description": "Zepbound's FDA label reports hair loss in 7.1% of women versus 0.5% of men. The newest GLP-1 genetic study looked only at men.",
+    "url": "https://www.medicaldaily.com/glp1-hair-loss-women-excluded-genetic-research-478586",
+    "urlToImage": "https://d.medicaldaily.com/en/full/485885/editorial-illustration-via-ai.jpg",
+    "publishedAt": "2026-09-14T09:01:15Z",
+    "content": "The newest genetic research linking GLP-1 biology to hair loss could only be run in men, and that limitation now sits awkwardly beside the federal drug labels. In the clinical trials that supported a… [+7530 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "China has a chokehold on your medicine cabinet. It’s a national security threat",
+    "description": "The United States produces just 3% of active pharmaceutical ingredients while China controls 45%, creating a dangerous drug supply chain crisis.",
+    "url": "https://www.foxnews.com/opinion/china-chokehold-medicine-cabinet-national-security-threat",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/pharmacy.jpg",
+    "publishedAt": "2026-09-14T09:00:01Z",
+    "content": "The United States produces roughly 3% of the active pharmaceutical ingredients in the world. Meanwhile, China produces a whopping 45%. A Johns Hopkins study found that China supplies more than 60% of… [+4481 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Wattsupwiththat.com"
+    },
+    "author": "Charles Rotter",
+    "title": "Weekly Climate and Energy News Roundup #706",
+    "description": "“To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.” — Nicolaus Copernicus\nThe post Weekly Climate and Energy News Roundup #706 appeared first on Watts Up With That?.",
+    "url": "https://wattsupwiththat.com/2026/09/14/weekly-climate-and-energy-news-roundup-706/",
+    "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/09/ChatGPT-Golden-Hour-Canyon-Panorama-canyonlands.webp?fit=1024%2C512&quality=75&ssl=1",
+    "publishedAt": "2026-09-14T09:00:00Z",
+    "content": "Quote of the Week: To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge.\r\n Nicolaus Copernicus\r\nNumber of the Week: 0.4°F (0.4F°) or 0.2°C (0… [+69192 chars]"
   }
 ]
