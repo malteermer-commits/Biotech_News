@@ -1,249 +1,262 @@
 [
   {
     "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Dr Amit Verma",
+    "title": "Targeted Therapy vs Chemotherapy: What Is the Difference?",
+    "description": "By an Oncologist When patients hear the words “chemotherapy” and “targeted therapy,” they often wonder whether targeted therapy is simply a newer and",
+    "url": "https://timesofindia.indiatimes.com/toi-blogs/wellbeing/targeted-therapy-vs-chemotherapy-what-is-the-difference/articleshow/134482119.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-134482205,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
+    "publishedAt": "2026-09-25T10:21:54Z",
+    "content": "Dr. Amit Verma is a Molecular Oncologist based in Gurgaon with over two decades of experience in oncology, molecular medicine, translational cancer research and personalised cancer care.Dr. Verma cur… [+389 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "IDEAYA Biosciences Announces Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
+    "description": "SOUTH SAN FRANCISCO, Calif., Sept. 25, 2026 /PRNewswire/ -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted therapeutics, today announced that, on September 24, 2026, the Co…",
+    "url": "https://www.prnewswire.com/news-releases/ideaya-biosciences-announces-inducement-grants-under-nasdaq-listing-rule-5635c4-302889869.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1161589/IDEAYA-v2-Logo.jpg?id=OA2970695&p=facebook",
+    "publishedAt": "2026-09-25T10:00:00Z",
+    "content": "SOUTH SAN FRANCISCO, Calif., Sept. 25, 2026 /PRNewswire/ -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted thera… [+2440 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Soheil Farazi and Srinivas Tadigadapa",
+    "title": "Bound States in the Continuum for High-$Q$ Light Emission in Photonic-Phononic Nonlocal Metasurfaces",
+    "description": "Thermal radiation is inherently broadband and incoherent, limiting its utility in applications requiring spectral selectivity such as molecular spectroscopy and free-space optical communications. Bound states in the continuum (BICs) provide a powerful route t…",
+    "url": "https://link.aps.org/doi/10.1103/fhx1-953m",
+    "urlToImage": null,
+    "publishedAt": "2026-09-25T10:00:00Z",
+    "content": "Thermal radiation is inherently broadband and incoherent, limiting its utility in applications requiring spectral selectivity such as molecular spectroscopy and free-space optical communications. Bou… [+1444 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "G. Aad et al. (ATLAS Collaboration†[\"id\", \"col1\"], CMS Collaboration)",
+    "title": "Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
+    "description": "Author(s): G. Aad et al. (ATLAS Collaboration†[\"id\", \"col1\"], CMS Collaboration)First combination of searches for Higgs boson pair production from two CERN collaborations on this important standard model process provides information about the crucial Higgs se…",
+    "url": "https://link.aps.org/doi/10.1103/27s7-2frt",
+    "urlToImage": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/27s7-2frt.png",
+    "publishedAt": "2026-09-25T10:00:00Z",
+    "content": "M. Aboelela45, A. Aboulhorma36e, H. Abramowicz156, B.S. Acharya69a,69b,c, A. Ackermann63a, C. Adam Bourdarios4, L. Adamczyk86a, S.V. Addepalli148, M.J. Addison102, J. Adelman118, A. Adiguzel22c, T. A… [+130629 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Big Blue View"
+    },
+    "author": "James Hickey",
+    "title": "Giants news: Jaxson Dart to IR, Andrew Thomas and Brian Burns miss practice, more",
+    "description": "New York Giants headlines for Friday.",
+    "url": "https://www.bigblueview.com/new-york-giants-news/172768/jaxson-dart-to-ir-andrew-thomas-and-brian-burns-miss-practice-more",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/85fff2ea46589e8a7ce80930e3ecdb68065cd78a8ab8298e90ce69c621b68baf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd44ce3e9417cd952adc0ebc713e5cd34.jpg",
+    "publishedAt": "2026-09-25T10:00:00Z",
+    "content": "Good morning, New York Giants fans! Here are the stories you need to know as Jameis Winston gets set to take the helm for the Giants this weekend.\r\nSafety Jevon Holland said the meeting \"was great\" f… [+4667 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "Hannah Margaret Allen",
+    "title": "I Found The Secret To A Better Wellness Getaway & It’s Beyond The Spa",
+    "description": "From mineral-rich hydrotherapy to inspiring design, here's why a wellness getaway to Kohler, Wisconsin, is the ultimate mind-body reset.",
+    "url": "https://www.mindbodygreen.com/articles/movement-nourishment-and-nature-my-wellness-getaway-to-kohler-wisconsin",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1790034077822_nescr9j4ik.jpg",
+    "publishedAt": "2026-09-25T10:00:00Z",
+    "content": "I knew I needed a break. What I didn't know was that I needed a 10-minute shower.\r\nAs a busy working mom living in a pre-war Brooklyn apartment, my showers tend to be efficient rather than indulgent.… [+14024 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Cecilia M. S. Alvares, Cameron J. G. Wilson, Nicholas P. Funnell, Mark S. Senn, and Gabriele C. Sosso",
+    "title": "Origins and predictability of the hydrostatic limit of molecular liquids",
+    "description": "Loss of hydrostaticity limits high-pressure experiments, as pressure transmitting media solidify under compression. Here, we report a strong and positive correlation between the increase of molar density with pressure ($\\ensuremath{\\zeta}$) and the hydrostati…",
+    "url": "https://link.aps.org/doi/10.1103/f2k4-hf7d",
+    "urlToImage": null,
+    "publishedAt": "2026-09-25T10:00:00Z",
+    "content": "Loss of hydrostaticity limits high-pressure experiments, as pressure transmitting media solidify under compression. Here, we report a strong and positive correlation between the increase of molar den… [+758 chars]"
+  },
+  {
+    "source": {
+      "id": "fortune",
+      "name": "Fortune"
+    },
+    "author": "Amanda Gerut",
+    "title": "AJ Scaramucci’s Solari Capital emerges from stealth with $350 million deployed and a case that companies stay private too long",
+    "description": "Iron Man comics, dinosaur bones, and the long wait for an IPO.",
+    "url": "https://fortune.com/2026/09/25/aj-scaramuccis-solari-capital-ipo-private-collectibles/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2153167899-e1790293951381.jpg?resize=1200,600",
+    "publishedAt": "2026-09-25T09:47:11Z",
+    "content": "Hi, its Amanda Gerut, filling in for Allie. AJ Scaramuccis collectibles company paid $2 million for a first-appearance Iron Man comic. It also bought a record-setting Pokémon card. Ask him about them… [+6262 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "DW (English)"
+    },
+    "author": "Josh Axelrod",
+    "title": "Why farmers are pairing crops with solar panels",
+    "description": "From cooler soil to paid grazing land, farmers are finding solar panels can do more than generate power.",
+    "url": "https://www.dw.com/en/why-farmers-are-pairing-crops-with-solar-panels/a-79233970",
+    "urlToImage": "https://static.dw.com/image/79235972_6.jpg",
+    "publishedAt": "2026-09-25T09:31:00Z",
+    "content": "Traditionally, solar panel farms are quiet save for the faint hum of the inverter. But on about one in ten of American solar farms, there's a new sound reverberating through fields: baaaa. \r\nLetting … [+6910 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thenation.com"
+    },
+    "author": "Gregg Gonsalves",
+    "title": "Trump Is Destroying Public Health. Democrats Need to Fight Back.",
+    "description": "Gregg Gonsalves\n\n\n\nIf they win in the midterms, the party must move quickly and aggressively to undo the harm Trump and his cronies have caused.\r\n\n\r\n\n\nThe post Trump Is Destroying Public Health. Democrats Need to Fight Back. appeared first on The Nation.",
+    "url": "https://www.thenation.com/article/politics/democrats-public-health-midterms/",
+    "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/09/GettyImages-2283535054.jpg",
+    "publishedAt": "2026-09-25T09:23:00Z",
+    "content": "Politics / September 25, 2026\r\nIf they win in the midterms, the party must move quickly and aggressively to undo the harm Trump and his cronies have caused.\r\nAd Policy\r\nOMB Director Russell Vought on… [+6318 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "NY Post",
+    "title": "NJ Gov. Sherrill demands hand-picked Lt. Gov. Dale Caldwell’s resignation after sex harassment probe",
+    "description": "New Jersey Gov. Mikie Sherrill called on Lt. Gov. Dale Caldwell — her handpicked second-in-command — to resign Thursday night after a bombshell sexual harassment investigation revealed he tried to get his girlfriend promoted, made a revolting sexual comment t…",
+    "url": "https://freerepublic.com/focus/f-chat/4396831/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-09-25T09:20:00Z",
+    "content": "Skip to comments.\r\nNJ Gov. Sherrill demands hand-picked Lt. Gov. Dale Caldwells resignation after sex harassment probeNY Post ^\r\n | 9/25/26\r\n | Daniel Cody, Ella Morrison\r\nPosted on 09/25/2026 2:20:0… [+2924 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "IPWatchdog.com"
+    },
+    "author": "JobOrtunities Help Wanted",
+    "title": "Epiq Counsel Client is Seeking a Patent Paralegal (Global Portfolio | In-House)",
+    "description": "Epiq Counsel client, a Fortune 100 pharmaceutical company, is seeking an experienced Patent Paralegal (Global Portfolio | In-House) to support its Intellectual Property team on a hybrid basis (3 days/week onsite) out of their offices in Indianapolis. This lon…",
+    "url": "https://ipwatchdog.com/2026/09/25/epiq-counsel-client-is-seeking-a-patent-paralegal-global-portfolio-in-house/",
+    "urlToImage": "https://ipwatchdog.com/wp-content/uploads/2020/02/Depositphotos_65052313_l-2015.jpg",
+    "publishedAt": "2026-09-25T09:15:06Z",
+    "content": "Our client, a Fortune 100 pharmaceutical company, is seeking an experienced Patent Paralegal to support its Intellectual Property team on a hybrid basis (3 days/week onsite) out of their offices in I… [+4404 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Abcnews.com"
+    },
+    "author": "Natalya Kushnir, David Brennan",
+    "title": "'Like a horror movie': Ukraine's Oleshky faces 'catastrophe' under Russian occupation",
+    "description": "Messages sent by residents in Oleshky and seen by ABC News tell of careful rationing of remaining food supplies, a chronic shortage of medication and constant attacks.",
+    "url": "https://abcnews.com/International/horror-movie-ukraines-oleshky-faces-catastrophe-russian-occupation/story?id=136685568",
+    "urlToImage": "https://i.abcnewsfe.com/a/6e10409d-49d1-48a0-b3f9-f6b813e86c13/Oleshky-view-Dnipro_1790173227148_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2026-09-25T09:12:02Z",
+    "content": "KYIV and LONDON -- Editor's note: This story contains graphic descriptions of wartime injuries and fatalities.\r\nThe southern Ukrainian city of Oleshky -- under Russian occupation since 2022 -- has be… [+10271 chars]"
+  },
+  {
+    "source": {
       "id": null,
       "name": "Business Standard"
     },
-    "author": "Dhruvaksh Saha",
-    "title": "Researchers explore immune-based approach for durable hair regrowth",
-    "description": "A new review examines the potential of immune modulation and regenerative medicine for hair loss, but experts say no clinically validated 'hair vaccine' exists yet",
-    "url": "https://www.business-standard.com/health/researchers-explore-immune-based-approach-for-durable-hair-regrowth-126092400806_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/08/thumb/fitandfill/1200X628/1765183643-0222.jpeg",
-    "publishedAt": "2026-09-24T10:36:40Z",
-    "content": "Independent experts, however, caution against interpreting the research as evidence that a vaccine against hair loss is approaching clinical use (Photo: AdobeStock)"
+    "author": "Vrinda Goel",
+    "title": "Claude AI discovers CRISPR-like gene-editing system: All you need to know",
+    "description": "Anthropic says 950 Claude agents scanned more than 200,000 reverse transcriptases in 21 hours, identifying a novel system called ART that researchers later validated in a laboratory",
+    "url": "https://www.business-standard.com/technology/tech-news/claude-ai-discovers-crispr-like-gene-editing-system-all-you-need-to-know-126092500638_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/21/thumb/featurecrop/1200X628/1753095998-8915.jpg",
+    "publishedAt": "2026-09-25T09:08:39Z",
+    "content": "Anthropic says 950 Claude agents scanned more than 200,000 reverse transcriptases in 21 hours, identifying a novel system called ART that researchers later validated in a laboratory\r\nThe finding is n… [+5197 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Securityaffairs.com"
+      "name": "STAT"
     },
-    "author": "Pierluigi Paganini",
-    "title": "OpenAI Agent Bypassed an Australian Government Health Portal During Internal Research",
-    "description": "OpenAI’s AI agent bypassed controls on an Australian health portal, accessed non-public files and triggered a government investigation. An OpenAI AI agent bypassed access controls on an Australian government health statistics portal in June, accessing both pu…",
-    "url": "https://securityaffairs.com/199662/ai/openai-agent-bypassed-an-australian-government-health-portal-during-internal-research.html",
-    "urlToImage": "https://securityaffairs.com/wp-content/uploads/2026/09/image-68.png",
-    "publishedAt": "2026-09-24T10:31:52Z",
-    "content": "OpenAI Agent Bypassed an Australian Government Health Portal During Internal Research\r\nAn OpenAI AI agent bypassed access controls on an Australian government health statistics portal in June, access… [+7054 chars]"
+    "author": "Helen Branswell",
+    "title": "'Vulnerable' WHO begins process of picking new director-general",
+    "description": "At least five candidates are in the running to become the next director-general of the WHO, a job that will come with extraordinary challenges.",
+    "url": "https://www.statnews.com/2026/09/25/world-health-organization-candidates-for-next-director-general/",
+    "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/09/WHO-candidates-3-1024x576.jpg",
+    "publishedAt": "2026-09-25T09:07:50Z",
+    "content": "At least five candidates are in the running to become the next director-general of the World Health Organization, a job that will come with extraordinary challenges. \r\nThe withdrawal of the WHOs larg… [+7722 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "Daytona Beach News-Journal"
     },
-    "author": "Joseph James",
-    "title": "Hundreds of Lawsuits Allege Ozempic and Other GLP-1 Drugs Caused Sudden Vision Loss, but Absolute Risk Appears Low",
-    "description": "Hundreds of lawsuits claim Ozempic and other GLP-1 drugs caused sudden vision loss. What the evidence shows, who faces the most risk, and symptoms to know.",
-    "url": "https://www.medicaldaily.com/ozempic-glp1-naion-vision-loss-lawsuits-risk-479042",
-    "urlToImage": "https://d.medicaldaily.com/en/full/486369/scott-olson-getty-images.jpg",
-    "publishedAt": "2026-09-24T10:30:12Z",
-    "content": "Hundreds of lawsuits accuse Novo Nordisk and Eli Lilly of selling GLP-1 drugs that caused a sudden and often permanent form of vision loss. The suits name semaglutide, tirzepatide, and dulaglutide, s… [+6591 chars]"
+    "author": "Chris Boyle, Daytona Beach News-Journal",
+    "title": "Where does UCF football sit among Big 12 football title contenders?",
+    "description": "The UCF Knights are off to a 2-1 start and will host TCU in Saturday's Big 12 opener.",
+    "url": "https://www.news-journalonline.com/story/sports/college/ucf/2026/09/25/ucf-knights-football-big-12-2026-cfp/91880667007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/10caa2920ded202f3bfe3f69e2525cd12cdf1f4d56ecf426e932f930769ef78b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2F8774a0ecbd7707195204946e0ccc53dc.jpg",
+    "publishedAt": "2026-09-25T09:02:34Z",
+    "content": "ORLANDO The final weekend of September marks the beginning of Big 12 play for most of the league's 16 teams, including the UCF Knights.\r\nThe Knights, sporting a 2-1 record after last weekend's 44-30 … [+9864 chars]"
   },
   {
     "source": {
-      "id": "wired",
-      "name": "Wired"
+      "id": "business-insider",
+      "name": "Business Insider"
     },
-    "author": "WIRED",
-    "title": "The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why",
-    "description": "A growing body of research is putting the ovary in a new light, not as an egg factory with an expiration date, but as an organ that shapes women’s health long after the fertile years have passed.",
-    "url": "https://www.wired.com/story/ovary-activity-after-menopause/",
-    "urlToImage": "https://media.wired.com/photos/6ab2b368ca9e2384756787bb/191:100/w_1280,c_limit/092226-Menopause%20Ovary.jpg",
-    "publishedAt": "2026-09-24T10:30:00Z",
-    "content": "The significance of residual hormone production may decrease over time. Still, says Walter Rocca, a professor of epidemiology and neurology at the Mayo Clinic, that doesnt mean the ovary has become u… [+3515 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Israelnationalnews.com"
-    },
-    "author": "Prof. Itzhak David Goldberg",
-    "title": "If not higher",
-    "description": "The willow travels from the lowest ground to the holiest place, and at the very summit of its climb, it bows.",
-    "url": "https://www.israelnationalnews.com/news/433596",
-    "urlToImage": "https://2.a7.org/files/pictures/000/1091027.jpg",
-    "publishedAt": "2026-09-24T10:24:56Z",
-    "content": "Itzhak David Goldberg, MD, FACP, is a Professor Emeritus at Albert Einstein College of Medicine.\r\nEvery ascent, it turns out, begins with someone willing to go down.\r\nBelow Jerusalem lies a place cal… [+7122 chars]"
+    "author": "Geoff Weiss",
+    "title": "Nvidia's historic stock boom is turning its golden handcuffs into a ticket out the door",
+    "description": "Nvidia's historic stock boom has made some longtime employees wealthy enough to walk away as valuable stock grants finish vesting.",
+    "url": "https://www.businessinsider.com/nvidia-stock-boom-is-loosening-its-golden-handcuffs-2026-9#article",
+    "urlToImage": "https://i.insider.com/6ab29012265e3f8e338f58e5?width=1200&format=jpeg",
+    "publishedAt": "2026-09-25T09:00:02Z",
+    "content": "Nvidia CEO Jensen Huang.Bloomberg/Getty Images\r\n<ul><li>Nvidia's stock boom has turned golden handcuffs into a potential exit ramp.</li><li>Some longtime employees timed their departures around valua… [+5015 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Nakedcapitalism.com"
+      "name": "MIT Technology Review"
     },
-    "author": "KLG",
-    "title": "Why Naked Capitalism?",
-    "description": "Keeping up with the world is a duty made possible by Naked Capitalism and its community of writers, readers, and commenters.",
-    "url": "https://www.nakedcapitalism.com/2026/09/why-naked-capitalism.html",
-    "urlToImage": null,
-    "publishedAt": "2026-09-24T10:22:57Z",
-    "content": "It has been a distinct privilege to be a contributor here, first as a semi-regular commenter during the high days of the (still) ongoing pandemic and then, at the gracious invitation of Yves Smith, a… [+5332 chars]"
+    "author": "Jessica Hamzelou",
+    "title": "Young organs may not be a fountain of youth for recipients",
+    "description": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of …",
+    "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/09/young-old-heart.jpg?resize=1200,600",
+    "publishedAt": "2026-09-25T09:00:00Z",
+    "content": "Its not clear why this is, but João Pedro de Magalhães, who studies aging at the University of Birmingham in the UK and was not involved in the study, thinks it might have something to do with the re… [+1613 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Antaranews.com"
+      "name": "New York Post"
     },
-    "author": "Ida Nurcahyani/Vina Ashari, Resinta S",
-    "title": "Indonesia exports US$21.3M in animal vaccines to four African nations",
-    "description": "The Ministry of Agriculture is seeking to expand Indonesia&#39;s animal health product exports globally following the inaugural export of domestically ...",
-    "url": "https://en.antaranews.com/news/432544/indonesia-exports-us213m-in-animal-vaccines-to-four-african-nations",
-    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/09/24/WhatsApp-Image-2026-09-24-at-3.25.43-PM.jpeg",
-    "publishedAt": "2026-09-24T10:22:45Z",
-    "content": "..Indonesia's domestic demand for AI and ND vaccines is now being met by local production, allowing manufacturers to allocate additional capacity to export markets.\r\nJakarta (ANTARA) - The Ministry o… [+2602 chars]"
+    "author": "Nicholas McEntyre",
+    "title": "Pennsylvania doctor stabbed to death, wife wounded as trespasser claiming to be God attacked couple while they slept",
+    "description": "A Pennsylvania doctor was stabbed to death as he slept by a near-naked intruder claiming to be God as his critically injured wife fled to save their children and find help.",
+    "url": "https://nypost.com/2026/09/25/us-news/pennsylvania-dr-idris-evans-stabbed-to-death-by-intruder-suspect-elijah-hemingway/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142442600.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-09-25T08:55:56Z",
+    "content": "A Pennsylvania doctor was stabbed to death as he slept by a near-naked intruder claiming to be God as his critically injured wife rushed to save their children and find help.\r\nDr. Idris Evans and his… [+3504 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Infosecurity Magazine"
+      "name": "Linkedin.com"
     },
-    "author": "James Coker",
-    "title": "OpenAI Agent Hacks Australian Medicare Portal",
-    "description": "Australian PM Anthony Albanese criticized OpenAI’s response to the incident, which occurred in June 2026",
-    "url": "https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/",
-    "urlToImage": "https://assets.infosecurity-magazine.com/webpage/og/a5aef5e6-ec3b-4a99-9495-c32b0ff3f0d3.jpeg",
-    "publishedAt": "2026-09-24T10:15:00Z",
-    "content": "The Australian government has revealed that an OpenAI agent hacked its Medicare Statistics Portal and accessed both public and non-public files.\r\nAustralian Prime Minister Anthony Albanese said durin… [+2653 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Defense One"
-    },
-    "author": "Lauren C. Williams",
-    "title": "Defense Business Brief: Here comes the quantum boom; GDIT’s perspective; and Sec. 889",
-    "description": "",
-    "url": "https://www.defenseone.com/business/2026/09/defense-business-brief-here-comes-quantum-boom-gdits-perspective-and-sec-889/416184/",
-    "urlToImage": "https://cdn.defenseone.com/media/img/cd/2026/09/24/DBB_lander/open-graph.jpg",
-    "publishedAt": "2026-09-24T10:15:00Z",
-    "content": "The benefits of quantum technology could hit the mainstream sooner than you thinkat least thats what one company is aiming for. \r\nWere actually really hoping in the next year or two [to] release thes… [+6558 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Shambhavi Anand",
-    "title": "Balrampur Chini gets government grant for biopolymer R&D facility",
-    "description": "Balrampur Chini Mills Ltd (BCML) has received ₹75 crore in grant assistance from the government to set up a pilot-scale research and development facility for polylactic acid (PLA) co-polymers. The facility will focus on developing specialised PLA grades and c…",
-    "url": "https://economictimes.indiatimes.com/news/economy/agriculture/balrampur-chini-gets-government-grant-for-biopolymer-rd-facility/articleshow/134458629.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-134458757,width-1200,height-630,imgsize-269158,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-24T10:14:06Z",
-    "content": "New Delhi: Balrampur Chini Mills Ltd (BCML) has received Rs 75 crore in grant assistance from the government to set up a pilot-scale research and development facility for polylactic acid (PLA) co-pol… [+1487 chars]"
-  },
-  {
-    "source": {
-      "id": "techradar",
-      "name": "TechRadar"
-    },
-    "author": "Sead Fadilpašić",
-    "title": "'This situation is obviously unacceptable': OpenAI agent allegedly hacks Australian government healthcare website",
-    "description": "Australian government calls OpenAI behavior \"unacceptable\" as it investigates the incident further.",
-    "url": "https://www.techradar.com/pro/security/this-situation-is-obviously-unacceptable-openai-agent-allegedly-hacks-australian-government-healthcare-website",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/6X3ZZcXUrcxus6MyJ3GM7M-2000-80.jpg",
-    "publishedAt": "2026-09-24T10:13:46Z",
-    "content": "<ul><li>OpenAI agent breached Australia’s Medicare portal on June 18, 2026, accessing internal files</li><li>Government says no personal medical data was taken, but three other agencies may be affect… [+4434 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "$100 million mystery donation to Princess Margaret Hospital: Anonymous donor gives biggest cancer gift in Canadian history, but that may not be the greatest part",
-    "description": "In a remarkable act of generosity, an anonymous benefactor has gifted $100 million to the Princess Margaret Cancer Foundation, marking the largest donation in its history. But the most important part of the donation is that the  donor has not placed restricti…",
-    "url": "https://economictimes.indiatimes.com/news/international/global-trends/canada-us-news-100-million-mystery-donation-to-princess-margaret-hospital-anonymous-donor-gives-biggest-cancer-gift-in-canadian-history-but-that-may-not-be-the-greatest-part/articleshow/134458339.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-134458694,width-1200,height-630,imgsize-180124,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-24T10:11:39Z",
-    "content": "In a significant move, the Princess Margaret Cancer Foundation has received an anonymous donation of $100 million, making it the \"single, largest gift\" in the foundation's history. The donation is be… [+4351 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Major pro-life group threatens to sue Trump FDA over abortion pill's alleged environmental risks",
-    "description": "Students for Life of America threatens to sue the Food and Drug Administration, alleging it skipped Endangered Species Act reviews for mifepristone.",
-    "url": "https://www.foxnews.com/politics/major-pro-life-group-threatens-sue-trump-fda-abortion-pill-alleged-environmental-risks",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Kristan_Hawkins_speech.jpg",
-    "publishedAt": "2026-09-24T10:00:54Z",
-    "content": "A leading pro-life organization has formally threatened to sue the Food and Drug Administration, accusing the agency of failing to conduct required environmental testing of the abortion drug mifepris… [+4311 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Ryan Wilkinson",
-    "title": "Gallium Anomaly May Finally Be Explained",
-    "description": "Author(s): Ryan WilkinsonA decades-old neutrino mystery might be solved not by undiscovered physics but by improved calculations.[Physics 19, s116] Published Thu Sep 24, 2026",
-    "url": "https://physics.aps.org/articles/v19/s116",
-    "urlToImage": "https://physics.aps.org/assets/5e2c2e12-414a-4908-ad7f-61e8c26dade5/e116_1_thumb.png",
-    "publishedAt": "2026-09-24T10:00:00Z",
-    "content": "For more than 30 years, scientists have found that roughly 20% fewer electron neutrinos are captured by gallium nuclei than expected. Dubbed the gallium anomaly, this discrepancy has raised the possi… [+2487 chars]"
-  },
-  {
-    "source": {
-      "id": "cbc-news",
-      "name": "CBC News"
-    },
-    "author": "Alana Cole",
-    "title": "Toxic street drugs 'wreaking havoc' on people who use them, challenging doctors",
-    "description": "A recent drug alert posted online by a Winnipeg public health team shows how the street supply is increasingly unpredictable as substances have become more powerful and dangerous.",
-    "url": "https://www.cbc.ca/news/canada/manitoba/street-drugs-more-unpredictable-potent-9.7354182",
-    "urlToImage": "https://i.cbc.ca/ais/a4c2d371-ddda-420a-a7d1-2bb7557368c4,1714610246833/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1179%2C663%29%3BResize%3D620",
-    "publishedAt": "2026-09-24T10:00:00Z",
-    "content": "A recent drug alert posted online by a Winnipeg public health team shows how the street supply is increasingly unpredictable as substances have become more powerful and dangerous.\r\nTesting of a subst… [+7129 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Xixi Jia, Haoran Chen, Xiaoqiu Ye, Jian Lv, Xitian Zhang, Hui Wang, and Yansun Yao",
-    "title": "Hydrogen vacancy induced structural instability and superconductivity suppression in high-${T}_{\\mathrm{c}}$ superconducting calcium hydride at megabar pressures",
-    "description": "Body-centered-cubic $\\mathrm{Ca}{\\mathrm{H}}_{6}$ has attracted considerable attention due to its unique hydrogen clathrate structure and high-${T}_{\\mathrm{c}}$ superconductivity (${T}_{\\mathrm{c}}=215\\phantom{\\rule{0.28em}{0ex}}\\mathrm{K}$ at 172 GPa). Alth…",
-    "url": "https://link.aps.org/doi/10.1103/ng2f-ldwh",
-    "urlToImage": null,
-    "publishedAt": "2026-09-24T10:00:00Z",
-    "content": "Body-centered-cubic Ca\r\nH\r\n6\r\nhas attracted considerable attention due to its unique hydrogen clathrate structure and high-T\r\nc\r\nsuperconductivity (T\r\nc\r\n=\r\n215\r\nK\r\nat 172 GPa). Although hydrogen vac… [+1121 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BleepingComputer"
-    },
-    "author": "Bill Toulas",
-    "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-    "description": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
-    "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-    "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/24/robot.jpg",
-    "publishedAt": "2026-09-24T09:38:53Z",
-    "content": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information… [+3357 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Dorothy Brooks",
-    "title": "FDA Advisers Back Multi-Cancer Blood Test for Adults 50 and Up but Split 6 to 4 on Effectiveness",
-    "description": "An FDA panel voted 7-2 that the Galleri cancer blood test's benefits outweigh its risks, but split 6-4 on effectiveness. What it means for adults 50 and older.",
-    "url": "https://www.medicaldaily.com/fda-panel-galleri-multi-cancer-blood-test-vote-479039",
-    "urlToImage": "https://d.medicaldaily.com/en/full/486366/nicolas-tucat-afp-via-getty-images.jpg",
-    "publishedAt": "2026-09-24T09:30:16Z",
-    "content": "A panel of outside experts advising the U.S. Food and Drug Administration voted Wednesday, Sept. 23, that the benefits of Galleri, a blood test that screens for signals from many types of cancer, out… [+6514 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Socialmediaexaminer.com"
-    },
-    "author": "Michael Stelzner",
-    "title": "AI Execution Tips, Professional Quality AI Video, and Industry News",
-    "description": "Friday is almost here! Before you unplug, here's one last round of insights and updates. Whether you read them now or save them for later, you won't want to miss these. In today's edition: Using forms to inform and guide AI's actions A step-by-step process fo…",
-    "url": "https://www.socialmediaexaminer.com/?p=280160",
-    "urlToImage": "https://www.socialmediaexaminer.com/wp-content/uploads/2018/11/NewBack.png",
-    "publishedAt": "2026-09-24T09:30:00Z",
-    "content": "Friday is almost here! Before you unplug, here's one last round of insights and updates. Whether you read them now or save them for later, you won't want to miss these.\r\nIn today's edition:\r\n<ul><li>… [+7010 chars]"
+    "author": "Dr. Isaiah Mung'athia Kiriamburi",
+    "title": "Health Pulse with a Pharmacist – Issue 40",
+    "description": "❤️ Hypertension & Stroke – How High Blood Pressure Can Affect Your Brain and What You Can Do to Reduce the Risk Imagine waking up one morning and suddenly finding that one side of your face feels different. You try to speak—but the words don't come out proper…",
+    "url": "https://www.linkedin.com/pulse/health-pulse-pharmacist-issue-40-dr-isaiah-mung-athia-kiriamburi-ivymf",
+    "urlToImage": "https://media.licdn.com/dms/image/v2/D4D12AQEmKprOn-IAdg/article-cover_image-shrink_720_1280/B4DaDXsm3XJoAQ-/0/1790325192757?e=2147483647&v=beta&t=wrh5OpCpnEktB6-31HuyVsPg8wFSKGWLCB-1nvNNavA",
+    "publishedAt": "2026-09-25T08:39:07Z",
+    "content": "Hypertension &amp; Stroke How High Blood Pressure Can Affect Your Brain and What You Can Do to Reduce the Risk\r\nImagine waking up one morning and suddenly finding that one side of your face feels dif… [+9587 chars]"
   }
 ]
