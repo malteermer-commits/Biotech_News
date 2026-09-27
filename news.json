@@ -1,262 +1,236 @@
 [
   {
     "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
+      "id": null,
+      "name": "Newser"
     },
-    "author": "Dr Amit Verma",
-    "title": "Targeted Therapy vs Chemotherapy: What Is the Difference?",
-    "description": "By an Oncologist When patients hear the words “chemotherapy” and “targeted therapy,” they often wonder whether targeted therapy is simply a newer and",
-    "url": "https://timesofindia.indiatimes.com/toi-blogs/wellbeing/targeted-therapy-vs-chemotherapy-what-is-the-difference/articleshow/134482119.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-134482205,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
-    "publishedAt": "2026-09-25T10:21:54Z",
-    "content": "Dr. Amit Verma is a Molecular Oncologist based in Gurgaon with over two decades of experience in oncology, molecular medicine, translational cancer research and personalised cancer care.Dr. Verma cur… [+389 chars]"
+    "author": "Jenn Gidman with Newser.AI",
+    "title": "Dutch Dictionary Adds Neutral Term for Womanly Body Part",
+    "description": "Dutch women are pushing to strip shame from their medical charts, quite literally. The country's leading dictionary, Dikke Van Dale, is adding \"vulvalippen\" (vulva lips) as a new term for the labia, to sit alongside the long-used \"schaamlippen,\" which transla…",
+    "url": "https://www.newser.com/story/397004/dutch-dictionary-adds-neutral-term-for-womanly-body-part.html",
+    "urlToImage": "https://cdn.newser.com/image/1713813-12-20260926053359.jpeg",
+    "publishedAt": "2026-09-26T10:30:00Z",
+    "content": "Dutch women are pushing to strip shame from their medical charts, quite literally. The country's leading dictionary, Dikke Van Dale, is adding \"vulvalippen\" (vulva lips) as a new term for the labia, … [+1441 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PRNewswire"
+      "name": "Gizmodo.com"
     },
-    "author": null,
-    "title": "IDEAYA Biosciences Announces Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
-    "description": "SOUTH SAN FRANCISCO, Calif., Sept. 25, 2026 /PRNewswire/ -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted therapeutics, today announced that, on September 24, 2026, the Co…",
-    "url": "https://www.prnewswire.com/news-releases/ideaya-biosciences-announces-inducement-grants-under-nasdaq-listing-rule-5635c4-302889869.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1161589/IDEAYA-v2-Logo.jpg?id=OA2970695&p=facebook",
-    "publishedAt": "2026-09-25T10:00:00Z",
-    "content": "SOUTH SAN FRANCISCO, Calif., Sept. 25, 2026 /PRNewswire/ -- IDEAYA Biosciences, Inc. (NASDAQ: IDYA), a precision medicine oncology company committed to the discovery and development of targeted thera… [+2440 chars]"
+    "author": "Ed Cara",
+    "title": "Living Drugs Transformed Blood Cancer Treatment—and That’s Just the Beginning",
+    "description": "Renier Brentjen, an early pioneer of CAR T cell therapy, is working on the next generation of these living drugs that can hopefully treat solid tumors, too.",
+    "url": "https://gizmodo.com/car-t-cell-therapy-future-cancer-treatment-2000817111",
+    "urlToImage": "https://gizmodo.com/app/uploads/2026/09/CAR-T-Blood-bag-1200x675.jpg",
+    "publishedAt": "2026-09-26T10:00:52Z",
+    "content": "Given all the understandable pessimism there is about the world, you might not realize that we’re living in a golden era of cancer treatment.\r\nIn January, the American Cancer Society reported that th… [+13863 chars]"
+  },
+  {
+    "source": {
+      "id": "time",
+      "name": "Time"
+    },
+    "author": "Joshua Tal",
+    "title": "We Turned Sleep Into Homework. Now We’re Losing Sleep Over It",
+    "description": "Orthosomnia is an unhealthy preoccupation with achieving perfect sleep that produces the insomnia it was meant to prevent, writes Joshua Tal.",
+    "url": "https://time.com/article/2026/09/26/we-turned-sleep-into-homework-now-we-re-losing-sleep-over-it/",
+    "urlToImage": "https://static.time.com/v3/assets/bltea6093859af6183b/blt676e59ea7a385a1d/6aa40bf05e6ffa7594b7a37c/sleep-homework.jpg?branch=production&width=2070&quality=75&auto=webp&crop=16:9",
+    "publishedAt": "2026-09-26T10:00:06Z",
+    "content": "Applied uniformly, sleep hygiene ignores an obvious fact. Sleep is not the same for everyone. A rule that calms one person's nervous system agitates anothers. Some anxious patients sleep better with … [+1202 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Aps.org"
+      "name": "Retractionwatch.com"
     },
-    "author": "Soheil Farazi and Srinivas Tadigadapa",
-    "title": "Bound States in the Continuum for High-$Q$ Light Emission in Photonic-Phononic Nonlocal Metasurfaces",
-    "description": "Thermal radiation is inherently broadband and incoherent, limiting its utility in applications requiring spectral selectivity such as molecular spectroscopy and free-space optical communications. Bound states in the continuum (BICs) provide a powerful route t…",
-    "url": "https://link.aps.org/doi/10.1103/fhx1-953m",
-    "urlToImage": null,
-    "publishedAt": "2026-09-25T10:00:00Z",
-    "content": "Thermal radiation is inherently broadband and incoherent, limiting its utility in applications requiring spectral selectivity such as molecular spectroscopy and free-space optical communications. Bou… [+1444 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "G. Aad et al. (ATLAS Collaboration†[\"id\", \"col1\"], CMS Collaboration)",
-    "title": "Combination of ATLAS and CMS Searches for Higgs Boson Pair Production at $\\sqrt{s}=13\\text{ }\\text{ }\\mathrm{TeV}$",
-    "description": "Author(s): G. Aad et al. (ATLAS Collaboration†[\"id\", \"col1\"], CMS Collaboration)First combination of searches for Higgs boson pair production from two CERN collaborations on this important standard model process provides information about the crucial Higgs se…",
-    "url": "https://link.aps.org/doi/10.1103/27s7-2frt",
-    "urlToImage": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/27s7-2frt.png",
-    "publishedAt": "2026-09-25T10:00:00Z",
-    "content": "M. Aboelela45, A. Aboulhorma36e, H. Abramowicz156, B.S. Acharya69a,69b,c, A. Ackermann63a, C. Adam Bourdarios4, L. Adamczyk86a, S.V. Addepalli148, M.J. Addison102, J. Adelman118, A. Adiguzel22c, T. A… [+130629 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Big Blue View"
-    },
-    "author": "James Hickey",
-    "title": "Giants news: Jaxson Dart to IR, Andrew Thomas and Brian Burns miss practice, more",
-    "description": "New York Giants headlines for Friday.",
-    "url": "https://www.bigblueview.com/new-york-giants-news/172768/jaxson-dart-to-ir-andrew-thomas-and-brian-burns-miss-practice-more",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/85fff2ea46589e8a7ce80930e3ecdb68065cd78a8ab8298e90ce69c621b68baf/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd44ce3e9417cd952adc0ebc713e5cd34.jpg",
-    "publishedAt": "2026-09-25T10:00:00Z",
-    "content": "Good morning, New York Giants fans! Here are the stories you need to know as Jameis Winston gets set to take the helm for the Giants this weekend.\r\nSafety Jevon Holland said the meeting \"was great\" f… [+4667 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Hannah Margaret Allen",
-    "title": "I Found The Secret To A Better Wellness Getaway & It’s Beyond The Spa",
-    "description": "From mineral-rich hydrotherapy to inspiring design, here's why a wellness getaway to Kohler, Wisconsin, is the ultimate mind-body reset.",
-    "url": "https://www.mindbodygreen.com/articles/movement-nourishment-and-nature-my-wellness-getaway-to-kohler-wisconsin",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1790034077822_nescr9j4ik.jpg",
-    "publishedAt": "2026-09-25T10:00:00Z",
-    "content": "I knew I needed a break. What I didn't know was that I needed a 10-minute shower.\r\nAs a busy working mom living in a pre-war Brooklyn apartment, my showers tend to be efficient rather than indulgent.… [+14024 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Cecilia M. S. Alvares, Cameron J. G. Wilson, Nicholas P. Funnell, Mark S. Senn, and Gabriele C. Sosso",
-    "title": "Origins and predictability of the hydrostatic limit of molecular liquids",
-    "description": "Loss of hydrostaticity limits high-pressure experiments, as pressure transmitting media solidify under compression. Here, we report a strong and positive correlation between the increase of molar density with pressure ($\\ensuremath{\\zeta}$) and the hydrostati…",
-    "url": "https://link.aps.org/doi/10.1103/f2k4-hf7d",
-    "urlToImage": null,
-    "publishedAt": "2026-09-25T10:00:00Z",
-    "content": "Loss of hydrostaticity limits high-pressure experiments, as pressure transmitting media solidify under compression. Here, we report a strong and positive correlation between the increase of molar den… [+758 chars]"
-  },
-  {
-    "source": {
-      "id": "fortune",
-      "name": "Fortune"
-    },
-    "author": "Amanda Gerut",
-    "title": "AJ Scaramucci’s Solari Capital emerges from stealth with $350 million deployed and a case that companies stay private too long",
-    "description": "Iron Man comics, dinosaur bones, and the long wait for an IPO.",
-    "url": "https://fortune.com/2026/09/25/aj-scaramuccis-solari-capital-ipo-private-collectibles/",
-    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2153167899-e1790293951381.jpg?resize=1200,600",
-    "publishedAt": "2026-09-25T09:47:11Z",
-    "content": "Hi, its Amanda Gerut, filling in for Allie. AJ Scaramuccis collectibles company paid $2 million for a first-appearance Iron Man comic. It also bought a record-setting Pokémon card. Ask him about them… [+6262 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "DW (English)"
-    },
-    "author": "Josh Axelrod",
-    "title": "Why farmers are pairing crops with solar panels",
-    "description": "From cooler soil to paid grazing land, farmers are finding solar panels can do more than generate power.",
-    "url": "https://www.dw.com/en/why-farmers-are-pairing-crops-with-solar-panels/a-79233970",
-    "urlToImage": "https://static.dw.com/image/79235972_6.jpg",
-    "publishedAt": "2026-09-25T09:31:00Z",
-    "content": "Traditionally, solar panel farms are quiet save for the faint hum of the inverter. But on about one in ten of American solar farms, there's a new sound reverberating through fields: baaaa. \r\nLetting … [+6910 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thenation.com"
-    },
-    "author": "Gregg Gonsalves",
-    "title": "Trump Is Destroying Public Health. Democrats Need to Fight Back.",
-    "description": "Gregg Gonsalves\n\n\n\nIf they win in the midterms, the party must move quickly and aggressively to undo the harm Trump and his cronies have caused.\r\n\n\r\n\n\nThe post Trump Is Destroying Public Health. Democrats Need to Fight Back. appeared first on The Nation.",
-    "url": "https://www.thenation.com/article/politics/democrats-public-health-midterms/",
-    "urlToImage": "https://www.thenation.com/wp-content/uploads/2026/09/GettyImages-2283535054.jpg",
-    "publishedAt": "2026-09-25T09:23:00Z",
-    "content": "Politics / September 25, 2026\r\nIf they win in the midterms, the party must move quickly and aggressively to undo the harm Trump and his cronies have caused.\r\nAd Policy\r\nOMB Director Russell Vought on… [+6318 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "NY Post",
-    "title": "NJ Gov. Sherrill demands hand-picked Lt. Gov. Dale Caldwell’s resignation after sex harassment probe",
-    "description": "New Jersey Gov. Mikie Sherrill called on Lt. Gov. Dale Caldwell — her handpicked second-in-command — to resign Thursday night after a bombshell sexual harassment investigation revealed he tried to get his girlfriend promoted, made a revolting sexual comment t…",
-    "url": "https://freerepublic.com/focus/f-chat/4396831/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-09-25T09:20:00Z",
-    "content": "Skip to comments.\r\nNJ Gov. Sherrill demands hand-picked Lt. Gov. Dale Caldwells resignation after sex harassment probeNY Post ^\r\n | 9/25/26\r\n | Daniel Cody, Ella Morrison\r\nPosted on 09/25/2026 2:20:0… [+2924 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "IPWatchdog.com"
-    },
-    "author": "JobOrtunities Help Wanted",
-    "title": "Epiq Counsel Client is Seeking a Patent Paralegal (Global Portfolio | In-House)",
-    "description": "Epiq Counsel client, a Fortune 100 pharmaceutical company, is seeking an experienced Patent Paralegal (Global Portfolio | In-House) to support its Intellectual Property team on a hybrid basis (3 days/week onsite) out of their offices in Indianapolis. This lon…",
-    "url": "https://ipwatchdog.com/2026/09/25/epiq-counsel-client-is-seeking-a-patent-paralegal-global-portfolio-in-house/",
-    "urlToImage": "https://ipwatchdog.com/wp-content/uploads/2020/02/Depositphotos_65052313_l-2015.jpg",
-    "publishedAt": "2026-09-25T09:15:06Z",
-    "content": "Our client, a Fortune 100 pharmaceutical company, is seeking an experienced Patent Paralegal to support its Intellectual Property team on a hybrid basis (3 days/week onsite) out of their offices in I… [+4404 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Abcnews.com"
-    },
-    "author": "Natalya Kushnir, David Brennan",
-    "title": "'Like a horror movie': Ukraine's Oleshky faces 'catastrophe' under Russian occupation",
-    "description": "Messages sent by residents in Oleshky and seen by ABC News tell of careful rationing of remaining food supplies, a chronic shortage of medication and constant attacks.",
-    "url": "https://abcnews.com/International/horror-movie-ukraines-oleshky-faces-catastrophe-russian-occupation/story?id=136685568",
-    "urlToImage": "https://i.abcnewsfe.com/a/6e10409d-49d1-48a0-b3f9-f6b813e86c13/Oleshky-view-Dnipro_1790173227148_hpMain_16x9.jpg?w=1600",
-    "publishedAt": "2026-09-25T09:12:02Z",
-    "content": "KYIV and LONDON -- Editor's note: This story contains graphic descriptions of wartime injuries and fatalities.\r\nThe southern Ukrainian city of Oleshky -- under Russian occupation since 2022 -- has be… [+10271 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Business Standard"
-    },
-    "author": "Vrinda Goel",
-    "title": "Claude AI discovers CRISPR-like gene-editing system: All you need to know",
-    "description": "Anthropic says 950 Claude agents scanned more than 200,000 reverse transcriptases in 21 hours, identifying a novel system called ART that researchers later validated in a laboratory",
-    "url": "https://www.business-standard.com/technology/tech-news/claude-ai-discovers-crispr-like-gene-editing-system-all-you-need-to-know-126092500638_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/21/thumb/featurecrop/1200X628/1753095998-8915.jpg",
-    "publishedAt": "2026-09-25T09:08:39Z",
-    "content": "Anthropic says 950 Claude agents scanned more than 200,000 reverse transcriptases in 21 hours, identifying a novel system called ART that researchers later validated in a laboratory\r\nThe finding is n… [+5197 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "STAT"
-    },
-    "author": "Helen Branswell",
-    "title": "'Vulnerable' WHO begins process of picking new director-general",
-    "description": "At least five candidates are in the running to become the next director-general of the WHO, a job that will come with extraordinary challenges.",
-    "url": "https://www.statnews.com/2026/09/25/world-health-organization-candidates-for-next-director-general/",
-    "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/09/WHO-candidates-3-1024x576.jpg",
-    "publishedAt": "2026-09-25T09:07:50Z",
-    "content": "At least five candidates are in the running to become the next director-general of the World Health Organization, a job that will come with extraordinary challenges. \r\nThe withdrawal of the WHOs larg… [+7722 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Daytona Beach News-Journal"
-    },
-    "author": "Chris Boyle, Daytona Beach News-Journal",
-    "title": "Where does UCF football sit among Big 12 football title contenders?",
-    "description": "The UCF Knights are off to a 2-1 start and will host TCU in Saturday's Big 12 opener.",
-    "url": "https://www.news-journalonline.com/story/sports/college/ucf/2026/09/25/ucf-knights-football-big-12-2026-cfp/91880667007/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/10caa2920ded202f3bfe3f69e2525cd12cdf1f4d56ecf426e932f930769ef78b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdaytona-beach-news-journal%2F8774a0ecbd7707195204946e0ccc53dc.jpg",
-    "publishedAt": "2026-09-25T09:02:34Z",
-    "content": "ORLANDO The final weekend of September marks the beginning of Big 12 play for most of the league's 16 teams, including the UCF Knights.\r\nThe Knights, sporting a 2-1 record after last weekend's 44-30 … [+9864 chars]"
+    "author": "Retraction Watch Staff",
+    "title": "Weekend reads: ‘The Weimar of knowledge’; ‘Could AI Be Better at Peer Review Than Humans?’; guidelines in South Korea ban hidden prompts, restrict AI use",
+    "description": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In case you missed the news, the Hijacked Journal Checker now has more than 450 entries. The Retraction Watch Database has over 67,…",
+    "url": "https://retractionwatch.com/2026/09/26/weekend-reads-the-weimar-of-knowledge-could-ai-be-better-at-peer-review-than-humans-guidelines-in-south-korea-ban-hidden-prompts-restrict-ai-use/",
+    "urlToImage": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg",
+    "publishedAt": "2026-09-26T10:00:00Z",
+    "content": "If your week flew by we know ours did catch up here with what you might have missed.\r\nThe week at Retraction Watch featured:\r\nIn case you missed the news, the Hijacked Journal Checker now has more th… [+4598 chars]"
   },
   {
     "source": {
       "id": "business-insider",
       "name": "Business Insider"
     },
-    "author": "Geoff Weiss",
-    "title": "Nvidia's historic stock boom is turning its golden handcuffs into a ticket out the door",
-    "description": "Nvidia's historic stock boom has made some longtime employees wealthy enough to walk away as valuable stock grants finish vesting.",
-    "url": "https://www.businessinsider.com/nvidia-stock-boom-is-loosening-its-golden-handcuffs-2026-9#article",
-    "urlToImage": "https://i.insider.com/6ab29012265e3f8e338f58e5?width=1200&format=jpeg",
-    "publishedAt": "2026-09-25T09:00:02Z",
-    "content": "Nvidia CEO Jensen Huang.Bloomberg/Getty Images\r\n<ul><li>Nvidia's stock boom has turned golden handcuffs into a potential exit ramp.</li><li>Some longtime employees timed their departures around valua… [+5015 chars]"
+    "author": "Gabby Landsverk,Hilary Brueck",
+    "title": "People are giving their dogs peptides to boost their longevity",
+    "description": "Some pet owners are giving dogs the same peptides used by biohackers, even as experts warn the long-term risks remain unknown.",
+    "url": "https://www.businessinsider.com/dog-owners-injecting-their-pets-with-wolverine-peptide-stack-2026-9#article",
+    "urlToImage": "https://i.insider.com/6ab697b9eb7225411267aaa3?width=1200&format=jpeg",
+    "publishedAt": "2026-09-26T09:21:01Z",
+    "content": "Michael Morelli, a personal trainer in Florida, has a peptide regimen for his pit terrier Choo Choo.Edward Linsmier for BI\r\n<ul><li>Dog lovers are giving their pets peptides — an unproven treatment t… [+11505 chars]"
+  },
+  {
+    "source": {
+      "id": "next-big-future",
+      "name": "Next Big Future"
+    },
+    "author": "Brian Wang",
+    "title": "Mass-Production of AI Infrastructure – Speed Up by 10X",
+    "description": "AI goes next level with Mass-Production of the Infrastructure of AI. SpaceX’s most consequential new product is giant AI data center completed every month. A single enormous computing facility is impressive. A mass production system will change EVERYTHING. On…",
+    "url": "https://www.nextbigfuture.com/2026/09/mass-production-of-ai-infrastructure-speed-up-by-10x.html",
+    "urlToImage": null,
+    "publishedAt": "2026-09-26T09:11:07Z",
+    "content": "AI goes next level with Mass-Production of the Infrastructure of AI.\r\nSpaceXs most consequential new product is giant AI data center completed every month.\r\nA single enormous computing facility is im… [+2632 chars]"
+  },
+  {
+    "source": {
+      "id": "the-irish-times",
+      "name": "The Irish Times"
+    },
+    "author": "Stephen Bourke",
+    "title": "Boots ordered to pay Roma woman €800 for racial discrimination",
+    "description": "Security guard tried to turn away woman with sick child, Workplace Relations Commission told",
+    "url": "https://www.irishtimes.com/crime-law/courts/2026/09/26/boots-ordered-to-pay-roma-woman-800-for-racial-discrimination/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/WTASUNBKVNOFCQ46BIWRIGYKTU.jpg?smart=true&auth=6316624601d3b8519d592f98e6d4d414334500df7706b9c321d31cb1fd586c9d&width=1200&height=630",
+    "publishedAt": "2026-09-26T09:00:00Z",
+    "content": "A Roma woman with a sick child who had to argue with a security guard to be let buy medicine at a pharmacy after he tried to turn her away at the door has won 800 for racial discrimination. \r\nClaudia… [+3518 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "MIT Technology Review"
+      "name": "Hogs Haven"
     },
-    "author": "Jessica Hamzelou",
-    "title": "Young organs may not be a fountain of youth for recipients",
-    "description": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of …",
-    "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "urlToImage": "https://wp.technologyreview.com/wp-content/uploads/2026/09/young-old-heart.jpg?resize=1200,600",
-    "publishedAt": "2026-09-25T09:00:00Z",
-    "content": "Its not clear why this is, but João Pedro de Magalhães, who studies aging at the University of Birmingham in the UK and was not involved in the study, thinks it might have something to do with the re… [+1613 chars]"
+    "author": "bill-in-bangkok",
+    "title": "A 63-point plunge in fan confidence and a split on Jayden Daniels’ season - survey results",
+    "description": "Fans move past single-game anger to debate Adam Peters' draft hit rates, veteran trades, and the rebuild recalibration timeline.",
+    "url": "https://www.hogshaven.com/washington-commanders-discussion/443058/commanders-fans-split-on-jayden-daniels-return-poll-results",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/c5b20320ec4ac57c2a4f853bfb2a73489119ef3e2084ae4aa4c5aaee3af47a2f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fd3e5eb01c1331e55b2fd87b3e8c34afb.jpg",
+    "publishedAt": "2026-09-26T09:00:00Z",
+    "content": "Most weeks of the year, and every week of the season for several years now, Hogs Haven runs Reacts surveys, and I write an article breaking down the results. Because I'm writing about what Hogs Haven… [+12240 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "New York Post"
+      "name": "NPR"
     },
-    "author": "Nicholas McEntyre",
-    "title": "Pennsylvania doctor stabbed to death, wife wounded as trespasser claiming to be God attacked couple while they slept",
-    "description": "A Pennsylvania doctor was stabbed to death as he slept by a near-naked intruder claiming to be God as his critically injured wife fled to save their children and find help.",
-    "url": "https://nypost.com/2026/09/25/us-news/pennsylvania-dr-idris-evans-stabbed-to-death-by-intruder-suspect-elijah-hemingway/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/142442600.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-09-25T08:55:56Z",
-    "content": "A Pennsylvania doctor was stabbed to death as he slept by a near-naked intruder claiming to be God as his critically injured wife rushed to save their children and find help.\r\nDr. Idris Evans and his… [+3504 chars]"
+    "author": "Priyanka D McCluskey",
+    "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+    "description": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+157/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2F34%2Fbd43844c40e9baa979397c5faa99%2Fcommunityservings-01.jpg",
+    "publishedAt": "2026-09-26T09:00:00Z",
+    "content": "On a weekday morning in a quiet Boston neighborhood, a kitchen bustled with activity. Volunteers sliced chicken breasts, stuffed bell peppers, filled trays, and carefully labeled each item.\r\nIt was p… [+8340 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "PTI",
+    "title": "India needs five-year policy to make precision cancer care afforable, says expert",
+    "description": "India needs a five-year roadmap to expand access to genomic testing and targeted cancer therapies for lower-income patients, oncologist Dr Bhawna Sirohi said. A member of the new Lancet Oncology Commission on precision cancer, Sirohi flagged high testing and …",
+    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/india-needs-five-year-policy-to-make-precision-cancer-care-afforable-says-expert/articleshow/134500735.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-134500937,width-1200,height-630,imgsize-45734,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-26T08:48:57Z",
+    "content": "Raipur: India needs a five-year policy agenda to make advanced genomic testing and targeted cancer therapies accessible to lower-income patients, leading oncologist Dr Bhawna Sirohi said on Saturday.… [+5174 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Rs 78,400 vs Rs 7,750 medicine: Novartis, Eli Lilly oppose bid to cut breast cancer drug prices in India",
+    "description": "Novartis and Eli Lilly have opposed a Kerala High Court petition seeking government intervention to make two breast cancer drugs cheaper, despite their India sales accounting for less than 0.5% of global revenues. Court submissions have highlighted developmen…",
+    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/rs-78400-vs-rs-7750-medicine-novartis-eli-lilly-oppose-bid-to-cut-breast-cancer-drug-prices-in-india/articleshow/134500531.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-134500624,width-1200,height-630,imgsize-78444,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-26T08:26:11Z",
+    "content": "Novartis and Eli Lilly have opposed a petition before the Kerala High Court seeking government intervention to make two expensive breast cancer drugs more affordable, even as data placed before the c… [+4077 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Team Global",
+    "title": "Why put asparagus upright in a jar with 1 inch of water? The cut stems keep taking up moisture, helping the spears stay fresh in the fridge",
+    "description": "To preserve its freshness, asparagus requires careful handling after purchase. A beneficial technique involves standing the spears upright in water while storing them in the refrigerator. While cold storage is essential for longevity, research shows that hydr…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/why-put-asparagus-upright-in-a-jar-with-1-inch-of-water-the-cut-stems-keep-taking-up-moisture-helping-the-spears-stay-crisp-in-the-fridge-for-up-to-3-days/articleshow/134478814.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-134478873,width-1200,height-630,imgsize-107774,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-26T08:10:00Z",
+    "content": "Every spring, the produce aisle is full of bundles of asparagus. Three days later, half of them are slimy, the ends are soft, and your previously well-intentioned grocery haul feels like a moral fail… [+4616 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": "Lauren Pelley",
+    "title": "More women are taking testosterone to treat menopause symptoms. Does science support that?",
+    "description": "Testosterone is touted as a cure-all for menopause symptoms on social media, and more women are now taking it off-label. Scientists want more research.",
+    "url": "https://www.cbc.ca/news/health/menopause-testosterone-treatment-9.7358977",
+    "urlToImage": "https://i.cbc.ca/ais/8b678c6d-000f-4056-88a0-81ae30673b90,1790369383959/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C73%2C4088%2C2299%29%3BResize%3D620",
+    "publishedAt": "2026-09-26T08:00:00Z",
+    "content": "This is an excerpt from Second Opinion, a weekly analysis of health and medical science news emailed to subscribers Saturday mornings. If you haven't subscribed yet, you can do that by clicking here\r… [+8196 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Linkedin.com"
+      "name": "Business Standard"
     },
-    "author": "Dr. Isaiah Mung'athia Kiriamburi",
-    "title": "Health Pulse with a Pharmacist – Issue 40",
-    "description": "❤️ Hypertension & Stroke – How High Blood Pressure Can Affect Your Brain and What You Can Do to Reduce the Risk Imagine waking up one morning and suddenly finding that one side of your face feels different. You try to speak—but the words don't come out proper…",
-    "url": "https://www.linkedin.com/pulse/health-pulse-pharmacist-issue-40-dr-isaiah-mung-athia-kiriamburi-ivymf",
-    "urlToImage": "https://media.licdn.com/dms/image/v2/D4D12AQEmKprOn-IAdg/article-cover_image-shrink_720_1280/B4DaDXsm3XJoAQ-/0/1790325192757?e=2147483647&v=beta&t=wrh5OpCpnEktB6-31HuyVsPg8wFSKGWLCB-1nvNNavA",
-    "publishedAt": "2026-09-25T08:39:07Z",
-    "content": "Hypertension &amp; Stroke How High Blood Pressure Can Affect Your Brain and What You Can Do to Reduce the Risk\r\nImagine waking up one morning and suddenly finding that one side of your face feels dif… [+9587 chars]"
+    "author": "Press Trust of India",
+    "title": "India needs 5-year policy to make precision cancer care affordable: Expert",
+    "description": "India needs a five-year policy agenda to make advanced genomic testing and targeted cancer therapies accessible to lower-income patients, leading oncologist Dr Bhawna Sirohi said on Saturday.\nSpeaking to PTI, Sirohi noted that precision oncology has the poten…",
+    "url": "https://www.business-standard.com/health/india-needs-5-year-policy-to-make-precision-cancer-care-affordable-expert-126092600421_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/03/thumb/fitandfill/1200X628/1772524528-7728.jpeg",
+    "publishedAt": "2026-09-26T07:56:30Z",
+    "content": "India needs a five-year policy agenda to make advanced genomic testing and targeted cancer therapies accessible to lower-income patients, leading oncologist Dr Bhawna Sirohi said on Saturday.\r\nSpeaki… [+5333 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thevillablog.co.uk"
+    },
+    "author": null,
+    "title": "The international friendly break continues and is it all over for Manchester City?",
+    "description": "We’re still two weeks from the next Aston Villa match and it feels like the World Cup we just had was closer to the next Aston Villa match. Why do we need a break for international friendlies now?\nIt’s absolute madness and it’s not good for football, it’s onl…",
+    "url": "https://www.thevillablog.co.uk/international-break-is-it-all-over-for-manchester-city/",
+    "urlToImage": "https://www.thevillablog.co.uk/images/false-narrative.jpg",
+    "publishedAt": "2026-09-26T07:00:00Z",
+    "content": "We’re still two weeks from the next Aston Villa match and it feels like the World Cup we just had was closer to the next Aston Villa match. Why do we need a break for international friendlies now?\r\nI… [+6405 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "What was the name of the fish that was thought to be extinct until 1938?",
+    "description": "The Lazarus Fish: Unraveling the Mystery of the Coelacanth’s Rediscovery The fish thought to be extinct for millions of years until its stunning rediscovery in 1938 was the coelacanth. This living fossil provides invaluable insights into vertebrate evolution …",
+    "url": "https://www.lifesciencesworld.com/what-was-the-name-of-the-fish-that-was-thought-to-be-extinct-until-1938/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-26T06:50:17Z",
+    "content": "The Lazarus Fish: Unraveling the Mystery of the Coelacanth’s Rediscovery\r\nThe fish thought to be extinct for millions of years until its stunning rediscovery in 1938 was the coelacanth. This living f… [+8117 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "Can red and GREY fox mate?",
+    "description": "Can Red and Grey Fox Mate? Exploring Interspecies Reproduction Can red and GREY fox mate? While fascinating to consider, the answer is a definitive no. These two species, despite being called “foxes,” are too genetically distinct to produce viable offspring. …",
+    "url": "https://www.lifesciencesworld.com/can-red-and-grey-fox-mate/",
+    "urlToImage": null,
+    "publishedAt": "2026-09-26T06:31:41Z",
+    "content": "Can Red and Grey Fox Mate? Exploring Interspecies Reproduction\r\nCan red and GREY fox mate? While fascinating to consider, the answer is a definitive no. These two species, despite being called “foxes… [+8561 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BBC News"
+    },
+    "author": "Greig Watson; Verity Cowley - Nottingham",
+    "title": "Endurance running makes you become like an animal, it is so raw",
+    "description": "Lucy Gossage reflects on what it takes to conquer some of the toughest races on the planet.",
+    "url": "https://www.bbc.com/news/articles/c62e040rzekxo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/f9e7288fc7e9c121776435492b62bd41e3e72da6ad4984686d0c37a9faa898e9/lightyear_networkapi/resizefill_w1024_h576%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png",
+    "publishedAt": "2026-09-26T06:29:31Z",
+    "content": "\"It was awful and it was hard - but it wasn't like I didn't want to be there.\"\r\nLucy Gossage is an oncologist and former professional triathlete who has now carved out a niche in endurance running.\r\n… [+5373 chars]"
   }
 ]
