@@ -1,29 +1,42 @@
 [
   {
     "source": {
-      "id": "techradar",
-      "name": "TechRadar"
+      "id": null,
+      "name": "Livemint"
     },
-    "author": "David Nield",
-    "title": "Study drone defibrillator delivery could significant improve coverage",
-    "description": "Paris study shows how defibrillator delivery times could be cut by almost 4 minutes with the help of drones",
-    "url": "https://www.techradar.com/cameras/drones/study-shows-using-drones-to-deliver-defibrillators-could-more-than-double-the-chances-of-reaching-cardiac-arrest-patients-quickly",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/aJxR4vNJoh7iY6ezyXUeC6-2000-80.jpg",
-    "publishedAt": "2026-09-28T11:38:55Z",
-    "content": "<ul><li>A study carried out by researchers in France looked at drone delivery for defibrillators</li><li>It found that wait times could be cut by 3.76 minutes on average</li><li>Provision of more fix… [+2503 chars]"
+    "author": "Sayantani Biswas",
+    "title": "US 100% pharma tariff: Amid uncertainty, India gets exemption for select specialty drugs and ingredients",
+    "description": "The US will exempt select Indian specialty drugs and their ingredients from a new 100% pharma tariff. Here’s what products qualify and why.",
+    "url": "https://www.livemint.com/industry/manufacturing/us-100-per-cent-pharma-tariff-amid-uncertainty-india-gets-exemption-for-select-specialty-drugs-and-ingredients-11790678388934.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/drug_1790679819759_5Jnn_1790679819908_SWvH_995676bd-404f-4e2d-9fc0-e42d9ce25c65_2eO4.png",
+    "publishedAt": "2026-09-29T11:21:09Z",
+    "content": "Indian drugmakers have received some relief from the latest US tariff measures. Washington will spare certain speciality medicines and their ingredients from a new 100 per cent tariff on patented dru… [+4336 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Mother Jones"
+      "name": "Healthsystemcio.com"
     },
-    "author": "Amy Littlefield",
-    "title": "Kristan Hawkins Helped Kill Roe. Now She’s Fighting to Control the Movement She Created",
-    "description": "This story is part of the Life After Roe package, appearing this week, that looks at the surprising resilience of the abortion access movement in the Dobbs era—and at how hardliners are doubling down on their efforts to ban abortion nationwide. The young woma…",
-    "url": "https://www.motherjones.com/politics/2026/09/kristan-hawkins-roe-anti-abortion-charlie-kirk/",
-    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/09/516_POST-ROE_HAWKINS_2000px.jpg?w=1200&h=630&crop=1",
-    "publishedAt": "2026-09-28T11:30:00Z",
-    "content": "Get your news from a source thats not owned and controlled by oligarchs. Sign up for the free Mother Jones Daily.\r\nThis story is part of the Life After Roe package, appearing this week, that looks at… [+34516 chars]"
+    "author": "Anthony Guerra",
+    "title": "Insurers Blame Hospital AI Coding for $942 Million in Added Costs; CIOs’ Audit Trails Can Help Hospitals Respond",
+    "description": "Insurers blame hospitals' AI coding tools for rising claim costs; rural hospital leaders say the tools help them keep pace with payers. Audit trails CIOs oversee can help explain disputed diagnoses, but clinical evidence must still support them.\nSource: Insur…",
+    "url": "https://healthsystemcio.com/2026/09/29/hospital-ai-coding-audit-trail/",
+    "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2026/09/feature_story.png",
+    "publishedAt": "2026-09-29T11:10:47Z",
+    "content": "When an insurer challenges a diagnosis that AI helped a hospital capture, the hospital’s evidence comes from records in its own systems. Where they exist, those records help show what the software su… [+7126 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Haaretz"
+    },
+    "author": "Maya Roman",
+    "title": "Israel's Health Ministry shuts down Tel Aviv private hospital",
+    "description": "Medical operations at the Medica private hospital were suspended after a surprise inspection uncovered serious deficiencies, including staff performing procedures beyond the scope and ongoing violations of mandatory regulations",
+    "url": "https://www.haaretz.com/science-and-health/2026-09-29/ty-article/israels-health-ministry-shuts-down-tel-aviv-private-hospital/000001a0-ec5c-d53e-adb9-fe7d9bd00000",
+    "urlToImage": "https://img.haarets.co.il/bs/000001a0-ec5c-d53e-adb9-fe7d9bd00000/d3/41/da9a318b4664a61cb64501add257/350898.jpg?precrop=2400,1395,x0,y82&width=1200&height=630&cmsprod",
+    "publishedAt": "2026-09-29T11:08:16Z",
+    "content": "A private hospital in northern Tel Aviv was shut down on Monday after a surprise inspection uncovered serious deficiencies, a statement by the Health Ministry said.\r\nMedical operations at the Medica … [+2773 chars]"
   },
   {
     "source": {
@@ -31,142 +44,38 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Palatin Reports Fiscal Year 2026 Financial Results and Provides Business Update",
-    "description": "Programs are focused on rare obesity disorders associated with the melanocortin 4 receptor (MC4R) pathway, including hypothalamic obesity, Prader-Willi syndrome and Bardet-Biedl syndrome Once-weekly injectable MC4R selective peptide agonist Phase 1 SAD/MAD st…",
-    "url": "https://www.prnewswire.com/news-releases/palatin-reports-fiscal-year-2026-financial-results-and-provides-business-update-302890483.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS428160/Palatin-Technologies.jpg?id=OA2971486&p=facebook",
-    "publishedAt": "2026-09-28T11:30:00Z",
-    "content": "<ul><li>Programs are focused on rare obesity disorders associated with the melanocortin 4 receptor (MC4R) pathway, including hypothalamic obesity, Prader-Willi syndrome and Bardet-Biedl syndrome\r\n <u… [+26333 chars]"
+    "title": "Stonegate Pharmacy Unveils New Brand Identity as It Accelerates Nationwide Expansion",
+    "description": "AUSTIN, Texas, Sept. 29, 2026 /PRNewswire/ -- Stonegate Pharmacy, a leading compounding pharmacy serving prescribers in longevity, hormone, and age related wellness medicine across Texas, today announced a comprehensive brand refresh designed to unify its ide…",
+    "url": "https://www.prnewswire.com/news-releases/stonegate-pharmacy-unveils-new-brand-identity-as-it-accelerates-nationwide-expansion-302892143.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1975576/Stonegate-Pharmacy-Subway-Billboards.jpg?id=OA2974685&p=facebook",
+    "publishedAt": "2026-09-29T11:07:00Z",
+    "content": "AUSTIN, Texas, Sept. 29, 2026 /PRNewswire/ -- Stonegate Pharmacy, a leading compounding pharmacy serving prescribers in longevity, hormone, and age related wellness medicine across Texas, today annou… [+2248 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PRNewswire"
+      "name": "Gizmodo.com"
     },
-    "author": null,
-    "title": "Biohaven's Clinical Data on BHV-1530, a Novel FGFR3-Directed ADC With a Proprietary Topoisomerase I (TopoIx) Payload, Selected for Oral Presentation at the EORTC-NCI-AACR Symposium 2026",
-    "description": "Oral presentation selected: Phase 1 findings from the ongoing BHV1530-101 study will be featured in an oral presentation at the 38th EORTC-NCI-AACR Symposium on Molecular Targets and Cancer Therapeutics (ENA 2026), a leading international forum for early-phas…",
-    "url": "https://www.prnewswire.com/news-releases/biohavens-clinical-data-on-bhv-1530-a-novel-fgfr3-directed-adc-with-a-proprietary-topoisomerase-i-topoix-payload-selected-for-oral-presentation-at-the-eortc-nci-aacr-symposium-2026-302890885.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1015415/Biohaven-Full-Color-rgb-2022SEPT03-Logo.jpg?id=OA2972521&p=facebook",
-    "publishedAt": "2026-09-28T11:30:00Z",
-    "content": "<ul><li>Oral presentation selected: Phase 1 findings from the ongoing BHV1530-101 study will be featured in an oral presentation at the 38th EORTC-NCI-AACR Symposium on Molecular Targets and Cancer T… [+8004 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Common Dreams"
-    },
-    "author": "David Hackney",
-    "title": "26 Years Since its Approval, Dr. Heidi Overton’s Nomination Leaves Mifepristone in Limbo",
-    "description": "Last week, the US Senate Health, Education, Labor and Pensions (HELP) Committee held a hearing\r\n for President Donald Trump’s nominee to lead the Food and Drug Administration (FDA), Dr. Heidi Overton. During the hearing\r\n, Dr. Overton followed suit with many …",
-    "url": "https://www.commondreams.org/opinion/heidi-overton-medical-abortion",
-    "urlToImage": "https://www.commondreams.org/media-library/image.jpg?id=67645333&width=1200&height=600&coordinates=0%2C166%2C0%2C167",
-    "publishedAt": "2026-09-28T11:29:48Z",
-    "content": "Last week, the US Senate Health, Education, Labor and Pensions (HELP) Committee held a hearing\r\n for President Donald Trumps nominee to lead the Food and Drug Administration (FDA), Dr. Heidi Overton.… [+5560 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Sela Breen",
-    "title": "What Research Says About Cardio Vs Strength Training For Heart Health",
-    "description": "This is how to optimize your workouts for heart health.",
-    "url": "https://www.mindbodygreen.com/articles/is-cardio-or-strength-training-better-for-heart-health-to-optimize-your-workouts",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_2000,h_1334/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/oywm8y7mtlamu29tv.png",
-    "publishedAt": "2026-09-28T11:23:00Z",
-    "content": "Basically everyone has heard that cardio is good for your heart. And you've likely seen headlines about how strength training supports longevity. If this conflicting advice has left you feeling confu… [+4346 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Alabamanow.com"
-    },
-    "author": null,
-    "title": "Lilly launches the Lilly Change the Course Commitment, aiming to address treatment gaps in diabetes and obesity in LMICs",
-    "description": "Lilly launches the Lilly Change the Course Commitment, aiming to address treatment gaps in diabetes and obesity in LMICsalabamanow.com",
-    "url": "https://smb.alabamanow.com/article/Lilly-launches-the-Lilly-Change-the-Course-Commitment-aiming-to-address-treatment-gaps-in-diabetes-and-obesity-in-LMICs/6aba4605fb7acafcb4abeb16",
-    "urlToImage": "https://www.alabamanow.com/wp-content/uploads/sites/4/2019/10/facebook-alabamanow.png",
-    "publishedAt": "2026-09-28T11:15:01Z",
-    "content": "Through this commitment, Lilly aims to expand access to its innovative diabetes and obesity medicines to as many people in resource-limited settings, including low- and middle-income countries (LMICs… [+18125 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Cole Moreton",
-    "title": "The woman who's reunited 887 families... and how you can track down your lost relatives too: ARIEL BRUCE has brought about hundreds of reunions for Long Lost Family - now she reveals how she does it",
-    "description": "Ariel Bruce solves mysteries and reunites siblings, daughters, sons, mothers and fathers for the ITV show Long Lost Family, with spectacular success.",
-    "url": "https://www.dailymail.com/tv/article-16166135/woman-whos-reunited-887-families-you-track-too.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/09/28/11/111514683-0-image-m-9_1790589744187.jpg",
-    "publishedAt": "2026-09-28T11:06:40Z",
-    "content": "Ariel Bruce solves mysteries and reunites siblings, daughters, sons, mothers and fathers for the ITV show Long Lost Family, with spectacular success. Shes been called the Agatha Christie of the adopt… [+6247 chars]"
+    "author": "Matthew Phelan",
+    "title": "This Gene-Tech Is More Impressive Than the Extinct Dire Wolves It Created. Here’s Why",
+    "description": "Colossal Biosciences brought back 20 key segments of extinct dire wolf DNA into living, breathing, wolf pups—and the tech used to do it could change conservation and paleontology for good.",
+    "url": "https://gizmodo.com/this-gene-tech-is-more-impressive-than-the-extinct-dire-wolves-it-created-heres-why-2000811099",
+    "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Colossal-Dire-Wolves-Romulus-Remus-2025-1-1200x675.jpg",
+    "publishedAt": "2026-09-29T11:03:04Z",
+    "content": "Researchers with Colossal Biosciences, the private biotechnology and genetic engineering firm, are winners of the 2026 Gizmodo Science Fair for developing an integrated pipeline capable of robust gen… [+17302 chars]"
   },
   {
     "source": {
       "id": "financial-post",
       "name": "Financial Post"
     },
-    "author": "GlobeNewswire",
-    "title": "Psyence BioMed Announces Exclusive U.S. Ibogaine Licence for Texas Ibogaine Research Corporation",
-    "description": "Binding term sheet with PsyLabs provides Psyence BioMed’s Texas subsidiary with exclusive U.S. development, supply and distribution rights to PsyLabs’ pharmaceutical-grade ibogaine, subject to a definitive agreement NEW YORK, Sept. 28, 2026 (GLOBE NEWSWIRE) —…",
-    "url": "https://financialpost.com/globe-newswire/psyence-biomed-announces-exclusive-u-s-ibogaine-licence-for-texas-ibogaine-research-corporation",
+    "author": "Business Wire",
+    "title": "Promega Launches Paradyme™ 27GY STR System, Minimizing Stutter Artifacts in Forensic DNA Analysis",
+    "description": "Reduced-Stutter Polymerase technology delivers clearer electropherograms for faster and more accurate mixture analysis MADISON, Wis. — Promega Corporation has launched Paradyme™ 27GY STR System, the first commercially available short tandem repeat (STR) analy…",
+    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/promega-launches-paradyme-27gy-str-system-minimizing-stutter-artifacts-in-forensic-dna-analysis",
     "urlToImage": null,
-    "publishedAt": "2026-09-28T11:04:04Z",
-    "content": "Dr. JohnThorne,ProjectLead,TexasIbogaineResearchCorporation\r\nThe Company intends to provide further updates as TIRC advances through manufacturing, regulatory and clinical milestones under the licens… [+4825 chars]"
-  },
-  {
-    "source": {
-      "id": "usa-today",
-      "name": "USA Today"
-    },
-    "author": "Phil Harrison, Buckeyes Wire",
-    "title": "Big Ten football power rankings after Week 4 | Buckeyes Wire",
-    "description": "We again saw some surprises in college football for Week 4. Here are our updated Big Ten football Power rankings after Week 4.",
-    "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/09/28/big-ten-football-power-rankings-week-4-ohio-state-2026/91974525007/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/53ecd395c150a5857db68ed8d340df7d481a754e2f49b884e66e00f3030a83ff/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuckeyes_wire_usa_today_articles_592%2Fd928c389bfdd51fb18003b68e21528f2.jpg",
-    "publishedAt": "2026-09-28T11:02:32Z",
-    "content": "Four weeks are now in the rearview mirror for this year's college football season, and we are beginning to learn more and more about the Big Ten and which teams look like pretenders and those that ha… [+12208 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Popular weight-loss drugs can become an ‘atomic bomb’ at high doses, doctor warns",
-    "description": "Dr. Will Cole warns that macro-dosing GLP-1s isn't the answer to metabolic health, advocating for micro-dosing peptides paired with lifestyle changes.",
-    "url": "https://www.foxnews.com/health/popular-weight-loss-drugs-atomic-bomb-high-doses-doctor-warns",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/woman-holding-bpc-157-peptide-injection.jpg",
-    "publishedAt": "2026-09-28T11:00:03Z",
-    "content": "As interest in peptides continues to grow, experts are increasingly looking beyond weight loss to their potential role in healthy aging.\r\nFunctional medicine expert Dr. Will Cole told Fox News Digita… [+3427 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ScienceAlert"
-    },
-    "author": "Carly Cassella",
-    "title": "America's Oldest Person Just Turned 116 – Here's What Science Says About How to Live That Long",
-    "description": "Naomi Whitehead on her 114th birthday in 2024. (Superlongevity Wiki)\r\n\nExceptional.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-    "url": "https://www.sciencealert.com/americas-oldest-person-just-turned-116-heres-what-science-says-about-how-to-live-that-long",
-    "urlToImage": "https://www.sciencealert.com/images/2026/09/Whitehead114-2560x1440-1.jpg",
-    "publishedAt": "2026-09-28T11:00:00Z",
-    "content": "The oldest known person in the United States and the second-oldest person in the world just celebrated her 116th birthday.\r\nNaomi Whitehead is only the 33rd person in recorded history to reach this r… [+4637 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thoughtcatalog.com"
-    },
-    "author": "Nicole Stawiarski",
-    "title": "How You’re Secretly Hurting, Based On Your Birth Month",
-    "description": "April You need help, but won’t ask for it. Responsibility is weighing heavy on your shoulders, but you see this task as your obligation, so you keep your mouth shut and plod on. The problem is the …",
-    "url": "https://thoughtcatalog.com/nicole-stawiarski/2026/09/how-youre-secretly-hurting-based-on-your-birth-month/",
-    "urlToImage": "https://thoughtcatalog.com/wp-content/uploads/2026/04/pexels-mart-production-7277985.jpg?w=1536&h=768&crop=1",
-    "publishedAt": "2026-09-28T11:00:00Z",
-    "content": "You need help, but wont ask for it.\r\nResponsibility is weighing heavy on your shoulders, but you see this task as your obligation, so you keep your mouth shut and plod on. The problem is the stress i… [+7688 chars]"
+    "publishedAt": "2026-09-29T11:02:31Z",
+    "content": "Sorry, your browser doesn't support embedded videos.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the latest news in your city and across Canada.\r\n<ul><li>Exclusive articles … [+7653 chars]"
   },
   {
     "source": {
@@ -174,38 +83,116 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "New Study Shows That TissueCypher® Changed Management at an Expert Surgery Center in 90% of Patients With Non-Dysplastic Barrett's Esophagus",
-    "description": "FRIENDSWOOD, Texas, Sept. 28, 2026 /PRNewswire/ -- Castle Biosciences, Inc. (Nasdaq: CSTL), a company improving health through innovative tests that guide patient care, today announced the publication of a study showing that its TissueCypher® Barrett's Esopha…",
-    "url": "https://www.prnewswire.com/news-releases/new-study-shows-that-tissuecypher-changed-management-at-an-expert-surgery-center-in-90-of-patients-with-non-dysplastic-barretts-esophagus-302889775.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1817330/Castle-Biosciences-Logo.jpg?id=OA2970331&p=facebook",
-    "publishedAt": "2026-09-28T11:00:00Z",
-    "content": "FRIENDSWOOD, Texas, Sept. 28, 2026 /PRNewswire/ -- Castle Biosciences, Inc. (Nasdaq: CSTL), a company improving health through innovative tests that guide patient care, today announced the publicatio… [+8179 chars]"
+    "title": "Nanoscope Therapeutics to Present at Meeting on the Mesa 2026",
+    "description": "Samarendra Mohanty, Co-Founder, President and Chief Scientific Officer, to participate in the premier cell and gene therapy industry conference, October 5–7, 2026, in Phoenix, Arizona DALLAS, Sept. 29, 2026 /PRNewswire/ -- Nanoscope Therapeutics, Inc., a biot…",
+    "url": "https://www.prnewswire.com/news-releases/nanoscope-therapeutics-to-present-at-meeting-on-the-mesa-2026-302892209.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1688860/NSCOPE-nu-Logo-Horizontal-2Color-1200px-Logo-Logo.jpg?id=OA2975508&p=facebook",
+    "publishedAt": "2026-09-29T11:02:00Z",
+    "content": "<ul><li>Samarendra Mohanty, Co-Founder, President and Chief Scientific Officer, to participate in the premier cell and gene therapy industry conference, October 57, 2026, in Phoenix, Arizona</li></ul… [+3997 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "Medical Daily"
     },
-    "author": "Thea Jourdan",
-    "title": "The 'realistic' high-carb diet that can reduce your biological age, weight and cholesterol in just weeks: Researchers tested four diets to see if they could really transform you... and found plan that can 'slow ageing'",
-    "description": "The results of an Australian study are fuelling hopes that the closest thing yet to an elixir of youth may not be found in a laboratory or medicine cabinet - but on our dinner plates.",
-    "url": "https://www.dailymail.com/health/article-16166085/realistic-diet-reduce-biological-age-weeks.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/09/28/10/111514579-0-image-m-9_1790589158736.jpg",
-    "publishedAt": "2026-09-28T10:59:58Z",
-    "content": "Slowing down ageing has been a Holy Grail for centuries, and is very much a focus of modern medicine. But it may not require the latest and most expensive high-tech wizardry, for now researchers beli… [+8069 chars]"
+    "author": "Cole Mercer",
+    "title": "Teens on GLP-1 Drugs: 12.4% Diagnosed with Vitamin D Deficiency Within a Year, and Few Got Nutrition Counseling",
+    "description": "12.4% of teens on GLP-1 drugs were diagnosed with vitamin D deficiency within a year. Questions parents can ask about bloodwork, diet, and supplements.",
+    "url": "https://www.medicaldaily.com/teens-glp1-vitamin-d-deficiency-parent-questions-479237",
+    "urlToImage": "https://d.medicaldaily.com/en/full/486568/raul-arboleda-afp-via-getty-images.jpg",
+    "publishedAt": "2026-09-29T11:00:42Z",
+    "content": "About one in eight adolescents who started a GLP-1 medication was diagnosed with vitamin D deficiency within a year, according to a national study published online in Childhood Obesity on Sept. 17. T… [+6029 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "PRNewswire"
     },
-    "author": "Xantha Leatham",
-    "title": "Meet Casper, the one-in-100 million 'ghost' lobster! Incredibly rare crustacean is bright white thanks to rare genetic mutation",
-    "description": "The crustacean, named Casper, is startlingly white, with pale blue dots scattered across its hard shell.",
-    "url": "https://www.dailymail.com/sciencetech/article-16166071/Casper-ghost-lobster-rare-crustacean-white.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/09/28/11/111515007-0-image-m-35_1790591346603.jpg",
-    "publishedAt": "2026-09-28T10:58:42Z",
-    "content": "A 'ghost lobster' has made an appearance just in time for spooky season. \r\nThe crustacean, named Casper, is startlingly white, with pale blue dots scattered across its hard shell.\r\nIts unusual colour… [+3124 chars]"
+    "author": null,
+    "title": "Certitude™ Breast Cancer Screening Blood Test Now Available to 75 Million Women through OpenLoop Health",
+    "description": "Astrin Biosciences' blood-based supplemental screening test expands access nationwide, offering a new tool for more high-risk women SAINT PAUL, Minn., Sept. 29, 2026 /PRNewswire/ -- Astrin Biosciences, a cancer intelligence company transforming how cancer is …",
+    "url": "https://www.prnewswire.com/news-releases/certitude-breast-cancer-screening-blood-test-now-available-to-75-million-women-through-openloop-health-302892134.html",
+    "urlToImage": null,
+    "publishedAt": "2026-09-29T11:00:00Z",
+    "content": "Astrin Biosciences' blood-based supplemental screening test expands access nationwide, offering a new tool for more high-risk women\r\nSAINT PAUL, Minn., Sept. 29, 2026 /PRNewswire/ -- Astrin Bioscienc… [+3709 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Lilly's Zepbound (tirzepatide 10 mg and 15 mg) was associated with more weight loss than Wegovy HD (semaglutide injection 7.2 mg) in a new indirect treatment comparison",
+    "description": "In this new analysis, Zepbound 15 mg showed 4.5% greater weight loss than Wegovy HD in adults with obesity Participants receiving Zepbound 15 mg had more than three times the odds of achieving at least 20% body-weight reduction compared with Wegovy HD INDIANA…",
+    "url": "https://www.prnewswire.com/news-releases/lillys-zepbound-tirzepatide-10-mg-and-15-mg-was-associated-with-more-weight-loss-than-wegovy-hd-semaglutide-injection-7-2-mg-in-a-new-indirect-treatment-comparison-302892601.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS270365/ELI-LILLY-AND-COMPANY-LOGO.jpg?id=OA2972142&p=facebook",
+    "publishedAt": "2026-09-29T11:00:00Z",
+    "content": "In this new analysis, Zepbound 15 mg showed 4.5% greater weight loss than Wegovy HD in adults with obesity\r\nParticipants receiving Zepbound 15 mg had more than three times the odds of achieving at le… [+26737 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Signal"
+    },
+    "author": "Fred Lucas",
+    "title": "EXCLUSIVE: Shocking Senate Report Details Billions in Health Care Fraud Lost to Russian Fraudsters, Medicare Scammers, Other Schemers",
+    "description": "FIRST ON THE DAILY SIGNAL—A new Senate report highlights startling amounts of health care fraud, including a payment of almost $1 billion in taxpayer dollars to Russian fraudsters and hundreds of millions to others. The report, which points to some of the mos…",
+    "url": "https://www.dailysignal.com/2026/09/29/exclusive-shocking-senate-report-details-billions-in-health-care-fraud-lost-to-russian-fraudsters-medicare-scammers-other-schemers/",
+    "urlToImage": "https://static.dailysignalmedia.org/2026/09/FraudReport-1024x576.jpg",
+    "publishedAt": "2026-09-29T11:00:00Z",
+    "content": "FIRST ON THE DAILY SIGNALA new Senate report highlights startling amounts of health care fraud, including a payment of almost $1 billion in taxpayer dollars to Russian fraudsters and hundreds of mill… [+3847 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TVLine"
+    },
+    "author": "staff@tvline.com (Ryan Schwartz)",
+    "title": "What To Watch Tuesday: Best Medicine Episode 2, Amazing Race And Comics Unleashed Specials, And More",
+    "description": "On TV this Tuesday: Best Medicine deals with a time-sensitive matter, and The Amazing Race and Comics Unleashed mark milestone anniversaries.",
+    "url": "https://www.tvline.com/2271087/what-to-watch-september-29-2026-tv-shows-movies/",
+    "urlToImage": "https://www.tvline.com/img/gallery/what-to-watch-on-tv-and-streaming-tuesday-september-29-2026/l-intro-1790650424.jpg",
+    "publishedAt": "2026-09-29T11:00:00Z",
+    "content": "Every day, TVLine's What to Watch column spotlights new and returning English-language shows (and select movies) premiering or airing fresh episodes across broadcast, cable and streaming organized be… [+345 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Scientific American"
+    },
+    "author": "Peter Hall",
+    "title": "Tiny implants use the body as a communication network",
+    "description": "A new system sends faint electrical pulses through tissue instead of over Bluetooth. In rats, it made the animals flex one of their hind legs on cue when one of their front paws moved",
+    "url": "https://www.scientificamerican.com/article/tiny-implants-use-the-body-as-a-communication-network/",
+    "urlToImage": "https://static.scientificamerican.com/dam/asset/e42a845e-1087-402d-8488-02f2247acd42/SWANS-injectable-device.jpg?m=1790629953.695&w=1200",
+    "publishedAt": "2026-09-29T11:00:00Z",
+    "content": "When a rat’s front paw moved, its hind leg answered. Normally, such coordination is the nervous system’s job, carried out by little electrical signals traveling along nerves. This time the message we… [+4581 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Providence Therapeutics Announces Formation of Oncology Clinical Advisory Board",
+    "description": "CALGARY, AB, Sept. 29, 2026 /PRNewswire/ -- Providence Therapeutics Holdings, Inc. is pleased to announce formation of its initial Clinical Advisory Board. This advisory group will help steer Providence's therapeutic mRNA cancer vaccine programs, including th…",
+    "url": "https://www.prnewswire.com/news-releases/providence-therapeutics-announces-formation-of-oncology-clinical-advisory-board-302891836.html",
+    "urlToImage": null,
+    "publishedAt": "2026-09-29T11:00:00Z",
+    "content": "CALGARY, AB, Sept. 29, 2026 /PRNewswire/ -- Providence Therapeutics Holdings, Inc. is pleased to announce formation of its initial Clinical Advisory Board. This advisory group will help steer Provide… [+2570 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Allie Yang",
+    "title": "She was ready to die. Now she’s in remission — cancer vaccines could be the next big thing in medicine",
+    "description": "Not so long ago, researchers hesitated to use the word “cure.” Now, rapid advances in cancer tech are offering new hope that lasting remission could become possible for more of the millions of Americans living with or beyond cancer.",
+    "url": "https://nypost.com/2026/09/29/health/cancer-vaccines-could-be-the-next-big-thing-in-medicine/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-0wdaske5i-1790261374990.jpg?quality=75&strip=all&1790247064&w=1200",
+    "publishedAt": "2026-09-29T10:59:00Z",
+    "content": "At 31, Molly Hones was preparing to die.\r\nShed had a massive tumor removed from her liver the year prior, but was now learning the cancer had spread to her bones and into her blood.\r\nHones had a rare… [+8629 chars]"
   },
   {
     "source": {
@@ -213,24 +200,50 @@
       "name": "The Times of India"
     },
     "author": "ET Online",
-    "title": "Your child scored 90+ percent, but should they become an engineer or doctor? When and how career tests can help",
-    "description": "High academic performance often pushes students towards traditional careers, such as engineering or medicine. However, career choices should involve understanding personal interests and strengths. Psychometric assessments can provide valuable insights beyond …",
-    "url": "https://economictimes.indiatimes.com/industry/services/education/your-child-scored-90-percent-but-should-they-become-an-engineer-or-doctor-when-and-how-career-tests-can-help/articleshow/134540002.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-134540135,width-1200,height-630,imgsize-117574,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-09-28T10:56:38Z",
-    "content": "A 90+ percent score can make parents happy. It can also trigger a familiar question: \"So, engineering or medicine?\" For many Indian families, academic performance continues to play a major role in de… [+8038 chars]"
+    "title": "Cancer drug costs Rs 2,700, sells for Rs 27,000: SC questions 10x markup at hospitals",
+    "description": "The Supreme Court has questioned steep markups on cancer drugs and asked the Centre to examine a uniform 16% margin on all medicines. The court also sought scrutiny of hospitals that force patients to buy drugs from in-house pharmacies, saying such practices …",
+    "url": "https://economictimes.indiatimes.com/news/india/cancer-drug-costs-rs-2700-sells-for-rs-27000-sc-questions-10x-markup-at-hospitals/articleshow/134563837.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-134564027,width-1200,height-630,imgsize-761753,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-09-29T10:57:33Z",
+    "content": "The Supreme Court on Tuesday pulled up hospitals for selling cancer drugs at a steep markup of ten times and asked the Centre to examine whether a uniform 16% margin should apply to all medicines.The… [+2782 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Oreilly.com"
+      "name": "Biztoc.com"
     },
-    "author": "Ammar Mohanna",
-    "title": "From Raw Data to Graph-Native AI",
-    "description": "I’ve been thinking about a gap in the way we discuss graphs in AI. Most of the conversation starts after the graph already exists. We talk about graph neural networks, GraphRAG, graph agents, and graph foundation models. We spend much less time on the step th…",
-    "url": "https://www.oreilly.com/radar/from-raw-data-to-graph-native-ai/#BlogPosting",
-    "urlToImage": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/09/From-raw-data-to-graph-native-AI-image-created-with-Adobe-Firefly-1600x1244.jpg",
-    "publishedAt": "2026-09-28T10:54:31Z",
-    "content": "Ive been thinking about a gap in the way we discuss graphs in AI. Most of the conversation starts after the graph already exists. We talk about graph neural networks, GraphRAG, graph agents, and grap… [+9263 chars]"
+    "author": "ritholtz.com",
+    "title": "10 Tuesday AM Reads",
+    "description": "My Two-for-Tuesday morning reads:\n• Innovation Is Driving a New Bull Market in Biotech. Biotechnology stocks are soaring this year as medical advances and merger activity rekindle investor interest. More gains lie ahead, our healthcare panel says. (Barron’s)\n…",
+    "url": "https://biztoc.com/x/41d0ae79b9c87c59",
+    "urlToImage": "https://biztoc.com/cdn/41d0ae79b9c87c59_s.webp",
+    "publishedAt": "2026-09-29T10:55:15Z",
+    "content": "My Two-for-Tuesday morning reads:Innovation Is Driving a New Bull Market in Biotech. Biotechnology stocks are soaring this year as medical advances and merger activity rekindle investor interest. Mor… [+135 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "Aaratrika  Bhaumik",
+    "title": "SC questions steep mark-ups on cancer drugs, calls pricing disparity ‘carnage’",
+    "description": "Supreme Court questions steep medicine mark-ups, including a nearly ten-fold cancer drug price gap, and seeks details of existing drug pricing mechanisms.",
+    "url": "https://www.thehindubusinessline.com/news/sc-questions-steep-mark-ups-on-cancer-drugs-calls-pricing-disparity-carnage/article71523497.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/44akla/article71520859.ece/alternates/LANDSCAPE_1200/PTI08_13_2026_000567B.jpg",
+    "publishedAt": "2026-09-29T10:46:59Z",
+    "content": "The Supreme Court on Tuesday (September 29, 2026) expressed concern over the sharp disparity between the prices charged to retailers and consumers for essential medicines, particularly cancer drugs, … [+3565 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "Team BL, KS Badri Narayanan",
+    "title": "Sensex today | Stock Market Highlights: Stock markets fall for 2nd day as elevated oil prices, foreign fund outflows weigh",
+    "description": "Sensex, Nifty, Share Prices Highlights: Equity benchmark indices Sensex and Nifty ended lower for the second day on Tuesday as elevated crude oil prices triggered by uncertainty over the West Asia situation and foreign fund outflows weighed on investor sentim…",
+    "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-29-september-2026/article71520150.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/qvpax7/article71522484.ece/alternates/LANDSCAPE_1200/PO07_Market_down.jpg",
+    "publishedAt": "2026-09-29T10:46:21Z",
+    "content": "<li></li>\r\nSeptember 29, 2026 16:08Orient Cables, German Green Steel IPOs draw strong demand on last day, AceVector, Runwal follow\r\nOrient Cables, German Green Steel IPOs draw strong demand on last d… [+82115 chars]"
   }
 ]
