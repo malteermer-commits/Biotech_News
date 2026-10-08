@@ -2,106 +2,15 @@
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "Yahoo Entertainment"
     },
-    "author": "Ryan Archer",
-    "title": "A Man Whistled a John Denver Hit While Partly Asleep, Kept the Beat, and Remembered Nothing",
-    "description": "A 30-year-old man whistled \"Take Me Home, Country Roads\" during a partial arousal from deep sleep, swaying in time, then forgot it all.",
-    "url": "https://www.medicaldaily.com/sleep-whistling-country-roads-arousal-disorder-479582",
-    "urlToImage": "https://d.medicaldaily.com/en/full/486919/editorial-illustration-via-ai.jpg",
-    "publishedAt": "2026-10-06T12:00:11Z",
-    "content": "People caught in a sleepwalking-type episode are known to mumble, shout, or carry on half-finished conversations. A 30-year-old man described in a new report did something sleep doctors say had not b… [+6418 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ssir.org"
-    },
-    "author": "Daniela Blei",
-    "title": "The Gift of the Body",
-    "description": "Singapore has more legally permissive rules than Taiwan on organ donation consent, but Taiwan has greater donation rates because of the infrastructure of consent that its medical system has built.",
-    "url": "https://ssir.org/articles/entry/taiwan-organ-donation",
-    "urlToImage": "https://ssir.org/images/articles/fall-2026-research-ai-body-figure-thumb-737x737.jpg",
-    "publishedAt": "2026-10-06T12:00:00Z",
-    "content": "How do cultural norms shape the outcomes of public\r\nhealth policy, and can organizational innovation overcome deeply embedded\r\nresistance? A new study of organ-donation rates in Singapore and Taiwan\r… [+5158 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Justin Choi",
-    "title": "UCLA teen with dreams of becoming lawyer among 3 killed in head-on Monterey crash",
-    "description": "A UCLA teen who dreamed of becoming a lawyer was among the three young lives cut short in a horrific head-on crash in Northern California.",
-    "url": "https://nypost.com/2026/10/06/us-news/ucla-teen-with-dreams-of-becoming-lawyer-among-3-killed-in-head-on-monterey-crash/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143928485.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-10-06T12:00:00Z",
-    "content": "A UCLA teen who dreamed of becoming a lawyer was among the three young lives cut short in a horrific head-on crash in Northern California.\r\n19-year-old Abigail Tinoco was killed alongside Sebastian B… [+3066 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "arm61@bath.ac.uk",
-    "title": "pylj 2.0.0b1",
-    "description": "Simple teaching tool for classical molecular dynamics and Monte Carlo simulation",
-    "url": "https://pypi.org/project/pylj/2.0.0b1/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-06T11:57:13Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Radio Free Europe/ Radio Liberty"
-    },
-    "author": "Farangis Najibullah",
-    "title": "Suspected Russian Plague Death: How Much Should We Worry?",
-    "description": "A suspected case of pneumonic plague killing a laboratory technician in Russia has sparked global alarm about the possibility of wider transmission. RFE/RL spoke to Brendan Wren, a professor of microbial pathogenesis, about the situation and Russia's moves to…",
-    "url": "https://www.rferl.org/a/plague-russia-global-alarm-answers/33871315.html",
-    "urlToImage": "https://gdb.rferl.org/8b46903b-05ac-43df-a4e8-568fb0d9a870_w1200_h630.jpg",
-    "publishedAt": "2026-10-06T11:51:43Z",
-    "content": "A suspected case of pneumonic plague killing a laboratory technician in Russia has sparked global alarm about the possibility of wider transmission. But how easily does pneumonic plague spread, how d… [+2238 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Dorothy Brooks",
-    "title": "Pediatricians Tell Pregnant Women and Parents of Young Children to Skip Raw Milk, Citing Listeria and Bird Flu",
-    "description": "New AAP policy says raw milk is unsafe for pregnant women and young kids, citing Listeria, E. coli, and H5N1 bird flu. Here is what parents should know.",
-    "url": "https://www.medicaldaily.com/aap-raw-milk-policy-pregnancy-children-listeria-bird-flu-479581",
-    "urlToImage": "https://d.medicaldaily.com/en/full/486918/spencer-platt-getty-images.jpg",
-    "publishedAt": "2026-10-06T11:45:25Z",
-    "content": "The American Academy of Pediatrics (AAP) is telling families that unpasteurized milk, cheese, and other raw dairy products are unsafe, especially for young children and anyone pregnant or breastfeedi… [+7570 chars]"
-  },
-  {
-    "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
-    },
-    "author": "GlobeNewswire",
-    "title": "ProMIS Neurosciences Appoints Seasoned Alzheimer’s and Neuroscience Executive Ivana Rubino, Ph.D., as Chief Commercial Officer",
-    "description": "Former senior Biogen and Roche executive brings deep experience across Alzheimer’s clinical development, launch readiness, commercialization and global medical strategy Appointment strengthens commercial and development leadership as PMN310 advances toward 12…",
-    "url": "https://financialpost.com/globe-newswire/promis-neurosciences-appoints-seasoned-alzheimers-and-neuroscience-executive-ivana-rubino-ph-d-as-chief-commercial-officer",
-    "urlToImage": null,
-    "publishedAt": "2026-10-06T11:37:20Z",
-    "content": "Dr. Rubino joins ProMIS from Biogen, where she most recently served as Vice President and Global Head, Alzheimers Disease &amp; Multiple Sclerosis Medical, leading global medical strategy, launch rea… [+3889 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Bek Day",
-    "title": "Struggling mothers reveal the dark side of the 'miracle' ADHD drug that was supposed to save their lives from chaos",
-    "description": "Jane McFadden started getting reports from her 40,000-strong social media community about some alarming effects of the drug they and their children were taking.",
-    "url": "https://www.dailymail.com/health/article-14658027/ADHD-Vyvanse-medication-dark-side.html",
-    "urlToImage": "https://i.dailymail.co.uk/1s/2025/04/30/03/97810651-0-image-m-17_1745979279826.jpg",
-    "publishedAt": "2026-10-06T11:35:59Z",
-    "content": "'The flood of comments has been overwhelming,' explains Jane McFadden, host of the popular ADHD Mums podcast.\r\n'People are at their wits' end, saying their homes are in chaos, and their kids are stru… [+7283 chars]"
+    "author": "Nancy Lapid",
+    "title": "Health Rounds: Experimental approach uses AI to eliminate cold storage for mRNA vaccines",
+    "description": "Oct 7 (Reuters) - With all the dire predictions about AI's potential to wipe out humanity, today we highlight two studies that use the technology for potenti...",
+    "url": "https://www.yahoo.com/news/science/articles/health-rounds-experimental-approach-uses-110910403.html",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/cacf6140fd65379ea517e8cea207f45b7c099cb935ec21ac4564aa5f28875fff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F32e1c93d0e505963f3ea8a15619594ec.jpg",
+    "publishedAt": "2026-10-07T12:17:03Z",
+    "content": "By Nancy Lapid\r\nOct 7 (Reuters) - With all the dire predictions about AI's potential to wipe out humanity, today we highlight two studies that use the technology for potential medical advances. We al… [+6208 chars]"
   },
   {
     "source": {
@@ -109,12 +18,25 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Napa Valley Wine Community Pledges $2.5 Million to Red Blotch Research",
-    "description": "Independent initiative will fund research focused on practical vineyard solutions NAPA VALLEY, Calif. , Oct. 6, 2026 /PRNewswire/ -- Winegrowers and wineries have pledged $2.5 million to launch Phase One of the Grapevine Red Blotch Virus Research Initiative, …",
-    "url": "https://www.prnewswire.com/news-releases/napa-valley-wine-community-pledges-2-5-million-to-red-blotch-research-302896785.html",
-    "urlToImage": null,
-    "publishedAt": "2026-10-06T11:30:00Z",
-    "content": "Independent initiative will fund research focused on practical vineyard solutions\r\nNAPA VALLEY, Calif. , Oct. 6, 2026 /PRNewswire/ -- Winegrowers and wineries have pledged $2.5 million to launch Phas… [+4350 chars]"
+    "title": "Halia Therapeuticsto Participate in the 6th Annual Needham Private Biotech & MedTech Company Virtual 1x1 Forum",
+    "description": "LEHI, Utah, Oct. 7, 2026 /PRNewswire/ -- Halia Therapeutics, Inc., a clinical-stage biopharmaceutical company developing first-in-class therapies targeting inflammasome-driven disease biology, today announced that the Company plans to participate in the 6th A…",
+    "url": "https://www.prnewswire.com/news-releases/halia-therapeuticsto-participate-in-the-6th-annual-needham-private-biotech--medtech-company-virtual-1x1-forum-302900689.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1682530/Halia-Therapeutics-Logo.jpg?id=OA2991667&p=facebook",
+    "publishedAt": "2026-10-07T12:15:00Z",
+    "content": "LEHI, Utah, Oct. 7, 2026 /PRNewswire/ -- Halia Therapeutics, Inc., a clinical-stage biopharmaceutical company developing first-in-class therapies targeting inflammasome-driven disease biology, today … [+1006 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Solius Labs Named to Fast Company's 2026 Next Big Things in Tech List",
+    "description": "Recognition highlights the first FDA-cleared, over-the-counter personalized UVB light therapy device BAINBRIDGE ISLAND, Wash., Oct. 7, 2026 /PRNewswire/ -- Solius Labs, the world's only Personalized Sunlight company, today announced that Solius Pro, the only …",
+    "url": "https://www.prnewswire.com/news-releases/solius-labs-named-to-fast-companys-2026-next-big-things-in-tech-list-302901137.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS2004126/Solius-Labs-Named-to-Fast-Companys-2026-Next-Big-Things-in-Tech-List.jpg?id=OA2992088&p=facebook",
+    "publishedAt": "2026-10-07T12:14:00Z",
+    "content": "Recognition highlights the first FDA-cleared, over-the-counter personalized UVB light therapy device\r\nBAINBRIDGE ISLAND, Wash., Oct. 7, 2026 /PRNewswire/ -- Solius Labs, the world's only Personalized… [+2888 chars]"
   },
   {
     "source": {
@@ -122,128 +44,219 @@
       "name": "Science Daily"
     },
     "author": null,
-    "title": "One simple addition to postpartum care made a major difference",
-    "description": "New mothers paired with patient navigators were much more likely to receive postpartum care, depression screening, preventive testing, and ongoing primary care. By helping with barriers such as transportation, childcare, scheduling, and confusing medical info…",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261003234017.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/pediatrician-newborn-baby-with-mother.webp",
-    "publishedAt": "2026-10-06T11:25:14Z",
-    "content": "Becoming a mother can be difficult under any circumstances, but for some women, everyday obstacles can make getting medical care after childbirth especially challenging. Limited health literacy, unre… [+6981 chars]"
+    "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
+    "description": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repurpose existing drugs for conditions inc…",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
+    "publishedAt": "2026-10-07T12:13:35Z",
+    "content": "Scientists may have found a new way to reduce harmful inflammation in the brain by targeting a receptor that can already be blocked with existing drugs.The research, published in Brain and led by Pro… [+3806 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Crypto Briefing"
+    },
+    "author": "Diego Almada Lopez",
+    "title": "US government expected to announce AI compute credit donation Thursday",
+    "description": "The AI compute credit donation could democratize access to advanced computing, accelerating scientific research and innovation across sectors.\nThe post US government expected to announce AI compute credit donation Thursday appeared first on Crypto Briefing.",
+    "url": "https://cryptobriefing.com/us-government-ai-compute-credit-donation/",
+    "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/07081058/library-us-government-expected-to-announce-ai-compute-credit-don-800x320.png",
+    "publishedAt": "2026-10-07T12:11:03Z",
+    "content": "The move would likely build on the Department of Energy's Genesis Mission, which has already pulled in over $800 million in private partnerships The US government is set to announce an AI compute cre… [+2737 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Us Weekly"
+    },
+    "author": "Miranda Siwak",
+    "title": "Travis Barker Shares Hospital Photo With Kourtney Kardashian 'By My Side'",
+    "description": "Travis Barker is grateful to have his family’s support, including wife Kourtney Kardashian, amid a recent hospital visit. “My baby girl came with me,” Barker, 50, wrote via his Instagram Stories on Tuesday, October 6, sharing a selfie with his 20-year-old dau…",
+    "url": "https://www.usmagazine.com/celebrity-news/news/travis-barker-shares-hospital-photo-with-kourtney-kardashian/",
+    "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2026/10/Travis-Barker-Shares-Hospital-Pic.png?crop=0px%2C188px%2C2000px%2C1050px&resize=1200%2C630&quality=86&strip=all",
+    "publishedAt": "2026-10-07T12:10:28Z",
+    "content": "Travis Barker is grateful to have his family’s support, including wife Kourtney Kardashian, amid a recent hospital visit.\r\n“My baby girl came with me,” Barker, 50, wrote via his Instagram Stories on … [+2338 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": "a.boshra@gmail.com",
+    "title": "milia-py 1.16.0",
+    "description": "Molecular graph processing and machine learning framework for molecular sciences",
+    "url": "https://pypi.org/project/milia-py/1.16.0/",
+    "urlToImage": null,
+    "publishedAt": "2026-10-07T12:10:21Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "Diego Hernandez-Saavedra, Assistant Professor of Applied Health Sciences, University of Illinois Urbana-Champaign, Yi-Heng (Hank) Huang, Ph.D. Candidate in Applied Health Sciences, University of Illinois Urbana-Champaign",
+    "title": "Your cells keep a record of every workout you’ve ever done – and those gains persist even after a break from exercise",
+    "description": "‘Use it or lose it’ isn’t quite true when it comes to the health benefits of exercise. Cells across the body retain a memory of training that lasts longer than once thought.",
+    "url": "https://theconversation.com/your-cells-keep-a-record-of-every-workout-youve-ever-done-and-those-gains-persist-even-after-a-break-from-exercise-291243",
+    "urlToImage": "https://images.theconversation.com/files/762599/original/file-20260928-50-gefc38.jpg?ixlib=rb-4.1.1&rect=0%2C354%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-10-07T12:08:01Z",
+    "content": "Your body retains the benefits of exercise even when you need to hit pause. Williams+Hirakawa/The Image Bank via Getty Images\r\nHave you ever taken months off training – maybe due to an injury, a new … [+6822 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "GlobeNewswire",
+    "title": "VivoSim Labs Celebrates Updated FDA Regulations Allowing Greater use of Non-Animal Testing Methods",
+    "description": "As the FDA opens the door to non-animal safety testing, VivoSim’s human-relevant models are already helping lower drug costs SAN DIEGO, Oct. 07, 2026 (GLOBE NEWSWIRE) — VivoSim Labs, Inc. (Nasdaq: VIVS) (the “Company” or “VivoSim”), a provider of next-generat…",
+    "url": "https://financialpost.com/globe-newswire/vivosim-labs-celebrates-updated-fda-regulations-allowing-greater-use-of-non-animal-testing-methods",
+    "urlToImage": null,
+    "publishedAt": "2026-10-07T12:06:53Z",
+    "content": "As the FDA opens the door to non-animal safety testing, VivoSims human-relevant models are already helping lower drug costs\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now to read the l… [+5330 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "The New York Times",
+    "title": "The Gender Gap Has Taken a Strange Turn {IntRA-gender differences in voters for Trump}",
+    "description": "The traditional gender gap is losing ground as a key factor in politics to intragender gaps that have emerged among Republican and Democratic voters along the fault lines of masculinity and femininity. This recent development involves differences within each …",
+    "url": "https://freerepublic.com/focus/f-news/4398255/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-10-07T12:05:51Z",
+    "content": "Skip to comments.\r\nThe Gender Gap Has Taken a Strange Turn {IntRA-gender differences in voters for Trump}The New York Times ^\r\n | 7th October 2026\r\n | Thomas Edsall\r\nPosted on 10/07/2026 5:05:51 AM P… [+2481 chars]"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Travis Wakeman, Broncos Wire",
+    "title": "Broncos need their rookie RB back in the worst way",
+    "description": "The Broncos are struggling in the run game and their recovering fourth-round pick might be their best chance to fix it.",
+    "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/10/07/denver-broncos-jonah-coleman-needed-back-lineup/92113958007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/ff5da0b10a27548156ff139a6e18a59dc50b9351de693be7960a36e50378f1f5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdenver_broncos_wire_usa_today_sports_articles_584%2F9411300ff1153b539b9ed219405a346c.jpg",
+    "publishedAt": "2026-10-07T12:02:35Z",
+    "content": "After a loss to the San Francisco 49ers, the Denver Broncos are sitting at 2-2 on the season and are facing a crucial next few games.\r\nDespite winning two of their first four games, the Broncos have … [+1839 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Lakewood-Amedex Biotherapeutics Announces Positive Preclinical Data in Urinary Tract and Pulmonary Infection Indications with Bisphosphocin® Compounds",
+    "description": "Intravesical administration of the Bisphosphocin® Nu-8 to rodents infected with E. coli demonstrated up to 97% inhibition of E. coli growth compared to no effect in a vehicle control group. SARASOTA, Fla., Oct. 7, 2026 /PRNewswire/ -- Lakewood-Amedex Biothera…",
+    "url": "https://www.prnewswire.com/news-releases/lakewood-amedex-biotherapeutics-announces-positive-preclinical-data-in-urinary-tract-and-pulmonary-infection-indications-with-bisphosphocin-compounds-302900567.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS606836/Lakewood-Amedex-Biotherapeutics-Logo.jpg?id=OA2990056&p=facebook",
+    "publishedAt": "2026-10-07T12:02:00Z",
+    "content": "Intravesical administration of the Bisphosphocin® Nu-8 to rodents infected with E. coli demonstrated up to 97% inhibition of E. coli growth compared to no effect in a vehicle control group.\r\nSARASOTA… [+5157 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MobileSyrup"
+    },
+    "author": "Dean Daley",
+    "title": "Xreal Aura release date is ‘just weeks away,’ and coming to Canada",
+    "description": "Xreal has revealed more details about the Aura tethered smart glasses. The official release hasn’t been scheduled yet, but we’re now “just weeks away,” according to Xreal. The smart glasses will launch in the U.S., Canada, Japan and South Korea to start and c…",
+    "url": "https://mobilesyrup.com/2026/10/07/xreal-aura-release-coming/",
+    "urlToImage": "https://images2026.mobilesyrup.com/uploads/2026/10/x-real-aura-scaled.jpg",
+    "publishedAt": "2026-10-07T12:00:48Z",
+    "content": "Xreal has revealed more details about the Aura tethered smart glasses. The official release hasn’t been scheduled yet, but we’re now “just weeks away,” according to Xreal.\r\nThe smart glasses will lau… [+2687 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Elsevier and JAMA Network sign strategic content agreement for ClinicalKey AI",
+    "description": "Full-text content and visuals from the JAMA Network will inform answers delivered through ClinicalKey AI NEW YORK, Oct. 7, 2026 /PRNewswire/ -- Elsevier, a global leader in advanced information and analytics, today announced a strategic content agreement with…",
+    "url": "https://www.prnewswire.com/news-releases/elsevier-and-jama-network-sign-strategic-content-agreement-for-clinicalkey-ai-302899585.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1684339/Elsevier-Stacked-Logo-VitalOrange-RGB-NEW.jpg?id=OA2989546&p=facebook",
+    "publishedAt": "2026-10-07T12:00:00Z",
+    "content": "Full-text content and visuals from the JAMA Network will inform answers delivered through ClinicalKey AI\r\nNEW YORK, Oct. 7, 2026 /PRNewswire/ -- Elsevier, a global leader in advanced information and … [+4306 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "Poulami Roy",
-    "title": "Kalyani Univ prof elected fellow of Royal Society of Biology",
-    "description": "Kalyani University professor Jayanta Kumar Biswas elected Fellow of the Royal Society of Biology, London, honoring his work in ecotoxicology and ecology.",
-    "url": "https://timesofindia.indiatimes.com/city/kolkata/kalyani-univ-prof-elected-fellow-of-royal-society-of-biology/articleshow/134738935.cms",
+    "author": "The Times Of India",
+    "title": "Man sentenced to life for marrying and raping minor girl in Trichy district",
+    "description": "Trichy mahila court sentences E Puthiyarasu to life for marrying and raping a 16-year-old in 2019; convicted under IPC, POCSO and Child Marriage Act.",
+    "url": "https://timesofindia.indiatimes.com/city/trichy/man-sentenced-to-life-for-marrying-and-raping-minor-girl-in-trichy-district/articleshow/134765292.cms",
     "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-    "publishedAt": "2026-10-06T11:23:55Z",
-    "content": "Follow Us On Social Media\r\nFact check: Did Caitlin Clark make $29 million off-court move right after Indiana Fevers playoff exit?Probe ordered after 5 boys scale school wall, walk 3km to complain of … [+1697 chars]"
+    "publishedAt": "2026-10-07T11:49:11Z",
+    "content": "Follow Us On Social Media\r\nThree CUSB UG students secure ICSSR research grantDear coffee chain, Aloo Posto is not a pattyAdi Kailash and Om Parvat turn into a winter wonderland; heavy snowfall leaves… [+1633 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "mindbodygreen.com"
+      "name": "Pypi.org"
     },
-    "author": "Sela Breen",
-    "title": "Chronic Exposure To This May Increase Risk Of Early-Onset Colon Cancer",
-    "description": "The conversation about colon cancer prevention is expanding.",
-    "url": "https://www.mindbodygreen.com/articles/chronic-exposure-to-this-may-increase-risk-of-early-colorectal-cancer-about-the-study",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1778696274217_eavgon50i2m.jpg",
-    "publishedAt": "2026-10-06T11:23:00Z",
-    "content": "Colorectal cancer rates are climbing, especially among adults under 50. The usual lifestyle factors like diet, lack of exercise and family history get most of the attention when it comes to preventio… [+3905 chars]"
+    "author": "kengo.nakada@email.com, kobayashi@mat.shimane-u.ac.jp",
+    "title": "rmc-util 0.0.2",
+    "description": "rmc_dft is a Python package for performing Reverse Monte Carlo modeling and ab initio molecular dynamics / relaxation using VASP code.",
+    "url": "https://pypi.org/project/rmc-util/0.0.2/",
+    "urlToImage": null,
+    "publishedAt": "2026-10-07T11:48:35Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "Muntazir Abbas",
-    "title": "RDI fund: Call for proposals to reopen after review, to boost Viksit Bharat 2047, says TDB Secretary",
-    "description": "In an effort to align with India's 2047 development goals, the Research, Development, and Innovation Fund was launched by Prime Minister Narendra Modi as a means to empower domestic enterprises. It seeks to stimulate private sector investment in R&D, with 400…",
-    "url": "https://economictimes.indiatimes.com/news/economy/policy/rdi-fund-call-for-proposals-to-reopen-after-review-to-boost-viksit-bharat-2047-says-tdb-secretary/articleshow/134738609.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-134738839,width-1200,height-900,imgsize-64834,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-06T11:22:43Z",
-    "content": "NEW DELHI: The Research, Development, and Innovation (RDI) Fund, a Rs 1 lakh crore program to support domestic companies, will eventually facilitate the Viksit Bharat (Developed India) 2047 vision. N… [+2880 chars]"
+    "author": "Joken Ete",
+    "title": "Siang project vital for nat'l security, says Arunachal min",
+    "description": "Arunachal minister Ojing Tasing calls Siang Upper Multipurpose Project key to India’s water and national security, amid China’s upstream activity, vows consultations.",
+    "url": "https://timesofindia.indiatimes.com/city/guwahati/siang-project-vital-for-natl-security-says-arunachal-min/articleshow/134765236.cms",
+    "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+    "publishedAt": "2026-10-07T11:46:09Z",
+    "content": "Follow Us On Social Media\r\nThree CUSB UG students secure ICSSR research grantDear coffee chain, Aloo Posto is not a pattyAdi Kailash and Om Parvat turn into a winter wonderland; heavy snowfall leaves… [+1633 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "PRNewswire"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": null,
-    "title": "ROVENSA NEXT PUTS REAL GROWER CHALLENGES AT THE CENTER OF ITS NEXT PHASE OF 'BIOSOLUTIONIZE AGRICULTURE'",
-    "description": "AT FRUIT ATTRACTION 2026 The approach marks a shift to a more customer-centric and consultative model, connecting growers' needs with agronomic expertise, field evidence, and integrated biosolutions strategies. The new framework is based on an analysis of nea…",
-    "url": "https://www.prnewswire.com/news-releases/rovensa-next-puts-real-grower-challenges-at-the-center-of-its-next-phase-of-biosolutionize-agriculture-302899699.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS2003232/Rovensa-Next-team-at-Fruit-Attraction-2026-in-Madrid.jpg?id=OA2989661&p=facebook",
-    "publishedAt": "2026-10-06T11:17:00Z",
-    "content": "AT FRUIT ATTRACTION 2026\r\n<ul><li>The approach marks a shift to a more customer-centric and consultative model, connecting growers' needs with agronomic expertise, field evidence, and integrated bios… [+8840 chars]"
+    "author": "Hrusikesh Mohanty",
+    "title": "50 stranded in Chilika as boat develops snag mid-lake",
+    "description": "Nearly 50 passengers, including children, were stranded for 2 hours in Odisha’s Chilika lake after a motorboat broke down; all rescued safely.",
+    "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/50-stranded-in-chilika-as-boat-develops-snag-mid-lake/articleshow/134765145.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-134765141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-07T11:43:22Z",
+    "content": "Follow Us On Social Media\r\nThree CUSB UG students secure ICSSR research grantDear coffee chain, Aloo Posto is not a pattyAdi Kailash and Om Parvat turn into a winter wonderland; heavy snowfall leaves… [+1633 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Medical Daily"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Elena Vega",
-    "title": "Widely Used Epic Sepsis Alert Flagged Only 36% of Children with Sepsis Across Eight New York Emergency Departments",
-    "description": "An Epic sepsis alert caught only 36% of child sepsis cases in 8 New York ERs, and fewer among Black kids and those under 5. What parents should know.",
-    "url": "https://www.medicaldaily.com/epic-pediatric-sepsis-alert-new-york-er-study-479579",
-    "urlToImage": "https://d.medicaldaily.com/en/full/486916/thomas-samson-afp-via-getty-images.jpg",
-    "publishedAt": "2026-10-06T11:15:23Z",
-    "content": "A computer alert built into Epic's electronic health record, used in emergency departments across the U.S., flagged only about 1 in 3 children who developed sepsis during their visits, according to a… [+7942 chars]"
+    "author": "Hasti Doshi",
+    "title": "‘People are evolving & television channels are understanding that’",
+    "description": "After working in web shows such as Operation Safed Sagar, Flames and others, actor Daksh Puri is making his television debut with Shayad Yahi Hai Pyaar,",
+    "url": "https://timesofindia.indiatimes.com/tv/news/hindi/people-are-evolving-television-channels-are-understanding-that/articleshow/134765039.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-134765091,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-07T11:42:32Z",
+    "content": "<ul><li>News</li>\r\n<li>tv</li>\r\n<li>People are evolving &amp; television channels are understanding that</li></ul>\r\nFollow Us On Social Media\r\nThree CUSB UG students secure ICSSR research grantDear c… [+1749 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Ava Durgin",
-    "title": "HIIT, Walking, Or Weights? Here’s What Improved Blood Pressure All Day",
-    "description": "HIIT, lifting, walking: Only one combo stands out across 24 hours",
-    "url": "https://www.mindbodygreen.com/articles/type-of-workout-consistently-lowers-blood-pressure-all-day-7-exercise-types-side-by-side",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_crop,x_0,y_0,w_8192,h_5464/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1778838379114_jvxsc7dogxs.jpg",
-    "publishedAt": "2026-10-06T11:10:00Z",
-    "content": "Blood pressure is one of those numbers most people only confront under fluorescent lighting, with a cuff on their arm and a nurse typing in the corner. That reading, called office blood pressure, is … [+4180 chars]"
-  },
-  {
-    "source": {
-      "id": "abc-news-au",
-      "name": "ABC News (AU)"
-    },
-    "author": null,
-    "title": "Nobel physics prize honours work on 'ghost messengers from space'",
-    "description": "Belgian physicist Francis Halzen wins the Nobel Prize in Physics for work on subatomic particles at the South Pole.",
-    "url": "https://www.abc.net.au/news/2026-10-06/francis-halzen-wins-2026-nobel-prize-in-physics/107236382",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/106ecf5123425661ed70b14bab5a39e8?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-06T11:07:55Z",
-    "content": "Francis Halzen has won the Nobel Prize in Physics for his contributions to the IceCube Neutrino Observatory at the South Pole and his discovery of high-energy neutrinos of astrophysical origin.\r\nBorn… [+2038 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Biztoc.com"
-    },
-    "author": "semafor.com",
-    "title": "Calls for AI regulation grow as experts warn of dystopian future",
-    "description": "Calls for AI regulation grew, though the White House showed little interest.\nWriting in the Financial Times, one of the so-called godfathers of AI argued that it “should be approached like other critical technologies including medicine, aviation, and nuclear …",
-    "url": "https://biztoc.com/x/c22a140fc70803fd",
-    "urlToImage": "https://biztoc.com/cdn/c22a140fc70803fd_s.webp",
-    "publishedAt": "2026-10-06T11:07:06Z",
-    "content": "Calls for AI regulation grew, though the White House showed little interest.Writing in the Financial Times, one of the so-called godfathers of AI argued that it should be approached like other critic… [+142 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Viking Therapeutics Announces Initiation of VK2735 Oral Maintenance Dosing Clinical Trial in Patients with Obesity",
-    "description": "Study to Explore Oral Maintenance Dosing Regimens Following Initial Weight Loss with Subcutaneous VK2735 Monthly and Every-Other-Week Subcutaneous Regimens to also be Evaluated SAN DIEGO, Oct. 6, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (Viking) (NASDAQ…",
-    "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-announces-initiation-of-vk2735-oral-maintenance-dosing-clinical-trial-in-patients-with-obesity-302899168.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS721981/Viking-Therapeutics-Logo.jpg?id=OA2988966&p=facebook",
-    "publishedAt": "2026-10-06T11:05:00Z",
-    "content": "Study to Explore Oral Maintenance Dosing Regimens Following Initial Weight Loss with Subcutaneous VK2735\r\nMonthly and Every-Other-Week Subcutaneous Regimens to also be Evaluated\r\nSAN DIEGO, Oct. 6, 2… [+7569 chars]"
+    "author": "Satyanarayan Pattnaik",
+    "title": "Rayagada bids tearful farewell to Assam Rifles jawan V Teja on his birthday",
+    "description": "Rayagada mourns Assam Rifles jawan V Teja, 31, who died of a gunshot wound on duty in Nagaland; funeral held with honours as inquiries continue.",
+    "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/rayagada-bids-tearful-farewell-to-assam-rifles-jawan-v-teja-on-his-birthday/articleshow/134765073.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-134765070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-07T11:39:57Z",
+    "content": "Follow Us On Social Media\r\nThree CUSB UG students secure ICSSR research grantDear coffee chain, Aloo Posto is not a pattyAdi Kailash and Om Parvat turn into a winter wonderland; heavy snowfall leaves… [+1633 chars]"
   }
 ]
