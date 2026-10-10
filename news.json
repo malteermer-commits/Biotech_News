@@ -1,262 +1,262 @@
 [
   {
     "source": {
-      "id": "abc-news-au",
-      "name": "ABC News (AU)"
+      "id": null,
+      "name": "Medical Daily"
     },
-    "author": null,
-    "title": "Canadian poet and writer Anne Carson wins 2026 Nobel Prize in Literature",
-    "description": "The 76-year-old was honoured \"for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature,\" the Swedish Academy said.",
-    "url": "https://www.abc.net.au/news/2026-10-08/canadian-writer-anne-carson-wins-2026-nobel-prize-in-literature/107245306",
-    "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3fea7520c6e9d07087b4bd64aee0f6b0?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=86&width=862&height=485&imformat=generic",
-    "publishedAt": "2026-10-08T12:04:55Z",
-    "content": "Canadian poet and essayist Anne Carson has won the Nobel Prize in literature.\r\nThe 76-year-old was honoured \"for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, … [+1910 chars]"
+    "author": "Elena Vega",
+    "title": "Amazon Gets FDA Warning Over HerpCare and Eight Other Unapproved Genital Herpes Products Sold Through Its Site",
+    "description": "The FDA warned Amazon about over nine unapproved genital herpes products, including HerpCare. No over-the-counter STI treatment is approved. Here is how to get real care.",
+    "url": "https://www.medicaldaily.com/fda-amazon-warning-letter-genital-herpes-products-herpcare-479746",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487088/mart-production-pexels.jpg",
+    "publishedAt": "2026-10-09T11:15:20Z",
+    "content": "The Food and Drug Administration has warned Amazon over nine unapproved products sold for genital herpes symptoms, including HerpCare Ointment and HerpCare Spray. In a warning letter to Amazon.com In… [+6068 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Reason"
+      "id": "usa-today",
+      "name": "USA Today"
     },
-    "author": "Eugene Volokh",
-    "title": "Does Allowing Turning Point USA \"Two Genders: One Truth\" Event to Be Held and Promoted at Public School Violate Title IX?",
-    "description": "An excerpt from a long opinion by Judge Jasmine Yoon (W.D. Va.) Monday in Doe v. Albemarle County School Bd.:…\nThe post Does Allowing Turning Point USA \"Two Genders: One Truth\" Event to Be Held and Promoted at Public School Violate Title IX? appeared first on…",
-    "url": "https://reason.com/volokh/2026/10/08/does-allowing-turning-point-usa-two-genders-one-truth-event-to-be-held-and-promoted-at-public-school-violate-title-ix/",
-    "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
-    "publishedAt": "2026-10-08T12:01:48Z",
-    "content": "An excerpt from a long opinion by Judge Jasmine Yoon (W.D. Va.) Monday in Doe v. Albemarle County School Bd.:\nPlaintiff J. Doe is a nonbinary student who attends a high school that is operated by Def… [+15703 chars]"
+    "author": "Phil Harrison, Buckeyes Wire",
+    "title": "Ranking all Big Ten quarterbacks by ESPN's Total QBR after Week 5",
+    "description": "How do all of the starting Big Ten quarterbacks stack up when it comes to ESPN's Total QBR metric? We rank them from worst to first after Week 5.",
+    "url": "https://buckeyeswire.usatoday.com/story/sports/college/buckeyes/football/2026/10/09/big-ten-quarterbacks-ranked-espn-total-qbr-week-5-2026/92148205007/",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/407bccc3a75792bbb375badca618ac1bddb604fc070d05df346a8c08e9734740/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuckeyes_wire_usa_today_articles_592%2F97890eda3b24c2455e9dcfac76dcda44.jpg",
+    "publishedAt": "2026-10-09T11:03:07Z",
+    "content": "College football long ago morphed from a game where the running back was the glamour position to one where the quarterback is, more often than not, the feature of an offense. In fact, it's hard to ra… [+8101 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Medical Daily"
     },
-    "author": "Amelia Palmer",
-    "title": "A Brown Rice Diet and Total Silence Looked Like Catatonia, but She Was Choosing Not to Speak",
-    "description": "A 42-year-old woman stopped speaking and ate only brown rice. Doctors feared catatonia, but her silence was a deliberate act of defiance.",
-    "url": "https://www.medicaldaily.com/brown-rice-silence-catatonia-volitional-mutism-479705",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487045/mart-production-mart-production.jpg",
-    "publishedAt": "2026-10-08T12:00:13Z",
-    "content": "A 42-year-old woman arrived at an emergency department after her family reported that she had suddenly stopped speaking and was eating nothing but brown rice. For more than two weeks, her doctors wor… [+7372 chars]"
+    "author": "Cole Mercer",
+    "title": "Epilepsy Drugs That Can Weaken Birth Control Overlapped with Contraceptive Prescriptions for More Than 7,000 Medicaid Patients",
+    "description": "A Neurology study of Medicaid patients with epilepsy found that nearly one-third had seizure drug prescriptions overlapping with birth control, which can weaken the drugs.",
+    "url": "https://www.medicaldaily.com/epilepsy-drugs-birth-control-overlap-neurology-study-479745",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487087/bsip-universal-images-group-via-getty-images.jpg",
+    "publishedAt": "2026-10-09T11:00:07Z",
+    "content": "Nearly one-third of people with epilepsy in a new U.S. study had overlapping prescriptions for antiseizure drugs and hormonal birth control, which can make those drugs less effective. The study, publ… [+5829 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Nist.gov"
+      "name": "PRNewswire"
     },
-    "author": "Sarah Henderson",
-    "title": "NIST Joins White House Effort to Drive ‘A New Golden Age of Science’",
-    "description": "As the nation’s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
-    "url": "https://www.nist.gov/news-events/news/2026/10/nist-joins-white-house-effort-drive-new-golden-age-science",
-    "urlToImage": "https://www.nist.gov/sites/default/files/styles/social/public/images/2026/04/28/NV%20center%20magnetometer.png?itok=id_Nrvas",
-    "publishedAt": "2026-10-08T12:00:00Z",
-    "content": "GAITHERSBURG, Md. The U.S. Department of Commerces National Institute of Standards and Technology (NIST) announces its support for the recommendations and principles established in the White House Of… [+2867 chars]"
+    "author": null,
+    "title": "New Johnson & Johnson ICOTYDE® (icotrokinra) long-term data demonstrate robust 2-year results in the treatment of adults and adolescents with plaque psoriasis",
+    "description": "Phase 3 data presented at Fall Clinical Dermatology show high, sustained response rates in adults and adolescents, with nearly three-quarters achieving clear or almost clear skin at two years and a continued favorable safety profile SPRING HOUSE, Pa., Oct. 9,…",
+    "url": "https://www.prnewswire.com/news-releases/new-johnson--johnson-icotyde-icotrokinra-long-term-data-demonstrate-robust-2-year-results-in-the-treatment-of-adults-and-adolescents-with-plaque-psoriasis-302902715.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS225644/Johnson-and-Johnson-Logo-v1.jpg?id=OA2992766&p=facebook",
+    "publishedAt": "2026-10-09T11:00:00Z",
+    "content": "<ul><li>Phase 3 data presented at Fall Clinical Dermatology show high, sustained response rates in adults and adolescents, with nearly three-quarters achieving clear or almost clear skin at two years… [+20434 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Kdnuggets.com"
+      "name": "PRNewswire"
     },
-    "author": "Kanwal Mehreen",
-    "title": "7 Best Resources to Learn About Self-Evolving AI Agents",
-    "description": "The next step for AI agents? Self-improvement. Here are 7 resources to get started.",
-    "url": "https://www.kdnuggets.com/7-best-resources-to-learn-about-self-evolving-ai-agents",
-    "urlToImage": "https://www.kdnuggets.com/wp-content/uploads/kdn-7-best-resources-to-learn-about-self-evolving-ai-agents-feature.png",
-    "publishedAt": "2026-10-08T12:00:00Z",
-    "content": "AI agents are quickly moving beyond systems that simply receive an instruction, call a tool, and return an answer. A growing research direction asks a more ambitious question: can an AI agent improve… [+5196 chars]"
+    "author": null,
+    "title": "Yamo Pharmaceuticals Announces Autism Trial Registry Following Global Surge in Family Interest",
+    "description": "More Than 6,000 Inquiries Since May; Yamo Opens a Registration Site to Help Speed Phase 3 Enrollment NEW YORK, Oct. 9, 2026 /PRNewswire/ -- Yamo Pharmaceuticals LLC (\"Yamo\"), the developer of L1-79, an investigational drug for the core symptoms of autism spec…",
+    "url": "https://www.prnewswire.com/news-releases/yamo-pharmaceuticals-announces-autism-trial-registry-following-global-surge-in-family-interest-302903118.html",
+    "urlToImage": null,
+    "publishedAt": "2026-10-09T11:00:00Z",
+    "content": "More Than 6,000 Inquiries Since May; Yamo Opens a Registration Site to Help Speed Phase 3 Enrollment\r\nNEW YORK, Oct. 9, 2026 /PRNewswire/ -- Yamo Pharmaceuticals LLC (\"Yamo\"), the developer of L1-79,… [+4446 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Rolling Stone"
+      "name": "Snopes.com"
     },
-    "author": "Chris Kobiella",
-    "title": "On the Front Line of the Vaccine Wars",
-    "description": "For decades, West Virginia has had a “halo” of protection around it, thanks to a compulsory-vaccine law. But now, there’s a case that could topple that law — and have major implications for the rest of the country",
-    "url": "http://www.rollingstone.com/politics/politics-features/vaccine-wars-aaron-siri-rfk-jr-west-virginia-1235636157/",
-    "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/10/R1417_FEA_WESTVAX_1-copy.jpg?w=1600&h=900&crop=1",
-    "publishedAt": "2026-10-08T12:00:00Z",
-    "content": "ON A CRISP DRY DAY in Beckley, West Virginia, last September, 35-year-old litigator Chris Smith wore his lucky purple tie to court. With a wry smile, round face, and piercing blue eyes behind metal-r… [+42553 chars]"
+    "author": "Laerke Christensen",
+    "title": "Are lab-grown eggs being sold in US stores? Here are the facts",
+    "description": "In October 2026, U.S. consumers could buy federally approved \"lab-grown\" eggs that brands were secretly including in their products.",
+    "url": "https://www.snopes.com//fact-check/lab-grown-eggs-stores/",
+    "urlToImage": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/10/eggs_repack.jpg",
+    "publishedAt": "2026-10-09T11:00:00Z",
+    "content": "Claim:\r\nIn October 2026, U.S. consumers could buy federally approved \"lab-grown\" eggs that brands were secretly including in their products.\r\nIn October 2026, a claim (archived) circulated that U.S. … [+13320 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Dailymail.com"
     },
-    "author": "Andy Dolan",
-    "title": "Senior NHS pain consultant stripped of her title after going off sick with sore knee wins disability discrimination claim",
-    "description": "Dr Kathryn Grady was signed off sick when her knee gave way whilst she was carrying out a long theatre list in March 2023 at Manchester University NHS Foundation Trust.",
-    "url": "https://www.dailymail.com/news/article-16192623/Senior-NHS-pain-consultant-stripped-title-going-sick-sore-knee-wins-disability-discrimination-claim.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/10/08/12/111728863-0-image-m-40_1791459603959.jpg",
-    "publishedAt": "2026-10-08T11:48:32Z",
-    "content": "A top NHS consultant has won a discrimination case after she was stripped of her Clinical Director of Pain title - because of knee pain.\r\nDr Kathryn Grady had risen through the ranks to become the le… [+5008 chars]"
+    "author": "Imogen Garfinkel",
+    "title": "Nobel peace prize winner Navi Pillay taunts Trump as she tells cheering audience she might share her award with him if they clap 'a little more'",
+    "description": "Nobel Peace Prize winner Navi Pillay taunted Donald Trump after she won the award for her efforts to promote peace and international law.",
+    "url": "https://www.dailymail.com/news/article-16195893/Nobel-peace-prize-winner-Navi-Pillay-taunts-Trump-tells-cheering-audience-share-award-clap-little-more.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/09/11/111752169-0-image-m-14_1791543195673.jpg",
+    "publishedAt": "2026-10-09T10:59:29Z",
+    "content": "Nobel Peace Prize winner Navi Pillay taunted Donald Trump after she won the award for her efforts to promote peace and international law.\r\nThe South African jurist and former UN high commissioner for… [+7628 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Only one workout helped older adults lose fat and keep muscle",
+    "description": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it wh…",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/smling-senior-woman-weight-loss-loose-pants.webp",
+    "publishedAt": "2026-10-09T10:57:40Z",
+    "content": "Losing body fat is one thing. Losing fat while keeping the muscle that helps you stay strong and active is another, especially as you get older. Research suggests that one particular type of exercise… [+10167 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "The Houthis aren't somebody else's problem. America can't afford to look away",
+    "description": "Yemeni government forces have expelled Houthis from key areas near the Bab el-Mandeb, but the case for limited U.S. air support grows stronger.",
+    "url": "https://www.foxnews.com/opinion/houthis-arent-somebody-elses-problem-america-cant-afford-look-away",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/houthis-april-3.jpg",
+    "publishedAt": "2026-10-09T10:55:37Z",
+    "content": "Some in Washington would like to believe the Houthis are somebody elses problem. It is easy to understand why. America is already deeply engaged in the war with Iran, and there is little appetite for… [+8025 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "New Phase 3b data on Lilly's Taltz (ixekizumab) and Zepbound (tirzepatide) advance understanding of the interconnected immune and metabolic biology in adults with psoriasis and obesity",
+    "description": "Exploratory data presented at Fall Clinical 2026 showed broader biomarker changes with Taltz and Zepbound vs. Taltz alone as early as Week 12 in first-of-its-kind TOGETHER-PsO study INDIANAPOLIS, Oct. 9, 2026 /PRNewswire/ -- Eli Lilly and Company (NYSE: LLY) …",
+    "url": "https://www.prnewswire.com/news-releases/new-phase-3b-data-on-lillys-taltz-ixekizumab-and-zepbound-tirzepatide-advance-understanding-of-the-interconnected-immune-and-metabolic-biology-in-adults-with-psoriasis-and-obesity-302903148.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS270365/ELI-LILLY-AND-COMPANY-LOGO.jpg?id=OA2995719&p=facebook",
+    "publishedAt": "2026-10-09T10:45:00Z",
+    "content": "Exploratory data presented at Fall Clinical 2026 showed broader biomarker changes with Taltz and Zepbound vs. Taltz alone as early as Week 12 in first-of-its-kind TOGETHER-PsO study\r\nINDIANAPOLIS, Oc… [+22928 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "Ava Durgin",
+    "title": "The Doctor-Approved Plan for Taking a GLP-1 Without Losing Your Muscle",
+    "description": "Lose fat, not your strength—here’s how to do both on a GLP-1",
+    "url": "https://www.mindbodygreen.com/articles/gps-framework-for-glp-1s-how-to-maintain-your-muscle-the-thing-glp-1s-dont-actually-do",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/i5vnlu6hjmj90wm06.jpeg",
+    "publishedAt": "2026-10-09T10:39:00Z",
+    "content": "By the time most of Rocío Salas-Whalen, M.D.'s patients walk into her office, they've already tried everything. The restrictive diets. The calorie counting. The programs that worked for a few months … [+4758 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "Sela Breen",
+    "title": "Eating This Fruit Daily Reduces UV Damage & Boosts Your Skin Barrier",
+    "description": "Who knew this classic fridge staple could have so many beauty benefits?",
+    "url": "https://www.mindbodygreen.com/articles/eating-this-fruit-daily-helps-protect-your-skin-from-uv-damage-what-the-study-involved",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1777578466800_8muysr6184s.jpg",
+    "publishedAt": "2026-10-09T10:27:00Z",
+    "content": "What if the most effective skincare ingredient wasn't an ingredient at all, but a food?\r\nResearchers recently put that idea to the test in a clinical trial, collecting 116 skin biopsies from human vo… [+6583 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Lina Ghassan Abu Zayed",
+    "title": "The girls in the Gaza school photograph",
+    "description": "Just before the genocide, 15 Gaza schoolgirls posed for a photograph. Three years on, Al Jazeera went looking for them.",
+    "url": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/gazafinal1-1791537327.jpg?resize=1620%2C1080&quality=80",
+    "publishedAt": "2026-10-09T10:23:42Z",
+    "content": "Aya Adnan stands with the three in the new photograph, tall, with a dimple in her chin and her hijab falling behind her shoulders.\r\nThree years earlier, she had been looking forward to university. Sh… [+5454 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+    "description": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unknown form of bismuth vanadate, a materia…",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/bottled-sunlight-liquid-battery-energy.webp",
+    "publishedAt": "2026-10-09T10:20:23Z",
+    "content": "Researchers have uncovered previously unknown materials by closely following what happens as molecular precursors break apart and transform during heating. Among the discoveries is a new form of a we… [+3962 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Debjit Sinha",
+    "title": "Nobel Peace Prize 2026: Who is Navanethem Navi Pillay? Know all about Indian-origin South African jurist who wins coveted award on Friday",
+    "description": "Nobel Peace Prize 2026 winner Navanethem Navi Pillay has served as a judge on South Africa’s High Court, the International Criminal Tribunal for Rwanda and the International Criminal Court.",
+    "url": "https://economictimes.indiatimes.com/news/international/us/nobel-peace-prize-2026-who-is-navanethem-navi-pillay-know-all-about-indian-origin-south-african-jurist-who-wins-coveted-award-on-friday/articleshow/134830292.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-134830411,width-1200,height-900,imgsize-105558,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-09T10:20:06Z",
+    "content": "Navanethem \"Navi\" Pillay won the Nobel Peace Prize on Friday \"for her efforts to promote peace and international law,\" the Norwegian Nobel Committee said. Nobel Peace Prize, worth 12 million Swedish … [+4419 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Healthsystemcio.com"
+    },
+    "author": "Anthony Guerra",
+    "title": "HSCC Outlines Hospital and Vendor Roles in Clinical AI Incident Response",
+    "description": "When a vendor's clinical AI model fails mid-use, a health system cannot simply retrain it. New HSCC guidance spells out what the hospital owns, what the vendor owns and why the contract shapes the response.\nSource: HSCC Outlines Hospital and Vendor Roles in C…",
+    "url": "https://healthsystemcio.com/2026/10/09/clinical-ai-incident-response-hscc/",
+    "urlToImage": "https://healthsystemcio.com/wp-content/uploads/2026/04/advisory-200.png",
+    "publishedAt": "2026-10-09T10:16:43Z",
+    "content": "When a vendor-controlled clinical AI model fails, the health system monitors local performance and contains risks within its authority, while the vendor performs or authorizes model changes, accordin… [+5486 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Medical Daily"
     },
-    "author": "Ryan Archer",
-    "title": "A Pulse Oximeter Showed a Calm Woman's Heart Rate Swinging From 40 to Over 100, and White Nail Polish Was the Likely Culprit",
-    "description": "A fingertip oximeter showed a calm woman's pulse jumping between 40 and over 100 bpm. Her ECG was normal. White nail polish was the likely culprit.",
-    "url": "https://www.medicaldaily.com/white-nail-polish-pulse-oximeter-heart-rate-479704",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487044/cottonbro-studio-pexels.jpg",
-    "publishedAt": "2026-10-08T11:45:37Z",
-    "content": "The numbers on the fingertip monitor made no sense. Over a matter of seconds, the pulse oximeter clipped to an adult woman's finger bounced among readings of roughly 40, 50, and more than 100 beats p… [+7731 chars]"
+    "author": "Elena Vega",
+    "title": "Dallas County Records First West Nile Death of 2026 as Officials Warn Cooler Weather Has Not Ended Threat",
+    "description": "A Dallas County man in his 60s has died of West Nile virus, the county's first death of 2026. Officials urge residents to keep using repellent.",
+    "url": "https://www.medicaldaily.com/dallas-county-first-west-nile-death-2026-479742",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487084/joe-raedle-getty-images.jpg",
+    "publishedAt": "2026-10-09T10:15:29Z",
+    "content": "A Dallas County man in his 60s has died of West Nile virus, the county's first death from the mosquito-borne illness this year. Dallas County Health and Human Services (DCHHS) said Oct. 7 that the ma… [+5097 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Whyevolutionistrue.com"
+      "name": "Www.gov.uk"
     },
-    "author": "whyevolutionistrue",
-    "title": "Thursday: Hili dialogue",
-    "description": "There will be a shortish version of Hili today as I’m not feeling that well (yes, the eye, which is ok but focusing makes me nauseated). Welcome to Thursday, October 8, 2026 and National Pierogi Day. I eat a lot of pierogi in Poland, and here’s some blueberry…",
-    "url": "https://whyevolutionistrue.com/2026/10/08/thursday-hili-dialogue-606/",
-    "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2026/10/download-1.gif",
-    "publishedAt": "2026-10-08T11:45:36Z",
-    "content": "There will be a shortish version of Hili today as I’m not feeling that well (yes, the eye, which is ok but focusing makes me nauseated).\r\nWelcome to Thursday, October 8, 2026 and National Pierogi Day… [+18533 chars]"
+    "author": "Medicines and Healthcare products Regulatory Agency",
+    "title": "Research: Patient reported outcomes (PROs) resources for digital mental health technologies (DMHTs)",
+    "description": "Resources to help developers use patient-reported outcomes in digital mental health technologies for evidence generation, monitoring and user safety.",
+    "url": "https://www.gov.uk/government/publications/patient-reported-outcomes-pros-resources-for-digital-mental-health-technologies-dmhts",
+    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+    "publishedAt": "2026-10-09T10:02:27Z",
+    "content": "This summary provides developers with resources on integrating patient-reported outcomes (PROs) into the evidence generation and routine monitoring for digital mental health technologies (DMHTs).\r\nPR… [+7893 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Celebitchy.com"
+      "name": "Www.gov.uk"
     },
-    "author": "Kaiser",
-    "title": "Joe Manganiello corrects the record big-time about his divorce from Sofia Vergara",
-    "description": "In the summer of 2023, Joe Manganiello and Sofia Vergara split up and filed for divorce. Rumors spread like wildfire about the “reasons” for the divorce, and one of the biggest rumors was that Sofia simply didn’t want to have another child and Joe wanted to b…",
-    "url": "https://www.celebitchy.com/1001293/joe_manganiello_corrects_the_record_big-time_about_his_divorce_from_sofia_vergara/",
-    "urlToImage": "https://www.celebitchy.com/wp-content/uploads/2026/10/1-coverimages50290704.jpg",
-    "publishedAt": "2026-10-08T11:45:26Z",
-    "content": "In the summer of 2023, Joe Manganiello and Sofia Vergara split up and filed for divorce. Rumors spread like wildfire about the reasons for the divorce, and one of the biggest rumors was that Sofia si… [+4288 chars]"
-  },
-  {
-    "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
-    },
-    "author": "Business Wire",
-    "title": "Armenia Grants First Marketing Authorizations for Agenus’ BOT+BAL in Previously Treated MSS Metastatic Colorectal Cancer",
-    "description": "Botvymo® (botensilimab) and Evamplix® (balstilimab) receive separate approvals for use in combination Armenia is the first country to approve marketing authorization of BOT+BAL, following a rigorous review of quality, nonclinical, clinical and pharmacovigilan…",
-    "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/armenia-grants-first-marketing-authorizations-for-agenus-botbal-in-previously-treated-mss-metastatic-colorectal-cancer",
-    "urlToImage": null,
-    "publishedAt": "2026-10-08T11:43:06Z",
-    "content": "<ul><li>Botvymo® (botensilimab) and Evamplix® (balstilimab) receive separate approvals for use in combination</li><li>Armenia is the first country to approve marketing authorization of BOT+BAL, follo… [+8371 chars]"
+    "author": "Medicines and Healthcare products Regulatory Agency",
+    "title": "MHRA Chair Professor Anthony Harnden: Bringing our strategy to life – listening, learning, and looking ahead",
+    "description": "In the final instalment of our strategy blog series, MHRA Chair Professor Anthony Harnden reflects on the insights shared throughout the series and how innovation and collaboration across the UK are shaping the future of healthcare regulation.",
+    "url": "https://www.gov.uk/government/news/mhra-chair-professor-anthony-harnden-bringing-our-strategy-to-life-listening-learning-and-looking-ahead",
+    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+    "publishedAt": "2026-10-09T10:01:27Z",
+    "content": "Over the course of this blog series, we have deliberately created space for voices beyond the MHRA to challenge, reflect and help shape our thinking. That has been a critical part of how we have deve… [+5434 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PRNewswire"
+      "name": "Ibtimes.com.au"
     },
-    "author": null,
-    "title": "Expert consensus statement highlights promise of shared medical appointments for chronic disease care",
-    "description": "As chronic disease rates continue to rise, clinicians face increasing pressure to deliver comprehensive care within increasingly limited appointment times. A new ACLM expert consensus statement identifies shared medical appointments as an innovative care mode…",
-    "url": "https://www.prnewswire.com/news-releases/expert-consensus-statement-highlights-promise-of-shared-medical-appointments-for-chronic-disease-care-302901657.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1213711/American-College-of-Lifestyle-Medicine-Logo1-v2.jpg?id=OA2993361&p=facebook",
-    "publishedAt": "2026-10-08T11:43:00Z",
-    "content": "As chronic disease rates continue to rise, clinicians face increasing pressure to deliver comprehensive care within increasingly limited appointment times. A new ACLM expert consensus statement ident… [+4492 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Local Sweden"
-    },
-    "author": "AFP/The Local",
-    "title": "Canadian poet Anne Carson wins Sweden's Nobel literature prize",
-    "description": "The Nobel Prize in Literature was awarded to Canadian poet Anne Carson, an essayist and classicist who brings a modern twist to mysticism and antiquity in her writings about love, desire and despair.",
-    "url": "https://www.thelocal.se/20261008/canadian-poet-anne-carson-wins-swedens-nobel-literature-prize",
-    "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-sdlHmbGSow_PyY_NormalHires.jpg@webp",
-    "publishedAt": "2026-10-08T11:40:28Z",
-    "content": "The Nobel Prize in Literature was awarded to Canadian poet Anne Carson, an essayist and classicist who brings a modern twist to mysticism and antiquity in her writings about love, desire and despair.… [+3795 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Viola Davis partners with GSK to educate adults 50 and older about their shingles risk",
-    "description": "For the first time, Viola Davis shares her experience with shingles Viola encourages adults 50 years and older to prioritize their health and have candid conversations about increased risks that come with aging The partnership is part of GSK's new national \"S…",
-    "url": "https://www.prnewswire.com/news-releases/viola-davis-partners-with-gsk-to-educate-adults-50-and-older-about-their-shingles-risk-302902400.html",
-    "urlToImage": "https://www.multivu.com/gsk/image/9424351-hero-video-t.png",
-    "publishedAt": "2026-10-08T11:38:00Z",
-    "content": "<ul><li>For the first time, Viola Davis shares her experience with shingles</li><li>Viola encourages adults 50 years and older to prioritize their health and have candid conversations about increased… [+7092 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Isegoria.net"
-    },
-    "author": "Isegoria",
-    "title": "The United States used to have a plague vaccine",
-    "description": "The United States does not have a vaccine for plague, Annie Jacobsen explains (in Biological War), for reasons that are complicated: Russia’s vaccine, called Live Plague Vaccine, or LPV, is understood to have been created from an attenuated, or weakened, stra…",
-    "url": "https://www.isegoria.net/2026/10/the-united-states-used-to-have-a-plague-vaccine/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-08T11:35:28Z",
-    "content": "The United States does not have a vaccine for plague, Annie Jacobsen explains (in Biological War), for reasons that are complicated:Russias vaccine, called Live Plague Vaccine, or LPV, is understood … [+2083 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "India Today"
-    },
-    "author": "India Today Health Desk",
-    "title": "Cancer drugs price cap: Centre fixes 30% trade margin, MRPs may fall 70%",
-    "description": "The Centre has capped trade margins at 30 for all non-scheduled anti-cancer drugs The move follows Supreme Court scrutiny of steep mark-ups and is expected to lower treatment costs",
-    "url": "https://www.indiatoday.in/health/story/cancer-drugs-price-cap-centre-30-percent-trade-margin-mrp-cut-3012530-2026-10-08",
-    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/cancer-drug-225723667-16x9.jpg?VersionId=sMeCTqhVsFCgFHvV09pVCWV5Ke18hNXo",
-    "publishedAt": "2026-10-08T11:33:43Z",
-    "content": "The Centre has announced a 30% cap on trade margins for all non-scheduled anti-cancer drugs, a move that could reduce the maximum retail prices (MRPs) of many cancer medicines by up to 70% and save p… [+5129 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Dorothy Brooks",
-    "title": "Six Pluvicto Doses Exceed a Draft NRC Radiation Threshold, Raising Travel Worries for Men with Prostate Cancer",
-    "description": "A draft NRC radiation guide could cause community clinics to hold or turn away Pluvicto patients. Here is what prostate cancer families should know.",
-    "url": "https://www.medicaldaily.com/pluvicto-nrc-draft-radiation-guidance-prostate-cancer-access-479703",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487043/editorial-illustration-via-ai.jpg",
-    "publishedAt": "2026-10-08T11:30:17Z",
-    "content": "Men with advanced prostate cancer who receive Pluvicto at a community hospital close to home could face longer clinic stays, hospital admissions, or longer drives if a draft federal radiation guide i… [+6310 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Flinders.edu.au"
-    },
-    "author": "News Desk",
-    "title": "Vanillin provides a sweet solution for chronic wound healing",
-    "description": "Simple food components may provide the key to new cost-effective materials that will benefit chronic wound healing. A team from Flinders University’s Biomedical Nanoengineering Laboratory has […]",
-    "url": "https://news.flinders.edu.au/blog/2026/10/06/vanillin-provides-a-sweet-solution-for-chronic-wound-healing/",
-    "urlToImage": "https://news.flinders.edu.au/wp-content/uploads/2026/10/GettyImages-1885924192.jpg",
-    "publishedAt": "2026-10-08T11:30:08Z",
-    "content": "Simple food components may provide the key to new cost-effective materials that will benefit chronic wound healing.\r\nA team from Flinders Universitys Biomedical Nanoengineering Laboratory has found t… [+3230 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Gizmodo.com"
-    },
-    "author": "Ed Cara",
-    "title": "Do Cats Really Love Us?",
-    "description": "We asked experts to reassure us about the loyalties of the internet's favorite animal.",
-    "url": "https://gizmodo.com/do-cats-really-love-us-2000817878",
-    "urlToImage": "https://gizmodo.com/app/uploads/2026/09/Cheddar-Chiz-2-Giz-Asks-1200x675.jpg",
-    "publishedAt": "2026-10-08T11:30:01Z",
-    "content": "Occasionally, I’ll ask my cat Cheddar a question, particularly when he’s buried himself deep into the crevice between my neck and pillow while on the bed: “I love you, do you love me?” Cheddar will t… [+17698 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Keenova Announces New Presentations at the Sexual Medicine Society of North America Annual Meeting",
-    "description": "DUBLIN, Oct. 8, 2026 /PRNewswire/ -- Keenova Therapeutics plc announced today that it will share data and insights related to men's health during three speaker presentations at the Sexual Medicine Society of North America annual meeting, taking place October …",
-    "url": "https://www.prnewswire.com/news-releases/keenova-announces-new-presentations-at-the-sexual-medicine-society-of-north-america-annual-meeting-302901318.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1752962/Keenova-Logo.jpg?id=OA2992205&p=facebook",
-    "publishedAt": "2026-10-08T11:30:00Z",
-    "content": "DUBLIN, Oct. 8, 2026 /PRNewswire/ -- Keenova Therapeutics plc announced today that it will share data and insights related to men's health during three speaker presentations at the Sexual Medicine So… [+12610 chars]"
+    "author": "Jerry Thompson",
+    "title": "NASA's SpaceX Crew-12 Splashes Down Off California After Nearly 8 Months in Space, Ending Historic Mission",
+    "description": "Four NASA, European and Russian astronauts have returned from the International Space Station after nearly eight months of research, maintenance and spacewalks aboard the orbiting laboratory.",
+    "url": "https://www.ibtimes.com.au/spacex-crew-12-astronauts-return-earth-1876485",
+    "urlToImage": "https://d.ibtimes.com.au/en/full/1896631/crew-12-splashed-down-pacific-thursday-oct-8.jpg",
+    "publishedAt": "2026-10-09T10:00:41Z",
+    "content": "LOS ANGELES — Four astronauts from the United States, France and Russia returned to Earth on Thursday, splashing down in the Pacific Ocean off the California coast after nearly eight months aboard th… [+5975 chars]"
   }
 ]
