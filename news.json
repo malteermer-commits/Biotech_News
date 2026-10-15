@@ -1,94 +1,16 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Yahoo Entertainment"
+      "id": "the-next-web",
+      "name": "The Next Web"
     },
-    "author": "Amy Maxmen , Special to The Washington Post",
-    "title": "Some peptide users report lasting symptoms as RFK Jr. pushes for wider access",
-    "description": "After the third day of squirting an experimental drug up his nose, Dylan Meetze felt horrible.\"It was like I was underwater, like it took the most to do anything,\" he said.Subscribe to The Post Most newsletter for the most important and interesting stories fr…",
-    "url": "https://www.yahoo.com/news/science/articles/taken-hyped-unregulated-peptides-regrets-103443715.html",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/498e5fe403080bc0c1f6fcb44f1d9e7c58e2d0675a939edb74e590549c9831f5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F987858c0-dc6a-42c5-9e23-dacce2e7ee5e",
-    "publishedAt": "2026-10-13T10:34:43Z",
-    "content": "After the third day of squirting an experimental drug up his nose, Dylan Meetze felt horrible.\r\n\"It was like I was underwater, like it took the most to do anything,\" he said.\r\nSubscribe to The Post M… [+14901 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Zhané Slambee",
-    "title": "Some People May Be More Genetically Protected From Alzheimer’s — Here’s Why",
-    "description": "Most people don’t have this built-in brain advantage—but lifestyle may help close the gap.",
-    "url": "https://www.mindbodygreen.com/articles/what-new-study-shows-about-your-genetic-risk-for-alzheimers-this-built-in-brain-advantage",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/yba2i8ptck84s34ez.jpg",
-    "publishedAt": "2026-10-13T10:22:00Z",
-    "content": "Scientists have long known that genetics play a role in Alzheimers disease risk. Some genetic markers appear to increase the likelihood of developing the condition, while others seem to offer a degre… [+5966 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Gethin Hicks",
-    "title": "Family of student, 23, who died of 'devastating' brain injury after being knocked out at charity boxing match sue organisers for £200,000",
-    "description": "Jubel Reji Kurian passed away aged 23 on March 29, 2023, four days after he collapsed in the ring towards the end of the third and final round of an amateur bout in Nottingham.",
-    "url": "https://www.dailymail.com/news/article-16204755/Family-student-died-boxing-sue.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/10/13/10/111826221-0-image-m-37_1791884875308.jpg",
-    "publishedAt": "2026-10-13T10:18:58Z",
-    "content": "The family of a student who died after suffering a brain injury during a charity boxing match have sued the organisers for £200,000. \r\nJubel Reji Kurian, 23, passed away on March 29, 2023, four days … [+3397 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Science Daily"
-    },
-    "author": null,
-    "title": "DNA recording system reveals how a single cell becomes a body",
-    "description": "Scientists have traced the development of a mouse embryo from its first two cells to the formation of organs, using a remarkable DNA recording system that reveals the family history of individual cells. Their findings uncover how different cell types emerge o…",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261011211556.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/pronuclear-injection-of-dna-typewriter-into-fertilized-mouse-egg.webp",
-    "publishedAt": "2026-10-13T10:17:08Z",
-    "content": "Scientists have reconstructed a remarkably detailed family tree of cells in a developing mouse embryo, tracing their origins back to the moment a fertilized egg first divided into two cells. Using an… [+9840 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Esa.int"
-    },
-    "author": null,
-    "title": "Student-built SCAMPI experiment launches to the International Space Station",
-    "description": "After years of hard engineering work and deep learning as part of the ESA Academy Experiments Programme, the student-built SCAMPI experiment has been launched to the International Space Station (ISS) onboard the SpaceX CRS-35 mission on 13 October 2026 at 12:…",
-    "url": "https://www.esa.int/Education/ESA_Academy_Experiments_programme/Student-built_SCAMPI_experiment_launches_to_the_International_Space_Station",
-    "urlToImage": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/scampi_team_members_assembling_the_flight-model_aquarium_during_final_payload_preparation_activities/27575480-1-eng-GB/SCAMPI_team_members_assembling_the_flight-model_aquarium_during_final_payload_preparation_activities_pillars.jpg",
-    "publishedAt": "2026-10-13T10:10:00Z",
-    "content": "Agency13/10/202642 views0 likes\r\nAfter years of hard engineering work and deep learning as part of the ESA Academy Experiments Programme, the student-built SCAMPI experiment has been launched to the … [+5362 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Yangshuai Wang",
-    "title": "Geometry-conditioned basin initialization for variational quantum eigensolvers in strongly correlated molecules",
-    "description": "Variational quantum eigensolvers often spend their most expensive quantum evaluations on a classical problem: finding a useful basin of the nonconvex energy landscape. This burden is acute in strongly correlated molecules, where Hartree-Fock and random starts…",
-    "url": "https://link.aps.org/doi/10.1103/j89c-3k2s",
-    "urlToImage": null,
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "Variational quantum eigensolvers often spend their most expensive quantum evaluations on a classical problem: finding a useful basin of the nonconvex energy landscape. This burden is acute in strongl… [+1155 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Jiong Cheng, Yanqiang Yang, Wenlin Li, and Xun Li",
-    "title": "Quantum master equation approach for the multiphonon up-pumping model",
-    "description": "A fully quantum multiphonon up-pumping model is proposed to characterize coherent energy transfer in energetic materials subjected to external shock. After eliminating the degrees of freedom of the phonon bath within a mean-field approximation, we derive a qu…",
-    "url": "https://link.aps.org/doi/10.1103/cg55-t5kd",
-    "urlToImage": null,
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "A fully quantum multiphonon up-pumping model is proposed to characterize coherent energy transfer in energetic materials subjected to external shock. After eliminating the degrees of freedom of the p… [+903 chars]"
+    "author": "Ana Maria Constantin",
+    "title": "Anthropic’s international chief says open models carry more risk by definition",
+    "description": "Anthropic’s head of international told Bloomberg TV in Dublin that open alternatives to its models carry more risk by definition. That is a broader claim than the one Dario Amodei set out in July, when he wrote that open-weight models without dangerous capabi…",
+    "url": "https://thenextweb.com/news/anthropic-princen-open-weights-risk",
+    "urlToImage": "https://media.thenextweb.com/2026/07/claude-cowork-sandbox-escape-mac-files-sharedroot.jpg",
+    "publishedAt": "2026-10-14T10:21:09Z",
+    "content": "Anthropics head of international told Bloomberg TV in Dublin that open alternatives to its models carry more risk by definition. That is a broader claim than the one Dario Amodei set out in July, whe… [+2534 chars]"
   },
   {
     "source": {
@@ -96,141 +18,232 @@
       "name": "PRNewswire"
     },
     "author": null,
-    "title": "Everleap Fertility Releases New U.S. Data Revealing Growing Gap Between Women's Desire for Motherhood and Realities of Fertility",
-    "description": "75% say motherhood is an important life goal yet 34% had their first child later than desired More than 72% of U.S women who have experienced infertility do consult a doctor about it – yet only 17% of them undergo IVF BERNARDS, N.J., Oct. 13, 2026 /PRNewswire…",
-    "url": "https://www.prnewswire.com/news-releases/everleap-fertility-releases-new-us-data-revealing-growing-gap-between-womens-desire-for-motherhood-and-realities-of-fertility-302906199.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS2011607/Everleap_fertility.jpg?id=OA3013959&p=facebook",
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "75% say motherhood is an important life goal yet 34% had their first child later than desired \r\nMore than 72% of U.S women who have experienced infertility do consult a doctor about it yet only 17% o… [+7900 chars]"
+    "title": "Prof. Gang Shen Named Among World's Top 2% Scientists for Fourth Consecutive Year",
+    "description": "SHANGHAI, Oct. 14, 2026 /PRNewswire/ -- Prof. Gang Shen of Taikang ByBo Dental has been named among the World's Top 2% Scientists for the fourth consecutive year, according to the ninth edition of the database jointly released by Stanford University and Elsev…",
+    "url": "https://www.prnewswire.com/news-releases/prof-gang-shen-named-among-worlds-top-2-scientists-for-fourth-consecutive-year-302908390.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS2013018/20261014014452EDT_image_1.jpg?id=OA3018002&p=facebook",
+    "publishedAt": "2026-10-14T10:18:00Z",
+    "content": "SHANGHAI, Oct. 14, 2026 /PRNewswire/ -- Prof. Gang Shen of Taikang ByBo Dental has been named among the World's Top 2% Scientists for the fourth consecutive year, according to the ninth edition of th… [+3828 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Ryan Wilkinson",
-    "title": "Time Delay Probes Quantum Light",
-    "description": "Author(s): Ryan WilkinsonPhotoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift.[Physics 19, s125] Published Tue Oct 13, 2026",
-    "url": "https://physics.aps.org/articles/v19/s125",
-    "urlToImage": "https://physics.aps.org/assets/8f85a1bc-ebc0-4553-905b-ba2b9447114a/e125_1_thumb.png",
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "By exposing atoms to intense laser light and detecting the emitted electrons, researchers can infer ultrafast electron dynamics occurring during the ejection process. The techniques employed typicall… [+2632 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Activistpost.com"
-    },
-    "author": "Editor",
-    "title": "Vaccinated Kids Have Significantly Higher Odds of Developing Multiple Chronic Health Conditions",
-    "description": "“Children were 60% more likely to suffer recurrent respiratory disease with at least double the risk of recurrent ear and strep infections,” said Children’s Health Defense Chief Scientific Officer Brian Hooker, co-author of a new preprint study published last…",
-    "url": "https://activistpost.com/vaccinated-kids-have-significantly-higher-odds-of-developing-multiple-chronic-health-conditions/",
-    "urlToImage": "https://activistpost.com/wp-content/uploads/2026/10/vaccinated-kids-multiple-health-conditions-1024x534-1.jpg",
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "Children were 60% more likely to suffer recurrent respiratory disease with at least double the risk of recurrent ear and strep infections, said Childrens Health Defense Chief Scientific Officer Brian… [+10581 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Jan Steinheimer and Marcus Bleicher",
-    "title": "Transport simulations with a constrained momentum-dependent chiral mean-field equation of state at various isospin fractions",
-    "description": "We present a comparison of the ultrarelativistic quantum molecular dynamics model using a chiral mean field (CMF) equation of state with flow and pion production data in heavy ion collisions at low beam energies ${E}_{\\mathrm{lab}}=0.2--2.0\\phantom{\\rule{0.16…",
-    "url": "https://link.aps.org/doi/10.1103/6j14-cm4m",
-    "urlToImage": null,
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "It is not necessary to obtain permission to reuse this\r\narticle or its components as it is available under the terms of\r\nthe Creative Commons Attribution 4.0 International license.\r\nThis license perm… [+391 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Maitrayee Ghosh, Shuai Zhang, S. X. Hu, Armin Bergermann, Arianna Gleason, and Siegfried Glenzer",
-    "title": "Diamond survival in hydrocarbon fluids under warm dense matter conditions from first principles and machine-learned molecular dynamics",
-    "description": "In the depths of ice giant planets such as Neptune and Uranus, and in inertial confinement fusion targets, chemical reactions can be significantly affected by the extreme pressure and temperature conditions. One of the most intriguing phenomena is the possibl…",
-    "url": "https://link.aps.org/doi/10.1103/r6hx-gbhj",
-    "urlToImage": null,
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "In the depths of ice giant planets such as Neptune and Uranus, and in inertial confinement fusion targets, chemical reactions can be significantly affected by the extreme pressure and temperature con… [+1354 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Junyi Han, Yue-Hang Leung, Jiaxing Zhao, Yingjie Zhou, Norbert Herrmann, and Yaping Wang",
-    "title": "Sequential clusterization of light nuclei and hypernuclei in heavy-ion collisions within a Wigner function coalescence framework",
-    "description": "We investigate the formation of light nuclei and hypernuclei in $\\mathrm{Au}\\phantom{\\rule{0.16em}{0ex}}+\\phantom{\\rule{0.16em}{0ex}}\\mathrm{Au}$ collisions at $\\sqrt{{s}_{NN}}=3$ GeV within a coalescence framework embedded in the microscopic N-body parton-ha…",
-    "url": "https://link.aps.org/doi/10.1103/td8v-zjr2",
-    "urlToImage": null,
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "We investigate the formation of light nuclei and hypernuclei in Au\r\n+\r\nAu\r\ncollisions at s\r\nN\r\nN\r\n=\r\n3\r\nGeV within a coalescence framework embedded in the microscopic N-body parton-hadron-quantum-mol… [+1197 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Chenyang Cao, Yifei Ning, Yongbo Shi, Yu Bao, Hongfei Li, Panpan Gao, Shuo Cao, and Ping Qian",
-    "title": "Effects of point defects and tensile strain on the lattice thermal conductivity of $θ\\text{−}\\mathrm{TaN}$: A machine-learned molecular dynamics study",
-    "description": "$\\ensuremath{\\theta}$-TaN is a promising ultrahigh thermal conductivity material, yet a notable discrepancy remains between previous molecular dynamics (MD) simulations and experiments. A systematic atomistic understanding of how directional thermal transport…",
-    "url": "https://link.aps.org/doi/10.1103/pqy5-87gr",
-    "urlToImage": null,
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "-TaN is a promising ultrahigh thermal conductivity material, yet a notable discrepancy remains between previous molecular dynamics (MD) simulations and experiments. A systematic atomistic understandi… [+1804 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "John B. DeBrota",
-    "title": "Quantum Probability Requires Probability",
-    "description": "Author(s): John B. DeBrotaA new analysis reveals that all major derivations of the Born rule depend on a probabilistic assumption.[Physics 19, 133] Published Tue Oct 13, 2026",
-    "url": "https://physics.aps.org/articles/v19/133",
-    "urlToImage": "https://physics.aps.org/assets/a26230b7-e459-40ca-9ea2-4d64ef9cbce1/e133_2_thumb.png",
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "Figure 1: Among the key ingredients necessary to derive the Born rule, Zhang observes that additivity is indispensable in existing derivations.\r\nCould the probabilities of quantum mechanics have a de… [+9580 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Jing-Chen Zhang (张京晨), Adrien Devolder, Timur V. Tscherbul, Paul Brumer, and Yu Liu",
-    "title": "Identical-particle symmetry-enabled complete coherent control of ultracold atomic and molecular collisions",
-    "description": "We show that exchange symmetry in collisions of identical particles enables symmetry-protected coherent control of the total scattering cross section. For identical fermions, antisymmetrization enforces a common control phase among contributing channels withi…",
-    "url": "https://link.aps.org/doi/10.1103/1mcm-jmnx",
-    "urlToImage": null,
-    "publishedAt": "2026-10-13T10:00:00Z",
-    "content": "We show that exchange symmetry in collisions of identical particles enables symmetry-protected coherent control of the total scattering cross section. For identical fermions, antisymmetrization enfor… [+1074 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Crypto Briefing"
-    },
-    "author": "Diego Almada Lopez",
-    "title": "AI industry unprepared for potential catastrophe, says Gautam Mukunda",
-    "description": "The lack of mandatory AI safety measures could lead to unchecked biological risks, highlighting the urgent need for regulatory intervention.\nThe post AI industry unprepared for potential catastrophe, says Gautam Mukunda appeared first on Crypto Briefing.",
-    "url": "https://cryptobriefing.com/ai-industry-unprepared-catastrophe-mukunda/",
-    "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/13054816/library-ai-industry-unprepared-for-potential-catastrophe-says-ga-2-800x450.png",
-    "publishedAt": "2026-10-13T09:48:20Z",
-    "content": "Yale lecturer warns that competitive pressures push AI companies toward growth over safety, with biological threats topping the risk list Gautam Mukunda, a Bloomberg Opinion columnist and lecturer at… [+2898 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lse.ac.uk"
+      "name": "Science Daily"
     },
     "author": null,
-    "title": "Glancing through the lens of emic and etic: an exploratory case of traditional healing practices for snakebites in the Saharia Tribe, India",
-    "description": "Saxena, N., Singh, S. & Deb, R. (2026). Glancing through the lens of emic and etic: an exploratory case of traditional healing practices for snakebites in the Saharia Tribe, India. Global Advances in Integrative Medicine and Health, 15, https://doi.org/10.117…",
-    "url": "https://researchonline.lse.ac.uk/id/eprint/141370/",
+    "title": "Scientists discover how harmful “zombie cells” hide from the immune system",
+    "description": "Scientists have discovered a protein that may help harmful aging cells hide from the immune system, allowing them to accumulate and fuel age-related health problems. Blocking the protein in mice reduced these cells and inflammation while improving blood sugar…",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261013015800.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/embryonic-stem-cells-cellular-therapy-regeneration.webp",
+    "publishedAt": "2026-10-14T10:17:58Z",
+    "content": "Researchers led by Cedars-Sinai Health Sciences University have discovered a protein that may allow harmful aging cells to escape detection by the immune system. By helping these cells remain in the … [+6018 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNA"
+    },
+    "author": null,
+    "title": "Google DeepMind's Hassabis calls AI hacks 'early warning shots'",
+    "description": "DUBLIN, Oct 14 : Recent hacking incidents perpetrated by AI agents are \"early warning shots\", and the world could soon face major incidents if systems are not made more secure, Google DeepMind co-founder and Chair Demis Hassabis said on Wednesday.Rogue behavi…",
+    "url": "https://www.channelnewsasia.com/business/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots-6458736",
+    "urlToImage": "https://dam.mediacorp.sg/image/upload/s--NwNFI7GX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-14T101324Z_1_LYNXMPEM9D0WX_RTROPTP_3_AI-REGULATION-BANKS.JPG?itok=0Lkizhlj",
+    "publishedAt": "2026-10-14T10:13:24Z",
+    "content": "DUBLIN, Oct 14 : Recent hacking incidents perpetrated by AI agents are \"early warning shots\", and the world could soon face major incidents if systems are not made more secure, Google DeepMind co-fou… [+1868 chars]"
+  },
+  {
+    "source": {
+      "id": "medical-news-today",
+      "name": "Medical News Today"
+    },
+    "author": "Jessica Freeborn",
+    "title": "Trial finds 2 strategies to maintain weight loss results after stopping GLP-1s",
+    "description": "A study found that GLP-1 users who had structured support — either from a dietitian or a wellness app — experienced less weight gain after stopping their medication.",
+    "url": "https://www.medicalnewstoday.com/articles/trial-finds-2-strategies-maintain-weight-loss-results-stopping-glp-1s",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/10/getty_2217097190_facebook_1200x630-1200x628.jpg",
+    "publishedAt": "2026-10-14T10:08:44Z",
+    "content": "<ul><li>Glucagon-like peptide-1 (GLP-1) receptor agonists are medications that can assist with weight loss, but many people who use them ultimately discontinue them. </li><li>One concern after discon… [+7454 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Y. J. Lü, C. C. Jin, Y. J. Hou, K. Yang, H. R. Qin, Z. W. Wu, and W. H. Wang",
+    "title": "Topological Defects Control Dynamic Crossover in Glass-Forming Liquids",
+    "description": "Understanding the dramatic slowdown of dynamics in glass-forming liquids remains one of the central challenges in glass physics. Using extensive molecular dynamics simulations, we uncover a topological origin of this phenomenon. Vortices in the hopping displa…",
+    "url": "https://link.aps.org/doi/10.1103/4cvy-mym8",
     "urlToImage": null,
-    "publishedAt": "2026-10-13T09:47:04Z",
-    "content": "Background: Tribes in India mostly inhabit areas close to forests wherein animal bites, especially snakebites, are an inevitable threat. Saharia tribe is scattered in Central India and has a long-sta… [+1933 chars]"
+    "publishedAt": "2026-10-14T10:00:00Z",
+    "content": "Understanding the dramatic slowdown of dynamics in glass-forming liquids remains one of the central challenges in glass physics. Using extensive molecular dynamics simulations, we uncover a topologic… [+854 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Yongkun Chen, Oleg I. Tolstikhin, Toru Morishita, Yueming Zhou, and Peixiang Lu",
+    "title": "Vortex photoelectron holography in strong-field tunneling ionization",
+    "description": "Author(s): Yongkun Chen, Oleg I. Tolstikhin, Toru Morishita, Yueming Zhou, and Peixiang LuThe authors theoretically demonstrate vortex photoelectron holography in strong-field tunneling ionization, in which the vortex photoelectron is generated via tunneling …",
+    "url": "https://link.aps.org/doi/10.1103/c5s4-pvnh",
+    "urlToImage": "https://cdn.journals.aps.org/journals/PRA/key_images/10.1103/c5s4-pvnh.png",
+    "publishedAt": "2026-10-14T10:00:00Z",
+    "content": "Vortex electrons, characterized by a helical phase front, offer unique advantages for probing material structures. Such electrons can be generated via tunneling ionization in strong laser fields. In … [+707 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Scientific American"
+    },
+    "author": "Adam Kovac",
+    "title": "Claude just found a CRISPR-like DNA pattern, but even Anthropic's scientists aren't sure what it does",
+    "description": "The large language model took less than a day to identify the curious stretch of DNA",
+    "url": "https://www.scientificamerican.com/article/claude-just-found-a-crispr-like-dna-pattern-but-even-anthropics-scientists-arent-sure-what-it-does/",
+    "urlToImage": "https://static.scientificamerican.com/dam/m/2bdcb4f8fb83abed/original/organic-shaped-DNA-structure.jpg?m=1734190459.769&w=1200",
+    "publishedAt": "2026-10-14T10:00:00Z",
+    "content": "Artificial intelligence companies have been making waves in mathematics, but they are also turning their attention to other sciences, too—including molecular biology.\r\nLate last month, Anthropic clai… [+10363 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Marco Lozano, Manish Kumar, Pavel Jelínek, and Diego Soler-Polo",
+    "title": "Cotunneling theory and multiplet excitations: Emergence of asymmetric line shape in inelastic scanning tunneling spectroscopy of correlated molecules on surfaces",
+    "description": "Recent advances in on-surface chemistry, combined with scanning probe microscopy, have enabled the synthesis of correlated molecules on surfaces and the characterization of their chemical and electronic properties with unprecedented spatial resolution. Low-en…",
+    "url": "https://link.aps.org/doi/10.1103/sk1s-tnbt",
+    "urlToImage": null,
+    "publishedAt": "2026-10-14T10:00:00Z",
+    "content": "Recent advances in on-surface chemistry, combined with scanning probe microscopy, have enabled the synthesis of correlated molecules on surfaces and the characterization of their chemical and electro… [+1312 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Scientific American"
+    },
+    "author": "Rachel Feltman, Fonda Mwangi, Alex Sugiura",
+    "title": "Are Blue Zones real? One researcher finds the data deeply flawed",
+    "description": "The data behind Blue Zones might not be that strong",
+    "url": "https://www.scientificamerican.com/podcast/episode/are-blue-zones-real-one-researcher-finds-the-data-deeply-flawed/",
+    "urlToImage": "https://static.scientificamerican.com/dam/asset/3c503ca4-f563-487b-aff2-f8b4b3c7400c/2610_SQ_WED_MORBID.png?m=1791911830.909&w=1200",
+    "publishedAt": "2026-10-14T10:00:00Z",
+    "content": "Rachel Feltman: For Scientific American’s Science Quickly, I’m Rachel Feltman.\r\nYou’ve probably heard of the Blue Zones: a handful of locations around the globe where people supposedly live to be 100… [+15449 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Carnyx Therapeutics Unveils Oral Sleep Candidate CNYX-005 with Preclinical Data Showing Increased NREM Sleep",
+    "description": "Preclinical study shows 1.5- to 2-hour increase in total sleep time as Company advances toward clinical development and attracts Chris Brearley, M.D., as Chief Medical Officer INDIANAPOLIS, Oct. 14, 2026 /PRNewswire/ -- Carnyx Therapeutics Ltd. (\"Carnyx\" or t…",
+    "url": "https://www.prnewswire.com/news-releases/carnyx-therapeutics-unveils-oral-sleep-candidate-cnyx-005-with-preclinical-data-showing-increased-nrem-sleep-302907835.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS2012762/Carnyx-Logo.jpg?id=OA3017293&p=facebook",
+    "publishedAt": "2026-10-14T10:00:00Z",
+    "content": "Preclinical study shows 1.5- to 2-hour increase in total sleep time as Company advances toward clinical development and attracts Chris Brearley, M.D., as Chief Medical Officer\r\nINDIANAPOLIS, Oct. 14,… [+5098 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Sophia Chen",
+    "title": "Illuminating Quantum Ferroelectrics",
+    "description": "Author(s): Sophia ChenAn ultrafast optical technique uncovers new clues to the origin of bulk polarization in quantum ferroelectric materials.[Physics 19, s132] Published Wed Oct 14, 2026",
+    "url": "https://physics.aps.org/articles/v19/s132",
+    "urlToImage": "https://physics.aps.org/assets/1b30ab4d-1fe2-4509-9419-ec51ee0389d8/e132_1_thumb.png",
+    "publishedAt": "2026-10-14T10:00:00Z",
+    "content": "In classical ferroelectric materials, electric dipoles in the material line up over a long range such that the bulk exhibits polarization when the material is cooled past a critical temperature. In a… [+2442 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "BL New Delhi Bureau",
+    "title": "National Medical Commission clarifies rules for doctors to digitally authenticate medical records remotely",
+    "description": "The clarification follows a recommendation by the High-Level Committee on Non-Financial Regulatory Reforms to facilitate digital and electronic signatures in medical practice under the Information Technology Act, 2000.",
+    "url": "https://www.thehindubusinessline.com/news/national/national-medical-commission-clarifies-rules-for-doctors-to-digitally-authenticate-medical-records-remotely/article71583080.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/oc7nyq/article71583100.ece/alternates/LANDSCAPE_1200/IMG_iStock-868644242_2_1_A8FIEQT6.jpg",
+    "publishedAt": "2026-10-14T09:59:37Z",
+    "content": "To remove confusion over whether doctors can remotely authenticate medical records using digital signatures, as healthcare increasingly shifts to digital platforms and telemedicine, the National Medi… [+3034 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Www.gov.uk"
+    },
+    "author": "Cyber & Specialist Operations Command",
+    "title": "Former Scottish health chief appointed to lead transformation of military medicine",
+    "description": "Professor Jason Leitch CBE, Scotland’s former National Clinical Director, appointed Chief of Defence Medical to spearhead the transformation of military healthcare.",
+    "url": "https://www.gov.uk/government/news/former-scottish-health-chief-appointed-to-lead-transformation-of-military-medicine",
+    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+    "publishedAt": "2026-10-14T09:56:22Z",
+    "content": "<ul><li>New Chief will lead Defence Medical Command as it delivers Strategic Defence Review commitments and £50m Defence Investment Plan funding to ensure stronger medical readiness.</li><li>Operatio… [+3625 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Samantha Ruth Prabhu has 100 grams of protein every day and has remained 50 kg. Harvard scholars say high protein diet helps you burn more calories, even when you are asleep",
+    "description": "Having a protein-heavy diet can go a long way in keeping you svelte. As per studies, protein-heavy foods such as lean meat, eggs etc can help you burn calories at a higher rate and also reduce hunger cravings. That way, you eat much less calories than usual a…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/samantha-ruth-prabhu-has-100-grams-of-protein-every-day-and-has-remained-50-kg-harvard-scholars-say-high-protein-diet-helps-you-burn-more-calories-even-when-you-are-asleep/articleshow/134938045.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-134938318,width-1200,height-900,imgsize-131224,overlay-etpanache/articleshow.jpg",
+    "publishedAt": "2026-10-14T09:46:57Z",
+    "content": "Samantha Ruth Prabhu is known for being one of the fittest actresses in the South. The Maa Inti Bangaaram star, who suffers from myositis, a chronic immune problem, follows a protein-heavy, inflammat… [+3814 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thecoolist.com"
+    },
+    "author": "TheCoolist Team",
+    "title": "Sheets shouldn’t be changed monthly or every two weeks: an expert gives the exact frequency",
+    "description": "Every two weeks is not enough. The frequency germ experts recommend for sheets and pillowcases, and when to wash them more often.\nThe post Sheets shouldn’t be changed monthly or every two weeks: an expert gives the exact frequency appeared first on TheCoolist.",
+    "url": "https://www.thecoolist.com/sheets-shouldnt-be-changed-monthly-or-every-two-weeks-an-expert-gives-the-exact-frequency-h2r4-g1/",
+    "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/10/iStock-1312481735.jpg",
+    "publishedAt": "2026-10-14T09:30:00Z",
+    "content": "Every two weeks, once a month, “when they look dirty”: everyone has their own rule for changing the sheets. Most of those rules are wrong. Germ experts are surprisingly clear on the right frequency, … [+2782 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Blog.google"
+    },
+    "author": "Maggie JohnsonGlobal Head and VPGoogle.org",
+    "title": "17 organizations using AI to accelerate scientific breakthroughs",
+    "description": "Two photos of women looking at tablets, one in a field and one in a lab, with curved lines running through the image",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/",
+    "urlToImage": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.width-1300.png",
+    "publishedAt": "2026-10-14T09:30:00Z",
+    "content": "Were standing at a profound inflection point in scientific discovery. AI is ushering in a new era of scientific research, from unraveling the complexities of human disease to forecasting environmenta… [+4253 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Korean Beauty Products for Glowing Skin (2026): Stylevana Named Leading Destination for K-Beauty Favorites by Expert Consumers",
+    "description": "NEW YORK, Oct. 14, 2026 /PRNewswire/ -- Expert Consumers has recognized Stylevana as a leading destination for Korean beauty products for glowing skin in 2026, citing the retailer's extensive K-beauty selection and access to widely sought-after skincare from …",
+    "url": "https://www.prnewswire.com/news-releases/korean-beauty-products-for-glowing-skin-2026-stylevana-named-leading-destination-for-k-beauty-favorites-by-expert-consumers-302908019.html",
+    "urlToImage": null,
+    "publishedAt": "2026-10-14T09:30:00Z",
+    "content": "NEW YORK, Oct. 14, 2026 /PRNewswire/ -- Expert Consumers has recognized Stylevana as a leading destination for Korean beauty products for glowing skin in 2026, citing the retailer's extensive K-beaut… [+7566 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": null,
+    "title": "onco-scoop added to PyPI",
+    "description": "Add your description here",
+    "url": "https://pypi.org/project/onco-scoop/",
+    "urlToImage": null,
+    "publishedAt": "2026-10-14T09:28:38Z",
+    "content": "SCOOP is a Python library designed to generate synthetic oncology patient data conforming to the OMOP Common Data Model (CDM). It provides tools to create realistic patient profiles, including demogr… [+2286 chars]"
   }
 ]
