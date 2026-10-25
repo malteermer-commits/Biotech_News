@@ -2,248 +2,261 @@
   {
     "source": {
       "id": null,
-      "name": "Lithub.com"
+      "name": "New York Post"
     },
-    "author": "Kyle Harper",
-    "title": "Why the Broiler Chicken Is the True Symbol of the Anthropocene",
-    "description": "The broiler chicken is the quintessence of the modern meat complex. In 1925 the average chicken brought to slaughter was 112 days old, ate 4.7 pounds of feed for every pound of liveweight chicken, and weighed 2.5 pounds when its",
-    "url": "https://lithub.com/why-the-broiler-chicken-is-the-true-symbol-of-the-anthropocene/",
-    "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chickens.png",
-    "publishedAt": "2026-10-23T09:09:06Z",
-    "content": "The broiler chicken is the quintessence of the modern meat complex. In 1925 the average chicken brought to slaughter was 112 days old, ate 4.7 pounds of feed for every pound of liveweight chicken, an… [+18098 chars]"
+    "author": "Nicholas McEntyre",
+    "title": "NY teen genius, 14, denied early high school graduation due to his age",
+    "description": "A genius New York teen looking to graduate high school and earn his diploma to attend his dream college was denied the chance because of his age — despite being a full-time community college student.",
+    "url": "https://nypost.com/2026/10/24/us-news/ny-teen-genius-michael-sweeney-denied-early-high-school-graduation-due-to-his-age/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146297799.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-10-24T10:13:56Z",
+    "content": "A genius New York teen was denied the opportunity to graduate high school early and earn his diploma to attend his dream college due to his age despite being a full-time community college student.\r\nM… [+4003 chars]"
   },
   {
     "source": {
-      "id": "usa-today",
-      "name": "USA Today"
+      "id": "financial-post",
+      "name": "Financial Post"
     },
-    "author": "Matt Hayes, USA TODAY",
-    "title": "SEC, Big Ten rigged college football for themselves. Now comes the delicious irony",
-    "description": "The SEC and Big Ten changed college football forever. Now the CFP committee should deny them special treatment.",
-    "url": "https://www.usatoday.com/story/sports/ncaaf/2026/10/23/why-the-cfp-committee-should-snub-the-sec-and-big-ten-strength-of-schedule-big-12-acc/92381918007/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/2313db1e7916aee4dcb22c1c0b44a66af5611407c0eb8240efa0071001841b6a/lightyear_networkapi/resizefill_w1024_h683%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F2db91acc3d3a93700254272f351c89a7.jpg",
-    "publishedAt": "2026-10-23T09:07:17Z",
-    "content": "Now they're complaining. After starting this inferno of change, after stoking it over and over with ruthless business moves, now they want help with a fire line.\r\nBecause after Texas and Arch Manning… [+4634 chars]"
+    "author": "Special to Financial Post",
+    "title": "Opinion: Mark Carney’s climate ambitions still threaten Canada’s economy",
+    "description": "Canada can either open itself for business or commit to a net-zero future. It can’t do both. Find out more here",
+    "url": "https://financialpost.com/opinion/opinion-mark-carneys-climate-ambitions-threaten-canada-economy",
+    "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1023-mg-carney-bloomberg.jpg",
+    "publishedAt": "2026-10-24T10:00:09Z",
+    "content": "Before Mark Carney reinvented himself as a build, baby, builder, he was best known for his plan to hijack the worlds financial infrastructure in the fight against climate change. That was the specifi… [+5401 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Local Germany"
+    },
+    "author": "Tom Pugh",
+    "title": "Inside Germany: Why do children have to go to school so early here?",
+    "description": "German schools start far too early, argues journalist Tom Pugh in this week's Inside Germany column. Do you know the history behind the start-early, end-early schedule in place in Kindergartens and grade schools across the country?",
+    "url": "https://www.thelocal.de/20261024/inside-germany-why-do-children-have-to-go-to-school-so-early-here",
+    "urlToImage": "https://assets.thelocal.com/cdn-cgi/rs:fill:1200:675/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2026/10/watermarks-logo-215484174.jpg@webp",
+    "publishedAt": "2026-10-24T09:55:18Z",
+    "content": "German schools start far too early, argues journalist Tom Pugh in this week's Inside Germany column. Do you know the history behind the start-early, end-early schedule in place in Kindergartens and g… [+4659 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Pypi.org"
     },
-    "author": null,
-    "title": "pymatgen-analysis-molcrys added to PyPI",
-    "description": "Pymatgen namespace addon for MolCrysKit molecular-crystal analysis",
-    "url": "https://pypi.org/project/pymatgen-analysis-molcrys/",
+    "author": "titech.yoko.hiro@gmail.com",
+    "title": "MoleditPy 5.0.3",
+    "description": "A cross-platform, simple, and intuitive molecular structure editor built in Python. It allows 2D molecular drawing and 3D structure visualization. It supports exporting structure files for input to DFT calculation software.",
+    "url": "https://pypi.org/project/moleditpy/5.0.3/",
     "urlToImage": null,
-    "publishedAt": "2026-10-23T09:05:56Z",
+    "publishedAt": "2026-10-24T09:48:19Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Livemint"
     },
-    "author": null,
-    "title": "pymatgen-analysis-molcrys 0.1.0",
-    "description": "Pymatgen namespace addon for MolCrysKit molecular-crystal analysis",
-    "url": "https://pypi.org/project/pymatgen-analysis-molcrys/0.1.0/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-23T09:05:56Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Punch"
-    },
-    "author": "Punch Newspapers",
-    "title": "Meet UNILORIN’s 2026 best graduating student with 5.00 CGPA",
-    "description": "A 2025/2026 graduate of the Department of Mathematics at the University of Ilorin, Francis Olusegun, has graduated with a perfect 5.00 Cumulative Grade Point Average, emerging as the best graduating student. In an interview published on Tuesday by the Union o…",
-    "url": "https://punchng.com/meet-unilorins-2026-best-graduating-student-with-5-00-cgpa/",
-    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/10/23094119/IMG_9644_1792744879-690x630.webp",
-    "publishedAt": "2026-10-23T09:05:34Z",
-    "content": "A 2025/2026 graduate of the Department of Mathematics at the University of Ilorin, Francis Olusegun, has graduated with a perfect 5.00 Cumulative Grade Point Average, emerging as the best graduating … [+8976 chars]"
+    "author": "Swati Gandhi",
+    "title": "Fodder scam case: CBI nabs Satyendra Kumar, accused on the run for 25 years from Lucknow station; all you need to know",
+    "description": "The CBI arrested fodder scam accused Satyendra Kumar at Lucknow railway station after 25 years on the run. Traced to Nepal before returning to India, he is being brought to Ranchi on transit remand to face court proceedings.",
+    "url": "https://www.livemint.com/news/india/fodder-scam-case-cbi-nabs-satyendra-kumar-accused-on-the-run-for-25-years-from-lucknow-station-all-you-need-to-know-11792833040950.html",
+    "urlToImage": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/CBI_1792833207687_RZ34_1792833207816_69GR_18103640-ffee-4b44-acd7-defa03d76899_OhgB.jpg",
+    "publishedAt": "2026-10-24T09:25:06Z",
+    "content": "The Central Bureau of Investigation (CBI) on Friday announced that it had arrested Satyendra Kumar, a proclaimed offender in a fodder scam case who had been on the run for the past 25 years.\r\nIn a pr… [+2571 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Biztoc.com"
     },
-    "author": "newsweek.com",
-    "title": "The Deficit Era Is Ending as Big-Spending Populists Take Control",
-    "description": "France’s 10-year borrowing rate climbed above 5 percent this week, an awkward backdrop to Marine Le Pen’s promise of earlier retirement.\nThe far-right presidential frontrunner for France’s 2027 election is offering voters relief from the unpopular medicine of…",
-    "url": "https://biztoc.com/x/3f4026f2c5ad6aa3",
-    "urlToImage": "https://biztoc.com/cdn/3f4026f2c5ad6aa3_s.webp",
-    "publishedAt": "2026-10-23T09:04:24Z",
-    "content": "Frances 10-year borrowing rate climbed above 5 percent this week, an awkward backdrop to Marine Le Pens promise of earlier retirement.The far-right presidential frontrunner for Frances 2027 election … [+141 chars]"
+    "author": "theguardian.com",
+    "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
+    "description": "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the game\nDried foods, bottled water, medicine stocks and backup power banks: it could be the props cupboard on a disaster movie, but instead it is precisely what…",
+    "url": "https://biztoc.com/x/c10b5b090e986372",
+    "urlToImage": "https://biztoc.com/cdn/c10b5b090e986372_s.webp",
+    "publishedAt": "2026-10-24T09:22:54Z",
+    "content": "Government campaign recommends three days worth of stores for emergencies, but some are ahead of the gameDried foods, bottled water, medicine stocks and backup power banks: it could be the props cupb… [+141 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Good Men Project"
+    },
+    "author": "University of Michigan Health",
+    "title": "Who Gets Alzheimer’s Drugs? Race, Vulnerability and Health Status Shape Access",
+    "description": "Study finds significant differences in who receives anti-amyloid therapy, but not in adherence once treatment begins\nThe post Who Gets Alzheimer’s Drugs? Race, Vulnerability and Health Status Shape Access appeared first on The Good Men Project.",
+    "url": "https://goodmenproject.com/featured-content/who-gets-alzheimers-drugs-race-vulnerability-and-health-status-shape-access/",
+    "urlToImage": "https://goodmenproject.com/wp-content/uploads/2026/10/vitaly-gariev-Ey-IxmbZ5TQ-unsplash.jpg",
+    "publishedAt": "2026-10-24T08:30:32Z",
+    "content": "By Noah Fromson\r\nThe first disease-modifying drugs for Alzheimer’s disease offer patients the ability to slow cognitive decline by targeting amyloid plaques in the brain.\r\nBut a new study suggests th… [+3088 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Pypi.org"
     },
-    "author": "none@example.com",
-    "title": "molcrys-kit 0.8.0",
-    "description": "Molecular Crystal Toolkit",
-    "url": "https://pypi.org/project/molcrys-kit/0.8.0/",
+    "author": null,
+    "title": "molcrafts-molrs-nightly 0.19.0.dev202610240809",
+    "description": "Python bindings for molrs molecular simulation library",
+    "url": "https://pypi.org/project/molcrafts-molrs-nightly/0.19.0.dev202610240809/",
     "urlToImage": null,
-    "publishedAt": "2026-10-23T09:03:27Z",
+    "publishedAt": "2026-10-24T08:29:38Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Lithub.com"
+      "name": "Myjoyonline.com"
     },
-    "author": "Lit Hub Excerpts",
-    "title": "“A Hill of Beans”",
-    "description": "1. Your older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later you decided to grow something. You had no interest in a garden, but you were very interested in",
-    "url": "https://lithub.com/a-hill-of-beans/",
-    "urlToImage": "https://s26162.pcdn.co/wp-content/uploads/2026/09/marvelous-freaks.jpg",
-    "publishedAt": "2026-10-23T08:58:00Z",
-    "content": "1.\r\nArticle continues after advertisement\r\nYour older sister, Bess, cracked a joke about the sorry state of your lawn, which is why a few months later\r\nyou decided to grow something. You had no inter… [+23344 chars]"
+    "author": "David Apinga",
+    "title": "Ghana needs 759 million cedis to implement 2025-29 health sector supply chain master plan - MyJoyOnline",
+    "description": "More than 759 million cedis — that is how much Ghana needs to fix critical gaps in the supply of medicines and essential medical supplies across the country’s health facilities over the next four years. But with some foreign aid to the health sector being wit…",
+    "url": "https://www.myjoyonline.com/ghana-needs-759-million-cedis-to-implement-2025-29-health-sector-supply-chain-master-plan/",
+    "urlToImage": "https://www.myjoyonline.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-16.42.41-1200x630.jpeg",
+    "publishedAt": "2026-10-24T08:26:39Z",
+    "content": "More than 759 million cedis that is how much Ghana needs to fix critical gaps in the supply of medicines and essential medical supplies across the countrys health facilities over the next four years.… [+5037 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cricketnews.com"
+    },
+    "author": "Saino Zachariah",
+    "title": "'His bum is a bit big, no?' R Ashwin involved in hilarious exchange on SA captain Temba Bavuma's 'glutes'",
+    "description": "R Ashwin and Bharat Sundaresan share a hilarious exchange about Temba Bavuma's glutes and how it becomes an advantage for the South African captain.",
+    "url": "https://www.cricketnews.com/en/cricket/news/his-bum-bit-big-ashwin-hilarious-exchange-temba-bavuma-glutes/80432573ec7ad7a2f1c6e722",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/b447e1dd65b80902ca6de289ce166d4a5a442971204a05f79c5f1aa308345721/lightyear_networkapi/resizefill_w1023_h575%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9776408415f036a47735bb155dd2f2c6",
+    "publishedAt": "2026-10-24T08:24:26Z",
+    "content": "'His bum is a bit big, no?' R Ashwin involved in hilarious exchange on SA captain Temba Bavuma's 'glutes' originally appeared on Cricket News. Add Cricket News as a Preferred Source by clicking here.… [+5366 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": "Jennifer Warren",
+    "title": "In P.E.I., sweeping new strategy takes aim at ‘pervasive drinking culture’",
+    "description": "From life-altering tragedies to everyday health risks, P.E.I. is taking direct aim at mitigating the toll of drinking. Advocates, are hoping a new provincial alcohol strategy will push Islanders to re-evaluate their relationship with alcohol, while reducing c…",
+    "url": "https://www.cbc.ca/radio/whitecoat/pei-ambitious-alcohol-strategy-9.7391771",
+    "urlToImage": "https://i.cbc.ca/ais/5f64fd7a-1a49-4559-9ed4-0c85332e44d8,1792702410458/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C130%2C4240%2C2385%29%3BResize%3D620",
+    "publishedAt": "2026-10-24T08:00:00Z",
+    "content": "Brenda Simmons is happy to see her sons name at the top of a new monument in Charlottetowns Joseph A. Ghiz Memorial Park. But she would still give anything for it not to be there.\r\nThe iron sculpture… [+8490 chars]"
+  },
+  {
+    "source": {
+      "id": "next-big-future",
+      "name": "Next Big Future"
+    },
+    "author": "Brian Wang",
+    "title": "What Could Drive 1,000× More AI Demand in Four Years?",
+    "description": "SpaceX says 440,000 Nvidia Vera Rubin chips will be running by the end of Q2 2027. My model takes SpaceX from about 3 GW of AI compute at the end of 2026 to 19–23 GW by the end of 2027, with Minihard payback that could be about six months. Where will the dema…",
+    "url": "https://www.nextbigfuture.com/2026/10/what-could-drive-1000x-more-ai-demand-in-four-years.html",
+    "urlToImage": null,
+    "publishedAt": "2026-10-24T07:52:55Z",
+    "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Scienmag.com"
+    },
+    "author": "Phoebe Ingram",
+    "title": "New Reference Book Links Liver Disease Care to Public Health Policy and",
+    "description": "Bentham Books announces an edited reference examining how welfare programs and public health policy can support prevention, screening, and equitable access to care for viral hepatitis, MASLD,",
+    "url": "https://scienmag.com/new-reference-book-links-liver-disease-care-to-public-health-policy-and-welfare-programs/",
+    "urlToImage": "https://scienmag.com/wp-content/uploads/2026/10/stackrss-featured-27556.png",
+    "publishedAt": "2026-10-24T07:47:13Z",
+    "content": "Bentham Books has announced the release of “Protecting Public Health: Addressing Liver Disease in Welfare Programs,” an edited reference volume that examines how public health policy and welfare init… [+4898 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Sciencebasedmedicine.org"
+    },
+    "author": "David Weinberg",
+    "title": "Retracted: Study of ivermectin and mebendazole for cancer removed by publisher",
+    "description": "The story of a research publication that met an abrupt, but just end.\nThe post Retracted: Study of ivermectin and mebendazole for cancer removed by publisher first appeared on Science-Based Medicine.",
+    "url": "https://sciencebasedmedicine.org/retracted-study-of-ivermectin-and-mebendazole-for-cancer-removed-by-publisher/",
+    "urlToImage": "https://sciencebasedmedicine.org/wp-content/uploads/2026/10/Cropped-RETRACTED-Ivermectin-and-Mebendazole-Study-in-Cancer-Patients.png",
+    "publishedAt": "2026-10-24T07:30:00Z",
+    "content": "A tale of the life cycle of a research publication that met an abrupt, but just, end.\r\nGood research should aspire to answer a question. The question might be: Does a novel therapeutic regimen show p… [+14449 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Trending Desk",
+    "title": "Arjun Prajapati: This 5-year-old with Vadodara roots started reading before turning 2, has an IQ of 141, ranks in the top 2% and has read 3,000 books",
+    "description": "Five-year-old Arjun Prajapati has drawn attention for his exceptional learning abilities, scoring 141 on an IQ test and qualifying for Mensa International and Intertel at the age of four. He reportedly began reading independently at 18 months and has explored…",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/arjun-prajapati-this-5-year-old-with-vadodara-roots-started-reading-before-turning-2-has-an-iq-of-141-ranks-in-the-top-2-and-has-read-3000-books/articleshow/135164356.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135164512,width-1200,height-900,imgsize-45430,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-24T07:14:00Z",
+    "content": "When most children are beginning to read words and numbers, five-year-old Arjun Prajapati is already asking questions about infinity, black holes and the origins of the universe. He wants to know wha… [+4446 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "What does it mean when a ferret is descented?",
+    "description": "What Does It Mean When a Ferret Is Descented? Understanding and Implications Descenting a ferret refers to the surgical removal of its anal scent glands; a process intended to reduce the strong, musky odor these animals naturally produce as a defense mechanis…",
+    "url": "https://www.lifesciencesworld.com/what-does-it-mean-when-a-ferret-is-descented/",
+    "urlToImage": null,
+    "publishedAt": "2026-10-24T06:47:15Z",
+    "content": "Descenting a ferret refers to the surgical removal of its anal scent glands; a process intended to reduce the strong, musky odor these animals naturally produce as a defense mechanism and for marking… [+8271 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Imogen Garfinkel",
+    "title": "'The far-Left are clueless about the scale of the threat. They're useful idiots': Muslim former Green Party deputy leader warns Islamist subversion in our society is a danger to us all",
+    "description": "The former deputy leader of the Green Party has warned that the far-Left are 'clueless' about the scale of the threat that Islamist ideology poses to society.",
+    "url": "https://www.dailymail.com/news/article-16229949/The-far-Left-clueless-scale-threat-Theyre-useful-idiots-Muslim-former-Green-Party-deputy-leader-warns-Islamist-subversion-society-danger-all.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/22/16/111996037-0-Thousands_of_pro_Palestinian_protesters_march_in_a_rally_in_supp-a-6_1792681891543.jpg",
+    "publishedAt": "2026-10-24T06:45:36Z",
+    "content": "The former deputy leader of the Green Party has warned that the far-Left are 'clueless' about the scale of the threat that Islamist ideology poses to society.\r\nDr Shahrar Ali, who was deputy leader b… [+10275 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencesworld.com"
+    },
+    "author": "Ava Reynolds",
+    "title": "Are horses native to North America?",
+    "description": "Are Horses Truly Native to North America? The Surprising Answer Are horses native to North America? The answer is a complex and fascinating one: While horses evolved in North America, they went extinct thousands of years ago and were later reintroduced by Eur…",
+    "url": "https://www.lifesciencesworld.com/are-horses-native-to-north-america/",
+    "urlToImage": null,
+    "publishedAt": "2026-10-24T06:35:19Z",
+    "content": "Are horses native to North America? The answer is a complex and fascinating one: While horses evolved in North America, they went extinct thousands of years ago and were later reintroduced by Europea… [+9354 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hurriyet Daily News"
+    },
+    "author": "hurriyetdailynews.com",
+    "title": "Türkiye’s brain drain rate reaches highest level since 2015: Data",
+    "description": "Türkiye’s brain drain rate among university graduates rose to 2.2 percent in 2025, marking its highest level since the data series began in 2015, according to the Turkish Statistical Institute (TÜİK).",
+    "url": "https://www.hurriyetdailynews.com/turkiyes-brain-drain-rate-reaches-highest-level-since-2015-data-228530",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6adb7cf9957c6a1e2fd19b00.jpg",
+    "publishedAt": "2026-10-24T06:33:19Z",
+    "content": "ANKARA\r\nGermany is the top destination for Turkish university graduates moving abroad, followed by the United States and the United Kingdom. \r\nTürkiyes brain drain rate among university graduates ros… [+2112 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Pypi.org"
     },
-    "author": "lijichen365@gmail.com",
-    "title": "molcrafts-molpy-nightly 0.19.0.dev202610230849",
-    "description": "Modern Python framework for molecular simulation and analysis",
-    "url": "https://pypi.org/project/molcrafts-molpy-nightly/0.19.0.dev202610230849/",
+    "author": null,
+    "title": "seqleak added to PyPI",
+    "description": "Gene-position baselines, position-held-fixed metrics and a leak linter for genomic language model benchmarks",
+    "url": "https://pypi.org/project/seqleak/",
     "urlToImage": null,
-    "publishedAt": "2026-10-23T08:49:39Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PR Newswire UK"
-    },
-    "author": null,
-    "title": "Malteurop acquires the Chunlei Malting Co. malting plant - A strategic investment that significantly expands its operations and strengthens its position in export markets",
-    "description": "YANCHENG, China, Oct. 23, 2026 /PRNewswire/ -- VIVESCIA cooperative group and its malting business have announced the acquisition of the Chunlei Malting Co. plant. With annual production capacity of 220,000 tonnes of malt, enough to make 2 billion liters of b…",
-    "url": "https://www.prnewswire.co.uk/news-releases/malteurop-acquires-the-chunlei-malting-co-malting-plant---a-strategic-investment-that-significantly-expands-its-operations-and-strengthens-its-position-in-export-markets-302917924.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS2019503/Inauguration_Chunlei-Malting-Co-malting-plant.jpg?id=OA3036202&p=facebook",
-    "publishedAt": "2026-10-23T08:49:00Z",
-    "content": "YANCHENG, China, Oct. 23, 2026 /PRNewswire/ -- VIVESCIA cooperative group and its malting business have announced the acquisition of the Chunlei Malting Co. plant. With annual production capacity of … [+5141 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Nathan Dean",
-    "title": "Software Is Suggesting What Goes in Your Medical Record. A Federal Regulator Just Named the Problem",
-    "description": "Across American healthcare, software now reads patient records and prompts clinicians about conditions a patient might have. And a federal regulator has now put that in writing.",
-    "url": "https://www.medicaldaily.com/software-suggesting-what-goes-your-medical-record-federal-regulator-just-named-problem-480346",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487703/software-suggesting-what-goes-your-medical-record.jpg",
-    "publishedAt": "2026-10-23T08:46:04Z",
-    "content": "When your doctor types up a visit, they are not always working alone anymore.\r\nAcross American healthcare, software now reads patient records and prompts clinicians about conditions a patient might h… [+3853 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Homedit.com"
-    },
-    "author": "Stefan Gheorghe",
-    "title": "They Used Their Soaking Tub Once in 20 Years, So They Replaced It With a Window Bench",
-    "description": "Twenty years in the same house, and the homeowners had used their soaking tub just once. The large white bathtub sat beneath a frosted window, taking up one end of a bathroom with deep red walls and a separate glass-enclosed shower. Reddit user u/TxSkerAg sha…",
-    "url": "https://www.homedit.com/they-used-their-soaking-tub-once-in-20-years-so-they-replaced-it-with-a-window-bench/",
-    "urlToImage": "https://cdn.homedit.com/wp-content/uploads/2026/10/They-Used-Their-Soaking-Tub-Once-in-20-Years-So-They-Replaced-It-With-a-Window-Bench.jpg",
-    "publishedAt": "2026-10-23T08:17:23Z",
-    "content": "Twenty years in the same house, and the homeowners had used their soaking tub just once. The large white bathtub sat beneath a frosted window, taking up one end of a bathroom with deep red walls and … [+4968 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Www.gov.uk"
-    },
-    "author": null,
-    "title": "Mental health support for British nationals in United Arab Emirates",
-    "description": "Information about support for British nationals experiencing mental health difficulties in United Arab Emirates.",
-    "url": "https://www.gov.uk/guidance/mental-health-support-for-british-nationals-in-united-arab-emirates",
-    "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-    "publishedAt": "2026-10-23T08:10:05Z",
-    "content": "Read guidance on mental health abroad for broader advice on mental health issues while travelling or living abroad.\r\nWhat to do in an emergency\r\nIn an emergency or for urgent medical attention call 9… [+7970 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
-    "description": "Two suspected gunmen were killed by the IDF after a shooting near Judea Junction in the southern West Bank left five Israelis wounded on Friday.",
-    "url": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/west-bank-shooting-judea-junction-israelis-wounded.jpg",
-    "publishedAt": "2026-10-23T08:05:06Z",
-    "content": "Five people were wounded, including two critically, and two suspected gunmen were killed in a shooting Friday in the southern West Bank, officials said.\r\nThe Israel Defense Forces (IDF) reported that… [+866 chars]"
-  },
-  {
-    "source": {
-      "id": "the-next-web",
-      "name": "The Next Web"
-    },
-    "author": "Alina Maria Stan",
-    "title": "Microsoft AI tool beat generalist doctors at step-by-step diagnosis",
-    "description": "A peer-reviewed Science study found Microsoft’s MAI-DxO diagnosed complex cases more than twice as accurately as generalist doctors.",
-    "url": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study",
-    "urlToImage": "https://media.thenextweb.com/2026/10/microsoft-logo-experience-center-new-york.jpg",
-    "publishedAt": "2026-10-23T08:03:58Z",
-    "content": "Microsoft has developed an AI diagnostic tool that solved complex medical cases more than twice as accurately as generalist doctors in a study published in Science.\r\nUnlike many medical AI systems, i… [+2197 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thefutoncritic.com"
-    },
-    "author": null,
-    "title": "Bravo Unveils New Series, Returning Favorites and First Scripted Microdrama Ahead of Bravo Fan Fest Charleston",
-    "description": "The network expands the \"Next Gen\" franchise with new series \"Next Gen Atlanta\" and renews \"Next Gen NYC,\" \"In The City,\" and \"Southern Hospitality.\"",
-    "url": "http://www.thefutoncritic.com/news/2026/10/23/bravo-unveils-new-series-returning-favorites-and-first-scripted-microdrama-ahead-of-bravo-fan-fest-charleston-510514/20261023bravo01/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-23T08:01:00Z",
-    "content": "BRAVO UNVEILS NEW SERIES, RETURNING FAVORITES AND FIRST SCRIPTED MICRODRAMA AHEAD OF BRAVO FAN FEST CHARLESTON\r\n\"Next Gen Atlanta\" Receives Series Greenlight, Alongside New Seasons of \"Next Gen NYC,\"… [+5741 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thecoolist.com"
-    },
-    "author": "TheCoolist Team",
-    "title": "Cleaning A Fabric Sofa Without Leaving A Ring: The Method Upholstery Pros Use",
-    "description": "You cleaned one small stain, and now the sofa has a bigger one: a pale halo with a darker rim, right where you scrubbed, somehow worse than the mark you started with. It’s the most common way a fabric sofa gets ruined, it happens with plain water on a clean c…",
-    "url": "https://www.thecoolist.com/cleaning-a-fabric-sofa-without-leaving-a-ring-the-method-upholstery-pros-use-h2r4/",
-    "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/10/gpointstudio.jpg",
-    "publishedAt": "2026-10-23T08:00:31Z",
-    "content": "You cleaned one small stain, and now the sofa has a bigger one: a pale halo with a darker rim, right where you scrubbed, somehow worse than the mark you started with. It’s the most common way a fabri… [+3342 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "TheJournal.ie"
-    },
-    "author": "Andrew Walsh",
-    "title": "The 9 at 9: Friday",
-    "description": "Storm Austen passes with another on the way, HSE failing to collect millions of euros owed by pharma companies, and unrest in the DUP",
-    "url": "https://www.thejournal.ie/9-at-9-friday-78-7202604-Oct2026/",
-    "urlToImage": "https://c1.thejournal.ie/media/2026/10/fried-egg-with-grilled-sausage-for-breakfast-58d79e2e-b615-4506-aef1-d39b14895165-390x285.jpg",
-    "publishedAt": "2026-10-23T07:58:18Z",
-    "content": "GOOD MORNING.\r\nHeres all the news you need to know to start the day.\r\nStorm Austen\r\n1. Heavy rain has hit the country overnight as Storm Austen rolled in, with conditions starting to ease this mornin… [+2049 chars]"
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "https://www.facebook.com/bbcnews",
-    "title": "World first personalised cancer vaccine stops disease returning in major trial",
-    "description": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
-    "url": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o",
-    "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f379/live/0f348400-cead-11f1-bc2e-018d645d8d21.jpg",
-    "publishedAt": "2026-10-23T07:49:02Z",
-    "content": "The new approach is aimed at cancer patients who have already had their tumour removed through surgery.\r\nIn the trial, 1,137 adults were given Keytruda, an established immunotherapy drug which helps … [+983 chars]"
+    "publishedAt": "2026-10-24T06:32:54Z",
+    "content": "seqleak checks DNA sequence-classification benchmarks for leaks: copies, near-copies and relatives of test\r\nsequences in the training data, negatives built from the positives, label-correlated artefa… [+36008 chars]"
   }
 ]
