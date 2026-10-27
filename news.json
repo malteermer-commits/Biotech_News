@@ -1,42 +1,29 @@
 [
   {
     "source": {
-      "id": "fox-news",
-      "name": "Fox News"
+      "id": null,
+      "name": "The Cut"
     },
-    "author": null,
-    "title": "MIKE DAVIS: Shocking $6M verdict shows why DOJ must investigate MIT",
-    "description": "A jury awarded David Sabatini $6 million after rejecting sexual-misconduct claims that ended his MIT career and shuttered his Whitehead lab.",
-    "url": "https://www.foxnews.com/opinion/mike-davis-shocking-6m-verdict-shows-why-doj-must-investigate-mit",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/david-sabatini-mit-jury-verdict.jpg",
-    "publishedAt": "2026-10-25T11:17:14Z",
-    "content": "A Massachusetts jury recently awarded scientist David Sabatini $6 million and rejected the sexual-misconduct claims that had ended his career at the Massachusetts Institute of Technology (MIT) and sh… [+7251 chars]"
+    "author": "Erin Chack",
+    "title": "The Year I Learned to Live Alone by Living With Everyone",
+    "description": "After spending 20 years building a home around one person, I was forced to find roommates — and, eventually, myself.",
+    "url": "http://www.thecut.com/article/my-year-living-with-strangers-roomates-after-divorce.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/040/8c1/14f01f2857e0a3c318750f27711e6189ae-roommates-week-100-01.1x.rsocial.w1200.jpg",
+    "publishedAt": "2026-10-26T11:00:48Z",
+    "content": "I remember the exact moment I realized I would never live with my husband again. I was standing in our kitchen, holding on to the back of a chair for support both physical and emotional while he expl… [+16980 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Crypto Briefing"
+      "name": "BusinessLine"
     },
-    "author": "Diego Almada Lopez",
-    "title": "Nvidia CEO Jensen Huang says quantum computers could help train AI",
-    "description": "Quantum computing's integration with AI could revolutionize scientific research, enhancing data fidelity and accelerating innovation.\nThe post Nvidia CEO Jensen Huang says quantum computers could help train AI appeared first on Crypto Briefing.",
-    "url": "https://cryptobriefing.com/jensen-huang-quantum-computing-ai-training/",
-    "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/25070807/library-nvidia-ceo-jensen-huang-says-quantum-computers-could-hel-800x450.png",
-    "publishedAt": "2026-10-25T11:08:13Z",
-    "content": "Huang pitches quantum machines as a source of synthetic training data built from simulated biology and chemistry Jensen Huang has a new job in mind for quantum computers: teaching AI. The Nvidia CEO … [+3740 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "Final OS Analysis Results from Phase III OptiTROP-Lung04 Study of Sacituzumab Tirumotecan (sac-TMT) Presented at 2026 ESMO",
-    "description": "Median OS was extended by 8.5 months compared with platinum-based doublet chemotherapy (25.9 vs 17.4 months), with a 31% reduction in the risk of death (HR 0.69; 95% CI 0.54–0.89; one-sided P = 0.0021). The 2-year OS rate was 54.1% vs 37.2%, an improvement of…",
-    "url": "https://www.prnewswire.com/news-releases/final-os-analysis-results-from-phase-iii-optitrop-lung04-study-of-sacituzumab-tirumotecan-sac-tmt-presented-at-2026-esmo-302918760.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS2020113/20261025040103EDT_image_1.jpg?id=OA3037940&p=facebook",
-    "publishedAt": "2026-10-25T11:01:00Z",
-    "content": "<ul><li>Median OS was extended by 8.5 months compared with platinum-based doublet chemotherapy (25.9 vs 17.4 months), with a 31% reduction in the risk of death (HR 0.69; 95% CI 0.540.89; one-sided P … [+8710 chars]"
+    "author": "BL Mangaluru Bureau",
+    "title": "MAHE inaugurates BSL-3 facility to strengthen infectious disease research",
+    "description": "MAHE has inaugurated a BSL-3 facility for infectious disease research, diagnostics and surveillance, certified by the Department of Biotechnology in March 2026.",
+    "url": "https://www.thehindubusinessline.com/news/education/mahe-inaugurates-bsl-3-facility-to-strengthen-infectious-disease-research/article71626495.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/economy/agri-business/25bt2x/article71626491.ece/alternates/LANDSCAPE_1200/BSL-3%20Facilty%20at%20Manipal%20Academy%20of%20Higher%20Education.jpg",
+    "publishedAt": "2026-10-26T10:58:41Z",
+    "content": "Manipal Academy of Higher Education (MAHE) recently inaugurated the Biosafety Level 3 (BSL-3) facility for high-containment biomedical research.\r\nThe BSL-3 facility is designed to support research on… [+1018 chars]"
   },
   {
     "source": {
@@ -44,219 +31,219 @@
       "name": "Science Daily"
     },
     "author": null,
-    "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-    "description": "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potent…",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/cancer-cell-divides.webp",
-    "publishedAt": "2026-10-25T11:00:25Z",
-    "content": "Scientists have uncovered new details about how pancreatic cancer constantly changes its genetic makeup, allowing it to become more aggressive, spread throughout the body, and resist treatment. By ex… [+7755 chars]"
+    "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
+    "description": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went ex…",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/giant-fungus-d-rex.webp",
+    "publishedAt": "2026-10-26T10:50:11Z",
+    "content": "Scientists exploring the forests of Yunnan, China, have discovered an extraordinary giant fungus that is challenging previous assumptions about how large certain fungi can grow. The newly identified … [+6824 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Futurism"
+      "name": "Testudo Times"
     },
-    "author": "Frank Landymore",
-    "title": "Microsoft Says Its New AI Is Better at Diagnosing Patients Than Real Doctors",
-    "description": "\"This is just going to change the way care is delivered in a big way.\"\nThe post Microsoft Says Its New AI Is Better at Diagnosing Patients Than Real Doctors appeared first on Futurism.",
-    "url": "https://futurism.com/artificial-intelligence/microsoft-new-ai-better-real-doctors",
-    "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/microsoft-new-ai-better-real-doctors.jpg?quality=85&w=2048",
-    "publishedAt": "2026-10-25T10:57:00Z",
-    "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nMicrosoft’s new AI is surpassing the abilities of human doctors according to its own study, at least.\r\nThe research, which was peer-… [+3420 chars]"
+    "author": "Justin Glenn",
+    "title": "Inside the economics of Maryland’s non-revenue sports",
+    "description": "Several of the university’s most successful programs operate at a loss and must find creative ways to raise funds.",
+    "url": "https://www.testudotimes.com/maryland-terps-sports/94436/inside-the-economics-of-marylands-non-revenue-sports",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/39ac0fdc0029d1e7a2edc3cd89bf0a479ce6865d920345af1d1edf84404d0cbe/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F538f4ab519086ed3e52a6c3ad363de9f.jpg",
+    "publishedAt": "2026-10-26T10:50:00Z",
+    "content": "Name, image and likeness money is a must to recruit and program build. And without it, operating a program in modern college sports is difficult.\r\nIn this story, Testudo Times took a look at how Mary… [+8625 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Antaranews.com"
+      "name": "Ibtimes.com.au"
     },
-    "author": "Mecca Yumna N P, Martha Herlinawati Simanjuntak",
-    "title": "Indonesia, Russia explore drug technology transfers to cut imports",
-    "description": "Indonesia and Russia are exploring technology transfers to strengthen domestic pharmaceutical production, reduce import dependence and improve oversight of ...",
-    "url": "https://en.antaranews.com/news/437751/indonesia-russia-explore-drug-technology-transfers-to-cut-imports",
-    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/10/24/1792767178599.jpg",
-    "publishedAt": "2026-10-25T10:55:04Z",
-    "content": "Russian companies have expressed readiness to explore technology transfers and the establishment of manufacturing facilities in Indonesia,\r\nJakarta (ANTARA) - Indonesia and Russia are exploring techn… [+4276 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": null,
-    "title": "The Results of Phase III OptiTROP-Lung06 Study of Sacituzumab Tirumotecan (sac-TMT) Presented as an ESMO Oral Presentation and Simultaneously Published in The New England Journal of Medicine",
-    "description": "PFS was significantly prolonged: as assessed by BICR, the risk of disease progression or death was reduced by 51% (HR 0.49; 95% CI 0.36-0.65; P<0.0001 ), and...",
-    "url": "https://www.prnewswire.com/news-releases/the-results-of-phase-iii-optitrop-lung06-study-of-sacituzumab-tirumotecan-sac-tmt-presented-as-an-esmo-oral-presentation-and-simultaneously-published-in-the-new-england-journal-of-medicine-302918758.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS2020129/20261025054151EDT_image_1.jpg?id=OA3037975&p=facebook",
-    "publishedAt": "2026-10-25T10:37:00Z",
-    "content": "<ul><li>PFS was significantly prolonged: as assessed by BICR, the risk of disease progression or death was reduced by 51% (HR 0.49; 95% CI 0.36-0.65; P&lt;0.0001 ), and median PFS was 15.0 months (95… [+8978 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "jfscorreia95@gmail.com",
-    "title": "reactea 2.0.1",
-    "description": "ReactEA: Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design",
-    "url": "https://pypi.org/project/reactea/2.0.1/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-25T10:33:00Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Science Daily"
-    },
-    "author": null,
-    "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-    "description": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies fou…",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/aspirin-pills-close.webp",
-    "publishedAt": "2026-10-25T10:21:48Z",
-    "content": "A new analysis from Monash University suggests that low-dose aspirin may be linked to a dramatically lower risk of dementia in older adults with certain genetic characteristics. Researchers found tha… [+4604 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Nicholas Comino",
-    "title": "New 'Cash is King' plan unveiled to protect the rights of millions of Aussies to pay with notes and coins",
-    "description": "A new law set to be introduced to Parliament would protect the rights of millions of Aussies to pay cash when shopping.",
-    "url": "https://www.dailymail.com/news/article-16236811/australia-cash-card-surcharge-laws-rules.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/10/25/04/112076333-0-image-a-37_1792904186843.jpg",
-    "publishedAt": "2026-10-25T10:16:19Z",
-    "content": "The Coalition has pledged to give Australians a legal right to pay with cash, unveiling a new bill that would force major retailers, restaurants, pharmacies and government agencies to accept notes an… [+3350 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Reason"
-    },
-    "author": "Zach Weissmueller",
-    "title": "Vinay Prasad on Anthony Fauci, COVID-19 Restrictions, and RFK Jr.",
-    "description": "\"Fauci was wrong about almost every single pandemic policy he advanced,\" the former FDA insider tells 'Reason.'",
-    "url": "https://reason.com/2026/10/25/public-health-is-so-broken/",
-    "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/09/interview.jpg",
-    "publishedAt": "2026-10-25T10:00:28Z",
-    "content": "https://dts.podtrac.com/redirect.mp3/d2h6a3ly6ooodw.cloudfront.net/reasontv_audio_8397462.mp3\r\n1x \r\n1.1x \r\n1.25x \r\n1.5x \r\n2x \r\n3x \r\n :15 :15 \r\nDownload \r\nVinay Prasad: Public Health in This Country I… [+20349 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ScienceAlert"
-    },
-    "author": "David Nield",
-    "title": "Too Much RNA Can Actually Starve Cells of Energy, Study Finds",
-    "description": "An effect we've never seen before.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-    "url": "https://www.sciencealert.com/too-much-rna-can-actually-starve-cells-of-energy-study-finds",
-    "urlToImage": "https://www.sciencealert.com/images/2026/10/mRNAStrand.jpg",
-    "publishedAt": "2026-10-25T10:00:00Z",
-    "content": "RNA, or ribonucleic acid, is one of the most important molecules in keeping the body functioning correctly. One of its main jobs is to turn the information stored in our genetics into actual proteins… [+4487 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Bleeding Cool News"
-    },
-    "author": "Rich Johnston",
-    "title": "Official: Dynamite January 2027 Full Solicits With X-Files 2",
-    "description": "Dynamite Entertainment's January 2027 Solicits and Solicitations include Thundercats '85, Terminator's Valentine's Day, 80 Page giants for Vampirella and Red Sonja, as well as more X-Files, Ben 10, Sabrina The Teenage Witch Vs Vampirella, Barbarella, Archie V…",
-    "url": "https://bleedingcool.com/comics/official-dynamite-january-2027-full-solicits-with-x-files-2/",
-    "urlToImage": "https://bleedingcool.com/wp-content/uploads/2026/10/218-2000x1125.jpg",
-    "publishedAt": "2026-10-25T09:57:12Z",
-    "content": "Posted in: Comics, Dynamite | Tagged: archie, Ben 10, red sonja, sabrina, Supernatural, terminator, vampirella, x-files\r\nDynamite Entertainment's January 2027 Solicits include Thundercats '85, Termin… [+12823 chars]"
+    "author": "Hannah Kim",
+    "title": "Mounjaro vs. Wegovy: The Numbers Behind the Weight-Loss Drug Boom of 2026",
+    "description": "GLP-1 drugs are rapidly moving into mainstream use, led by tirzepatide's trial win, record sales and rising uptake, though obesity trends and user-reported benefits require cautious interpretation.",
+    "url": "https://www.ibtimes.com.au/glp-1-drugs-trial-sales-obesity-trends-1877401",
+    "urlToImage": "https://d.ibtimes.com.au/en/full/1896936/mounjaro-vs-wegovy.png",
+    "publishedAt": "2026-10-26T10:48:44Z",
+    "content": "A head-to-head trial win, record sales and a falling U.S. obesity rate show how fast these injections have moved into everyday life, along with several caveats\r\nFew medicines have changed the convers… [+3991 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "ANI",
-    "title": "Investments in emerging sectors rise, but bank and NBFC financing remain limited: Report",
-    "description": "Emerging sectors like AI, semiconductors, and defence are attracting significant investments while bank lending is limited. The financing patterns vary, with AI and space primarily funded through equity. Risks such as technology obsolescence and payment delay…",
-    "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/investments-in-emerging-sectors-rise-but-bank-and-nbfc-financing-remain-limited-report/articleshow/135188153.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135188152,width-1200,height-900,imgsize-221000,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-25T09:44:39Z",
-    "content": "New Delhi: Despite rising investments across emerging sectors like AI and space technology, bank and non-banking financial company (NBFC) lending remains limited, as per a report by Union Bank of Ind… [+2293 chars]"
+    "author": "ET Online",
+    "title": "Israel votes tomorrow: What’s at stake for India as Bibi faces tough fight",
+    "description": "Israel's elections on October 27 will significantly affect the country's relationship with India. More than just political outcomes, defense and trade agreements will be critical in bilateral ties. India aims to maintain cooperation regardless of the election…",
+    "url": "https://economictimes.indiatimes.com/news/india/israel-election-tomorrow-netanyahu-party-opinion-polls-whats-at-stake-for-india-as-bibi-faces-tough-fight/articleshow/135208775.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135209520,width-1200,height-900,imgsize-81870,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-26T10:44:56Z",
+    "content": "More than a friend, a brother, Israeli Prime Minister Benjamin Netanyahu said of Prime Minister Narendra Modi during the Indian leaders visit in February. Modi, in turn, described the India-Israel bo… [+9711 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "ET Online",
+    "title": "Nirmala Sitharaman reaffirms govt's fiscal discipline push, puts public debt target at 50% of GDP by 2030",
+    "description": "FM Sitharaman linked the government's broader economic priorities -- fiscal consolidation, inflation management and currency stability -- with the need to expand employment and enterprise opportunities, particularly for women, through education, skill develop…",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-reaffirms-govts-fiscal-discipline-push-puts-public-debt-target-at-50-of-gdp-by-2030/articleshow/135209048.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135209188,width-1200,height-900,imgsize-118606,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-26T10:30:12Z",
+    "content": "Union Finance Minister Nirmala Sitharaman has reaffirmed the Centre's commitment to fiscal consolidation, setting a target of capping national debt at 50% of gross domestic product by 2030. She also … [+3372 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "mindbodygreen.com"
     },
-    "author": "jfscorreia95@gmail.com",
-    "title": "reactea 2.0.0",
-    "description": "ReactEA: Combining Evolutionary Algorithms with Reaction Rules Towards Focused Molecular Design",
-    "url": "https://pypi.org/project/reactea/2.0.0/",
+    "author": "Rachelle Ciulla, MSPH",
+    "title": "I Discovered I Had Histamine Intolerance — Here's What I Did To Heal",
+    "description": "There's hope for histamine intolerance.",
+    "url": "https://www.mindbodygreen.com/articles/i-had-histamine-intolerance-heres-what-i-did-to-heal-reducing-stress",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/iwxvm6l44kfzlfs8l.jpg",
+    "publishedAt": "2026-10-26T10:29:00Z",
+    "content": "More and more, were learning about the havoc that a surplus of histamine can cause in our bodies. Histamine isnt inherently bad; its made by our immune system in response to perceived threats. \r\nThe … [+4301 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "Veronica Zamora-Gutierrez, Lecturer in Ecology, University of Southampton, Neil J. Gostling, Associate Professor in Evolution and Palaeobiology, University of Southampton",
+    "title": "Where did bats come from? New research points to Europe",
+    "description": "The fact bats can fly has made it hard to pin down the place where their evolutionary story began.",
+    "url": "https://theconversation.com/where-did-bats-come-from-new-research-points-to-europe-293625",
+    "urlToImage": "https://images.theconversation.com/files/766139/original/file-20261014-50-q1t8w1.jpg?ixlib=rb-4.1.1&rect=0%2C371%2C4452%2C2226&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-10-26T10:23:44Z",
+    "content": "Memo Ossa/Shutterstock\r\nFor decades scientists have argued about where bats originated. A recently published study in the journal Nature offers new evidence to address that question. This new interna… [+5465 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fci Academy"
+    },
+    "author": "Adam Jardy, Columbus Dispatch",
+    "title": "From morning walk to praise, a day in the life of Ohio State coach Jake Diebler",
+    "description": "What's a normal day like for a Division I men's basketball coach? Ohio State coach Jake Diebler let The Dispatch follow him around to find out.",
+    "url": "https://www.dispatch.com/story/sports/college/basketball/2026/10/26/jake-diebler-ohio-state-mens-basketball-coach/92379162007/",
     "urlToImage": null,
-    "publishedAt": "2026-10-25T09:11:53Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "publishedAt": "2026-10-26T10:19:41Z",
+    "content": "The neighborhood, along with just about all of its residents, was still asleep. With no streetlights to drown them out, the morning stars were clearly visible in ways they were not just a few miles s… [+15304 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "Ibtimes.com.au"
     },
-    "author": "Adrian Hayes",
-    "title": "A Wood-Burning Tea Samovar Lit Indoors Poisoned 3 Relatives as They Slept, Until One Woke with a Headache",
-    "description": "Three relatives in Türkiye lit a wood-burning samovar indoors and slept beside it. A woman's morning headache led them to care for carbon monoxide.",
-    "url": "https://www.medicaldaily.com/samovar-carbon-monoxide-poisoning-family-480415",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487772/editorial-illustration-via-ai.jpg",
-    "publishedAt": "2026-10-25T09:11:50Z",
-    "content": "Three members of one family in Türkiye lit a wood-burning samovar inside their home to brew tea, then went to sleep in the same room. In the morning, a 47-year-old woman woke with a severe headache, … [+5534 chars]"
+    "author": "Jerry Thompson",
+    "title": "Mounjaro Beats Wegovy in Head-to-Head Weight-Loss Trial as Blockbuster Drug Reshapes Obesity in the US and UK",
+    "description": "In the first direct comparison of the leading obesity drugs, tirzepatide delivered greater average weight loss than semaglutide, while growing use is influencing health trends, sales and consumer habits.",
+    "url": "https://www.ibtimes.com.au/tirzepatide-beats-wegovy-obesity-drug-trial-1877400",
+    "urlToImage": "https://d.ibtimes.com.au/en/full/1896935/mounjaro-beats-wegovy-head-head-weight-loss-trial-blockbuster-drug.jpg",
+    "publishedAt": "2026-10-26T10:17:45Z",
+    "content": "Eli Lilly's tirzepatide, sold as Mounjaro and Zepbound, produced substantially more weight loss than Novo Nordisk's Wegovy in the first head-to-head trial of the two leading obesity drugs. Those resu… [+6429 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "mindbodygreen.com"
     },
-    "author": "Ryan Archer",
-    "title": "After Hearing Ape Laughter, Orangutans Favored One Treat Hiding Spot Though Both Held Equal Rewards",
-    "description": "Six zoo orangutans heard laughter before learning where treats were hidden, then favored that spot later. The bias matched the pull of a tripled reward.",
-    "url": "https://www.medicaldaily.com/orangutans-laughter-reward-bias-study-480414",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487771/editorial-illustration-via-ai.jpg",
-    "publishedAt": "2026-10-25T09:09:18Z",
-    "content": "Six zoo orangutans learned that treats were buried under two different materials, such as wood chips and yarn. The rewards were identical. Yet when the apes later had to choose between those two hidi… [+5912 chars]"
+    "author": "Ava Durgin",
+    "title": "This May Be Why Women Are More Likely To Develop An Autoimmune Disease",
+    "description": "A deeper look at why women’s bodies respond differently over time",
+    "url": "https://www.mindbodygreen.com/articles/why-aging-impacts-womens-immune-systems-more-than-mens-inflammation",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1776722300561_a9i1e4zjq2t.jpg",
+    "publishedAt": "2026-10-26T10:16:00Z",
+    "content": "Theres a reason some people seem to bounce back from illness quickly, while others deal with lingering inflammation, fatigue, or new health issues as they get older. We tend to chalk it up to lifesty… [+4519 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Good Men Project"
+      "name": "Dailymail.com"
     },
-    "author": "Futurity",
-    "title": "Time-Restricted Eating Boosts Weight Loss in Adults With Obesity, Prediabetes",
-    "description": "A new study reports evidence that time-restricted eating can cause modest weight loss in adults with both obesity and prediabetes or those with diet-controlled Type 2 diabetes.\nThe post Time-Restricted Eating Boosts Weight Loss in Adults With Obesity, Prediab…",
-    "url": "https://goodmenproject.com/featured-content/time-restricted-eating-boosts-weight-loss-in-adults-with-obesity-prediabetes/",
-    "urlToImage": "https://goodmenproject.com/wp-content/uploads/2026/10/iStock-1475469982.jpg",
-    "publishedAt": "2026-10-25T09:00:29Z",
-    "content": "By Johns Hopkins University\r\nTime-restricted eating is a form of intermittent fasting that involves only eating during a consistent, daily 8- to 10-hour window.\r\nThe study in the journal Obesity repr… [+4798 chars]"
+    "author": "Wiliam Hunter",
+    "title": "Look familiar? Rare fossils reveal what our ancient human relatives, the Denisovans, might have looked like",
+    "description": "A study of rare fossils has revealed what our ancient human ancestors, the Denisovans, might have looked like.",
+    "url": "https://www.dailymail.com/sciencetech/article-16238789/fossils-reveal-human-ancestors-Denisovans.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/26/10/112092607-0-image-m-74_1793009352564.jpg",
+    "publishedAt": "2026-10-26T10:12:29Z",
+    "content": "A study of rare fossils has revealed what our ancient human ancestors, the Denisovans, might have looked like.\r\nThe Denisovans are a mysterious human species that lived across Asia between 300,000 an… [+8569 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "ARTnews"
+      "name": "Alchemer.com"
     },
-    "author": "Emily Watlington",
-    "title": "Walid Raad’s Way of Working Is Inspired by the Mirrors in Vampire Movies",
-    "description": "His work in the Venice Biennale and at Paula Cooper Gallery turns history’s absences into artworks.",
-    "url": "https://www.artnews.com/art-in-america/features/walid-raad-icons-venice-biennale-paula-cooper-1234803667/",
-    "urlToImage": "https://www.artnews.com/wp-content/uploads/2026/10/Omar_10X14@300.jpg?w=1024",
-    "publishedAt": "2026-10-25T09:00:00Z",
-    "content": "As a teenager, Walid Raad would walk around his hometown with a camera, just trying to make some sense of the world. At a glance, the black-and-white pictures he captured then offer cool, detached vi… [+17735 chars]"
+    "author": null,
+    "title": "Early Relational Health Programs Request for Information",
+    "description": "Early Relational Health Programs Request for Informationalchemer.com",
+    "url": "https://survey.alchemer.com/s3/9031516/ERH-RFI",
+    "urlToImage": "",
+    "publishedAt": "2026-10-26T10:03:51Z",
+    "content": "The National Academies of Sciences, Engineering, and Medicine is seeking information about existing programs, initiatives, practices, and approaches that support early relational health (ERH) for inf… [+1966 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "BusinessLine"
     },
-    "author": "edenspec@post.bgu.ac.il",
-    "title": "descripytor 0.4.7",
-    "description": "Molecular feature extraction, alignment, and modeling tools.",
-    "url": "https://pypi.org/project/descripytor/0.4.7/",
+    "author": "PT Jyothi Datta",
+    "title": "Trade-margin cap on cancer drugs may push up costs elsewhere in supply chain: Experts",
+    "description": "Trade-margin caps on cancer drugs may reduce prices for patients but risk shifting costs to hospitals, supply chains, and other services.",
+    "url": "https://www.thehindubusinessline.com/news/national/trade-margin-cap-on-cancer-drugs-may-push-up-costs-elsewhere-in-supply-chain-experts/article71626276.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/y4uy07/article71626338.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UTT5L096R_R1553785594_8_89c71552-9db4-420e-aabb-532e54a0f8bc.jpg",
+    "publishedAt": "2026-10-26T10:00:26Z",
+    "content": "In about two weeks, the Centres 30 per cent trade-margin cap on 137 non-scheduled cancer medicines is to reflect in the price of these medicines, sold at chemists and hospitals.\r\nWhile some relief is… [+3409 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The New Yorker"
+    },
+    "author": "D. T. Max",
+    "title": "Did an Alternative-Medicine Guru Accidentally Kill Patients?",
+    "description": "In Switzerland, Thomas Rau offers treatments that many conventional doctors would question. Now, D. T. Max reports, he’s accused of lethally negligent care.",
+    "url": "https://www.newyorker.com/magazine/2026/11/02/did-an-alternative-medicine-guru-accidentally-kill-patients",
+    "urlToImage": "https://media.newyorker.com/photos/6ad8c2debd0ff38ee94d416e/16:9/w_1280,c_limit/r49952.jpg",
+    "publishedAt": "2026-10-26T10:00:00Z",
+    "content": "Rau, who is seventy-six, has been practicing for forty-four years, mostly in the northeastern canton of Appenzell Ausserrhoden, which includes Schwellbrunn. He estimates that hes seen more than ten t… [+4196 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Xiao Zhang and Weihua Deng",
+    "title": "Polymer diffusion in nonstatic media with inverse $α$-stable subordinator",
+    "description": "There is a growing recognition of diffusion in nonstatic media across a spectrum of scientific fields, from cosmology to biology. This paper focuses on more complex practical scenarios of center-of-mass (c.m.) motion of polymers, which is not only determined …",
+    "url": "https://link.aps.org/doi/10.1103/knn9-pndb",
     "urlToImage": null,
-    "publishedAt": "2026-10-25T08:50:05Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "publishedAt": "2026-10-26T10:00:00Z",
+    "content": "There is a growing recognition of diffusion in nonstatic media across a spectrum of scientific fields, from cosmology to biology. This paper focuses on more complex practical scenarios of center-of-m… [+1307 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Luke Piszkin and Dervis Can Vural",
+    "title": "Evolutionary hysteresis: Cycling about in a rugged landscape",
+    "description": "In this work, we integrate theoretical modeling, molecular simulation, and empirical analysis to identify and characterize evolutionary hysteresis. We first show how epistatic interactions create bistable fitness landscapes and structural hysteresis in a two-…",
+    "url": "https://link.aps.org/doi/10.1103/d2y4-r7qk",
+    "urlToImage": null,
+    "publishedAt": "2026-10-26T10:00:00Z",
+    "content": "In this work, we integrate theoretical modeling, molecular simulation, and empirical analysis to identify and characterize evolutionary hysteresis. We first show how epistatic interactions create bis… [+1183 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Aps.org"
+    },
+    "author": "Zhen Tao and Victor Galitski",
+    "title": "Ab initio random matrix theory of molecular electronic structure",
+    "description": "We use ab initio electronic-structure methods to investigate random matrix theory (RMT) universality in molecular electronic structure. Using single-reference electronic structure methods, including Hartree-Fock, configuration-interaction singles, density fun…",
+    "url": "https://link.aps.org/doi/10.1103/jpyj-x5yt",
+    "urlToImage": null,
+    "publishedAt": "2026-10-26T10:00:00Z",
+    "content": "We use ab initio electronic-structure methods to investigate random matrix theory (RMT) universality in molecular electronic structure. Using single-reference electronic structure methods, including … [+1465 chars]"
   }
 ]
