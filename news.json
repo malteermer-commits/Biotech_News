@@ -2,28 +2,249 @@
   {
     "source": {
       "id": null,
-      "name": "The Cut"
+      "name": "Medical Daily"
     },
-    "author": "Erin Chack",
-    "title": "The Year I Learned to Live Alone by Living With Everyone",
-    "description": "After spending 20 years building a home around one person, I was forced to find roommates — and, eventually, myself.",
-    "url": "http://www.thecut.com/article/my-year-living-with-strangers-roomates-after-divorce.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/040/8c1/14f01f2857e0a3c318750f27711e6189ae-roommates-week-100-01.1x.rsocial.w1200.jpg",
-    "publishedAt": "2026-10-26T11:00:48Z",
-    "content": "I remember the exact moment I realized I would never live with my husband again. I was standing in our kitchen, holding on to the back of a chair for support both physical and emotional while he expl… [+16980 chars]"
+    "author": "Ryan Archer",
+    "title": "A Woman's Thumb Briefly Grew Hair Where None Should, and a Mouse Protein Hints Why Palms Stay Bare",
+    "description": "Palm skin normally grows no hair, yet a woman's thumb tip did, twice. Mouse research suggests hairless skin is actively held back, not born bald.",
+    "url": "https://www.medicaldaily.com/hairless-palm-thumb-hair-dkk2-mouse-study-480459",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487816/pale-vellus-like-hairs-visible-against-skin.jpg",
+    "publishedAt": "2026-10-27T11:42:53Z",
+    "content": "The skin on your palms and the soles of your feet is one of the few places on the body that never grows hair. So when a young woman with a rare autoimmune disease twice grew fine, downy hairs on the … [+6255 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "finance.yahoo.com",
+    "title": "Compass Pathways to Announce Third Quarter 2026 Financial Results on November 3, 2026",
+    "description": "LONDON & JERSEY CITY, N.J., October 27, 2026--(BUSINESS WIRE)--Compass Pathways plc (Nasdaq: CMPS), a biotechnology company dedicated to unlocking urgently needed new treatment options in mental health care, announced today that it will release financial resu…",
+    "url": "https://biztoc.com/x/0868fedd7ae29f6c",
+    "urlToImage": "https://biztoc.com/cdn/0868fedd7ae29f6c_s.webp",
+    "publishedAt": "2026-10-27T11:36:39Z",
+    "content": "LONDON &amp; JERSEY CITY, N.J., October 27, 2026--(BUSINESS WIRE)--Compass Pathways plc (Nasdaq: CMPS), a biotechnology company dedicated to unlocking urgently needed new treatment options in mental … [+152 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Joseph James",
+    "title": "Texas Doctor and Retired Postal Worker Charged in Alleged $19 Million Scheme Targeting Injured Federal Workers' Benefits",
+    "description": "A Texas physician and a retired postal worker face charges in an alleged $19 million scheme against the benefits program for injured federal workers.",
+    "url": "https://www.medicaldaily.com/texas-feca-19-million-fraud-indictment-federal-workers-480453",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487810/us-postal-worker-wearing-uniform-delivery-route.jpg",
+    "publishedAt": "2026-10-27T11:21:26Z",
+    "content": "A Texas physician and a retired U.S. Postal Service employee have been charged with conspiring to defraud the program that pays medical and wage benefits to federal employees hurt on the job, federal… [+6696 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "BusinessLine"
     },
-    "author": "BL Mangaluru Bureau",
-    "title": "MAHE inaugurates BSL-3 facility to strengthen infectious disease research",
-    "description": "MAHE has inaugurated a BSL-3 facility for infectious disease research, diagnostics and surveillance, certified by the Department of Biotechnology in March 2026.",
-    "url": "https://www.thehindubusinessline.com/news/education/mahe-inaugurates-bsl-3-facility-to-strengthen-infectious-disease-research/article71626495.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/economy/agri-business/25bt2x/article71626491.ece/alternates/LANDSCAPE_1200/BSL-3%20Facilty%20at%20Manipal%20Academy%20of%20Higher%20Education.jpg",
-    "publishedAt": "2026-10-26T10:58:41Z",
-    "content": "Manipal Academy of Higher Education (MAHE) recently inaugurated the Biosafety Level 3 (BSL-3) facility for high-containment biomedical research.\r\nThe BSL-3 facility is designed to support research on… [+1018 chars]"
+    "author": "PTI",
+    "title": "Why is the system helping drugmakers? Supreme Court questions Centre over medicine pricing",
+    "description": "The Supreme Court questioned the Centre over the gap between medicine MRP and retailer prices, and raised concerns about the NPPA and drug trade margins.",
+    "url": "https://www.thehindubusinessline.com/news/national/why-is-the-system-helping-drugmakers-supreme-court-questions-centre-over-medicine-pricing/article71630950.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/o2zee7/article71561501.ece/alternates/LANDSCAPE_1200/SC-directs-CentGGLGKT5GL.4.jpg.jpg",
+    "publishedAt": "2026-10-27T11:19:15Z",
+    "content": "Why is the entire system working to help pharmaceutical manufacturers, asked the Supreme Court on Tuesday while questioning the Centre over the massive difference between the MRP of medicines and the… [+1782 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "GlobeNewswire",
+    "title": "Satellos Establishes Scientific Advisory Board to Explore the Biology of Regeneration in Aging and Neuroscience",
+    "description": "Distinguished scientists bring expertise spanning stem cell biology, regenerative medicine, aging research, neuroscience and small molecule chemistry TORONTO, Oct. 27, 2026 (GLOBE NEWSWIRE) — Satellos Bioscience Inc. (NASDAQ: MSLE, TSX: MSCL), a clinical-stag…",
+    "url": "https://financialpost.com/globe-newswire/satellos-establishes-scientific-advisory-board-to-explore-the-biology-of-regeneration-in-aging-and-neuroscience",
+    "urlToImage": null,
+    "publishedAt": "2026-10-27T11:16:24Z",
+    "content": "NOTICE ON FORWARD-LOOKING STATEMENTSThis press release includes forward-looking information or forward-looking statements within the meaning of applicable securities laws regarding Satellos and its b… [+4481 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Cole Mercer",
+    "title": "HHS Drops Expired 2025 Alzheimer's Treatment Goal in New Dementia Plan Focused on Prevention and Early Detection",
+    "description": "HHS unveiled a new Alzheimer's and dementia plan in Fort Lauderdale focused on prevention and early detection. Here is what is promised and proven.",
+    "url": "https://www.medicaldaily.com/hhs-alzheimers-plan-2026-prevention-early-detection-480450",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487807/older-adults-walking-outdoors-healthy-aging.jpg",
+    "publishedAt": "2026-10-27T11:10:23Z",
+    "content": "The federal government has rewritten its national dementia strategy, shifting the focus toward prevention and earlier detection. HHS Secretary Robert F. Kennedy Jr. announced the updated national pla… [+7628 chars]"
+  },
+  {
+    "source": {
+      "id": "the-globe-and-mail",
+      "name": "The Globe And Mail"
+    },
+    "author": "Shirley Won",
+    "title": "Money managers look past midterm election uncertainty for longer-term gains on U.S. health care",
+    "description": "Although the recent rally partly reflects a rotation away from pricey tech stocks, other catalysts are driving this defensive sector higher",
+    "url": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-stocks/article-money-managers-look-past-midterm-election-uncertainty-for-longer-term/",
+    "urlToImage": "https://www.theglobeandmail.com/resizer/v2/BHBR5EBPVBF3JOUP4TGJJ74KOM.jpg?auth=52de9dd31278e7a8bcb2ff894c49e02c58c01c643ccd8701a172554c236d9a58&width=1200&height=800&quality=80&smart=true",
+    "publishedAt": "2026-10-27T11:04:21Z",
+    "content": "Open this photo in gallery:The health care sector stands to benefit from an aging population, steady demand for medical devices and increased use of artificial intelligence in drug discovery.sasirin … [+6303 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Joseph James",
+    "title": "Sarasota County Confirms Locally Acquired West Nile Virus Case as Older Adults Face Greater Risk of Severe Illness",
+    "description": "Sarasota County confirmed a locally acquired West Nile virus case. Most infections cause no symptoms, but older adults face a higher risk.",
+    "url": "https://www.medicaldaily.com/sarasota-west-nile-virus-local-case-warning-signs-480448",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487805/culex-mosquito-close.jpg",
+    "publishedAt": "2026-10-27T11:02:31Z",
+    "content": "Sarasota County residents are being urged to avoid mosquito bites after the Florida Department of Health in Sarasota County announced a confirmed human case of locally acquired West Nile virus illnes… [+7245 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Blood sugar spikes may be tied to everyday habits you can control, expert says",
+    "description": "Jim LaValle reveals how post-meal glucose spikes, insulin resistance and sleep apnea are deeply connected, plus the 10-minute walking habit.",
+    "url": "https://www.foxnews.com/health/blood-sugar-spikes-tied-everyday-habits-you-can-control-expert-says",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/person-eating-salad-glucose-monitor.jpg",
+    "publishedAt": "2026-10-27T11:00:36Z",
+    "content": "Everyday habits from what you eat for breakfast to how much you sleep can have a significant impact on blood sugar levels, according to a metabolic health expert.\r\nMaintaining healthy blood sugar lev… [+3723 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Cut"
+    },
+    "author": "Katie Arnold-Ratliff",
+    "title": "Pediatricians Weren’t Trained to Treat Childhood Depression",
+    "description": "Parents are increasingly turning to their child’s primary-care doctor for help diagnosing and treating mental-health problems, including anxiety and depression. But many doctors say they’re ill prepared for the task.",
+    "url": "http://www.thecut.com/article/can-pediatricians-help-solve-the-child-mental-health-crisis.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/9d3/7d1/4d009355bac36ce364f90bcf870e8b87a2-where-does-it-hurt-column-18.1x.rsocial.w1200.jpg",
+    "publishedAt": "2026-10-27T11:00:10Z",
+    "content": "Last year, on an unusually rainy Tuesday in Los Angeles, dozens of pediatricians and pediatric professionals gathered in an imposingly high-ceilinged, crimson-walled auditorium to attend a conference… [+12922 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Annika Kim Constantino",
+    "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+    "description": "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
+    "url": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108169600-1752074893642-gettyimages-2209442815-l1052839_ux0og2eg.jpeg?v=1793052368&w=1920&h=1080",
+    "publishedAt": "2026-10-27T11:00:01Z",
+    "content": "For nearly two years, the U.S. has had to swallow an uncomfortable reality: A highly infectious disease it once eliminated is spreading again.\r\nMore than 4,400 measles cases and at least three deaths… [+11983 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Atlantic"
+    },
+    "author": "Tom Bartlett",
+    "title": "Is There Anything BPC-157 Can’t Cure?",
+    "description": "Proponents of the peptide say it can treat gingivitis, runner’s knee, even dementia.",
+    "url": "https://www.theatlantic.com/magazine/2026/12/predrag-sikiric-peptide-science/689032/?utm_source=feed",
+    "urlToImage": null,
+    "publishedAt": "2026-10-27T11:00:00Z",
+    "content": "The wellness industry loves a secret cure. I encountered dozens of them at Dave Asprey’s Beyond Biohacking Conference, held in May on several floors of a hotel in downtown Austin. There were suppleme… [+28231 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Erica Lamberg",
+    "title": "5 ways to stay energized and keep your mind sharp — from NY ER doctors used to 12-hour shifts",
+    "description": "NYC-area emergency medicine physicians told The Post how they survive marathon shifts and how you can dodge the afternoon slump with their tricks.",
+    "url": "https://nypost.com/2026/10/27/health/er-docs-reveal-5-ways-to-stay-energized-and-keep-your-mind-sharp/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146243745.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-10-27T11:00:00Z",
+    "content": "Most Americans are exhausted. But whose energy levels are tested more than an ER doc’s?\r\nBetween rapid task-switching, split-second triage decisions and complex clinical calls, emergency room physici… [+5318 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thefutoncritic.com"
+    },
+    "author": null,
+    "title": "FOX Entertainment Studios and Endemol Shine North America Break New Ground with \"Fear Factor\" Vertical Series",
+    "description": "The new vertical video production, set to debut on Holywater Tech's My Drama platform, marks the first time an established unscripted television franchise has been transformed into an original scripted series.",
+    "url": "http://www.thefutoncritic.com/news/2026/10/27/fox-entertainment-studios-and-endemol-shine-north-america-break-new-ground-with-fear-factor-vertical-series-649015/20261027fox01/",
+    "urlToImage": null,
+    "publishedAt": "2026-10-27T11:00:00Z",
+    "content": "FEAR CONQUERS A NEW DIMENSION\r\nFOX ENTERTAINMENT STUDIOS AND ENDEMOL SHINE NORTH AMERICA BREAK NEW GROUND WITH \"FEAR FACTOR\" VERTICAL SERIES\r\nIconic Reality Competition Becomes the First Unscripted T… [+7498 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PR Newswire UK"
+    },
+    "author": null,
+    "title": "Revolune and Concept Life Sciences Partner to Help Customers Transition Multiplex IF Assays to Flexible New Workflows",
+    "description": "OBERKOCHEN, Germany, Oct. 27, 2026 /PRNewswire/ -- Revolune today announced a partnership with Concept Life Sciences to help biopharma and life sciences customers reassess, transfer, and scale multiplex immunofluorescence assays using Revolune's flexible stai…",
+    "url": "https://www.prnewswire.co.uk/news-releases/revolune-and-concept-life-sciences-partner-to-help-customers-transition-multiplex-if-assays-to-flexible-new-workflows-302919481.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS1865093/Revolune-Logo.jpg?id=OA3038482&p=facebook",
+    "publishedAt": "2026-10-27T11:00:00Z",
+    "content": "OBERKOCHEN, Germany, Oct. 27, 2026 /PRNewswire/ -- Revolune today announced a partnership with Concept Life Sciences to help biopharma and life sciences customers reassess, transfer, and scale multip… [+4549 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Ryan Archer",
+    "title": "What Looked Like a Polyp During a 60-Year-Old's Screening Colonoscopy Turned Out to Be a Tomato Seed",
+    "description": "A 5 mm growth removed as a polyp during a routine colonoscopy contained no colon tissue at all. It was a tomato seed, pathologists in Hungary report.",
+    "url": "https://www.medicaldaily.com/tomato-seed-mistaken-colon-polyp-colonoscopy-480446",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487803/routine-screening-colonoscopy.jpg",
+    "publishedAt": "2026-10-27T10:56:04Z",
+    "content": "A 60-year-old woman with no significant medical history went in for a routine screening colonoscopy. Her doctor spotted a small, flat-based growth in her transverse colon, embedded in mucus and up to… [+6047 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Twistedsifter.com"
+    },
+    "author": "Kyra Piperides",
+    "title": "Woman Lets Troubled Friend Stay With Her, But When Her Friend Commits A Crime Against Her, Others Turn Against Her For Calling The Cops",
+    "description": "She will finally get the help that she needs.\nThe post Woman Lets Troubled Friend Stay With Her, But When Her Friend Commits A Crime Against Her, Others Turn Against Her For Calling The Cops appeared first on TwistedSifter.",
+    "url": "https://twistedsifter.com/2026/10/woman-lets-troubled-friend-stay-with-her-but-when-her-friend-commits-a-crime-against-her-others-turn-against-her-for-calling-the-cops/",
+    "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/10/Copy-of-TWISTED-IMAGES-JPG-quality-75-size-180KB-7-9.png",
+    "publishedAt": "2026-10-27T10:55:41Z",
+    "content": "Canva\r\nWhen you have friends who you’ve known for a long time, the chances are you’ve supported your friends through some hard times, and vice versa. Because life is rarely simple, and plenty of us g… [+5024 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TOI World Desk",
+    "title": "A Rwandan woman accused of involvement in the 1994 genocide lost her US refugee status; an appeals court has now allowed her legal challenge to proceed",
+    "description": "A Rwandan woman accused of involvement in the 1994 genocide lost her US refugee status; an appeals court has now allowed her legal challenge to proceed",
+    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-rwandan-woman-accused-of-involvement-in-the-1994-genocide-lost-her-us-refugee-status-an-appeals-court-has-now-allowed-her-legal-challenge-to-proceed/articleshow/135231360.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-135231550,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "publishedAt": "2026-10-27T10:47:39Z",
+    "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>A Rwandan woman accused of involvement in the 1994 genocide lost her US refugee status; an appeals court has now allowed her l… [+2089 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "NY Post",
+    "title": "Crucial swing voters troubled by DSA, new poll shows: ‘Souring on socialism’",
+    "description": "WASHINGTON — Crucial swing voters have become increasingly troubled by the rise of the Democratic Socialists of America and the far-left in general — a major warning sign for Dems ahead of the midterms, a new poll shows. When asked about their views of the DS…",
+    "url": "https://freerepublic.com/focus/f-chat/4400736/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-10-27T10:47:31Z",
+    "content": "Skip to comments.\r\nCrucial swing voters troubled by DSA, new poll shows: Souring on socialismNY Post ^\r\n | 10/26/26\r\n | Ryan King\r\nPosted on 10/27/2026 3:47:31 AM PDT by Libloather\r\nWASHINGTON Crucia… [+2857 chars]"
   },
   {
     "source": {
@@ -31,219 +252,11 @@
       "name": "Science Daily"
     },
     "author": null,
-    "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
-    "description": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went ex…",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/giant-fungus-d-rex.webp",
-    "publishedAt": "2026-10-26T10:50:11Z",
-    "content": "Scientists exploring the forests of Yunnan, China, have discovered an extraordinary giant fungus that is challenging previous assumptions about how large certain fungi can grow. The newly identified … [+6824 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Testudo Times"
-    },
-    "author": "Justin Glenn",
-    "title": "Inside the economics of Maryland’s non-revenue sports",
-    "description": "Several of the university’s most successful programs operate at a loss and must find creative ways to raise funds.",
-    "url": "https://www.testudotimes.com/maryland-terps-sports/94436/inside-the-economics-of-marylands-non-revenue-sports",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/39ac0fdc0029d1e7a2edc3cd89bf0a479ce6865d920345af1d1edf84404d0cbe/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F538f4ab519086ed3e52a6c3ad363de9f.jpg",
-    "publishedAt": "2026-10-26T10:50:00Z",
-    "content": "Name, image and likeness money is a must to recruit and program build. And without it, operating a program in modern college sports is difficult.\r\nIn this story, Testudo Times took a look at how Mary… [+8625 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ibtimes.com.au"
-    },
-    "author": "Hannah Kim",
-    "title": "Mounjaro vs. Wegovy: The Numbers Behind the Weight-Loss Drug Boom of 2026",
-    "description": "GLP-1 drugs are rapidly moving into mainstream use, led by tirzepatide's trial win, record sales and rising uptake, though obesity trends and user-reported benefits require cautious interpretation.",
-    "url": "https://www.ibtimes.com.au/glp-1-drugs-trial-sales-obesity-trends-1877401",
-    "urlToImage": "https://d.ibtimes.com.au/en/full/1896936/mounjaro-vs-wegovy.png",
-    "publishedAt": "2026-10-26T10:48:44Z",
-    "content": "A head-to-head trial win, record sales and a falling U.S. obesity rate show how fast these injections have moved into everyday life, along with several caveats\r\nFew medicines have changed the convers… [+3991 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "Israel votes tomorrow: What’s at stake for India as Bibi faces tough fight",
-    "description": "Israel's elections on October 27 will significantly affect the country's relationship with India. More than just political outcomes, defense and trade agreements will be critical in bilateral ties. India aims to maintain cooperation regardless of the election…",
-    "url": "https://economictimes.indiatimes.com/news/india/israel-election-tomorrow-netanyahu-party-opinion-polls-whats-at-stake-for-india-as-bibi-faces-tough-fight/articleshow/135208775.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135209520,width-1200,height-900,imgsize-81870,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-26T10:44:56Z",
-    "content": "More than a friend, a brother, Israeli Prime Minister Benjamin Netanyahu said of Prime Minister Narendra Modi during the Indian leaders visit in February. Modi, in turn, described the India-Israel bo… [+9711 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "ET Online",
-    "title": "Nirmala Sitharaman reaffirms govt's fiscal discipline push, puts public debt target at 50% of GDP by 2030",
-    "description": "FM Sitharaman linked the government's broader economic priorities -- fiscal consolidation, inflation management and currency stability -- with the need to expand employment and enterprise opportunities, particularly for women, through education, skill develop…",
-    "url": "https://economictimes.indiatimes.com/news/economy/policy/nirmala-sitharaman-reaffirms-govts-fiscal-discipline-push-puts-public-debt-target-at-50-of-gdp-by-2030/articleshow/135209048.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135209188,width-1200,height-900,imgsize-118606,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-26T10:30:12Z",
-    "content": "Union Finance Minister Nirmala Sitharaman has reaffirmed the Centre's commitment to fiscal consolidation, setting a target of capping national debt at 50% of gross domestic product by 2030. She also … [+3372 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Rachelle Ciulla, MSPH",
-    "title": "I Discovered I Had Histamine Intolerance — Here's What I Did To Heal",
-    "description": "There's hope for histamine intolerance.",
-    "url": "https://www.mindbodygreen.com/articles/i-had-histamine-intolerance-heres-what-i-did-to-heal-reducing-stress",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/iwxvm6l44kfzlfs8l.jpg",
-    "publishedAt": "2026-10-26T10:29:00Z",
-    "content": "More and more, were learning about the havoc that a surplus of histamine can cause in our bodies. Histamine isnt inherently bad; its made by our immune system in response to perceived threats. \r\nThe … [+4301 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Conversation Africa"
-    },
-    "author": "Veronica Zamora-Gutierrez, Lecturer in Ecology, University of Southampton, Neil J. Gostling, Associate Professor in Evolution and Palaeobiology, University of Southampton",
-    "title": "Where did bats come from? New research points to Europe",
-    "description": "The fact bats can fly has made it hard to pin down the place where their evolutionary story began.",
-    "url": "https://theconversation.com/where-did-bats-come-from-new-research-points-to-europe-293625",
-    "urlToImage": "https://images.theconversation.com/files/766139/original/file-20261014-50-q1t8w1.jpg?ixlib=rb-4.1.1&rect=0%2C371%2C4452%2C2226&q=45&auto=format&w=1356&h=668&fit=crop",
-    "publishedAt": "2026-10-26T10:23:44Z",
-    "content": "Memo Ossa/Shutterstock\r\nFor decades scientists have argued about where bats originated. A recently published study in the journal Nature offers new evidence to address that question. This new interna… [+5465 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Fci Academy"
-    },
-    "author": "Adam Jardy, Columbus Dispatch",
-    "title": "From morning walk to praise, a day in the life of Ohio State coach Jake Diebler",
-    "description": "What's a normal day like for a Division I men's basketball coach? Ohio State coach Jake Diebler let The Dispatch follow him around to find out.",
-    "url": "https://www.dispatch.com/story/sports/college/basketball/2026/10/26/jake-diebler-ohio-state-mens-basketball-coach/92379162007/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-26T10:19:41Z",
-    "content": "The neighborhood, along with just about all of its residents, was still asleep. With no streetlights to drown them out, the morning stars were clearly visible in ways they were not just a few miles s… [+15304 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ibtimes.com.au"
-    },
-    "author": "Jerry Thompson",
-    "title": "Mounjaro Beats Wegovy in Head-to-Head Weight-Loss Trial as Blockbuster Drug Reshapes Obesity in the US and UK",
-    "description": "In the first direct comparison of the leading obesity drugs, tirzepatide delivered greater average weight loss than semaglutide, while growing use is influencing health trends, sales and consumer habits.",
-    "url": "https://www.ibtimes.com.au/tirzepatide-beats-wegovy-obesity-drug-trial-1877400",
-    "urlToImage": "https://d.ibtimes.com.au/en/full/1896935/mounjaro-beats-wegovy-head-head-weight-loss-trial-blockbuster-drug.jpg",
-    "publishedAt": "2026-10-26T10:17:45Z",
-    "content": "Eli Lilly's tirzepatide, sold as Mounjaro and Zepbound, produced substantially more weight loss than Novo Nordisk's Wegovy in the first head-to-head trial of the two leading obesity drugs. Those resu… [+6429 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Ava Durgin",
-    "title": "This May Be Why Women Are More Likely To Develop An Autoimmune Disease",
-    "description": "A deeper look at why women’s bodies respond differently over time",
-    "url": "https://www.mindbodygreen.com/articles/why-aging-impacts-womens-immune-systems-more-than-mens-inflammation",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/1776722300561_a9i1e4zjq2t.jpg",
-    "publishedAt": "2026-10-26T10:16:00Z",
-    "content": "Theres a reason some people seem to bounce back from illness quickly, while others deal with lingering inflammation, fatigue, or new health issues as they get older. We tend to chalk it up to lifesty… [+4519 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Dailymail.com"
-    },
-    "author": "Wiliam Hunter",
-    "title": "Look familiar? Rare fossils reveal what our ancient human relatives, the Denisovans, might have looked like",
-    "description": "A study of rare fossils has revealed what our ancient human ancestors, the Denisovans, might have looked like.",
-    "url": "https://www.dailymail.com/sciencetech/article-16238789/fossils-reveal-human-ancestors-Denisovans.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/10/26/10/112092607-0-image-m-74_1793009352564.jpg",
-    "publishedAt": "2026-10-26T10:12:29Z",
-    "content": "A study of rare fossils has revealed what our ancient human ancestors, the Denisovans, might have looked like.\r\nThe Denisovans are a mysterious human species that lived across Asia between 300,000 an… [+8569 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Alchemer.com"
-    },
-    "author": null,
-    "title": "Early Relational Health Programs Request for Information",
-    "description": "Early Relational Health Programs Request for Informationalchemer.com",
-    "url": "https://survey.alchemer.com/s3/9031516/ERH-RFI",
-    "urlToImage": "",
-    "publishedAt": "2026-10-26T10:03:51Z",
-    "content": "The National Academies of Sciences, Engineering, and Medicine is seeking information about existing programs, initiatives, practices, and approaches that support early relational health (ERH) for inf… [+1966 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BusinessLine"
-    },
-    "author": "PT Jyothi Datta",
-    "title": "Trade-margin cap on cancer drugs may push up costs elsewhere in supply chain: Experts",
-    "description": "Trade-margin caps on cancer drugs may reduce prices for patients but risk shifting costs to hospitals, supply chains, and other services.",
-    "url": "https://www.thehindubusinessline.com/news/national/trade-margin-cap-on-cancer-drugs-may-push-up-costs-elsewhere-in-supply-chain-experts/article71626276.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/incoming/y4uy07/article71626338.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UTT5L096R_R1553785594_8_89c71552-9db4-420e-aabb-532e54a0f8bc.jpg",
-    "publishedAt": "2026-10-26T10:00:26Z",
-    "content": "In about two weeks, the Centres 30 per cent trade-margin cap on 137 non-scheduled cancer medicines is to reflect in the price of these medicines, sold at chemists and hospitals.\r\nWhile some relief is… [+3409 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New Yorker"
-    },
-    "author": "D. T. Max",
-    "title": "Did an Alternative-Medicine Guru Accidentally Kill Patients?",
-    "description": "In Switzerland, Thomas Rau offers treatments that many conventional doctors would question. Now, D. T. Max reports, he’s accused of lethally negligent care.",
-    "url": "https://www.newyorker.com/magazine/2026/11/02/did-an-alternative-medicine-guru-accidentally-kill-patients",
-    "urlToImage": "https://media.newyorker.com/photos/6ad8c2debd0ff38ee94d416e/16:9/w_1280,c_limit/r49952.jpg",
-    "publishedAt": "2026-10-26T10:00:00Z",
-    "content": "Rau, who is seventy-six, has been practicing for forty-four years, mostly in the northeastern canton of Appenzell Ausserrhoden, which includes Schwellbrunn. He estimates that hes seen more than ten t… [+4196 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Xiao Zhang and Weihua Deng",
-    "title": "Polymer diffusion in nonstatic media with inverse $α$-stable subordinator",
-    "description": "There is a growing recognition of diffusion in nonstatic media across a spectrum of scientific fields, from cosmology to biology. This paper focuses on more complex practical scenarios of center-of-mass (c.m.) motion of polymers, which is not only determined …",
-    "url": "https://link.aps.org/doi/10.1103/knn9-pndb",
-    "urlToImage": null,
-    "publishedAt": "2026-10-26T10:00:00Z",
-    "content": "There is a growing recognition of diffusion in nonstatic media across a spectrum of scientific fields, from cosmology to biology. This paper focuses on more complex practical scenarios of center-of-m… [+1307 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Luke Piszkin and Dervis Can Vural",
-    "title": "Evolutionary hysteresis: Cycling about in a rugged landscape",
-    "description": "In this work, we integrate theoretical modeling, molecular simulation, and empirical analysis to identify and characterize evolutionary hysteresis. We first show how epistatic interactions create bistable fitness landscapes and structural hysteresis in a two-…",
-    "url": "https://link.aps.org/doi/10.1103/d2y4-r7qk",
-    "urlToImage": null,
-    "publishedAt": "2026-10-26T10:00:00Z",
-    "content": "In this work, we integrate theoretical modeling, molecular simulation, and empirical analysis to identify and characterize evolutionary hysteresis. We first show how epistatic interactions create bis… [+1183 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aps.org"
-    },
-    "author": "Zhen Tao and Victor Galitski",
-    "title": "Ab initio random matrix theory of molecular electronic structure",
-    "description": "We use ab initio electronic-structure methods to investigate random matrix theory (RMT) universality in molecular electronic structure. Using single-reference electronic structure methods, including Hartree-Fock, configuration-interaction singles, density fun…",
-    "url": "https://link.aps.org/doi/10.1103/jpyj-x5yt",
-    "urlToImage": null,
-    "publishedAt": "2026-10-26T10:00:00Z",
-    "content": "We use ab initio electronic-structure methods to investigate random matrix theory (RMT) universality in molecular electronic structure. Using single-reference electronic structure methods, including … [+1465 chars]"
+    "title": "Common drugs may help dangerous viruses spread through the body",
+    "description": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a…",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
+    "publishedAt": "2026-10-27T10:46:21Z",
+    "content": "Medications are designed to treat diseases and relieve symptoms, but some can also produce unintended effects that put patients at risk. While side effects are common with many treatments, researcher… [+4858 chars]"
   }
 ]
