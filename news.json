@@ -2,67 +2,41 @@
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "Pypi.org"
     },
-    "author": "Ryan Archer",
-    "title": "A Woman's Thumb Briefly Grew Hair Where None Should, and a Mouse Protein Hints Why Palms Stay Bare",
-    "description": "Palm skin normally grows no hair, yet a woman's thumb tip did, twice. Mouse research suggests hairless skin is actively held back, not born bald.",
-    "url": "https://www.medicaldaily.com/hairless-palm-thumb-hair-dkk2-mouse-study-480459",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487816/pale-vellus-like-hairs-visible-against-skin.jpg",
-    "publishedAt": "2026-10-27T11:42:53Z",
-    "content": "The skin on your palms and the soles of your feet is one of the few places on the body that never grows hair. So when a young woman with a rare autoimmune disease twice grew fine, downy hairs on the … [+6255 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Biztoc.com"
-    },
-    "author": "finance.yahoo.com",
-    "title": "Compass Pathways to Announce Third Quarter 2026 Financial Results on November 3, 2026",
-    "description": "LONDON & JERSEY CITY, N.J., October 27, 2026--(BUSINESS WIRE)--Compass Pathways plc (Nasdaq: CMPS), a biotechnology company dedicated to unlocking urgently needed new treatment options in mental health care, announced today that it will release financial resu…",
-    "url": "https://biztoc.com/x/0868fedd7ae29f6c",
-    "urlToImage": "https://biztoc.com/cdn/0868fedd7ae29f6c_s.webp",
-    "publishedAt": "2026-10-27T11:36:39Z",
-    "content": "LONDON &amp; JERSEY CITY, N.J., October 27, 2026--(BUSINESS WIRE)--Compass Pathways plc (Nasdaq: CMPS), a biotechnology company dedicated to unlocking urgently needed new treatment options in mental … [+152 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Joseph James",
-    "title": "Texas Doctor and Retired Postal Worker Charged in Alleged $19 Million Scheme Targeting Injured Federal Workers' Benefits",
-    "description": "A Texas physician and a retired postal worker face charges in an alleged $19 million scheme against the benefits program for injured federal workers.",
-    "url": "https://www.medicaldaily.com/texas-feca-19-million-fraud-indictment-federal-workers-480453",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487810/us-postal-worker-wearing-uniform-delivery-route.jpg",
-    "publishedAt": "2026-10-27T11:21:26Z",
-    "content": "A Texas physician and a retired U.S. Postal Service employee have been charged with conspiring to defraud the program that pays medical and wage benefits to federal employees hurt on the job, federal… [+6696 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BusinessLine"
-    },
-    "author": "PTI",
-    "title": "Why is the system helping drugmakers? Supreme Court questions Centre over medicine pricing",
-    "description": "The Supreme Court questioned the Centre over the gap between medicine MRP and retailer prices, and raised concerns about the NPPA and drug trade margins.",
-    "url": "https://www.thehindubusinessline.com/news/national/why-is-the-system-helping-drugmakers-supreme-court-questions-centre-over-medicine-pricing/article71630950.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-others/tp-variety/o2zee7/article71561501.ece/alternates/LANDSCAPE_1200/SC-directs-CentGGLGKT5GL.4.jpg.jpg",
-    "publishedAt": "2026-10-27T11:19:15Z",
-    "content": "Why is the entire system working to help pharmaceutical manufacturers, asked the Supreme Court on Tuesday while questioning the Centre over the massive difference between the MRP of medicines and the… [+1782 chars]"
-  },
-  {
-    "source": {
-      "id": "financial-post",
-      "name": "Financial Post"
-    },
-    "author": "GlobeNewswire",
-    "title": "Satellos Establishes Scientific Advisory Board to Explore the Biology of Regeneration in Aging and Neuroscience",
-    "description": "Distinguished scientists bring expertise spanning stem cell biology, regenerative medicine, aging research, neuroscience and small molecule chemistry TORONTO, Oct. 27, 2026 (GLOBE NEWSWIRE) — Satellos Bioscience Inc. (NASDAQ: MSLE, TSX: MSCL), a clinical-stag…",
-    "url": "https://financialpost.com/globe-newswire/satellos-establishes-scientific-advisory-board-to-explore-the-biology-of-regeneration-in-aging-and-neuroscience",
+    "author": "kengo.nakada@email.com, kobayashi@mat.shimane-u.ac.jp",
+    "title": "rmc-dft 0.7.12",
+    "description": "rmc_dft is a Python package for performing Reverse Monte Carlo modeling and ab initio molecular dynamics / relaxation using VASP code.",
+    "url": "https://pypi.org/project/rmc-dft/0.7.12/",
     "urlToImage": null,
-    "publishedAt": "2026-10-27T11:16:24Z",
-    "content": "NOTICE ON FORWARD-LOOKING STATEMENTSThis press release includes forward-looking information or forward-looking statements within the meaning of applicable securities laws regarding Satellos and its b… [+4481 chars]"
+    "publishedAt": "2026-10-28T11:47:56Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Elena Vega",
+    "title": "Savolitinib Plus Tagrisso Added About Five Months of Median Survival Over Chemo in MET-Driven Lung Cancer",
+    "description": "Full SAFFRON results found that savolitinib plus Tagrisso improved overall and progression-free survival versus chemotherapy in EGFR-mutated lung cancer with MET changes, while highlighting important safety differences.",
+    "url": "https://www.medicaldaily.com/savolitinib-tagrisso-saffron-lung-cancer-survival-480501",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487859/lung-cancer-oncology-consultation.jpg",
+    "publishedAt": "2026-10-28T11:46:33Z",
+    "content": "People with EGFR-mutated lung cancer whose disease progressed on Tagrisso because of MET changes lived a median of 17.8 months with savolitinib plus Tagrisso, compared with 12.9 months with chemother… [+6310 chars]"
+  },
+  {
+    "source": {
+      "id": "rte",
+      "name": "RTE"
+    },
+    "author": "RTÉ News",
+    "title": "GSK third-quarter beat fails to impress and shares fall",
+    "description": "GSK has today beaten third-quarter sales and profit expectations, driven by demand for specialty medicines after the drugmaker began a strategic overhaul under CEO Luke Miels to accelerate growth and prepare for looming patent losses.",
+    "url": "https://www.rte.ie/news/business/2026/1028/1597077-gsk-quarterly-results/",
+    "urlToImage": "https://www.rte.ie/images/001e7629-1600.jpg",
+    "publishedAt": "2026-10-28T11:45:47Z",
+    "content": "GSK has today beaten third-quarter sales and profit expectations, driven by demand for specialty medicines after the drugmaker began a strategic overhaul under CEO Luke Miels to accelerate growth and… [+2153 chars]"
   },
   {
     "source": {
@@ -70,116 +44,51 @@
       "name": "Medical Daily"
     },
     "author": "Cole Mercer",
-    "title": "HHS Drops Expired 2025 Alzheimer's Treatment Goal in New Dementia Plan Focused on Prevention and Early Detection",
-    "description": "HHS unveiled a new Alzheimer's and dementia plan in Fort Lauderdale focused on prevention and early detection. Here is what is promised and proven.",
-    "url": "https://www.medicaldaily.com/hhs-alzheimers-plan-2026-prevention-early-detection-480450",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487807/older-adults-walking-outdoors-healthy-aging.jpg",
-    "publishedAt": "2026-10-27T11:10:23Z",
-    "content": "The federal government has rewritten its national dementia strategy, shifting the focus toward prevention and earlier detection. HHS Secretary Robert F. Kennedy Jr. announced the updated national pla… [+7628 chars]"
+    "title": "Lab-Grown Blood Vessel Got Women on Dialysis Off Catheters Months Sooner Than Fistulas in Interim Phase 3 Data",
+    "description": "Interim Phase 3 results from 80 women suggest Humacyte's lab-grown blood vessel provided usable dialysis access sooner than fistulas, reducing catheter time, though independent review is still pending.",
+    "url": "https://www.medicaldaily.com/lab-grown-vessel-dialysis-access-women-trial-480500",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487858/woman-hemodialysis-patient-dialysis-machine-hospital.jpg",
+    "publishedAt": "2026-10-28T11:42:24Z",
+    "content": "Women starting dialysis through a catheter reached usable long-term access about three months sooner with a lab-grown blood vessel than with a standard fistula, according to interim Phase 3 results p… [+6843 chars]"
   },
   {
     "source": {
-      "id": "the-globe-and-mail",
-      "name": "The Globe And Mail"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Shirley Won",
-    "title": "Money managers look past midterm election uncertainty for longer-term gains on U.S. health care",
-    "description": "Although the recent rally partly reflects a rotation away from pricey tech stocks, other catalysts are driving this defensive sector higher",
-    "url": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-stocks/article-money-managers-look-past-midterm-election-uncertainty-for-longer-term/",
-    "urlToImage": "https://www.theglobeandmail.com/resizer/v2/BHBR5EBPVBF3JOUP4TGJJ74KOM.jpg?auth=52de9dd31278e7a8bcb2ff894c49e02c58c01c643ccd8701a172554c236d9a58&width=1200&height=800&quality=80&smart=true",
-    "publishedAt": "2026-10-27T11:04:21Z",
-    "content": "Open this photo in gallery:The health care sector stands to benefit from an aging population, steady demand for medical devices and increased use of artificial intelligence in drug discovery.sasirin … [+6303 chars]"
+    "author": "AP",
+    "title": "A ceasefire in a Russian-occupied Ukrainian city holds for its first 30 hours, officials say",
+    "description": "A six-day ceasefire has been initiated in Oleshky, allowing much-needed humanitarian aid for around 2,000 residents. Both Ukraine and Russia have reported no violations of the ceasefire in the first 30 hours. Negotiations continue for future discussions to de…",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/a-ceasefire-in-a-russian-occupied-ukrainian-city-holds-for-its-first-30-hours-officials-say/articleshow/135263943.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135263940,width-1200,height-900,imgsize-165716,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-28T11:40:26Z",
+    "content": "Ukraine: A planned six-day ceasefire in and around a Russian-occupied city in southern Ukraine held for its first day and night, officials said Wednesday, but Moscow and Kyiv continued to batter each… [+4802 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Medical Daily"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Joseph James",
-    "title": "Sarasota County Confirms Locally Acquired West Nile Virus Case as Older Adults Face Greater Risk of Severe Illness",
-    "description": "Sarasota County confirmed a locally acquired West Nile virus case. Most infections cause no symptoms, but older adults face a higher risk.",
-    "url": "https://www.medicaldaily.com/sarasota-west-nile-virus-local-case-warning-signs-480448",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487805/culex-mosquito-close.jpg",
-    "publishedAt": "2026-10-27T11:02:31Z",
-    "content": "Sarasota County residents are being urged to avoid mosquito bites after the Florida Department of Health in Sarasota County announced a confirmed human case of locally acquired West Nile virus illnes… [+7245 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Blood sugar spikes may be tied to everyday habits you can control, expert says",
-    "description": "Jim LaValle reveals how post-meal glucose spikes, insulin resistance and sleep apnea are deeply connected, plus the 10-minute walking habit.",
-    "url": "https://www.foxnews.com/health/blood-sugar-spikes-tied-everyday-habits-you-can-control-expert-says",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/person-eating-salad-glucose-monitor.jpg",
-    "publishedAt": "2026-10-27T11:00:36Z",
-    "content": "Everyday habits from what you eat for breakfast to how much you sleep can have a significant impact on blood sugar levels, according to a metabolic health expert.\r\nMaintaining healthy blood sugar lev… [+3723 chars]"
+    "author": "Team Global",
+    "title": "North Carolina dumped 7,200 tons of discarded concrete pipe onto bare ocean floor at AR-165; the reef later grew to include 3 retired tugboats for fish habitat",
+    "description": "In North Carolina, marine biologists are transforming sunken tugboats and concrete pipes into artificial reefs, enhancing the habitat for numerous fish species. These initiatives not only boost marine biodiversity but also show that artificial reefs can effec…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/north-carolina-dumped-7200-tons-of-discarded-concrete-pipe-onto-bare-ocean-floor-at-ar-165-the-reef-later-grew-to-include-3-retired-tugboats-for-fish-habitat/articleshow/135235830.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135235871,width-1200,height-900,imgsize-252570,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-28T11:30:00Z",
+    "content": "When we think of reusing unwanted items, we generally think of landfills and scrap yards. However, when marine biologists from North Carolina think of reusing items like an old tugboat and concrete p… [+3744 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Cut"
+      "name": "Biztoc.com"
     },
-    "author": "Katie Arnold-Ratliff",
-    "title": "Pediatricians Weren’t Trained to Treat Childhood Depression",
-    "description": "Parents are increasingly turning to their child’s primary-care doctor for help diagnosing and treating mental-health problems, including anxiety and depression. But many doctors say they’re ill prepared for the task.",
-    "url": "http://www.thecut.com/article/can-pediatricians-help-solve-the-child-mental-health-crisis.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/9d3/7d1/4d009355bac36ce364f90bcf870e8b87a2-where-does-it-hurt-column-18.1x.rsocial.w1200.jpg",
-    "publishedAt": "2026-10-27T11:00:10Z",
-    "content": "Last year, on an unusually rainy Tuesday in Los Angeles, dozens of pediatricians and pediatric professionals gathered in an imposingly high-ceilinged, crimson-walled auditorium to attend a conference… [+12922 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "CNBC"
-    },
-    "author": "Annika Kim Constantino",
-    "title": "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-    "description": "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
-    "url": "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
-    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108169600-1752074893642-gettyimages-2209442815-l1052839_ux0og2eg.jpeg?v=1793052368&w=1920&h=1080",
-    "publishedAt": "2026-10-27T11:00:01Z",
-    "content": "For nearly two years, the U.S. has had to swallow an uncomfortable reality: A highly infectious disease it once eliminated is spreading again.\r\nMore than 4,400 measles cases and at least three deaths… [+11983 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Atlantic"
-    },
-    "author": "Tom Bartlett",
-    "title": "Is There Anything BPC-157 Can’t Cure?",
-    "description": "Proponents of the peptide say it can treat gingivitis, runner’s knee, even dementia.",
-    "url": "https://www.theatlantic.com/magazine/2026/12/predrag-sikiric-peptide-science/689032/?utm_source=feed",
-    "urlToImage": null,
-    "publishedAt": "2026-10-27T11:00:00Z",
-    "content": "The wellness industry loves a secret cure. I encountered dozens of them at Dave Asprey’s Beyond Biohacking Conference, held in May on several floors of a hotel in downtown Austin. There were suppleme… [+28231 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Erica Lamberg",
-    "title": "5 ways to stay energized and keep your mind sharp — from NY ER doctors used to 12-hour shifts",
-    "description": "NYC-area emergency medicine physicians told The Post how they survive marathon shifts and how you can dodge the afternoon slump with their tricks.",
-    "url": "https://nypost.com/2026/10/27/health/er-docs-reveal-5-ways-to-stay-energized-and-keep-your-mind-sharp/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146243745.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-10-27T11:00:00Z",
-    "content": "Most Americans are exhausted. But whose energy levels are tested more than an ER doc’s?\r\nBetween rapid task-switching, split-second triage decisions and complex clinical calls, emergency room physici… [+5318 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thefutoncritic.com"
-    },
-    "author": null,
-    "title": "FOX Entertainment Studios and Endemol Shine North America Break New Ground with \"Fear Factor\" Vertical Series",
-    "description": "The new vertical video production, set to debut on Holywater Tech's My Drama platform, marks the first time an established unscripted television franchise has been transformed into an original scripted series.",
-    "url": "http://www.thefutoncritic.com/news/2026/10/27/fox-entertainment-studios-and-endemol-shine-north-america-break-new-ground-with-fear-factor-vertical-series-649015/20261027fox01/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-27T11:00:00Z",
-    "content": "FEAR CONQUERS A NEW DIMENSION\r\nFOX ENTERTAINMENT STUDIOS AND ENDEMOL SHINE NORTH AMERICA BREAK NEW GROUND WITH \"FEAR FACTOR\" VERTICAL SERIES\r\nIconic Reality Competition Becomes the First Unscripted T… [+7498 chars]"
+    "author": "finance.yahoo.com",
+    "title": "Digbi Health Announces ASRA, a Precision Biology-Powered Agentic Care Operating System Unifying Metabolic, Inflammatory, and Hormonal Health",
+    "description": "Asra\nAstra agents\nBuilt on three years of development and testing and billions of linked biological, clinical, lifestyle, and behavioral data points, ASRA brings together Precision Biology, AI-driven operations, and clinician-supervised care.\nThe platform ser…",
+    "url": "https://biztoc.com/x/17ef868bb9616dfe",
+    "urlToImage": "https://biztoc.com/cdn/17ef868bb9616dfe_s.webp",
+    "publishedAt": "2026-10-28T11:20:57Z",
+    "content": "AsraAstra agentsBuilt on three years of development and testing and billions of linked biological, clinical, lifestyle, and behavioral data points, ASRA brings together Precision Biology, AI-driven o… [+150 chars]"
   },
   {
     "source": {
@@ -187,76 +96,167 @@
       "name": "PR Newswire UK"
     },
     "author": null,
-    "title": "Revolune and Concept Life Sciences Partner to Help Customers Transition Multiplex IF Assays to Flexible New Workflows",
-    "description": "OBERKOCHEN, Germany, Oct. 27, 2026 /PRNewswire/ -- Revolune today announced a partnership with Concept Life Sciences to help biopharma and life sciences customers reassess, transfer, and scale multiplex immunofluorescence assays using Revolune's flexible stai…",
-    "url": "https://www.prnewswire.co.uk/news-releases/revolune-and-concept-life-sciences-partner-to-help-customers-transition-multiplex-if-assays-to-flexible-new-workflows-302919481.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1865093/Revolune-Logo.jpg?id=OA3038482&p=facebook",
-    "publishedAt": "2026-10-27T11:00:00Z",
-    "content": "OBERKOCHEN, Germany, Oct. 27, 2026 /PRNewswire/ -- Revolune today announced a partnership with Concept Life Sciences to help biopharma and life sciences customers reassess, transfer, and scale multip… [+4549 chars]"
+    "title": "Sheraton Sanya Haitang Bay Resort Offers Island Getaway Experiences for International Families with Children",
+    "description": "SANYA, China, Oct. 28, 2026 /PRNewswire/ -- Sheraton Sanya Haitang Bay Resort is located in the heart of Haitang Bay, boasting direct sea views and a total of 500 guest rooms and suites, including 39 suites. Guests can reach the beach area in about a 3–6 minu…",
+    "url": "https://www.prnewswire.co.uk/news-releases/sheraton-sanya-haitang-bay-resort-offers-island-getaway-experiences-for-international-families-with-children-302922056.html",
+    "urlToImage": "https://mmx.prnewswire.com/media/MS2022545/20261028055058EDT_image_1.jpg?id=OA3044371&p=facebook",
+    "publishedAt": "2026-10-28T11:20:00Z",
+    "content": "SANYA, China, Oct. 28, 2026 /PRNewswire/ -- Sheraton Sanya Haitang Bay Resort is located in the heart of Haitang Bay, boasting direct sea views and a total of 500 guest rooms and suites, including 39… [+2205 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "Biztoc.com"
     },
-    "author": "Ryan Archer",
-    "title": "What Looked Like a Polyp During a 60-Year-Old's Screening Colonoscopy Turned Out to Be a Tomato Seed",
-    "description": "A 5 mm growth removed as a polyp during a routine colonoscopy contained no colon tissue at all. It was a tomato seed, pathologists in Hungary report.",
-    "url": "https://www.medicaldaily.com/tomato-seed-mistaken-colon-polyp-colonoscopy-480446",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487803/routine-screening-colonoscopy.jpg",
-    "publishedAt": "2026-10-27T10:56:04Z",
-    "content": "A 60-year-old woman with no significant medical history went in for a routine screening colonoscopy. Her doctor spotted a small, flat-based growth in her transverse colon, embedded in mucus and up to… [+6047 chars]"
+    "author": "wsj.com",
+    "title": "Biogen Swings to Loss, Logs Higher Sales",
+    "description": "The biotechnology company said the swing to a loss was primarily due to transaction-related charges.",
+    "url": "https://biztoc.com/x/2112e1f9cb65dc24",
+    "urlToImage": "https://biztoc.com/cdn/996/og.png",
+    "publishedAt": "2026-10-28T11:13:37Z",
+    "content": "The biotechnology company said the swing to a loss was primarily due to transaction-related charges.\r\nThis story appeared on wsj.com, 2026-10-28 11:09:00."
   },
   {
     "source": {
       "id": null,
-      "name": "Twistedsifter.com"
+      "name": "Thepinknews.com"
     },
-    "author": "Kyra Piperides",
-    "title": "Woman Lets Troubled Friend Stay With Her, But When Her Friend Commits A Crime Against Her, Others Turn Against Her For Calling The Cops",
-    "description": "She will finally get the help that she needs.\nThe post Woman Lets Troubled Friend Stay With Her, But When Her Friend Commits A Crime Against Her, Others Turn Against Her For Calling The Cops appeared first on TwistedSifter.",
-    "url": "https://twistedsifter.com/2026/10/woman-lets-troubled-friend-stay-with-her-but-when-her-friend-commits-a-crime-against-her-others-turn-against-her-for-calling-the-cops/",
-    "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/10/Copy-of-TWISTED-IMAGES-JPG-quality-75-size-180KB-7-9.png",
-    "publishedAt": "2026-10-27T10:55:41Z",
-    "content": "Canva\r\nWhen you have friends who you’ve known for a long time, the chances are you’ve supported your friends through some hard times, and vice versa. Because life is rarely simple, and plenty of us g… [+5024 chars]"
+    "author": "Joanna Carter Tipton",
+    "title": "Kansas pastor Adam Hamilton goes viral after saying politicians shouldn’t ‘pick on’ trans people",
+    "description": "In a KMBC interview, the Democrat said trans people have been turned into “a campaign issue because it polls well”.\nThe post Kansas pastor Adam Hamilton goes viral after saying politicians shouldn’t ‘pick on’ trans people appeared first on PinkNews | Latest l…",
+    "url": "https://www.thepinknews.com/2026/10/28/adam-hamilton-trans-rights-2026/",
+    "urlToImage": "https://www.thepinknews.com/wp-content/uploads/2026/10/kansas-pastor-adam-hamilton-viral-trans-rights.jpg",
+    "publishedAt": "2026-10-28T11:11:30Z",
+    "content": "A Kansas megachurch pastor running for the US Senate has told politicians to stop bully[ing] transgender people and turning them into a campaign issue.\r\nDemocratic candidate Adam Hamilton made the co… [+2378 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lifesciencedaily.news"
+    },
+    "author": "James Sterling",
+    "title": "GLP-1s in adolescents: what the obesity evidence shows",
+    "description": "GLP-1s in adolescents: what STEP TEENS, SCALE Kids and STEP Young show on weight loss, safety and UK access for young people.",
+    "url": "https://lifesciencedaily.news/glp-1s-in-adolescents-paediatric-obesity-evidence/",
+    "urlToImage": "https://lifesciencedaily.news/wp-content/uploads/2026/10/glp1s-in-adolescents-feature.jpg",
+    "publishedAt": "2026-10-28T11:10:54Z",
+    "content": "The case for GLP-1s in adolescents with obesity now rests on several randomised trials and two marketing authorisations. Real-world data are growing too. That evidence shows substantial reductions in… [+10048 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Weight-loss drug could help address nighttime sleep disruptions for millions",
+    "description": "Eli Lilly's retatrutide cut breathing interruptions and drove significant weight loss in sleep apnea patients, as well as cardiovascular benefits.",
+    "url": "https://www.foxnews.com/health/weight-loss-drug-help-address-nighttime-sleep-disruptions-millions",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/woman-sleeping-peacefully.jpg",
+    "publishedAt": "2026-10-28T11:00:59Z",
+    "content": "An experimental obesity drug significantly reduced breathing interruptions and other symptoms of obstructive sleep disorder in two clinical trials, according to new research published in The New Engl… [+5498 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Jessica Green",
+    "title": "Forget baked beans! Professional middle-class preppers reveal the smart alternatives you should REALLY stock up on for when disaster strikes",
+    "description": "Britons have emptied supermarket shelves of baked beans, bottled water and batteries after Labour issued a stark warning to households last week to 'be ready' for a national crisis.",
+    "url": "https://www.dailymail.com/lifestyle/article-16243015/Forget-baked-beans-Professional-middle-class-preppers-reveal-smart-alternatives-you-REALLY-stock-disaster-strikes.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/28/10/112139753-0-image-m-43_1793183769853.jpg",
+    "publishedAt": "2026-10-28T11:00:52Z",
+    "content": "Britons have emptied supermarket shelves of baked beans, bottled water and batteries after Labour issued a stark warning to households last week to 'be ready' for a national crisis.\r\nYet, despite ret… [+12018 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Madisonstartups.com"
+    },
+    "author": "Taylor Kennedy",
+    "title": "EnsoData’s Product Receives Certification From AASM",
+    "description": "EnsoData’s EnsoSleep, its AI scoring software for in-lab and home sleep studies, is the first software to receive Full Autoscoring Certification from the American Academy of Sleep Medicine (AASM), the...",
+    "url": "https://www.madisonstartups.com/ensodatas-product-receives-certification-from-aasm/",
+    "urlToImage": "https://www.madisonstartups.com/wp-content/uploads/2015/12/EnsoData.png",
+    "publishedAt": "2026-10-28T11:00:39Z",
+    "content": "EnsoData’s EnsoSleep, its AI scoring software for in-lab and home sleep studies, is the first software to receive Full Autoscoring Certification from the American Academy of Sleep Medicine (AASM), th… [+866 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Cut"
+    },
+    "author": "Andrea González-Ramírez",
+    "title": "What If a Crisis Pregnancy Center Was Pro-Choice?",
+    "description": "What if a health clinic offered abortion care, adoption services, and free resources for parents all under one roof? The Ohio nonprofit JustChoice is the first organization in the nation to do exactly that.",
+    "url": "http://www.thecut.com/article/justchoice-ohio-clinic-pro-choice-crisis-pregnancy-center.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/740/8aa/383861eba249ae810a7e427f07300343c4-justchoice.1x.rsocial.w1200.jpg",
+    "publishedAt": "2026-10-28T11:00:37Z",
+    "content": "As soon as Anna found out she was pregnant, she knew she didnt want to be. I have a lot I want to do with my life, and I dont feel like Im ready for kids yet, the 19-year-old college student in Ohio,… [+21240 chars]"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "Norah  O'Donnell",
+    "title": "Norah's dermatologist shares skin care do's and don'ts",
+    "description": "Dr. Elizabeth Hale​ is an expert on treating damaged skin and shares science-backed advice for looking and feeling your best.",
+    "url": "https://www.cbsnews.com/news/dermatologist-preventing-reversing-skin-damage-healthful/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/30d287e5-1bad-427c-a392-dcc75257e22d/thumbnail/1200x630/26dc311e7a7152c9d6f55781920a5554/norah-drhale.jpg",
+    "publishedAt": "2026-10-28T11:00:02Z",
+    "content": "Skin is your body's largest organ, and my dermatologist says it's a reflection of your overall health. Dr. Elizabeth Hale, a leading dermatologist and senior vice president of the Skin Cancer Foundat… [+6808 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Ms. Magazine"
+    },
+    "author": "Jaime Patel",
+    "title": "What Opal Vadhan Knows About the Indian American Majority",
+    "description": "Seven in 10 Indian Americans disapprove of the job President Donald Trump is doing, according to the Carnegie Endowment's 2026 Indian American Attitudes Survey—a sharper rebuke than he gets from the American public as a whole.\nThe daughter who learned to hold…",
+    "url": "https://msmagazine.com/2026/10/28/opal-vadhan-indian-american-women-voters-2026-midterms/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/10/Opal-Vadhan-and-Hillary-Clinton.jpeg",
+    "publishedAt": "2026-10-28T11:00:00Z",
+    "content": "Opal Vadhan is a former senior adviser to Vice President Kamala Harris who also served as Harris personal aide during the Biden-Harris administration. She previously worked as executive assistant and… [+9152 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Den of Geek US"
+    },
+    "author": "Alfredo Federico Robelo",
+    "title": "16 Random Historical Facts That Are Unsettling None the Less",
+    "description": "We all have a strange tidbit of lore about our upbringing, or something questionable that we did in our past, and we only share it with the people we trust. Since everyone has at least one of these unsettling truths, you just know history itself is filled wit…",
+    "url": "http://www.denofgeek.com/msn/16-random-historical-facts-that-are-unsettling-none-the-less/",
+    "urlToImage": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-10-4.jpg?fit=1200%2C675",
+    "publishedAt": "2026-10-28T11:00:00Z",
+    "content": "Unsplash\r\nBefore modern materials existed, false teeth had to come from real people. Scavengers looted the teeth of tens of thousands of fallen soldiers after the Battle of Waterloo, selling them to … [+1412 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "TOI World Desk",
-    "title": "A Rwandan woman accused of involvement in the 1994 genocide lost her US refugee status; an appeals court has now allowed her legal challenge to proceed",
-    "description": "A Rwandan woman accused of involvement in the 1994 genocide lost her US refugee status; an appeals court has now allowed her legal challenge to proceed",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-rwandan-woman-accused-of-involvement-in-the-1994-genocide-lost-her-us-refugee-status-an-appeals-court-has-now-allowed-her-legal-challenge-to-proceed/articleshow/135231360.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135231550,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-27T10:47:39Z",
-    "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>A Rwandan woman accused of involvement in the 1994 genocide lost her US refugee status; an appeals court has now allowed her l… [+2089 chars]"
+    "author": "Team Global",
+    "title": "In Maryland, Smithsonian scientists planted 17,000 trees in plots with 1, 4, or 12 species; after years of monitoring, mixed forests grew faster and stored more carbon",
+    "description": "A recent investigation in Maryland reveals that forests composed of mixed species grow at a much faster rate compared to those with a single species. The BiodiversiTREE experiment highlights enhanced canopy complexity, which allows for more effective light ab…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/in-maryland-smithsonian-scientists-planted-17000-trees-in-plots-with-1-4-or-12-species-after-years-of-monitoring-mixed-forests-grew-faster-and-stored-more-carbon/articleshow/135234504.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135234620,width-1200,height-900,imgsize-518414,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-10-28T11:00:00Z",
+    "content": "A tree planting event is a classic feel-good event. A sapling, a shovel, and a quick photo for the group chat. Tree planting has become synonymous with \"Im making a difference to the climate,\" meanin… [+3994 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Freerepublic.com"
+      "name": "PensBurgh"
     },
-    "author": "NY Post",
-    "title": "Crucial swing voters troubled by DSA, new poll shows: ‘Souring on socialism’",
-    "description": "WASHINGTON — Crucial swing voters have become increasingly troubled by the rise of the Democratic Socialists of America and the far-left in general — a major warning sign for Dems ahead of the midterms, a new poll shows. When asked about their views of the DS…",
-    "url": "https://freerepublic.com/focus/f-chat/4400736/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-10-27T10:47:31Z",
-    "content": "Skip to comments.\r\nCrucial swing voters troubled by DSA, new poll shows: Souring on socialismNY Post ^\r\n | 10/26/26\r\n | Ryan King\r\nPosted on 10/27/2026 3:47:31 AM PDT by Libloather\r\nWASHINGTON Crucia… [+2857 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Science Daily"
-    },
-    "author": null,
-    "title": "Common drugs may help dangerous viruses spread through the body",
-    "description": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a…",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/red-virus-cells-spreading-inside-human-body.webp",
-    "publishedAt": "2026-10-27T10:46:21Z",
-    "content": "Medications are designed to treat diseases and relieve symptoms, but some can also produce unintended effects that put patients at risk. While side effects are common with many treatments, researcher… [+4858 chars]"
+    "author": "Jim Rixner",
+    "title": "October Penguins prospect update",
+    "description": "October is the usual first full month for many hockey seasons around the world. With all the interest in the Penguins burgeoning and growing prospect pool, we’re going to use today’s off day in the NHL to put the attention on how things are going across the o…",
+    "url": "https://www.pensburgh.com/prospect-reports/82412/october-penguins-prospect-update",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/b3013bb5f4386c693b706d1d05577f9089549587304e55c8da3510b1cd24dc9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F2e9e72829683b7bf493767c960e3b38f.jpg",
+    "publishedAt": "2026-10-28T11:00:00Z",
+    "content": "October is the usual first full month for many hockey seasons around the world. With all the interest in the Penguins burgeoning and growing prospect pool, we're going to use today's off day in the N… [+10962 chars]"
   }
 ]
