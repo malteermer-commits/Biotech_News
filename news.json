@@ -2,261 +2,261 @@
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Lse.ac.uk"
     },
-    "author": "kengo.nakada@email.com, kobayashi@mat.shimane-u.ac.jp",
-    "title": "rmc-dft 0.7.12",
-    "description": "rmc_dft is a Python package for performing Reverse Monte Carlo modeling and ab initio molecular dynamics / relaxation using VASP code.",
-    "url": "https://pypi.org/project/rmc-dft/0.7.12/",
+    "author": null,
+    "title": "Communicating uncertainties about the benefits and risks of new cancer drugs: two randomized clinical trials",
+    "description": "Cherla, A. , Wagner, A. K., Woloshin, S., Davis, C., Bourgeois, F. T., Mossialos, E. ORCID logo & Naci, H. ORCID logo (2026). Communicating uncertainties about the benefits and risks of new cancer drugs: two randomized clinical trials. JAMA Internal Medicine,…",
+    "url": "https://researchonline.lse.ac.uk/id/eprint/141741/",
     "urlToImage": null,
-    "publishedAt": "2026-10-28T11:47:56Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "publishedAt": "2026-10-29T11:42:01Z",
+    "content": "Importance Cancer drugs are frequently approved based on uncertain benefits and risks that are not communicated to patients. Objective To evaluate the effect of communicating uncertainties about the … [+2425 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "Abcnews.com"
     },
-    "author": "Elena Vega",
-    "title": "Savolitinib Plus Tagrisso Added About Five Months of Median Survival Over Chemo in MET-Driven Lung Cancer",
-    "description": "Full SAFFRON results found that savolitinib plus Tagrisso improved overall and progression-free survival versus chemotherapy in EGFR-mutated lung cancer with MET changes, while highlighting important safety differences.",
-    "url": "https://www.medicaldaily.com/savolitinib-tagrisso-saffron-lung-cancer-survival-480501",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487859/lung-cancer-oncology-consultation.jpg",
-    "publishedAt": "2026-10-28T11:46:33Z",
-    "content": "People with EGFR-mutated lung cancer whose disease progressed on Tagrisso because of MET changes lived a median of 17.8 months with savolitinib plus Tagrisso, compared with 12.9 months with chemother… [+6310 chars]"
-  },
-  {
-    "source": {
-      "id": "rte",
-      "name": "RTE"
-    },
-    "author": "RTÉ News",
-    "title": "GSK third-quarter beat fails to impress and shares fall",
-    "description": "GSK has today beaten third-quarter sales and profit expectations, driven by demand for specialty medicines after the drugmaker began a strategic overhaul under CEO Luke Miels to accelerate growth and prepare for looming patent losses.",
-    "url": "https://www.rte.ie/news/business/2026/1028/1597077-gsk-quarterly-results/",
-    "urlToImage": "https://www.rte.ie/images/001e7629-1600.jpg",
-    "publishedAt": "2026-10-28T11:45:47Z",
-    "content": "GSK has today beaten third-quarter sales and profit expectations, driven by demand for specialty medicines after the drugmaker began a strategic overhaul under CEO Luke Miels to accelerate growth and… [+2153 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Cole Mercer",
-    "title": "Lab-Grown Blood Vessel Got Women on Dialysis Off Catheters Months Sooner Than Fistulas in Interim Phase 3 Data",
-    "description": "Interim Phase 3 results from 80 women suggest Humacyte's lab-grown blood vessel provided usable dialysis access sooner than fistulas, reducing catheter time, though independent review is still pending.",
-    "url": "https://www.medicaldaily.com/lab-grown-vessel-dialysis-access-women-trial-480500",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487858/woman-hemodialysis-patient-dialysis-machine-hospital.jpg",
-    "publishedAt": "2026-10-28T11:42:24Z",
-    "content": "Women starting dialysis through a catheter reached usable long-term access about three months sooner with a lab-grown blood vessel than with a standard fistula, according to interim Phase 3 results p… [+6843 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "AP",
-    "title": "A ceasefire in a Russian-occupied Ukrainian city holds for its first 30 hours, officials say",
-    "description": "A six-day ceasefire has been initiated in Oleshky, allowing much-needed humanitarian aid for around 2,000 residents. Both Ukraine and Russia have reported no violations of the ceasefire in the first 30 hours. Negotiations continue for future discussions to de…",
-    "url": "https://economictimes.indiatimes.com/news/international/world-news/a-ceasefire-in-a-russian-occupied-ukrainian-city-holds-for-its-first-30-hours-officials-say/articleshow/135263943.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135263940,width-1200,height-900,imgsize-165716,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-28T11:40:26Z",
-    "content": "Ukraine: A planned six-day ceasefire in and around a Russian-occupied city in southern Ukraine held for its first day and night, officials said Wednesday, but Moscow and Kyiv continued to batter each… [+4802 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Team Global",
-    "title": "North Carolina dumped 7,200 tons of discarded concrete pipe onto bare ocean floor at AR-165; the reef later grew to include 3 retired tugboats for fish habitat",
-    "description": "In North Carolina, marine biologists are transforming sunken tugboats and concrete pipes into artificial reefs, enhancing the habitat for numerous fish species. These initiatives not only boost marine biodiversity but also show that artificial reefs can effec…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/north-carolina-dumped-7200-tons-of-discarded-concrete-pipe-onto-bare-ocean-floor-at-ar-165-the-reef-later-grew-to-include-3-retired-tugboats-for-fish-habitat/articleshow/135235830.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135235871,width-1200,height-900,imgsize-252570,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-28T11:30:00Z",
-    "content": "When we think of reusing unwanted items, we generally think of landfills and scrap yards. However, when marine biologists from North Carolina think of reusing items like an old tugboat and concrete p… [+3744 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Biztoc.com"
-    },
-    "author": "finance.yahoo.com",
-    "title": "Digbi Health Announces ASRA, a Precision Biology-Powered Agentic Care Operating System Unifying Metabolic, Inflammatory, and Hormonal Health",
-    "description": "Asra\nAstra agents\nBuilt on three years of development and testing and billions of linked biological, clinical, lifestyle, and behavioral data points, ASRA brings together Precision Biology, AI-driven operations, and clinician-supervised care.\nThe platform ser…",
-    "url": "https://biztoc.com/x/17ef868bb9616dfe",
-    "urlToImage": "https://biztoc.com/cdn/17ef868bb9616dfe_s.webp",
-    "publishedAt": "2026-10-28T11:20:57Z",
-    "content": "AsraAstra agentsBuilt on three years of development and testing and billions of linked biological, clinical, lifestyle, and behavioral data points, ASRA brings together Precision Biology, AI-driven o… [+150 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PR Newswire UK"
-    },
-    "author": null,
-    "title": "Sheraton Sanya Haitang Bay Resort Offers Island Getaway Experiences for International Families with Children",
-    "description": "SANYA, China, Oct. 28, 2026 /PRNewswire/ -- Sheraton Sanya Haitang Bay Resort is located in the heart of Haitang Bay, boasting direct sea views and a total of 500 guest rooms and suites, including 39 suites. Guests can reach the beach area in about a 3–6 minu…",
-    "url": "https://www.prnewswire.co.uk/news-releases/sheraton-sanya-haitang-bay-resort-offers-island-getaway-experiences-for-international-families-with-children-302922056.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS2022545/20261028055058EDT_image_1.jpg?id=OA3044371&p=facebook",
-    "publishedAt": "2026-10-28T11:20:00Z",
-    "content": "SANYA, China, Oct. 28, 2026 /PRNewswire/ -- Sheraton Sanya Haitang Bay Resort is located in the heart of Haitang Bay, boasting direct sea views and a total of 500 guest rooms and suites, including 39… [+2205 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Biztoc.com"
-    },
-    "author": "wsj.com",
-    "title": "Biogen Swings to Loss, Logs Higher Sales",
-    "description": "The biotechnology company said the swing to a loss was primarily due to transaction-related charges.",
-    "url": "https://biztoc.com/x/2112e1f9cb65dc24",
-    "urlToImage": "https://biztoc.com/cdn/996/og.png",
-    "publishedAt": "2026-10-28T11:13:37Z",
-    "content": "The biotechnology company said the swing to a loss was primarily due to transaction-related charges.\r\nThis story appeared on wsj.com, 2026-10-28 11:09:00."
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thepinknews.com"
-    },
-    "author": "Joanna Carter Tipton",
-    "title": "Kansas pastor Adam Hamilton goes viral after saying politicians shouldn’t ‘pick on’ trans people",
-    "description": "In a KMBC interview, the Democrat said trans people have been turned into “a campaign issue because it polls well”.\nThe post Kansas pastor Adam Hamilton goes viral after saying politicians shouldn’t ‘pick on’ trans people appeared first on PinkNews | Latest l…",
-    "url": "https://www.thepinknews.com/2026/10/28/adam-hamilton-trans-rights-2026/",
-    "urlToImage": "https://www.thepinknews.com/wp-content/uploads/2026/10/kansas-pastor-adam-hamilton-viral-trans-rights.jpg",
-    "publishedAt": "2026-10-28T11:11:30Z",
-    "content": "A Kansas megachurch pastor running for the US Senate has told politicians to stop bully[ing] transgender people and turning them into a campaign issue.\r\nDemocratic candidate Adam Hamilton made the co… [+2378 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Lifesciencedaily.news"
-    },
-    "author": "James Sterling",
-    "title": "GLP-1s in adolescents: what the obesity evidence shows",
-    "description": "GLP-1s in adolescents: what STEP TEENS, SCALE Kids and STEP Young show on weight loss, safety and UK access for young people.",
-    "url": "https://lifesciencedaily.news/glp-1s-in-adolescents-paediatric-obesity-evidence/",
-    "urlToImage": "https://lifesciencedaily.news/wp-content/uploads/2026/10/glp1s-in-adolescents-feature.jpg",
-    "publishedAt": "2026-10-28T11:10:54Z",
-    "content": "The case for GLP-1s in adolescents with obesity now rests on several randomised trials and two marketing authorisations. Real-world data are growing too. That evidence shows substantial reductions in… [+10048 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Weight-loss drug could help address nighttime sleep disruptions for millions",
-    "description": "Eli Lilly's retatrutide cut breathing interruptions and drove significant weight loss in sleep apnea patients, as well as cardiovascular benefits.",
-    "url": "https://www.foxnews.com/health/weight-loss-drug-help-address-nighttime-sleep-disruptions-millions",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/woman-sleeping-peacefully.jpg",
-    "publishedAt": "2026-10-28T11:00:59Z",
-    "content": "An experimental obesity drug significantly reduced breathing interruptions and other symptoms of obstructive sleep disorder in two clinical trials, according to new research published in The New Engl… [+5498 chars]"
+    "author": "MARY CLARE JALONICK Associated Press",
+    "title": "Senate is skeptical about making daylight saving time permanent despite Trump's pressure",
+    "description": "Get ready to fall back",
+    "url": "https://abcnews.com/Business/wireStory/senate-skeptical-making-daylight-saving-time-permanent-despite-137668433",
+    "urlToImage": "https://i.abcnewsfe.com/a/d1d71ddb-d4c0-47de-ac00-c588b89fe789/wirestory_f9e065a6f5a3187731ea794b353c3a4f_16x9.jpg?w=1600",
+    "publishedAt": "2026-10-29T11:41:16Z",
+    "content": "WASHINGTON -- The Senate is unlikely to act before the end of the year on a House-passed bill that would make daylight saving time permanent, defying President Donald Trump and dashing the hopes of A… [+4598 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Dailymail.com"
     },
-    "author": "Jessica Green",
-    "title": "Forget baked beans! Professional middle-class preppers reveal the smart alternatives you should REALLY stock up on for when disaster strikes",
-    "description": "Britons have emptied supermarket shelves of baked beans, bottled water and batteries after Labour issued a stark warning to households last week to 'be ready' for a national crisis.",
-    "url": "https://www.dailymail.com/lifestyle/article-16243015/Forget-baked-beans-Professional-middle-class-preppers-reveal-smart-alternatives-you-REALLY-stock-disaster-strikes.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/10/28/10/112139753-0-image-m-43_1793183769853.jpg",
-    "publishedAt": "2026-10-28T11:00:52Z",
-    "content": "Britons have emptied supermarket shelves of baked beans, bottled water and batteries after Labour issued a stark warning to households last week to 'be ready' for a national crisis.\r\nYet, despite ret… [+12018 chars]"
+    "author": "Ciaran Foreman",
+    "title": "Ebola could soon 'spread globally' health chiefs warn as cases top 10,000 - experts reveal how soon killer virus could reach the UK",
+    "description": "Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention, put Europe on red alert as cases of the virus surpassed 10,000 and deaths hit 5,000.",
+    "url": "https://www.dailymail.com/health/article-16248545/Ebola-soon-spread-globally-health-chiefs-warn-cases-10-000-experts-reveal-soon-killer-virus-reach-UK.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/29/09/112164671-0-image-m-10_1793265688394.jpg",
+    "publishedAt": "2026-10-29T11:39:13Z",
+    "content": "Britain is 'not safe' from the 'unprecedented' Ebola outbreak, Africa's top health official has warned.\r\nJean Kaseya, director general of the Africa Centres for Disease Control and Prevention, has pu… [+5203 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Madisonstartups.com"
+      "name": "The Federalist"
     },
-    "author": "Taylor Kennedy",
-    "title": "EnsoData’s Product Receives Certification From AASM",
-    "description": "EnsoData’s EnsoSleep, its AI scoring software for in-lab and home sleep studies, is the first software to receive Full Autoscoring Certification from the American Academy of Sleep Medicine (AASM), the...",
-    "url": "https://www.madisonstartups.com/ensodatas-product-receives-certification-from-aasm/",
-    "urlToImage": "https://www.madisonstartups.com/wp-content/uploads/2015/12/EnsoData.png",
-    "publishedAt": "2026-10-28T11:00:39Z",
-    "content": "EnsoData’s EnsoSleep, its AI scoring software for in-lab and home sleep studies, is the first software to receive Full Autoscoring Certification from the American Academy of Sleep Medicine (AASM), th… [+866 chars]"
+    "author": "Casey Chalk",
+    "title": "How To Build A Family Legacy That Lasts Centuries",
+    "description": "Austin Ruse's latest book, 'Not Just for Kings: Cultivating a 500-Year Vision for Your Family,' makes the case for building big and influential families.",
+    "url": "https://thefederalist.com/2026/10/29/how-to-build-a-family-legacy-that-lasts-centuries/",
+    "urlToImage": "https://thefederalist.com/wp-content/uploads/2026/10/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Book-Cover-Featured-Image-1.png",
+    "publishedAt": "2026-10-29T11:37:06Z",
+    "content": "Alan Alexander Milne, the British author responsible for Winnie-the-Pooh, one of the most beloved characters of childrens literature, had one child: Christopher Robin, the inspiration for Poohs best … [+9079 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Cut"
+      "name": "Biztoc.com"
     },
-    "author": "Andrea González-Ramírez",
-    "title": "What If a Crisis Pregnancy Center Was Pro-Choice?",
-    "description": "What if a health clinic offered abortion care, adoption services, and free resources for parents all under one roof? The Ohio nonprofit JustChoice is the first organization in the nation to do exactly that.",
-    "url": "http://www.thecut.com/article/justchoice-ohio-clinic-pro-choice-crisis-pregnancy-center.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/740/8aa/383861eba249ae810a7e427f07300343c4-justchoice.1x.rsocial.w1200.jpg",
-    "publishedAt": "2026-10-28T11:00:37Z",
-    "content": "As soon as Anna found out she was pregnant, she knew she didnt want to be. I have a lot I want to do with my life, and I dont feel like Im ready for kids yet, the 19-year-old college student in Ohio,… [+21240 chars]"
-  },
-  {
-    "source": {
-      "id": "cbs-news",
-      "name": "CBS News"
-    },
-    "author": "Norah  O'Donnell",
-    "title": "Norah's dermatologist shares skin care do's and don'ts",
-    "description": "Dr. Elizabeth Hale​ is an expert on treating damaged skin and shares science-backed advice for looking and feeling your best.",
-    "url": "https://www.cbsnews.com/news/dermatologist-preventing-reversing-skin-damage-healthful/",
-    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/27/30d287e5-1bad-427c-a392-dcc75257e22d/thumbnail/1200x630/26dc311e7a7152c9d6f55781920a5554/norah-drhale.jpg",
-    "publishedAt": "2026-10-28T11:00:02Z",
-    "content": "Skin is your body's largest organ, and my dermatologist says it's a reflection of your overall health. Dr. Elizabeth Hale, a leading dermatologist and senior vice president of the Skin Cancer Foundat… [+6808 chars]"
+    "author": "tech.eu",
+    "title": "ALLOX closes $10.5M seed financing to scale drug discovery platform",
+    "description": "Biotechnology company ALLOX has raised\n$10.5 million in a seed funding round to expand its drug discovery platform and\nadvance its internal development programmes. The round was led by Asabys\nthrough its Sabadell Asabys II fund, with participation from CDTI t…",
+    "url": "https://biztoc.com/x/9bff0b0a0d17670a",
+    "urlToImage": "https://biztoc.com/cdn/9bff0b0a0d17670a_s.webp",
+    "publishedAt": "2026-10-29T11:37:01Z",
+    "content": "Biotechnology company ALLOX has raised$10.5 million in a seed funding round to expand its drug discovery platform andadvance its internal development programmes. The round was led by Asabysthrough it… [+138 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Ms. Magazine"
+      "name": "Freerepublic.com"
     },
-    "author": "Jaime Patel",
-    "title": "What Opal Vadhan Knows About the Indian American Majority",
-    "description": "Seven in 10 Indian Americans disapprove of the job President Donald Trump is doing, according to the Carnegie Endowment's 2026 Indian American Attitudes Survey—a sharper rebuke than he gets from the American public as a whole.\nThe daughter who learned to hold…",
-    "url": "https://msmagazine.com/2026/10/28/opal-vadhan-indian-american-women-voters-2026-midterms/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/10/Opal-Vadhan-and-Hillary-Clinton.jpeg",
-    "publishedAt": "2026-10-28T11:00:00Z",
-    "content": "Opal Vadhan is a former senior adviser to Vice President Kamala Harris who also served as Harris personal aide during the Biden-Harris administration. She previously worked as executive assistant and… [+9152 chars]"
+    "author": "Brian Ward",
+    "title": "Letter to Ashley Moody from Brian Ward",
+    "description": "Re: Coordinated Plot by the FDA and the Judicial Branch to Coercively or Covertly Expose Americans to Experimental Drugs and Federally Funded Research, and to Nullify the Due Process Clause—A National Security ThreatExecutive Summary Dear Senator Moody: I wri…",
+    "url": "https://freerepublic.com/focus/f-chat/4401001/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-10-29T11:36:51Z",
+    "content": "Skip to comments.\r\nLetter to Ashley Moody from Brian WardBrian Ward ^\r\n | October 26, 2026\r\n | Brian Ward\r\nPosted on 10/29/2026 4:36:51 AM PDT by Pontiac\r\nRe: Coordinated Plot by the FDA and the Judi… [+18260 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Den of Geek US"
+      "name": "Gizmodo.com"
     },
-    "author": "Alfredo Federico Robelo",
-    "title": "16 Random Historical Facts That Are Unsettling None the Less",
-    "description": "We all have a strange tidbit of lore about our upbringing, or something questionable that we did in our past, and we only share it with the people we trust. Since everyone has at least one of these unsettling truths, you just know history itself is filled wit…",
-    "url": "http://www.denofgeek.com/msn/16-random-historical-facts-that-are-unsettling-none-the-less/",
-    "urlToImage": "https://www.denofgeek.com/wp-content/uploads/2026/10/img-10-4.jpg?fit=1200%2C675",
-    "publishedAt": "2026-10-28T11:00:00Z",
-    "content": "Unsplash\r\nBefore modern materials existed, false teeth had to come from real people. Scavengers looted the teeth of tens of thousands of fallen soldiers after the Battle of Waterloo, selling them to … [+1412 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Team Global",
-    "title": "In Maryland, Smithsonian scientists planted 17,000 trees in plots with 1, 4, or 12 species; after years of monitoring, mixed forests grew faster and stored more carbon",
-    "description": "A recent investigation in Maryland reveals that forests composed of mixed species grow at a much faster rate compared to those with a single species. The BiodiversiTREE experiment highlights enhanced canopy complexity, which allows for more effective light ab…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/in-maryland-smithsonian-scientists-planted-17000-trees-in-plots-with-1-4-or-12-species-after-years-of-monitoring-mixed-forests-grew-faster-and-stored-more-carbon/articleshow/135234504.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135234620,width-1200,height-900,imgsize-518414,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-10-28T11:00:00Z",
-    "content": "A tree planting event is a classic feel-good event. A sapling, a shovel, and a quick photo for the group chat. Tree planting has become synonymous with \"Im making a difference to the climate,\" meanin… [+3994 chars]"
+    "author": "Gayoung Lee",
+    "title": "Scientists Thought Comets Seeded Life on Earth. The Physics Says Otherwise",
+    "description": "“It’s kind of a romantic idea, but our results suggest it’s highly unlikely.”",
+    "url": "https://gizmodo.com/scientists-thought-comets-seeded-life-on-earth-the-physics-says-otherwise-2000832092",
+    "urlToImage": "https://gizmodo.com/app/uploads/2026/10/Comets_around_eta_corvi_artist_impression-1200x675.jpg",
+    "publishedAt": "2026-10-29T11:30:50Z",
+    "content": "As NASA says, comets are cosmic snowballs of frozen gases, rock, and dust that include a good amount of organic materials. Accordingly, scientists have long suggested that a comet brought these molec… [+4530 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PensBurgh"
+      "name": "Mother Jones"
     },
-    "author": "Jim Rixner",
-    "title": "October Penguins prospect update",
-    "description": "October is the usual first full month for many hockey seasons around the world. With all the interest in the Penguins burgeoning and growing prospect pool, we’re going to use today’s off day in the NHL to put the attention on how things are going across the o…",
-    "url": "https://www.pensburgh.com/prospect-reports/82412/october-penguins-prospect-update",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/b3013bb5f4386c693b706d1d05577f9089549587304e55c8da3510b1cd24dc9e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F2e9e72829683b7bf493767c960e3b38f.jpg",
-    "publishedAt": "2026-10-28T11:00:00Z",
-    "content": "October is the usual first full month for many hockey seasons around the world. With all the interest in the Penguins burgeoning and growing prospect pool, we're going to use today's off day in the N… [+10962 chars]"
+    "author": "Adam Mahoney",
+    "title": "Data Center Headed Your Way? This Tool Lets You See Where the Candidates Stand.",
+    "description": "This story was originally published by Capital B and is reproduced here as part of the Climate Desk collaboration. If you’re a Black American (or any American, actually) worried about a data center coming to your neighborhood, the questions are immediate and …",
+    "url": "https://www.motherjones.com/politics/2026/10/ai-data-center-development-boom-midterm-elections-candidates-positions-local-database-tool/",
+    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/10/20260313_znn_c262_003-fotor-2026102818041.png?w=1200&h=630&crop=1",
+    "publishedAt": "2026-10-29T11:30:00Z",
+    "content": "Demonstrators rally against data center proliferation at the Capitol in Denver, Colorado, in March 2026. Jesse Paul/Zuma\r\nGet your news from a source thats not owned and controlled by oligarchs. Sign… [+5785 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Scientific American"
+    },
+    "author": "Simon Makin",
+    "title": "Scientists can now rewire living brains",
+    "description": "The tool could eventually lead to an entirely new approach for treating mental health",
+    "url": "https://www.scientificamerican.com/article/scientists-can-now-rewire-living-brains/",
+    "urlToImage": "https://static.scientificamerican.com/dam/asset/de037fbe-ad03-4b89-b9f1-9e8153c38247/Neurons-firing.jpg?m=1793216430.205&w=1200",
+    "publishedAt": "2026-10-29T11:30:00Z",
+    "content": "The human brain holds around 86 billion neurons, wired together in a vast web of hundreds of trillions of connections. These connections, bridged by structures called synapses, form circuits responsi… [+8446 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Kaddy Jawo",
+    "title": "‘Survival of the fittest’: The struggle to get to university in The Gambia",
+    "description": "Students at a top university protest against transport shortages, poor facilities and safety concerns.",
+    "url": "https://www.aljazeera.com/news/2026/10/29/survival-of-the-fittest-the-struggle-to-get-to-university-in-the-gambia",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-27-at-11.07.10-1793184626.jpeg?resize=1200%2C675",
+    "publishedAt": "2026-10-29T11:25:16Z",
+    "content": "Faraba Banta, The Gambia For Muhammed Lamin Jallow, a student at the University of The Gambias School of Arts and Sciences, getting to class has become a daily struggle.\r\nHe travels about 40 km (25 m… [+5749 chars]"
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "GlobeNewswire",
+    "title": "Junshi Biosciences Announces the Completion of First Patient Dosing in the Phase 3 Clinical Trial of JS207 in Combination with JS007 for the First-Line Treatment of Advanced Hepatocellular Carcinoma",
+    "description": "SHANGHAI, Oct. 29, 2026 (GLOBE NEWSWIRE) — Shanghai Junshi Biosciences Co., Ltd (Junshi Biosciences, HKEX: 1877; SSE: 688180), a leading innovation-driven biopharmaceutical company dedicated to the discovery, development, and commercialization of novel therap…",
+    "url": "https://financialpost.com/globe-newswire/junshi-biosciences-announces-the-completion-of-first-patient-dosing-in-the-phase-3-clinical-trial-of-js207-in-combination-with-js007-for-the-first-line-treatment-of-advanced-hepatocellular-carcinoma",
+    "urlToImage": null,
+    "publishedAt": "2026-10-29T11:24:59Z",
+    "content": "SHANGHAI, Oct. 29, 2026 (GLOBE NEWSWIRE) Shanghai Junshi Biosciences Co., Ltd (Junshi Biosciences, HKEX: 1877; SSE: 688180), a leading innovation-driven biopharmaceutical company dedicated to the dis… [+5861 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Punch"
+    },
+    "author": "Punch Newspapers",
+    "title": "Russian drone strike kills 13 at Ukraine train station",
+    "description": "A Russian drone strike on a busy railway station in Ukraine’s Dnipro has killed at least 13 people, in what President Zelensky called a ‘horrific’ attack.\n\nRead More: https://punchng.com/russian-drone-strike-kills-13-at-ukraine-train-station/",
+    "url": "https://punchng.com/russian-drone-strike-kills-13-at-ukraine-train-station/",
+    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/05/24111352/AFP__20260524__B3VJ22H__v3__Mockup__TopshotUkraineRussiaConflictWar-1200x630.webp",
+    "publishedAt": "2026-10-29T11:13:27Z",
+    "content": "A Russian drone slammed into a busy platform at a railway station in Ukraine’s Dnipro on Thursday, killing at least 13 people in what President Volodymyr Zelensky called a “horrific” attack that dema… [+4034 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": "feedfeeder",
+    "title": "The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues. - The Boston Globe",
+    "description": "The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues.The Boston Globe Rising rates of colorectal cancer found in nearly all age groupsUChicago Medicine Colon cancer rates rising across older age groups — and m…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186494966",
+    "urlToImage": null,
+    "publishedAt": "2026-10-29T11:12:31Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
+    "source": {
+      "id": "financial-post",
+      "name": "Financial Post"
+    },
+    "author": "GlobeNewswire",
+    "title": "Biogen to Present New Data Across Alzheimer’s Disease Portfolio at CTAD 2026",
+    "description": "Diranersen late-breaking symposium will feature 96-week long-term extension data and additional 76-week biomarker and clinical data from the Phase 2 CELIA study in early Alzheimer’s disease Lecanemab presentations will highlight new long-term and real-world e…",
+    "url": "https://financialpost.com/globe-newswire/biogen-to-present-new-data-across-alzheimers-disease-portfolio-at-ctad-2026",
+    "urlToImage": null,
+    "publishedAt": "2026-10-29T11:09:20Z",
+    "content": "The study evaluated three doses of diranersen administered intrathecally over an 18-month placebo-controlled treatment period: 60 mg every six months, 115 mg every six months, and 115 mg every three … [+4544 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": null,
+    "title": "Spanish rescue workers search for any survivors in high-speed rail crash, with 69 dead",
+    "description": "Spain's second high-speed rail disaster this year, in which one train struck another from behind, killing 69 people, has raised fresh concerns about the safety of the country's rail network ahead of a national election.",
+    "url": "https://www.cbc.ca/news/world/spain-search-questions-train-crash-9.7400725",
+    "urlToImage": "https://i.cbc.ca/ais/97e28f15-00c3-4b6b-8b02-61f1aa2927d0,1793270169493/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5860%2C3296%29%3BResize%3D620",
+    "publishedAt": "2026-10-29T11:09:05Z",
+    "content": "Spain's second high-speed rail disaster this year, in which one train struck another from behind, killing 69 people, has raised fresh concerns about the safety of the country's rail network ahead of … [+5632 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Thefutoncritic.com"
+    },
+    "author": null,
+    "title": "Bravo's \"The Real Housewives of Orange County\" Supersized Two-Part Reunion Begins Thursday, Nov. 5 at 8 P.M. ET/PT",
+    "description": "Host Andy Cohen is joined by Vicki Gunvalson, Shannon Storms Beador, Heather Dubrow, Tamra Judge, Gina Kirschenheiter, Emily Simpson, Jennifer Pedranti and Carmella Garcia for the landmark 20th season as they look back on the biggest highs, lowest lows and mo…",
+    "url": "http://www.thefutoncritic.com/news/2026/10/29/bravos-the-real-housewives-of-orange-county-supersized-two-part-reunion-begins-thursday-nov-5-at-8-pm-et-pt-349415/20261029bravo01/",
+    "urlToImage": null,
+    "publishedAt": "2026-10-29T11:01:00Z",
+    "content": "BRAVO'S \"THE REAL HOUSEWIVES OF ORANGE COUNTY\" SUPERSIZED TWO-PART REUNION BEGINS THURSDAY, NOV. 5 AT 8 P.M. ET/PT\r\nThe Supersized Season 20 Finale Airs Oct. 29 at 8 p.m. ET/PT\r\n·Bravo's \"The Real Ho… [+2465 chars]"
+  },
+  {
+    "source": {
+      "id": "national-geographic",
+      "name": "National Geographic"
+    },
+    "author": "Nick Heil",
+    "title": "What Compelled Jim Morrison to Ski Down the Tallest Mountain on Earth?",
+    "description": "After he lost his partner in an avalanche, the intrepid adventurer was unmoored by grief. Then he made history by skiing an unthinkable line on Everest. We went to southwestern Colorado to learn how he has turned a lifetime of tragedy into triumph.",
+    "url": "https://www.nationalgeographic.com/adventure/article/jim-morrison-mount-everest-north-face-skiing",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/15ffe83c31c1f1604aa1557922abba344fd274d2fbe028c4688cae8985d2225b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnational_geographic_articles_149%2F34e63fe6902b49a3811b2f8cda6aee2f.jpg",
+    "publishedAt": "2026-10-29T11:00:00Z",
+    "content": "Jim Morrison makes his first turn down the north face of Mount Everest. The line has long been considered skiing's Holy Grail. Jimmy Chin\r\nThe idyllic mountain town of Telluride, Colorado, is tucked … [+18290 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": "Collin Gallant",
+    "title": "Alberta-made low-tech tractor getting attention worldwide",
+    "description": "A small agricultural service shop in central Alberta has developed an all-mechanical tractor that promises low-cost reliability and ease of repair in a sector where most machinery has become increasingly high-tech and often includes computer servicing contrac…",
+    "url": "https://www.cbc.ca/news/canada/calgary/ursa-ag-bowden-tractors-9.7399940",
+    "urlToImage": "https://i.cbc.ca/ais/df48e41e-4392-4266-a72f-216b1a9fa00f,1793233100798/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C186%2C4218%2C2372%29%3BResize%3D620",
+    "publishedAt": "2026-10-29T11:00:00Z",
+    "content": "As the sector moves to high-tech, precision farming, Doug Wilson's phone is ringing off the hook with farmers looking to manage their equipment costs and fix problems themselves. \r\nFour years ago, hi… [+4841 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "BL Hyderabad Bureau",
+    "title": "Laurus Labs’ Q2 net more than doubles at ₹441 cr",
+    "description": "Laurus Labs’ Q2 net soars to ₹441 cr as it inks 60% Galenvs stake, boosting oligos, peptides, and CDMO growth strategy.",
+    "url": "https://www.thehindubusinessline.com/news/laurus-labs-q2-net-more-than-doubles-at-441-cr/article71640046.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/wfx6ad/article71640117.ece/alternates/LANDSCAPE_1200/Laurus-Labs-Q1-GANGA13IS.4.jpg.jpg",
+    "publishedAt": "2026-10-29T10:45:49Z",
+    "content": "Laurus Labs net profit more than doubled at 441 crore in the second quarter of the current financial year ended September compared to 195 crore in the corresponding quarter of the previous financial … [+2378 chars]"
+  },
+  {
+    "source": {
+      "id": "medical-news-today",
+      "name": "Medical News Today"
+    },
+    "author": "Maria Cohut, Ph.D.",
+    "title": "How upping your daily step count may protect the aging brain",
+    "description": "Fitbit data spanning 14 years suggests that older individuals who increase their daily step count may have better attention and decision-making abilities.",
+    "url": "https://www.medicalnewstoday.com/articles/how-upping-daily-step-count-may-protect-aging-brain",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/10/getty_1190089983_facebook_1200x630-1200x628.jpg",
+    "publishedAt": "2026-10-29T10:35:06Z",
+    "content": "<ul><li>A recent study using Fitbit data spanning 14 years found that people who remained physically active on a daily basis and increased their step count each day appeared to have improved attentio… [+5966 chars]"
   }
 ]
