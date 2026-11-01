@@ -1,146 +1,172 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "DW (English)"
+      "id": "medical-news-today",
+      "name": "Medical News Today"
     },
-    "author": "Matt Ford",
-    "title": "Russia: Critical newspaper 'Novaya Gazeta' to close",
-    "description": "\"Novaya Gazeta,\" one of the last remaining independent, critical media outlets in Russia, has announced it is closing under pressure from state authorities. Meanwhile, in Ukraine, evacuations have begun in Oleshky. The independent Russian newspaper Novaya Gaz…",
-    "url": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693",
-    "urlToImage": "https://static.dw.com/image/79673122_6.jpg",
-    "publishedAt": "2026-10-30T11:09:00Z",
-    "content": "The independent Russian newspaper Novaya Gazeta has announced that it is shutting down and ceasing operations under pressure from state authorities who recently searched the home of its senior editor… [+4603 chars]"
+    "author": "Amy McLean",
+    "title": "Hemoglobin levels could indicate increased risk of Alzheimer's disease, vascular dementia",
+    "description": "Having unusually low or high hemoglobin levels could indicate an increased risk of dementia, according to the latest research.",
+    "url": "https://www.medicalnewstoday.com/articles/hemoglobin-levels-could-indicate-increased-risk-of-alzheimers-disease-vascular-dementia",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/10/getty_2194365961_facebook_1200x630-1200x628.jpg",
+    "publishedAt": "2026-10-31T12:04:40Z",
+    "content": "<ul><li>Unusually high or low hemoglobin levels may indicate an increased risk of dementia, according to the latest research.</li><li>Low hemoglobin was associated with an increased risk of Alzheimer… [+7079 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Dailymail.com"
     },
-    "author": "emanuelmancio@usp.br",
-    "title": "MolClusters 0.9.0",
-    "description": "Track the formation, growth, splitting, merging and lifetime of molecular clusters in molecular dynamics trajectories",
-    "url": "https://pypi.org/project/molclusters/0.9.0/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-30T11:04:12Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "author": "Daily",
+    "title": "HYROX athlete who sparked outrage by continuing after soiling herself mid-race wins on return - after apologising and revealing 'traumatic' abuse",
+    "description": "The HYROX athlete who sparked outrage for choosing to continue competing despite soiling herself mid-race has returned with victory in the first event of the new season in Hamburg.",
+    "url": "https://www.dailymail.com/sport/othersports/article-16254397/hyrox-athlete-soiled-viral-wins-return.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/10/31/11/112211745-0-image-m-44_1793446983560.jpg",
+    "publishedAt": "2026-10-31T12:03:40Z",
+    "content": "The HYROX athlete who sparked outrage for choosing to continue competing despite soiling herself mid-race has returned with victory in the first event of the new season in Hamburg.\r\nJoanna Wietrzyk, … [+4388 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Stemlynsblog.org"
+      "name": "Medical Daily"
     },
-    "author": "Iain Beardsell",
-    "title": "Who do you trust? Teaching in the age of AI",
-    "description": "St.Emlyn's - Emergency Medicine #FOAMed\nWriting from EMCON 2026 in Mumbai, Iain Beardsell considers how technology can help doctors learn without replacing the people who teach them. A missed diagnosis, a call for help and the difficulty of finding time to ta…",
-    "url": "https://www.stemlynsblog.org/trust-ai-medical-education/",
-    "urlToImage": "https://www.stemlynsblog.org/wp-content/uploads/2026/10/Blog-post-cover.jpg",
-    "publishedAt": "2026-10-30T11:01:00Z",
-    "content": "I’m in Mumbai for EMCON 2026, the national conference of the Society for Emergency Medicine India. This is their 28th conference, with colleagues from India and overseas coming together for three day… [+11097 chars]"
+    "author": "Joseph James",
+    "title": "Stand-Alone Medicare Drug Plan Premiums Could Jump 50% in 2027, and No $0 Plans Will Be Offered",
+    "description": "KFF projects stand-alone Medicare Part D premiums could rise 50% in 2027, with 10.4 million enrollees paying more if they keep their current plans.",
+    "url": "https://www.medicaldaily.com/medicare-part-d-premiums-rise-2027-kff-480631",
+    "urlToImage": "https://d.medicaldaily.com/en/full/487995/medicare-drug-plan-premiums.jpg",
+    "publishedAt": "2026-10-31T12:01:50Z",
+    "content": "People who keep their stand-alone Medicare drug plan without comparing options could pay much more in monthly premiums next year. A KFF analysis of 2027 Part D premiums released Oct. 30 projects that… [+7862 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ScienceAlert"
+    },
+    "author": "Ivan Farkas",
+    "title": "Interstellar Visitor 3I/ATLAS Just Got Even Weirder, And May Contain 10-Billion-Year-Old Material",
+    "description": "Exiled interstellar visitors like comet 3I/ATLAS are time capsules from the cosmos at large, yeeted from their exosolar homes by an unknown cataclysm and forced to drift through lonely space for billions of years, perhaps.",
+    "url": "https://www.sciencealert.com/interstellar-visitor-3i-atlas-just-got-even-weirder-and-may-contain-10-billion-year-old-material",
+    "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-6-1200x675.png",
+    "publishedAt": "2026-10-31T12:00:00Z",
+    "content": "Exiled interstellar visitors like comet 3I/ATLAS are time capsules from the cosmos at large, yeeted from their exosolar homes by an unknown cataclysm and forced to drift through lonely space for bill… [+4652 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Freerepublic.com"
     },
-    "author": "NY Post",
-    "title": "Muslim teacher who donated to Texas Senate Dem candidate James Talarico says Quran gives husbands ‘license’ to hit wives",
-    "description": "Texas Democrat James Talarico’s Senate campaign accepted $3,000 from a celebrity Muslim leader who was accused of grooming female fans for sham marriages and assured husbands that Allah would “let you get away with” wife-beating — under certain conditions. No…",
-    "url": "https://freerepublic.com/focus/f-chat/4401124/posts",
+    "author": "peacebyjesusdotnet.blogspot.com",
+    "title": "Are more persons more likely to die due to obesity than crime? And briefly focus on obesity per age groups and predicted rate for youth, and the trend since 1970. Plus provide some stats on income levels, ethnicity, + politics.",
+    "description": "Yes, individuals are significantly more likely to die from complications related to obesity than from crime or homicide. WCNCComparison of NumbersObesity-Related Deaths: Public health data from the Centers for Disease Control and Prevention (CDC) and research…",
+    "url": "https://freerepublic.com/focus/f-chat/4401232/posts",
     "urlToImage": null,
-    "publishedAt": "2026-10-30T11:00:35Z",
-    "content": "Skip to comments.\r\nMuslim teacher who donated to Texas Senate Dem candidate James Talarico says Quran gives husbands license to hit wivesNY Post ^\r\n | 10/30/26\r\n | Thomas English\r\nPosted on 10/30/202… [+2032 chars]"
+    "publishedAt": "2026-10-31T11:52:25Z",
+    "content": "Skip to comments.\r\nAre more persons more likely to die due to obesity than crime? And briefly focus on obesity per age groups and predicted rate for youth, and the trend since 1970. Plus provide some… [+8040 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Atlantic"
+      "name": "Pleated-jeans.com"
     },
-    "author": "Cecilia Nowell",
-    "title": "Doctors Say a Rare Kind of Measles Is on the Rise",
-    "description": "Babies are catching measles in utero for the first time in decades.",
-    "url": "https://www.theatlantic.com/health/2026/10/congenital-measles-birth-pennsylvania/689214/?utm_source=feed",
+    "author": "Nate Armbruster",
+    "title": "45 Weird Things People Got While Trick-Or-Treating That Definitely Weren’t Candy",
+    "description": "When you’re a kid, you learn a surprising amount about your neighbors on Halloween. You might not know their names, but you know which house gives out full-size candy bars and which one thinks a toothbrush is a fun idea. The toothbrush people always confused …",
+    "url": "https://pleated-jeans.com/?p=1030831",
+    "urlToImage": "https://pleated-jeans.com/wp-content/uploads/2026/10/funny-weird-things-people-got-trick-or-treating-10-30-26.jpg",
+    "publishedAt": "2026-10-31T11:48:05Z",
+    "content": "When youre a kid, you learn a surprising amount about your neighbors on Halloween. You might not know their names, but you know which house gives out full-size candy bars and which one thinks a tooth… [+9989 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Cheezburger.com"
+    },
+    "author": "Melissa Knudson, Melissa Knudson",
+    "title": "Hilarious Haunted House Memes Reminding You Ghosts Have a Great Sense of Humor",
+    "description": "Making haunted houses turn into laughter houses.\r\nAlso, can we turn scary ghosts into comedic ghosts?\r\nHalloween has many fun traditions. Dressing up with creative costumes, going trick-or-treating, meeting with friends, and watching horror movies. It is the …",
+    "url": "https://cheezburger.com/47256325/hilarious-haunted-house-memes-reminding-you-ghosts-have-a-great-sense-of-humor",
+    "urlToImage": "https://i.chzbgr.com/thumb-large/47256325/hA3FEA313/hilarious-haunted-house-memes-reminding-you-ghosts-have-a-great-sense-of-humor",
+    "publishedAt": "2026-10-31T11:45:00Z",
+    "content": "Making haunted houses turn into laughter houses.\r\nHalloween has many fun traditions. Dressing up with creative costumes, going trick-or-treating, meeting with friends, and watching horror movies. It … [+783 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "MassResistance",
+    "title": "Canadian pro-family activist Bill Whatcott is now in the US – held in an ICE prison facility!...with “help” from US immigration lawyers",
+    "description": "Canadian pro-family activist Bill Whatcott is now in the US – held in an ICE prison facility!Fled Canada after phony \"hate speech\" conviction to seek US political asylum with “help” from US immigration lawyers.An unbelievable story of dishonesty and incompete…",
+    "url": "https://freerepublic.com/focus/f-news/4401230/posts",
     "urlToImage": null,
-    "publishedAt": "2026-10-30T11:00:00Z",
-    "content": "Each October, after the last of the tobacco has been harvested and the apple jam canned, Amish communities begin celebrating the months-long “wedding season.” Twice a week, hundreds of celebrants pac… [+7850 chars]"
+    "publishedAt": "2026-10-31T11:36:56Z",
+    "content": "Skip to comments.\r\nCanadian pro-family activist Bill Whatcott is now in the US held in an ICE prison facility!...with help from US immigration lawyers MassResistance ^\r\n | October 27, 2026\r\n | MassRe… [+15368 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PR Newswire UK"
+      "name": "Mother Jones"
     },
-    "author": null,
-    "title": "POLYTECH Health & Aesthetics and London Regenerative Institute Partner to Advance Adipose Tissue Processing in Aesthetic and Reconstructive Surgery",
-    "description": "DIEBURG, Germany and LONDON, Oct. 30, 2026 /PRNewswire/ -- POLYTECH Health & Aesthetics, a global leader in breast aesthetics, reconstruction, and body contouring with a presence in more than 90 countries, and the London Regenerative Institute (LRI), a clinic…",
-    "url": "https://www.prnewswire.co.uk/news-releases/polytech-health--aesthetics-and-london-regenerative-institute-partner-to-advance-adipose-tissue-processing-in-aesthetic-and-reconstructive-surgery-302924778.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS2024240/POLYTECH-Health-Aesthetics-LRI.jpg?id=OA3049329&p=facebook",
-    "publishedAt": "2026-10-30T11:00:00Z",
-    "content": "DIEBURG, Germany and LONDON, Oct. 30, 2026 /PRNewswire/ -- POLYTECH Health &amp; Aesthetics, a global leader in breast aesthetics, reconstruction, and body contouring with a presence in more than 90 … [+4363 chars]"
+    "author": "Julia Métraux",
+    "title": "Red States Are Prepping More Medicaid Cuts if Republicans Keep Congress",
+    "description": "On Tuesday, South Dakotans will decide whether to approve a Republican state legislature–led ballot measure that would automatically repeal Medicaid expansion in the event that Congress lowers federal matching payments, which currently sit at 90 percent. The …",
+    "url": "https://www.motherjones.com/politics/2026/10/gop-congress-medicaid-cuts-expansion-trigger-laws-matching-funds/",
+    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/10/20250514_zaf_ce6_031.jpg?w=1200&h=630&crop=1",
+    "publishedAt": "2026-10-31T11:30:00Z",
+    "content": "10 states have already implemented trigger laws that would kill Medicaid expansion programs if federal funds are cut.Brian Cahn/Zuma\r\nGet your news from a source thats not owned and controlled by oli… [+5480 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Nakedcapitalism.com"
+      "name": "Tom's Hardware UK"
     },
-    "author": "Yves Smith",
-    "title": "Iran War: Senator Murphy Warns of “Insane” US Attack Plans as Iran Rejects JD Vance Negotiation Outreach, Wall Street Journal Applies Porcine Maquillage to Unsustainable US Hormuz Oil Shuttle Defense",
-    "description": "Today's Iran war news: More US threats and misguided outreach as Robert Barnes reports Trump favors trying to take Strait of Hormuz islands",
-    "url": "https://www.nakedcapitalism.com/2026/10/iran-war-senator-murphy-warns-of-insane-us-attack-plans-as-iran-rejects-jd-vance-negotiation-outreach-wall-street-journal-applies-porcine-maquillage-to-unsustainable-us-hormuz-oil-shuttle-defens.html",
-    "urlToImage": null,
-    "publishedAt": "2026-10-30T10:34:24Z",
-    "content": "Today’s Iran war update is brief due to the kinetic war being largely in a holding pattern on the eve of the US midterms. \r\nYours truly is an outlier, but I see the continuing Trump threat display an… [+18687 chars]"
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "https://www.facebook.com/bbcnews",
-    "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-    "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
-    "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo",
-    "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg",
-    "publishedAt": "2026-10-30T10:32:06Z",
-    "content": "Lubinets and his Russian counterpart Yana Lantratova travelled to Oleshky together on Friday. Lantratova later posted a video on social media from the town, saying people were given the chance to for… [+1537 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "TOI World Desk",
-    "title": "Oil-covered debris travelled more than 5,000 miles from Brazil to Florida, revealing how plastic can carry pollution across oceans",
-    "description": "Oil-covered plastic bottles, glass containers and rubber fragments found on Florida beaches in 2020 have been traced to a major oil spill off Brazil's",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/oil-covered-debris-travelled-more-than-5000-miles-from-brazil-to-florida-revealing-how-plastic-can-carry-pollution-across-oceans/articleshow/135355932.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135356185,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-10-30T10:22:11Z",
-    "content": "<ul><li>News</li>\r\n<li>World News</li>\r\n<li>Rest of World News</li>\r\n<li>Oil-covered debris travelled more than 5,000 miles from Brazil to Florida, revealing how plastic can carry pollution across oc… [+1535 chars]"
+    "author": "editors@tomshardware.com (Jhet Borja) , Jhet Borja",
+    "title": "3D-printed ghost guns may now have a way to be traced to their source — Australian researchers correctly identify 26 out of 28 printed PLA samples to their filament product",
+    "description": "Researchers from Curtin University in Australia have come up with a way to potentially track down seized 3D-printed guns to their source by identifying differences in material properties in various PLA products.",
+    "url": "https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/c6c689J3NeskkhzwzuJQCW-2560-80.jpg",
+    "publishedAt": "2026-10-31T11:00:00Z",
+    "content": "A study\r\n published on October 22 in the journal Forensic Science International reports that researchers from Curtin University in Perth, Australia, have developed a forensic method to analyze 3D-pri… [+3865 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Ms. Magazine"
     },
-    "author": null,
-    "title": "molcrafts-molrs-nightly 0.19.0.dev202610301003",
-    "description": "Python bindings for molrs molecular simulation library",
-    "url": "https://pypi.org/project/molcrafts-molrs-nightly/0.19.0.dev202610301003/",
-    "urlToImage": null,
-    "publishedAt": "2026-10-30T10:16:04Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+    "author": "Gloria L. Blackwell",
+    "title": "Men Don’t Get to Decide How Women Vote—or How We Live",
+    "description": "A woman’s vote belongs to her and no one else. It is a fundamental expression of her independence, her judgment and her equal standing in American democracy.\nYet some Christian nationalist leaders are openly advocating for \"household voting\"—a system in which…",
+    "url": "https://msmagazine.com/2026/10/31/women-voting-rights-household-voting-christian-nationalism-2026-midterms/",
+    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/10/GettyImages-2300694804.jpg",
+    "publishedAt": "2026-10-31T11:00:00Z",
+    "content": "A woman casts her early vote at the Silverlake Community Church in Los Angeles on Oct. 29, 2026. (David Swanson / AFP via Getty Images)\r\nA womans vote belongs to her and no one else. It is a fundamen… [+6999 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Twistedsifter.com"
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
     },
-    "author": "Jayne Elliott",
-    "title": "The Company Let Contractors Go With No Warning, So Another Contractor Quit With No Warning Either",
-    "description": "If only his former coworkers knew about his revenge!\nThe post The Company Let Contractors Go With No Warning, So Another Contractor Quit With No Warning Either appeared first on TwistedSifter.",
-    "url": "https://twistedsifter.com/2026/10/the-company-let-contractors-go-with-no-warning-so-another-contractor-quit-with-no-warning-either/",
-    "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/10/Twisted-Sifter-99.jpg",
-    "publishedAt": "2026-10-30T10:15:56Z",
-    "content": "Shutterstock\r\nThe saying goes, what goes around comes around, and that’s exactly what happens in this story.\r\nA bunch of contractors are working for the same company, but the company decides to let a… [+3063 chars]"
+    "author": "Al Jazeera Staff",
+    "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
+    "description": "Four planes transporting evacuees from the war-ravaged city have arrived in Belarus's Gomel.",
+    "url": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-30T175824Z_2079471517_RC2RDOA1Y5MR_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-CRIMEA-1793443996.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-31T10:53:55Z",
+    "content": "Hundreds of residents from the Russian-occupied Ukrainian town of Oleshky have been transported to Belarus, as part of a major evacuation mission under a truce that the White House says US first lady… [+1390 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Elizabeth Melimopoulos",
+    "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
+    "description": "From Texas to Maine, rising prices and the Iran war put key Senate races in play as Democrats fight for control.",
+    "url": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/14278727-1793438390.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-10-31T10:38:43Z",
+    "content": "Democrats need a net gain of at least four seats in Novembers midterm elections to take control of the United States Senate from Republicans, as voter discontent with President Donald Trump, the Iran… [+11821 chars]"
   },
   {
     "source": {
@@ -148,115 +174,89 @@
       "name": "Science Daily"
     },
     "author": null,
-    "title": "Why some “lower-risk” childhood cancers turn deadly",
-    "description": "Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly. The discovery could help doctors identify dangerous tumors earlie…",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261028232717.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/childhood-cancer-girl-bed-bunny.webp",
-    "publishedAt": "2026-10-30T10:15:28Z",
-    "content": "Some childhood cancers may be far more dangerous than their initial risk classification suggests. Scientists have discovered that certain tumors considered less threatening can contain hidden populat… [+9001 chars]"
+    "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+    "description": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits u…",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/bacteria-self-destruct-antibiotic.webp",
+    "publishedAt": "2026-10-31T10:38:30Z",
+    "content": "Scientists at Gladstone Institutes have discovered an unusual bacterial immune system that operates in almost the opposite way of previously known defenses. The surprising mechanism allows bacteria t… [+9918 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Antaranews.com"
+      "name": "Scientific American"
     },
-    "author": "Aditya Ramadhan, Yashinta Difa",
-    "title": "From Wallace to vaccines: Indonesia seeks homegrown malaria solutions",
-    "description": "In February 1858, inside a small bamboo hut in Dodinga, Halmahera, British naturalist Alfred Russel Wallace lay ill with malaria.\r\n\r\nHis body shook with cold ...",
-    "url": "https://en.antaranews.com/news/438935/from-wallace-to-vaccines-indonesia-seeks-homegrown-malaria-solutions",
-    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/09/30/1000197564.jpg",
-    "publishedAt": "2026-10-30T10:15:09Z",
-    "content": "..natural resources become strategic assets only when they are properly researched, standardized, and developed into products domestically.\r\nJakarta (ANTARA) - In February 1858, inside a small bamboo… [+9690 chars]"
+    "author": "Jackie Flynn Mogensen",
+    "title": "How to ‘fall back’ this weekend without losing your mind",
+    "description": "Time changes are more disruptive to our health than you might think. Here are some tips for a smooth transition",
+    "url": "https://www.scientificamerican.com/article/how-to-fall-back-this-weekend-without-losing-your-mind/",
+    "urlToImage": "https://static.scientificamerican.com/dam/asset/6a2c543e-1e9a-4513-924a-1a1feac18f23/DST.jpg?m=1793392957.605&w=1200",
+    "publishedAt": "2026-10-31T10:30:00Z",
+    "content": "At 2 A.M. on Sunday, most of the U.S. will set the clocks back by an hour. With the switch to standard time, we’ll get earlier sunshine and darker evenings—and an extra hour of sleep.\r\nResearch sugge… [+3321 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Tennessean"
+      "name": "BusinessLine"
     },
-    "author": "Gentry Estes, Nashville Tennessean",
-    "title": "With Mikayla Blakes, all things are possible for this Vanderbilt women's basketball season | Estes",
-    "description": "The WNBA can wait. Right now, star player Mikayla Blakes has aspirations of leading Vanderbilt women's basketball to a Final Four.",
-    "url": "https://www.tennessean.com/story/sports/columnists/gentry-estes/2026/10/30/mikayla-blakes-vanderbilt-womens-basketball-final-four-wnba-shea-ralph/92380347007/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/abde6a0a5b681503a51f40774ee9ba4e9626c88f6d9bfaff8a966665afd26836/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_tennessean_natl_articles_921%2F7adb264fe5a79aa159e294c892656c31.jpg",
-    "publishedAt": "2026-10-30T10:03:40Z",
-    "content": "When Vanderbilt's superstar guard Mikayla Blakes selected a college program to bless with her abundant basketball ability, in her mind, she was making a four-year decision.\r\nThat's still the case as … [+4413 chars]"
+    "author": "PTI",
+    "title": "MBBS abroad: NMC’s conflicting replies raise concerns over consultants misleading students",
+    "description": "Conflicting regulatory responses and Georgia’s licensing provisions have left aspiring Indian medical students uncertain about their eligibility to practise medicine.",
+    "url": "https://www.thehindubusinessline.com/news/education/mbbs-abroad-nmcs-conflicting-replies-raise-concerns-over-consultants-misleading-students/article71648925.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/news/uxknwp/article66796559.ece/alternates/LANDSCAPE_1200/BL0105_Pulse_Lead02.jpg",
+    "publishedAt": "2026-10-31T10:18:46Z",
+    "content": "The National Medical Commission (NMC), the countrys medical education regulator, has given ambiguous responses to aspiring doctors who asked identical questions about the validity of foreign MBBS deg… [+4139 chars]"
   },
   {
     "source": {
-      "id": "new-york-magazine",
-      "name": "New York Magazine"
+      "id": "business-insider",
+      "name": "Business Insider"
     },
-    "author": "Rachel Corbett",
-    "title": "Christa Pike’s Execution Doctor Speaks",
-    "description": "‘I’m not incompetent,’ says Mark Fowler, a 69-year-old grandfather and Sunday-school teacher who has been involved in multiple botched lethal injections. He was publicly outed last year.",
-    "url": "http://nymag.com/intelligencer/article/mark-fowler-christa-pike-execution-doctor-speaks.html",
-    "urlToImage": "https://pyxis.nymag.com/v1/imgs/efb/fa8/ca910ffc9ddc28805d1f6e9519b3df078b-tennessee-executionchamber.1x.rsocial.w1200.jpg",
-    "publishedAt": "2026-10-30T10:00:23Z",
-    "content": "Dr. Mark Fowler knew something was wrong after 45 minutes passed without word from the warden. In most cases, executions take no more than ten minutes. When he was summoned from his waiting room to t… [+14944 chars]"
+    "author": "Stephen Council",
+    "title": "Anthropic's IPO push includes a big bet on life sciences",
+    "description": "Anthropic's S-1 filing says Claude can accelerate drug discovery and biology research, making life sciences central to the AI company's IPO pitch.",
+    "url": "https://www.businessinsider.com/anthropic-ipo-filing-boosting-biotech-research-2026-10#article",
+    "urlToImage": "https://i.insider.com/6ae3ee6110af2ae41bbd478c?width=1200&format=jpeg",
+    "publishedAt": "2026-10-31T10:10:01Z",
+    "content": "Vas Narasimhan, CEO of the pharma giant Novartis, joined Anthropic's board of directors in April.Hollie Adams/Bloomberg via Getty Images\r\n<ul><li>Anthropic is starting to think like a drugmaker.</li>… [+5348 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "ScienceAlert"
+      "id": "business-insider",
+      "name": "Business Insider"
     },
-    "author": "Russell McLendon",
-    "title": "The Treatment Window For Some Strokes May Be Far Longer Than We Thought, But There's a Catch",
-    "description": "It comes with some higher risks.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-    "url": "https://www.sciencealert.com/the-treatment-window-for-some-strokes-may-be-far-longer-than-we-thought-but-theres-a-catch",
-    "urlToImage": "https://www.sciencealert.com/images/2026/10/Cerebral-angiogram-in-color-1200x675.png",
-    "publishedAt": "2026-10-30T10:00:00Z",
-    "content": "The phrase \"time is brain\" is meant to convey the urgency of stroke treatment, emphasizing how a swift response can significantly improve odds of recovery.\r\nA typical stroke patient, for instance, lo… [+4731 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "New York Post"
-    },
-    "author": "Charles Gasparino",
-    "title": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO",
-    "description": "Sam Altman has been among the AI industry's top alarmists – as has Anthropic CEO Dario Amodei.",
-    "url": "https://nypost.com/2026/10/30/business/heres-when-top-wall-street-executives-expect-openai-will-launch-its-blockbuster-ipo/",
-    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/OTM_AISelling.jpg?quality=75&strip=all&w=1200",
-    "publishedAt": "2026-10-30T10:00:00Z",
-    "content": "OpenAI is saying it has no plans to go public this year but senior Wall Street executives say they fully expect it will happen in the first quarter of 2027, On The Money has learned.\r\nThe artificial … [+3715 chars]"
+    "author": "Tom Carter",
+    "title": "Google spinoff Isomorphic Labs is in a race to shake up the long, painful road to cancer-beating drugs",
+    "description": "Isomorphic Labs, the brainchild of Nobel Laureate Demis Hassabis, has an ambitious mission even by the standards of AI labs: curing cancer.",
+    "url": "https://www.businessinsider.com/isomorphic-labs-discover-cancer-beating-drugs-ai-max-jaderberg-google-2026-10#article",
+    "urlToImage": "https://i.insider.com/6ad21c722428f6b4558130f0?width=1200&format=jpeg",
+    "publishedAt": "2026-10-31T10:05:01Z",
+    "content": "In a cavernous office in London's AI hub, a group of researchers is preparing to do battle with humanity's oldest enemy.\r\nIsomorphic Labs, a spinoff of Google DeepMind and the brainchild of AI pionee… [+11983 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Aps.org"
+      "name": "Pypi.org"
     },
-    "author": "Yan-Bo Zhao, Xi-Meng Tang, Le-Tian Zhu, Chuan-Jia Tong, Jun He, Li-Min Liu, and Oleg Prezhdo",
-    "title": "Effect of organic molecular arrangement on carrier recombination in ${\\mathrm{BF}}_{4}$-doped ${\\mathrm{CH}}_{3}{\\mathrm{NH}}_{3}{\\mathrm{PbI}}_{3}$ perovskite",
-    "description": "Methylammonium lead iodide perovskite, ${\\mathrm{CH}}_{3}{\\mathrm{NH}}_{3}{\\mathrm{PbI}}_{3}$ (${\\mathrm{MAPbI}}_{3}$), has attracted tremendous interest for its exceptional optoelectronic performance. However, the effect of MA arrangement on charge carrier r…",
-    "url": "https://link.aps.org/doi/10.1103/v39k-tbcf",
+    "author": "lijichen365@gmail.com",
+    "title": "molcrafts-molpy-nightly 0.20.0.dev202610310943",
+    "description": "Modern Python framework for molecular simulation and analysis",
+    "url": "https://pypi.org/project/molcrafts-molpy-nightly/0.20.0.dev202610310943/",
     "urlToImage": null,
-    "publishedAt": "2026-10-30T10:00:00Z",
-    "content": "Methylammonium lead iodide perovskite, CH\r\n3\r\nNH\r\n3\r\nPbI\r\n3\r\n(MAPbI\r\n3\r\n), has attracted tremendous interest for its exceptional optoelectronic performance. However, the effect of MA arrangement on c… [+1262 chars]"
+    "publishedAt": "2026-10-31T10:01:23Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Aps.org"
+      "id": "business-insider",
+      "name": "Business Insider"
     },
-    "author": "Xingsen Chen, Junyi Zhang, Qiaoyan Yu, Ruijun Xi, Shasha Xue, Jice Sun, Yi Zhang, Xian Du, Xuhui Ning, Pengyu Hu, Tingwen Miao, Hao Yang, Hemian Yi, Weijiong Chen, Xiaoxue Liu, Liang Liu, Dandan Guan, Yaoyi Li, Shiyong Wang, Canhua Liu, Sangen Zhao, Hao Zheng, and Jinfeng Jia",
-    "title": "Atomic-Scale Visualization of Quantum Phase Transition in Mixed-Valence Regime",
-    "description": "Fe dopants on the surface of a ${\\mathrm{Bi}}_{2}{\\mathrm{Te}}_{3}$ thin film grown on a superconducting ${\\mathrm{NbSe}}_{2}$ substrate by molecular beam epitaxy are investigated by a dilution-refrigerator scanning tunneling microscope. Utilizing the tip-ind…",
-    "url": "https://link.aps.org/doi/10.1103/17nh-csbr",
-    "urlToImage": null,
-    "publishedAt": "2026-10-30T10:00:00Z",
-    "content": "Pengyu Hu1, Tingwen Miao1, Hao Yang1,3,4, Hemian Yi1,3,4, Weijiong Chen1,3,4, Xiaoxue Liu1,3,4, Liang Liu1,3,4, Dandan Guan1,3,4, Yaoyi Li1,3,4, Shiyong Wang1,3,4, Canhua Liu1,3,4, Sangen Zhao5, Hao … [+1001 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ms. Magazine"
-    },
-    "author": "Deena Varner",
-    "title": "Texas Is Testing a Blueprint for Censoring Gender and Sexuality in Higher Education Nationwide",
-    "description": "I teach at a major research university in Texas, where higher education has become a testing ground for state censorship. Our censorship regime is led by Brandon Creighton, a former Texas state senator appointed chancellor by the Board of Regents. As a senato…",
-    "url": "https://msmagazine.com/2026/10/30/texas-tech-university-ban-gender-sexuality/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/10/Texas-Is-Testing-a-Blueprint-for-Censoring-Gender-and-Sexuality-in-Higher-Education-Nationwide.png",
-    "publishedAt": "2026-10-30T10:00:00Z",
-    "content": "Texas Tech University in Lubbock, Texas. (Alex Bierens de Haan / Getty Images for Ironman)\r\nI teach at a major research university in Texas, where higher education has become a testing ground for sta… [+7205 chars]"
+    "author": "Gabby Landsverk",
+    "title": "Gym bros love BPC-157, the peptide in the 'Wolverine shot.' Now it could go mainstream.",
+    "description": "Trump's HHS has eased restrictions on BPC-157, a buzzy recovery peptide in the \"Wolverine shot.\" But human evidence is scant.",
+    "url": "https://www.businessinsider.com/bpc-157-wolverine-shot-recovery-peptide-boom-2026-10#article",
+    "urlToImage": "https://i.insider.com/6ae4cbabd8cc18cf7950f938?width=1200&format=jpeg",
+    "publishedAt": "2026-10-31T10:00:01Z",
+    "content": "BPC-157 is a popular peptide used in the buzzy \"Wolverine\" stack (BPC-157 + TB-500), touted as speeding up injury healing.Drazen Zigic/Getty Images\r\n<ul><li>Biohackers are promoting BPC-157 injection… [+9468 chars]"
   }
 ]
