@@ -1,172 +1,159 @@
 [
   {
     "source": {
-      "id": "medical-news-today",
-      "name": "Medical News Today"
+      "id": null,
+      "name": "Hurriyet Daily News"
     },
-    "author": "Amy McLean",
-    "title": "Hemoglobin levels could indicate increased risk of Alzheimer's disease, vascular dementia",
-    "description": "Having unusually low or high hemoglobin levels could indicate an increased risk of dementia, according to the latest research.",
-    "url": "https://www.medicalnewstoday.com/articles/hemoglobin-levels-could-indicate-increased-risk-of-alzheimers-disease-vascular-dementia",
-    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/10/getty_2194365961_facebook_1200x630-1200x628.jpg",
-    "publishedAt": "2026-10-31T12:04:40Z",
-    "content": "<ul><li>Unusually high or low hemoglobin levels may indicate an increased risk of dementia, according to the latest research.</li><li>Low hemoglobin was associated with an increased risk of Alzheimer… [+7079 chars]"
+    "author": "hurriyetdailynews.com",
+    "title": "BioNTech founders receive science award",
+    "description": "The founders of German biotechnology company BioNTech, Özlem Türeci and Uğur Şahin, have been honored with a prestigious scientific award named after Turkish Nobel laureate Aziz Sancar.",
+    "url": "https://www.hurriyetdailynews.com/biontech-founders-receive-science-award-228892",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6ae7409433682fc5418a67b0.jpg",
+    "publishedAt": "2026-11-01T13:39:27Z",
+    "content": "ISTANBUL\r\nBioNTech founders Özlem Türeci and Uur ahin receive their award from Turkish President Recep Tayyip Erdoan at a ceremony in Istanbul.\r\nThe founders of German biotechnology company BioNTech,… [+1535 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "Slashdot.org"
     },
-    "author": "Daily",
-    "title": "HYROX athlete who sparked outrage by continuing after soiling herself mid-race wins on return - after apologising and revealing 'traumatic' abuse",
-    "description": "The HYROX athlete who sparked outrage for choosing to continue competing despite soiling herself mid-race has returned with victory in the first event of the new season in Hamburg.",
-    "url": "https://www.dailymail.com/sport/othersports/article-16254397/hyrox-athlete-soiled-viral-wins-return.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/10/31/11/112211745-0-image-m-44_1793446983560.jpg",
-    "publishedAt": "2026-10-31T12:03:40Z",
-    "content": "The HYROX athlete who sparked outrage for choosing to continue competing despite soiling herself mid-race has returned with victory in the first event of the new season in Hamburg.\r\nJoanna Wietrzyk, … [+4388 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Joseph James",
-    "title": "Stand-Alone Medicare Drug Plan Premiums Could Jump 50% in 2027, and No $0 Plans Will Be Offered",
-    "description": "KFF projects stand-alone Medicare Part D premiums could rise 50% in 2027, with 10.4 million enrollees paying more if they keep their current plans.",
-    "url": "https://www.medicaldaily.com/medicare-part-d-premiums-rise-2027-kff-480631",
-    "urlToImage": "https://d.medicaldaily.com/en/full/487995/medicare-drug-plan-premiums.jpg",
-    "publishedAt": "2026-10-31T12:01:50Z",
-    "content": "People who keep their stand-alone Medicare drug plan without comparing options could pay much more in monthly premiums next year. A KFF analysis of 2027 Part D premiums released Oct. 30 projects that… [+7862 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ScienceAlert"
-    },
-    "author": "Ivan Farkas",
-    "title": "Interstellar Visitor 3I/ATLAS Just Got Even Weirder, And May Contain 10-Billion-Year-Old Material",
-    "description": "Exiled interstellar visitors like comet 3I/ATLAS are time capsules from the cosmos at large, yeeted from their exosolar homes by an unknown cataclysm and forced to drift through lonely space for billions of years, perhaps.",
-    "url": "https://www.sciencealert.com/interstellar-visitor-3i-atlas-just-got-even-weirder-and-may-contain-10-billion-year-old-material",
-    "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-6-1200x675.png",
-    "publishedAt": "2026-10-31T12:00:00Z",
-    "content": "Exiled interstellar visitors like comet 3I/ATLAS are time capsules from the cosmos at large, yeeted from their exosolar homes by an unknown cataclysm and forced to drift through lonely space for bill… [+4652 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "peacebyjesusdotnet.blogspot.com",
-    "title": "Are more persons more likely to die due to obesity than crime? And briefly focus on obesity per age groups and predicted rate for youth, and the trend since 1970. Plus provide some stats on income levels, ethnicity, + politics.",
-    "description": "Yes, individuals are significantly more likely to die from complications related to obesity than from crime or homicide. WCNCComparison of NumbersObesity-Related Deaths: Public health data from the Centers for Disease Control and Prevention (CDC) and research…",
-    "url": "https://freerepublic.com/focus/f-chat/4401232/posts",
+    "author": "feedfeeder",
+    "title": "A Midterm Campaign Dominated by Concerns Over High Prices Nears Its End - The New York Times",
+    "description": "A Midterm Campaign Dominated by Concerns Over High Prices Nears Its EndThe New York Times “Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear | CNN BusinessCNN We talked to voters in six battleground states about t…",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186545747",
     "urlToImage": null,
-    "publishedAt": "2026-10-31T11:52:25Z",
-    "content": "Skip to comments.\r\nAre more persons more likely to die due to obesity than crime? And briefly focus on obesity per age groups and predicted rate for youth, and the trend since 1970. Plus provide some… [+8040 chars]"
+    "publishedAt": "2026-11-01T13:33:17Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
   },
   {
     "source": {
       "id": null,
-      "name": "Pleated-jeans.com"
+      "name": "The Conversation Africa"
     },
-    "author": "Nate Armbruster",
-    "title": "45 Weird Things People Got While Trick-Or-Treating That Definitely Weren’t Candy",
-    "description": "When you’re a kid, you learn a surprising amount about your neighbors on Halloween. You might not know their names, but you know which house gives out full-size candy bars and which one thinks a toothbrush is a fun idea. The toothbrush people always confused …",
-    "url": "https://pleated-jeans.com/?p=1030831",
-    "urlToImage": "https://pleated-jeans.com/wp-content/uploads/2026/10/funny-weird-things-people-got-trick-or-treating-10-30-26.jpg",
-    "publishedAt": "2026-10-31T11:48:05Z",
-    "content": "When youre a kid, you learn a surprising amount about your neighbors on Halloween. You might not know their names, but you know which house gives out full-size candy bars and which one thinks a tooth… [+9989 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Cheezburger.com"
-    },
-    "author": "Melissa Knudson, Melissa Knudson",
-    "title": "Hilarious Haunted House Memes Reminding You Ghosts Have a Great Sense of Humor",
-    "description": "Making haunted houses turn into laughter houses.\r\nAlso, can we turn scary ghosts into comedic ghosts?\r\nHalloween has many fun traditions. Dressing up with creative costumes, going trick-or-treating, meeting with friends, and watching horror movies. It is the …",
-    "url": "https://cheezburger.com/47256325/hilarious-haunted-house-memes-reminding-you-ghosts-have-a-great-sense-of-humor",
-    "urlToImage": "https://i.chzbgr.com/thumb-large/47256325/hA3FEA313/hilarious-haunted-house-memes-reminding-you-ghosts-have-a-great-sense-of-humor",
-    "publishedAt": "2026-10-31T11:45:00Z",
-    "content": "Making haunted houses turn into laughter houses.\r\nHalloween has many fun traditions. Dressing up with creative costumes, going trick-or-treating, meeting with friends, and watching horror movies. It … [+783 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Freerepublic.com"
-    },
-    "author": "MassResistance",
-    "title": "Canadian pro-family activist Bill Whatcott is now in the US – held in an ICE prison facility!...with “help” from US immigration lawyers",
-    "description": "Canadian pro-family activist Bill Whatcott is now in the US – held in an ICE prison facility!Fled Canada after phony \"hate speech\" conviction to seek US political asylum with “help” from US immigration lawyers.An unbelievable story of dishonesty and incompete…",
-    "url": "https://freerepublic.com/focus/f-news/4401230/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-10-31T11:36:56Z",
-    "content": "Skip to comments.\r\nCanadian pro-family activist Bill Whatcott is now in the US held in an ICE prison facility!...with help from US immigration lawyers MassResistance ^\r\n | October 27, 2026\r\n | MassRe… [+15368 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Mother Jones"
-    },
-    "author": "Julia Métraux",
-    "title": "Red States Are Prepping More Medicaid Cuts if Republicans Keep Congress",
-    "description": "On Tuesday, South Dakotans will decide whether to approve a Republican state legislature–led ballot measure that would automatically repeal Medicaid expansion in the event that Congress lowers federal matching payments, which currently sit at 90 percent. The …",
-    "url": "https://www.motherjones.com/politics/2026/10/gop-congress-medicaid-cuts-expansion-trigger-laws-matching-funds/",
-    "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/10/20250514_zaf_ce6_031.jpg?w=1200&h=630&crop=1",
-    "publishedAt": "2026-10-31T11:30:00Z",
-    "content": "10 states have already implemented trigger laws that would kill Medicaid expansion programs if federal funds are cut.Brian Cahn/Zuma\r\nGet your news from a source thats not owned and controlled by oli… [+5480 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Tom's Hardware UK"
-    },
-    "author": "editors@tomshardware.com (Jhet Borja) , Jhet Borja",
-    "title": "3D-printed ghost guns may now have a way to be traced to their source — Australian researchers correctly identify 26 out of 28 printed PLA samples to their filament product",
-    "description": "Researchers from Curtin University in Australia have come up with a way to potentially track down seized 3D-printed guns to their source by identifying differences in material properties in various PLA products.",
-    "url": "https://www.tomshardware.com/3d-printing/3d-printed-guns-may-now-have-a-way-to-be-traced-to-their-source-australian-researchers-correctly-identify-26-out-of-28-printed-pla-samples-to-their-filament-product",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/c6c689J3NeskkhzwzuJQCW-2560-80.jpg",
-    "publishedAt": "2026-10-31T11:00:00Z",
-    "content": "A study\r\n published on October 22 in the journal Forensic Science International reports that researchers from Curtin University in Perth, Australia, have developed a forensic method to analyze 3D-pri… [+3865 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Ms. Magazine"
-    },
-    "author": "Gloria L. Blackwell",
-    "title": "Men Don’t Get to Decide How Women Vote—or How We Live",
-    "description": "A woman’s vote belongs to her and no one else. It is a fundamental expression of her independence, her judgment and her equal standing in American democracy.\nYet some Christian nationalist leaders are openly advocating for \"household voting\"—a system in which…",
-    "url": "https://msmagazine.com/2026/10/31/women-voting-rights-household-voting-christian-nationalism-2026-midterms/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/10/GettyImages-2300694804.jpg",
-    "publishedAt": "2026-10-31T11:00:00Z",
-    "content": "A woman casts her early vote at the Silverlake Community Church in Los Angeles on Oct. 29, 2026. (David Swanson / AFP via Getty Images)\r\nA womans vote belongs to her and no one else. It is a fundamen… [+6999 chars]"
+    "author": "Louis Bherer, Professor, Université de Montréal",
+    "title": "A neuropsychologist explains the importance of exercise in fighting dementia",
+    "description": "Fourteen modifiable risk factors that contribute to dementia have been identified. These can be mitigated by adopting healthier lifestyles.",
+    "url": "https://theconversation.com/a-neuropsychologist-explains-the-importance-of-exercise-in-fighting-dementia-274391",
+    "urlToImage": "https://images.theconversation.com/files/714487/original/file-20260119-56-q32ow8.jpg?ixlib=rb-4.1.1&rect=0%2C881%2C5375%2C2687&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-11-01T13:28:20Z",
+    "content": "Billions of dollars are being spent on research to find a molecule that will cure Alzheimers disease. Yet, as Dr. Louis Bherer explains, adopting certain lifestyle habits could significantly reduce t… [+6901 chars]"
   },
   {
     "source": {
       "id": "al-jazeera-english",
       "name": "Al Jazeera English"
     },
-    "author": "Al Jazeera Staff",
-    "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
-    "description": "Four planes transporting evacuees from the war-ravaged city have arrived in Belarus's Gomel.",
-    "url": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine",
-    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-30T175824Z_2079471517_RC2RDOA1Y5MR_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-CRIMEA-1793443996.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-31T10:53:55Z",
-    "content": "Hundreds of residents from the Russian-occupied Ukrainian town of Oleshky have been transported to Belarus, as part of a major evacuation mission under a truce that the White House says US first lady… [+1390 chars]"
+    "author": "Justin Salhani",
+    "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
+    "description": "As one of Lebanon's most vulnerable communities, Palestinians are struggling to make ends meet.",
+    "url": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/12/Palestinian-refugees-in-north-Lebanon-mourn-family-in-Gaza-Rita-Kabalan-Al-Jazeera-8-1701421161.jpg?resize=1920%2C1440",
+    "publishedAt": "2026-11-01T13:25:27Z",
+    "content": "Beirut, Lebanon Osama Najjar is a Palestinian refugee living in the Beddawi refugee camp in Tripoli, Lebanons second-largest city, where he used to have a shop selling aluminium.\r\nPalestinians are ba… [+5822 chars]"
   },
   {
     "source": {
-      "id": "al-jazeera-english",
-      "name": "Al Jazeera English"
+      "id": null,
+      "name": "Medium"
     },
-    "author": "Elizabeth Melimopoulos",
-    "title": "Can Democrats win the US Senate? 10 key midterm races to watch",
-    "description": "From Texas to Maine, rising prices and the Iran war put key Senate races in play as Democrats fight for control.",
-    "url": "https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch",
-    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/14278727-1793438390.jpg?resize=1920%2C1440",
-    "publishedAt": "2026-10-31T10:38:43Z",
-    "content": "Democrats need a net gain of at least four seats in Novembers midterm elections to take control of the United States Senate from Republicans, as voter discontent with President Donald Trump, the Iran… [+11821 chars]"
+    "author": "jbai",
+    "title": "A 90% Chance of AI Saving Humanity",
+    "description": "Article URL: https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee\nComments URL: https://news.ycombinator.com/item?id=50325398\nPoints: 9\n# Comments: 1",
+    "url": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
+    "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/1*MPxgNLtKldwhxi3gVBxrrQ.png",
+    "publishedAt": "2026-11-01T13:19:04Z",
+    "content": "The recent headlines about AI come with a number thats difficult to ignore: A 10% chance of ending humanity. In September, CNN covered warnings from AI researchers, including one who put the risk abo… [+19218 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medianewsgroup.com"
+    },
+    "author": "Walker Armstrong",
+    "title": "Chula Vista leaders weigh youth access, revenue in Chula Vista Elite Athlete Training Center master plan",
+    "description": "Chula Vista leaders weigh youth access, revenue in Chula Vista Elite Athlete Training Center master plansandiegouniontribune.com",
+    "url": "https://wpdash.medianewsgroup.com/2026/11/01/chula-vista-leaders-weigh-youth-access-revenue-in-chula-vista-elite-athlete-training-center-master-plan/",
+    "urlToImage": "https://www.sandiegouniontribune.com/wp-content/uploads/2024/08/SUT-L-924578-sd-se-elite-trainingcenter-ncc-002.jpg?w=5464&h=3640",
+    "publishedAt": "2026-11-01T13:04:02Z",
+    "content": "Chula Vista City Council members last week offered differing visions for the future of the Chula Vista Elite Athlete Training Center, with some emphasizing revenue-generating venues and elite trainin… [+3709 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Lawyersgunsmoneyblog.com"
+    },
+    "author": "Erik Loomis",
+    "title": "October Reading List",
+    "description": "Here’s my reading list for October.  This is last month’s list and you can follow it back from there. PROFESSIONAL READING: FICTION/LITERARY NON-FICTION This is your monthly book thread.\nThe post October Reading List appeared first on Lawyers, Guns & Money.",
+    "url": "https://www.lawyersgunsmoneyblog.com/2026/11/october-reading-list-2",
+    "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/10/Jerry_Falwell_portrait.jpg",
+    "publishedAt": "2026-11-01T13:04:00Z",
+    "content": "Heres my reading list for October.  This is last month’s list and you can follow it back from there.\r\nPROFESSIONAL READING: \r\n<ol><li>Neall Pogue, The Nature of the Religious Right: The Struggle betw… [+11545 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Popular Science"
+    },
+    "author": "RJ Mackenzie",
+    "title": "Putrid blood shoots from these lizards’ eyes",
+    "description": "But only when they're super scared.\nThe post Putrid blood shoots from these lizards’ eyes appeared first on Popular Science.",
+    "url": "https://www.popsci.com/environment/why-horned-lizards-squirt-blood-from-eyes/",
+    "urlToImage": "https://www.popsci.com/wp-content/uploads/2026/10/horned-lizard-blood-squirt-eye.jpg?quality=85&w=1200",
+    "publishedAt": "2026-11-01T13:03:00Z",
+    "content": "Horned lizards are spiky cuties. Three to six inches long, these lizards are coated with sharp spines all across their hard, sand-colored backs. But in the dry deserts and prairies they call home, th… [+5910 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Writersdigest.com"
+    },
+    "author": "Robert Lee Brewer",
+    "title": "Melissa. R. Collings: On Combining Romance and Medicine",
+    "description": "In this interview, author Melissa. R. Collings discusses the central question that helped inspire her new romance novel, The Love Operation.\nThe post Melissa. R. Collings: On Combining Romance and Medicine appeared first on Writer's Digest.",
+    "url": "https://www.writersdigest.com/melissa-r-collings-on-combining-romance-and-medicine#article",
+    "urlToImage": "https://www.writersdigest.com/uploads/2026/10/WD-Web-Images-18.png?auto=webp",
+    "publishedAt": "2026-11-01T13:00:00Z",
+    "content": "Melissa R. Collings is an award-winning author and former spine surgery PA who traded the OR for the page. A biracial writer fascinated by lifes contradictions, she writes stories with scalpel-sharp … [+5007 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Circadiannutritionist.com"
+    },
+    "author": "Ads Vitality",
+    "title": "About | ADS Vitality | Adriano dos Santos | Circadian Nutritionist | Integrative Medicine Nutrition",
+    "description": "Adriano dos Santos (ADS Vitality) is internationally recognised as The Circadian Nutritionist for his work at the intersection of circadian biology, gut microbiome science, and personalised nutrition. He helps individuals recover their health by aligning thei…",
+    "url": "https://site.circadiannutritionist.com/about",
+    "urlToImage": "https://static.wixstatic.com/media/f4c59d_fdafe4d4130a472e8c90bf1cd90562e7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/f4c59d_fdafe4d4130a472e8c90bf1cd90562e7%7Emv2.png",
+    "publishedAt": "2026-11-01T12:41:53Z",
+    "content": "I was born in Brazil — a land of sunlight, rhythm, and effortless vitality. There, health was not something you chased — it was something you lived in. Mornings began with the sun, meals were real fo… [+1363 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Psychology Today"
+    },
+    "author": "Bethany Yeiser BS",
+    "title": "How Major Life Events Brought About My Schizophrenia",
+    "description": "Traumatic life events are not the only kind of stress that can bring on schizophrenia. Happy events, such as giving birth or traveling, can, too.",
+    "url": "https://www.psychologytoday.com/us/blog/recovery-road/202610/how-major-life-events-brought-about-my-schizophrenia",
+    "urlToImage": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2026-10/scronfinixio-happy-valentines-day-1536226.jpg?itok=fJV0kBx-",
+    "publishedAt": "2026-11-01T12:35:39Z",
+    "content": "When I present my story of full recovery from schizophrenia, I am often asked the question, What trauma brought on your schizophrenia?\r\nThe answer is simple: I have never experienced any significant … [+4659 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": null,
+    "title": "scipion-em-cryocodex 0.3.2",
+    "description": "CryoCodex map enhancement, local quality estimation and molecular masks for Scipion",
+    "url": "https://pypi.org/project/scipion-em-cryocodex/0.3.2/",
+    "urlToImage": null,
+    "publishedAt": "2026-11-01T12:33:33Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
@@ -174,89 +161,89 @@
       "name": "Science Daily"
     },
     "author": null,
-    "title": "Scientists discover a bacterial defense so strange they thought it was broken",
-    "description": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits u…",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/bacteria-self-destruct-antibiotic.webp",
-    "publishedAt": "2026-10-31T10:38:30Z",
-    "content": "Scientists at Gladstone Institutes have discovered an unusual bacterial immune system that operates in almost the opposite way of previously known defenses. The surprising mechanism allows bacteria t… [+9918 chars]"
+    "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+    "description": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&apos;s disease. Scientists also uncovered how the chemical damages brain cells and identified a promising way to protect them.",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/parkinsons-disease-neuroscience-body-movement-disorder.webp",
+    "publishedAt": "2026-11-01T12:33:13Z",
+    "content": "A pesticide used for decades in agriculture may be linked to a much greater risk of Parkinson's disease, and scientists have uncovered a possible explanation for how it damages the brain.Researchers … [+7800 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Scientific American"
+      "name": "Israelnationalnews.com"
     },
-    "author": "Jackie Flynn Mogensen",
-    "title": "How to ‘fall back’ this weekend without losing your mind",
-    "description": "Time changes are more disruptive to our health than you might think. Here are some tips for a smooth transition",
-    "url": "https://www.scientificamerican.com/article/how-to-fall-back-this-weekend-without-losing-your-mind/",
-    "urlToImage": "https://static.scientificamerican.com/dam/asset/6a2c543e-1e9a-4513-924a-1a1feac18f23/DST.jpg?m=1793392957.605&w=1200",
-    "publishedAt": "2026-10-31T10:30:00Z",
-    "content": "At 2 A.M. on Sunday, most of the U.S. will set the clocks back by an hour. With the switch to standard time, we’ll get earlier sunshine and darker evenings—and an extra hour of sleep.\r\nResearch sugge… [+3321 chars]"
+    "author": "Israel National News",
+    "title": "RFK Jr. defends Israel and Jews in blistering attack on Islamism",
+    "description": "US health secretary Robert F. Kennedy Jr. praises Jewish contributions to humanity, hails Israel as a bastion of freedom and accuses Iran, Gulf states and the Muslim Brotherhood of fueling anti-Israel propaganda.",
+    "url": "https://www.israelnationalnews.com/news/435465",
+    "urlToImage": "https://2.a7.org/files/pictures/000/1190037.jpg",
+    "publishedAt": "2026-11-01T12:25:05Z",
+    "content": "US Health and Human Services Secretary Robert F. Kennedy Jr. published a lengthy and strongly worded post on X over the weekend defending Israel and the Jewish people, attacking the Muslim Brotherhoo… [+8146 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "BusinessLine"
+      "name": "DW (English)"
     },
-    "author": "PTI",
-    "title": "MBBS abroad: NMC’s conflicting replies raise concerns over consultants misleading students",
-    "description": "Conflicting regulatory responses and Georgia’s licensing provisions have left aspiring Indian medical students uncertain about their eligibility to practise medicine.",
-    "url": "https://www.thehindubusinessline.com/news/education/mbbs-abroad-nmcs-conflicting-replies-raise-concerns-over-consultants-misleading-students/article71648925.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/news/uxknwp/article66796559.ece/alternates/LANDSCAPE_1200/BL0105_Pulse_Lead02.jpg",
-    "publishedAt": "2026-10-31T10:18:46Z",
-    "content": "The National Medical Commission (NMC), the countrys medical education regulator, has given ambiguous responses to aspiring doctors who asked identical questions about the validity of foreign MBBS deg… [+4139 chars]"
+    "author": "Hannah Fuchs",
+    "title": "Biological weapons: The weaponization of disease",
+    "description": "Biological weapons are prohibited under international law. But new developments in biotech and AI are a cause for concern. DW addresses some of the most important questions about their history, risks, and control. Artificial intelligence could potentially be …",
+    "url": "https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662",
+    "urlToImage": "https://static.dw.com/image/61666731_6.jpg",
+    "publishedAt": "2026-11-01T12:25:00Z",
+    "content": "Artificial intelligence could potentially be misused to develop biological weapons. This may sound like science fiction, but scientists, security services, and international organizations are all loo… [+6731 chars]"
   },
   {
     "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
+      "id": null,
+      "name": "Mathrubhumi.com"
     },
-    "author": "Stephen Council",
-    "title": "Anthropic's IPO push includes a big bet on life sciences",
-    "description": "Anthropic's S-1 filing says Claude can accelerate drug discovery and biology research, making life sciences central to the AI company's IPO pitch.",
-    "url": "https://www.businessinsider.com/anthropic-ipo-filing-boosting-biotech-research-2026-10#article",
-    "urlToImage": "https://i.insider.com/6ae3ee6110af2ae41bbd478c?width=1200&format=jpeg",
-    "publishedAt": "2026-10-31T10:10:01Z",
-    "content": "Vas Narasimhan, CEO of the pharma giant Novartis, joined Anthropic's board of directors in April.Hollie Adams/Bloomberg via Getty Images\r\n<ul><li>Anthropic is starting to think like a drugmaker.</li>… [+5348 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "Tom Carter",
-    "title": "Google spinoff Isomorphic Labs is in a race to shake up the long, painful road to cancer-beating drugs",
-    "description": "Isomorphic Labs, the brainchild of Nobel Laureate Demis Hassabis, has an ambitious mission even by the standards of AI labs: curing cancer.",
-    "url": "https://www.businessinsider.com/isomorphic-labs-discover-cancer-beating-drugs-ai-max-jaderberg-google-2026-10#article",
-    "urlToImage": "https://i.insider.com/6ad21c722428f6b4558130f0?width=1200&format=jpeg",
-    "publishedAt": "2026-10-31T10:05:01Z",
-    "content": "In a cavernous office in London's AI hub, a group of researchers is preparing to do battle with humanity's oldest enemy.\r\nIsomorphic Labs, a spinoff of Google DeepMind and the brainchild of AI pionee… [+11983 chars]"
+    "author": "Dr. Madhavi Nair",
+    "title": "Cancer Before 50: 7 Factors That Could Be Behind The Rising Cases",
+    "description": "Cancer Before 50: 7 Factors That Could Be Behind The Rising Casesmathrubhumi.com",
+    "url": "https://english.mathrubhumi.com/lifestyle/health/cancer-in-your-30s-and-40s-what-you-should-know-about-early-onset-cancer-n40109go",
+    "urlToImage": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1utrwglz9ts5hnuvgli/0/cancer-jpg.jpeg?f=16%3A9&w=1200&q=0.75",
+    "publishedAt": "2026-11-01T12:15:44Z",
+    "content": "Cancer has always been considered a disease of older age, with the majority of cases occurring after the age of 60. However, as highlighted by a recent study from Harvard, more cancers are being diag… [+5885 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Pypi.org"
     },
-    "author": "lijichen365@gmail.com",
-    "title": "molcrafts-molpy-nightly 0.20.0.dev202610310943",
-    "description": "Modern Python framework for molecular simulation and analysis",
-    "url": "https://pypi.org/project/molcrafts-molpy-nightly/0.20.0.dev202610310943/",
+    "author": null,
+    "title": "scipion-em-cryocodex added to PyPI",
+    "description": "CryoCodex map enhancement, local quality estimation and molecular masks for Scipion",
+    "url": "https://pypi.org/project/scipion-em-cryocodex/",
     "urlToImage": null,
-    "publishedAt": "2026-10-31T10:01:23Z",
+    "publishedAt": "2026-11-01T12:10:16Z",
+    "content": "A Scipion plugin for CryoCodex:\r\ndensity-map enhancement, local quality estimation and molecular mask prediction.\r\nSupports CryoCodex v1.0.0.\r\nInstallation\r\nRequires Linux, Scipion 3 (scipion-em &gt;… [+2786 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Pypi.org"
+    },
+    "author": null,
+    "title": "scipion-em-cryocodex 0.3.1",
+    "description": "CryoCodex map enhancement, local quality estimation and molecular masks for Scipion",
+    "url": "https://pypi.org/project/scipion-em-cryocodex/0.3.1/",
+    "urlToImage": null,
+    "publishedAt": "2026-11-01T12:10:16Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
+      "id": null,
+      "name": "Bradenkelley.com"
     },
-    "author": "Gabby Landsverk",
-    "title": "Gym bros love BPC-157, the peptide in the 'Wolverine shot.' Now it could go mainstream.",
-    "description": "Trump's HHS has eased restrictions on BPC-157, a buzzy recovery peptide in the \"Wolverine shot.\" But human evidence is scant.",
-    "url": "https://www.businessinsider.com/bpc-157-wolverine-shot-recovery-peptide-boom-2026-10#article",
-    "urlToImage": "https://i.insider.com/6ae4cbabd8cc18cf7950f938?width=1200&format=jpeg",
-    "publishedAt": "2026-10-31T10:00:01Z",
-    "content": "BPC-157 is a popular peptide used in the buzzy \"Wolverine\" stack (BPC-157 + TB-500), touted as speeding up injury healing.Drazen Zigic/Getty Images\r\n<ul><li>Biohackers are promoting BPC-157 injection… [+9468 chars]"
+    "author": "Arlen Meyers",
+    "title": "What Happens If Your Healthcare AI Goes Out of Alignment?",
+    "description": "GUEST POST from Arlen Meyers It’s pothole season so be careful when you are driving. If you hit a pothole, it might throw your front end out of alignment When your front end is out of alignment, it means the angles of your wheels are no longer set to the manu…",
+    "url": "https://bradenkelley.com/2026/11/ai-alignment-in-healthcare/",
+    "urlToImage": "https://bradenkelley.com/wp-content/uploads/2024/01/Alignment-Pixabay.jpg",
+    "publishedAt": "2026-11-01T12:00:00Z",
+    "content": "GUEST POST from Arlen Meyers\r\nIt’s pothole season so be careful when you are driving. If you hit a pothole, it might throw your front end out of alignment\r\nWhen your front end is out of alignment, it… [+7408 chars]"
   }
 ]
