@@ -1,133 +1,120 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "NPR"
-    },
-    "author": "Marc Silver",
-    "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
-    "description": "Dr. Raj Panjabi is the author of <em>Safer: A Playbook.</em> His goal is to help people face a personal crisis — health, workplace, family conflicts — and \"turn fear into action.\"",
-    "url": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5983x3365+0+312/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F07%2F6436c96041889b49739feb0a0d4d%2Fraj-panjabi.jpg",
-    "publishedAt": "2026-11-06T11:57:32Z",
-    "content": "TUESDAY VERSION\r\nDr. Raj Panjabi's new book has a simple title: Safer: A Playbook.\r\nYes, a playbook like the kind sports managers use to firm up a winning strategy. But playbooks aren't just for game… [+7362 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "seamm@molssi.org",
-    "title": "lammps-step 2026.11.6",
-    "description": "A SEAMM plug-in for LAMMPS, a forcefield-based molecular dynamics code.",
-    "url": "https://pypi.org/project/lammps-step/2026.11.6/",
-    "urlToImage": null,
-    "publishedAt": "2026-11-06T11:55:34Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "CNBC"
-    },
-    "author": "Gerry Smith",
-    "title": "Could CRISPR cure rare diseases before birth? Scientists are getting closer",
-    "description": "Researchers are exploring fetal gene editing to treat rare genetic disorders before they cause lasting damage.",
-    "url": "https://www.cnbc.com/2026/11/06/could-crispr-cure-rare-diseases-before-birth.html",
-    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108371841-1790949974258-woman-in-white-laboratory-gown-3735782.jpg?v=1790950064&w=1920&h=1080",
-    "publishedAt": "2026-11-06T11:50:01Z",
-    "content": "Dr. Kiran Musunuru is the co-director of the Penn Medicine/CHOP Orphan Disease Center.\r\nOne of the keys to curing a rare disease is treating patients early. But what if you treated them before they w… [+5711 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Iasbaba.com"
-    },
-    "author": "IASbaba",
-    "title": "UPSC Quiz – 2026 : IASbaba’s Daily Current Affairs Quiz 29th October 2026",
-    "description": "For Previous Daily Quiz (ARCHIVES) – CLICK HERE The Current Affairs questions are based on sources like ‘The Hindu’, ‘Indian Express’ and ‘PIB’, which are very important sources for UPSC Prelims Exam. The questions are focused on both the concepts and facts. …",
-    "url": "https://iasbaba.com/2026/11/upsc-quiz-2026-iasbabas-daily-current-affairs-quiz-29th-october-2026/",
-    "urlToImage": "https://iasbaba.com/wp-content/uploads/2025/06/Daily-Current-Affairs-Quiz-2025.jpeg",
-    "publishedAt": "2026-11-06T11:46:58Z",
-    "content": "CorrectSolution (a)Explanation: ESTIC 2026 was inaugurated by the Prime Minister at Bharat Mandapam, New Delhi, on 27 October 2026, with the three-day conclave (2729 October) focusing on 12 priority … [+4132 chars]"
-  },
-  {
-    "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "SPOTLIGHT",
-    "title": "Beyond MBBS and engineering: 9 fields students can explore after Class 12",
-    "description": "Back in the day, students and their families mainly looked at engineering and medicine as career options.",
-    "url": "https://timesofindia.indiatimes.com/education/beyond-mbbs-and-engineering-9-fields-students-can-explore-after-class-12/articleshow/135605738.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-135605882,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "publishedAt": "2026-11-06T11:34:26Z",
-    "content": "<ul><li>News</li>\r\n<li>Education News</li>\r\n<li>Beyond MBBS and engineering: 9 fields students can explore after Class 12</li></ul>\r\nFollow Us On Social Media\r\nSpam calls down 99%, crores in fraud bl… [+1683 chars]"
+    "author": "PTI",
+    "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
+    "description": "India's pharmaceutical sector is shifting towards high-value medicines and reducing reliance on imports through local manufacturing. Investments in active pharmaceutical ingredients and advanced therapies are on the rise to meet new healthcare demands. Indust…",
+    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/pharma-industry-steps-up-api-investments-to-cut-import-dependence-move-up-value-chain/articleshow/135636196.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135636258,width-1200,height-900,imgsize-66868,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-07T12:09:57Z",
+    "content": "New Delhi: India's pharmaceutical industry is accelerating its shift from low-cost generics to high-value medicines, complex chemistry and advanced therapies, with manufacturers investing in domestic… [+4685 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Dailymail.com"
     },
-    "author": "Ruth Stainer, Chloe Thomas, Jessica Green, Maanya Sachdeva, Grace Bannister, Elmira Tanatarova",
-    "title": "The 71 most eligible young women in Britain revealed: Tatler's list includes F1 star Lando Norris's sister, 'grumpy' bridesmaid at Kate and William's wedding and Andy Burnham's daughter alongside fellow nepo babies",
-    "description": "While the list might traditionally have been the preserve of Earls' and Dukes' daughters, this year's crop is a rather more eclectic mix.",
-    "url": "https://www.dailymail.com/lifestyle/article-16267649/Tatler-eligible-young-women-Britain.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/11/06/11/112344323-0-image-a-29_1793963218546.jpg",
-    "publishedAt": "2026-11-06T11:34:23Z",
-    "content": "Theres a new generation of bright young things on the block... and they're only just getting started. For now, these fabulous females have secured their place in the pages of Tatler, which has just u… [+49200 chars]"
+    "author": "Alex Bywater",
+    "title": "FIN SMITH interview: I fell a bit out of love with rugby after the Lions tour... it's not a healthy mindset at my age. Now with Jonny Wilkinson's help and England's new style of play, we can get Twickenham shaking again",
+    "description": "There is plenty to discuss - England's fortunes, Smith's ambitions, Henry Pollock's elaborate haircuts. But first, a reality check. 'I've got your GCSE PE fitness test here,' says Smith's old headmaster.",
+    "url": "https://www.dailymail.com/sport/rugbyunion/article-16268447/Fin-Smith-England-Lions-Wilkinson.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/11/06/16/112346595-0-image-m-43_1793981825177.jpg",
+    "publishedAt": "2026-11-07T12:00:46Z",
+    "content": "A packed crowd fills the main assembly hall at Warwick School to hear from Fin Smith, the England fly-half who has returned to his alma mater on the eve of a crunch autumn campaign.\r\nThere is plenty … [+10414 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Team Global",
+    "title": "Northwestern scientists put tiny particles in liquid under an electric field; they began moving together without touching, and the liquid carried the signals",
+    "description": "Engineers at Northwestern University have made a fascinating discovery: tiny plastic spheres can synchronize their movements within a liquid environment. Remarkably, this phenomenon arises from fluid interactions rather than direct communication or contact. T…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/northwestern-scientists-put-tiny-particles-in-liquid-under-an-electric-field-they-began-moving-together-without-touching-and-the-liquid-carried-the-signals/articleshow/135598551.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135598650,width-1200,height-900,imgsize-254944,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-07T12:00:00Z",
+    "content": "Imagine hundreds of strangers all clapping in time. Now imagine doing the same, but on the scale of a human hair, with particles smaller than a speck of dust, dropped into a glass of liquid. It may s… [+3749 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "NPR"
     },
-    "author": "Ryan Archer",
-    "title": "She Heard Her Eyeballs Move and Was Referred to Psychiatry Before a CT Scan Found the Cause",
-    "description": "A woman who heard a swishing sound whenever she moved her eyes was diagnosed with superior semicircular canal dehiscence, a rare inner-ear defect successfully treated with surgery.",
-    "url": "https://www.medicaldaily.com/woman-hears-eyes-move-inner-ear-disorder-480906",
-    "urlToImage": "https://d.medicaldaily.com/en/full/488281/rural-healthcare-doctor-patient.jpg",
-    "publishedAt": "2026-11-06T11:32:10Z",
-    "content": "For eight months, a 31-year-old woman heard a swishing sound in her left ear that came and went. Eventually she worked out the pattern: it happened every time her eyes moved. She could, in effect, he… [+5819 chars]"
+    "author": "Kamala Thiagarajan",
+    "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+    "description": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
+    "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3060x1721+0+582/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Ff7%2Fee82be5d4122ae3fb680e7233b63%2Fprincess-diana-award-winner-3.jpg",
+    "publishedAt": "2026-11-07T11:50:21Z",
+    "content": "Can a teenage boy change the way people think about menstruation?\r\nAt just 14, Aadvik Jain, studying in India's capital city, Delhi, set out to do exactly that. It all began when he had to watch a cl… [+15450 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Science Daily"
+      "name": "Nakedcapitalism.com"
     },
-    "author": null,
-    "title": "Scientists just found dinosaur blood that survived 115 million years",
-    "description": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation could unlock new clues about dinosaur p…",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/dinosaur-bone-blood.webp",
-    "publishedAt": "2026-11-06T11:28:01Z",
-    "content": "Scientists have discovered remarkably preserved traces of dinosaur blood inside 115-million-year-old bones, revealing that delicate biological molecules can survive far longer than previously believe… [+5649 chars]"
+    "author": "Yves Smith",
+    "title": "‘I Heard a Barnacle’ – How Paying Attention to Nature’s Background Noise Can Reveal Animal Secrets",
+    "description": "The too-often-neglected importance of sound in nature and scientific investigation.",
+    "url": "https://www.nakedcapitalism.com/2026/11/i-heard-a-barnacle-how-paying-attention-to-natures-background-noise-can-reveal-animal-secrets.html",
+    "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-6.38.12 PM.png",
+    "publishedAt": "2026-11-07T11:43:11Z",
+    "content": "Yves here. I love the title of this article. Even though I grew up mainly in small semi-rural towns, I’ve been an insulated-from-nature urban creature in my adulthood. But even then, sometimes nature… [+6221 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Biztoc.com"
+      "name": "The Denver Post"
     },
-    "author": "finance.yahoo.com",
-    "title": "While biotech bets swing on trial data, this dividend payer gained 72% since 2024",
-    "description": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\nInvesting.com — Biotechnology investing often demands a high tolerance for binary risk: a single clinical trial readout or shifting political debate can …",
-    "url": "https://biztoc.com/x/5c76183d7fa53ebf",
-    "urlToImage": "https://biztoc.com/cdn/5c76183d7fa53ebf_s.webp",
-    "publishedAt": "2026-11-06T11:21:24Z",
-    "content": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.Investing.com Biotechnology investing often demands a high tolerance for binary risk: a single… [+149 chars]"
+    "author": "Meg Wingerter",
+    "title": "Former CU doctor sues woman who accused her of snooping in medical records",
+    "description": "A doctor sued for allegedly snooping in the medical records of her ex-husband’s girlfriend has filed her own lawsuit, alleging the girlfriend invaded her private communications and harassed her.",
+    "url": "https://www.denverpost.com/2026/11/07/cu-medicine-patient-privacy-lawsuit/",
+    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/09/20190128_034420_20151027_gavel_stock-p1.jpg?w=654&h=540",
+    "publishedAt": "2026-11-07T11:00:58Z",
+    "content": "A doctor sued for allegedly snooping in the medical records of her ex-husband’s girlfriend has filed her own lawsuit, alleging the girlfriend invaded her private communications and harassed her.\r\nDr.… [+2600 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "Activistpost.com"
     },
-    "author": "Dorothy Brooks",
-    "title": "Second Generic Venetoclax Wins Final FDA Approval for Leukemia, but Launch Date and Price Remain Unannounced",
-    "description": "The FDA approved Alembic Pharmaceuticals' generic venetoclax tablets for certain leukemia patients, but the drug's launch date, price and potential savings remain unknown.",
-    "url": "https://www.medicaldaily.com/fda-approves-alembic-generic-venclexta-480901",
-    "urlToImage": "https://d.medicaldaily.com/en/full/488276/prescription-tablets-medicine-bottle.jpg",
-    "publishedAt": "2026-11-06T11:18:26Z",
-    "content": "The Food and Drug Administration has granted final approval to a generic version of venetoclax, the targeted leukemia pill sold by AbbVie as Venclexta, for adults with chronic lymphocytic leukemia an… [+6271 chars]"
+    "author": "Editor",
+    "title": "The Deadliest Product in History: What Nicolas Hulscher Taught Me About mRNA Shots, Flu Vaccine Fraud, and Natural Cancer Cures",
+    "description": "Introduction: A Truth-Teller in a Captured Field I recently sat down with Nicolas Hulscher, an epidemiologist with the McCullough Foundation, for a long-form interview on my Bright Videos broadcast. Over the course of that conversation, Hulscher laid out — wi…",
+    "url": "https://activistpost.com/the-deadliest-product-in-history-what-nicolas-hulscher-taught-me-about-mrna-shots-flu-vaccine-fraud-and-natural-cancer-cures/",
+    "urlToImage": "https://activistpost.com/wp-content/uploads/2026/11/mrna-vaccines-vaccine-harms-flu-vaccine-fraud-5383-1792567520026-f06c7d0f-original.jpg",
+    "publishedAt": "2026-11-07T10:57:00Z",
+    "content": "I recently sat down with Nicolas Hulscher, an epidemiologist with the McCullough Foundation, for a long-form interview on my Bright Videos broadcast. Over the course of that conversation, Hulscher la… [+11214 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "mindbodygreen.com"
+    },
+    "author": "Sela Breen",
+    "title": "Could A Nasal Spray Reverse Brain Aging? What A New Study Reveals",
+    "description": "Just two doses may do the trick.",
+    "url": "https://www.mindbodygreen.com/articles/could-nasal-spray-reverse-brain-aging-what-new-study-reveals-a-new-therapy",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/on657p53qk4bk3kdd.jpg",
+    "publishedAt": "2026-11-07T10:54:00Z",
+    "content": "Your brain is a high-performance engine. And over the decades, it doesn't just wear down. It starts to run hot.\r\nTiny \"fires\" of inflammation smolder deep within the brain's memory center, creating a… [+3985 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slate Magazine"
+    },
+    "author": "Rebecca Onion",
+    "title": "One of the Biggest Books of the Year Has Proved Polarizing for an Unexpected Reason. I Have to Defend It.",
+    "description": "There are diapers and breastfeeding galore in the latest ACOTAR book.",
+    "url": "https://slate.com/culture/2026/11/acotar-book-6-a-court-of-splintered-harmony-feyre-nyx-motherhood-baby-breastfeeding.html",
+    "urlToImage": "https://compote.slate.com/images/8212ebf9-0d0a-429e-9e3f-1e115b46930c.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "publishedAt": "2026-11-07T10:50:00Z",
+    "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nIts too hard to explain what happens in A Court of Thorns and Roses (ACOT… [+6475 chars]"
   },
   {
     "source": {
@@ -135,128 +122,128 @@
       "name": "Pypi.org"
     },
     "author": "lijichen365@gmail.com",
-    "title": "molcrafts-molpy-nightly 0.20.1.dev202611061058",
+    "title": "molcrafts-molpy-nightly 0.20.1.dev202611071016",
     "description": "Modern Python framework for molecular simulation and analysis",
-    "url": "https://pypi.org/project/molcrafts-molpy-nightly/0.20.1.dev202611061058/",
+    "url": "https://pypi.org/project/molcrafts-molpy-nightly/0.20.1.dev202611071016/",
     "urlToImage": null,
-    "publishedAt": "2026-11-06T11:17:53Z",
+    "publishedAt": "2026-11-07T10:40:02Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
-      "id": "usa-today",
-      "name": "USA Today"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Josh Peter, USA TODAY",
-    "title": "Tragic soccer death raises questions years after NFL player was saved on the field",
-    "description": "A physician who was part of the emergency team that saved Damar Hamlin talks about the case in the wake of a soccer player's death.",
-    "url": "https://www.usatoday.com/story/sports/soccer/2026/11/06/jesus-de-miguel-cause-of-death-aed-cardic-damar-hamlin/92628281007/",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/54141e92199459d3a3804fd56113796552c48cb8a15d5b8807a8a74d4d65563c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F465b54785b1a5d214c2bcb06b2f2ea2f.jpg",
-    "publishedAt": "2026-11-06T11:10:21Z",
-    "content": "Woods Curry, an emergency medicine physician who was part of the team that saved Buffalo Bills safety Damar Hamlin in 2023, had a non-medical update about the NFL player this week.\r\n\"It looks like he… [+5353 chars]"
+    "author": "Team Global",
+    "title": "Scientists gave mice an existing asthma drug before exposing them to peanut extract; 95% were protected from severe allergic reactions in the experiment",
+    "description": "Researchers at Northwestern University found that the asthma drug Zileuton reduces allergic reactions in mice fed peanut extract. The study indicates that Zileuton could block the inflammation that leads to anaphylaxis. While it works in mice, clinical trials…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/scientists-gave-mice-an-existing-asthma-drug-before-exposing-them-to-peanut-extract-in-the-experiment-95-showed-almost-no-severe-allergic-symptoms-afterward/articleshow/135597851.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135597891,width-1200,height-900,imgsize-97440,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-07T10:30:00Z",
+    "content": "If you're reading ingredient labels at birthday parties, scanning menus twice, and carrying around an EpiPen wherever you go, this piece of science could be of interest to you. A 2025 study titled As… [+3625 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "mindbodygreen.com"
     },
-    "author": "Joseph James",
-    "title": "Rezdiffra Whistleblower Lawsuit Claims Madrigal Forced Out Its Former Clinical Chief Over Liver Injury Data Concerns",
-    "description": "Michael Charlton alleges Madrigal Pharmaceuticals retaliated after he raised concerns about liver-injury data linked to Rezdiffra. The company denies the claims, while the FDA's approval and warnings remain unchanged.",
-    "url": "https://www.medicaldaily.com/madrigal-executive-lawsuit-rezdiffra-liver-injury-data-480896",
-    "urlToImage": "https://d.medicaldaily.com/en/full/488271/rezdiffra-medication.jpg",
-    "publishedAt": "2026-11-06T11:05:02Z",
-    "content": "A former senior executive at Madrigal Pharmaceuticals has sued the company in federal court, alleging he was forced out after warning top leaders about liver-injury data tied to Rezdiffra, the first … [+6652 chars]"
+    "author": "Sela Breen",
+    "title": "Could This Be The Real Reason Women Struggle More With Migraines?",
+    "description": "Women carry the burden of migraine disease risk globally, but the reason why is still unclear.",
+    "url": "https://www.mindbodygreen.com/articles/could-this-be-real-reason-women-struggle-more-with-migraines-how-women-can-take-back-control",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/sxtboae3bjpsiydr7.jpg",
+    "publishedAt": "2026-11-07T10:24:00Z",
+    "content": "I started struggling with migraines in the beginning of college, which was about the same time I was diagnosed with PMOS (recently renamed from PCOS). I had never had a consistent menstrual cycle, so… [+8711 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Biztoc.com"
+      "name": "mindbodygreen.com"
     },
-    "author": "newsweek.com",
-    "title": "Scientists Find Clue to Why Alzheimer's Can Progress Faster",
-    "description": "People diagnosed with Alzheimer's before age 65 often decline faster than older patients.\nNew research may have uncovered one key reason why.\nA study, published in Science Translational Medicine, used advanced brain imaging to compare early-onset Alzheimer's …",
-    "url": "https://biztoc.com/x/4d1585d56791de22",
-    "urlToImage": "https://biztoc.com/cdn/4d1585d56791de22_s.webp",
-    "publishedAt": "2026-11-06T11:03:08Z",
-    "content": "People diagnosed with Alzheimer's before age 65 often decline faster than older patients.New research may have uncovered one key reason why.A study, published in Science Translational Medicine, used … [+144 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
-    },
-    "author": null,
-    "title": "Even occasional marijuana use linked to higher stroke risk, study finds",
-    "description": "A study of nearly 450,000 adults found that both casual and heavy marijuana users faced higher odds of stroke and cardiovascular disease than non-users.",
-    "url": "https://www.foxnews.com/health/occasional-marijuana-use-linked-higher-stroke-risk-study-finds",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/man-lighting-joint.jpg",
-    "publishedAt": "2026-11-06T11:00:55Z",
-    "content": "A new study of nearly 450,000 American adults links cannabis use to an increased risk of stroke and cardiovascular disease.\r\nThe findings, scheduled for presentation at the American Heart Association… [+4724 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Thephiladelphiacitizen.org"
-    },
-    "author": "Courtney DuChene",
-    "title": "Call for Nominations: Who Are the Next Citizens of the Year?",
-    "description": "Our search for the next crop of local heroes is well underway, and we need your input! Vote through December 31 for your Citizens of the Year",
-    "url": "https://thephiladelphiacitizen.org/who-are-the-next-citizens-of-the-year/",
-    "urlToImage": "https://thephiladelphiacitizen.org/wp-content/uploads/2026/10/COTY-stage-audience-wide-2026.jpg",
-    "publishedAt": "2026-11-06T11:00:10Z",
-    "content": "During last years Citizen of the Year Awards what CEO/President Larry Platt likes to call the ESPYs of civic engagement Mural Arts Philadelphias Jane Golden encouraged everyone, please keep changing … [+2902 chars]"
+    "author": "Sela Breen",
+    "title": "What Is Ferritin Face? We Asked An MD For The Truth About The Viral Term",
+    "description": "A hematologist breaks down what the viral term means.",
+    "url": "https://www.mindbodygreen.com/articles/what-is-ferritin-face-hematologist-explains",
+    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/tw7mewf2ckl9xk0mh.jpg",
+    "publishedAt": "2026-11-07T10:11:00Z",
+    "content": "You may have seen the viral videos of women showing their before and after realizing they had ferritin face. Before images may show pale, dry skin paired with thinning hair, complemented by after ima… [+4558 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "ScienceAlert"
     },
-    "author": "Jess Cockerill",
-    "title": "Octopuses Can Squeeze Their Bodies Through Tiny Holes, And Scientists Are in Awe",
-    "description": "Learn from the masters.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-    "url": "https://www.sciencealert.com/octopuses-can-squeeze-their-bodies-through-tiny-holes-and-scientists-are-in-awe",
-    "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-2227406850-2560x1440-1.jpg",
-    "publishedAt": "2026-11-06T11:00:00Z",
-    "content": "Octopuses are notorious shape-shifters.\r\nThey regularly escape their tanks by squeezing through narrow gaps, and they have an uncanny ability to find shelter in the pokiest of places.\r\nThe main limit… [+4475 chars]"
+    "author": "Carly Cassella",
+    "title": "Treating Sleep Apnea Could Improve Sperm Quality, Study Finds",
+    "description": "A two for one.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+    "url": "https://www.sciencealert.com/treating-sleep-apnea-could-improve-sperm-quality-study-finds",
+    "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-91531328-2560x1440-1.jpg",
+    "publishedAt": "2026-11-07T10:00:00Z",
+    "content": "A lack of oxygen during sleep isn't just a problem for the lungs or the brain it may also impact testicular function.\r\nA small prospective study has now found that while obstructive sleep apnea is no… [+4481 chars]"
+  },
+  {
+    "source": {
+      "id": "the-globe-and-mail",
+      "name": "The Globe And Mail"
+    },
+    "author": "Tim Kiladze",
+    "title": "Even socialist Sweden has robust private health care and education. Why shouldn’t Canada?",
+    "description": "Even socialist Sweden has robust private health care and education. Why shouldn’t Canada?theglobeandmail.com",
+    "url": "https://www.theglobeandmail.com/business/article-sweden-hybrid-private-health-care-education-social-services-case-study/",
+    "urlToImage": "https://www.theglobeandmail.com/resizer/v2/F2S7DF4WFNC5BGMACS7E77QFPI.JPG?auth=25223c1cb7b0249837d3e3d9e53b32c05bc54de461459099c704ff648a1bb195&width=1200&height=800&quality=80&smart=true",
+    "publishedAt": "2026-11-07T10:00:00Z",
+    "content": "To understand modern Sweden and how the country has transformed, consider Jens Erikssons career trajectory.\r\nIn his youth, Mr. Eriksson worked at music labels such as Stockholm Records, repping Swedi… [+21788 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The New Yorker"
+      "name": "Science Daily"
     },
-    "author": "Shayla Love",
-    "title": "A Cruise to End All Cruises",
-    "description": "The Odyssey was supposed to last a lifetime. Instead, it was a floating fiasco. Shayla Love reports.",
-    "url": "https://www.newyorker.com/news/annals-of-the-sea/a-cruise-to-end-all-cruises",
-    "urlToImage": "https://media.newyorker.com/photos/6aea58b6d627afcccafcf472/16:9/w_1280,c_limit/endless-cruiss-final-new-new%20(3).jpg",
-    "publishedAt": "2026-11-06T11:00:00Z",
-    "content": "Petterson didnt want to give up on his concept, however. He attacked Miray online, and the company sued him for tortious interference and defamation. (The lawsuit was voluntarily dismissed.) He annou… [+5011 chars]"
+    "author": null,
+    "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
+    "description": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern ref…",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/central-european-landscape-early-late-miocene.webp",
+    "publishedAt": "2026-11-07T09:44:48Z",
+    "content": "Picture the wilderness of central Europe 100,000 years ago, or even a million years ago. You might imagine an endless expanse of towering trees, with thick canopies blocking sunlight from reaching th… [+9345 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "InfoQ.com"
+      "name": "BusinessLine"
     },
-    "author": "Vanessa Formicola",
-    "title": "Presentation: The Socio-Technical Staff+ Engineer: Architecture, Culture and Organisational Change",
-    "description": "Vanessa Formicola shares how technical leaders can move beyond \"wishful architecture\" by practicing holistic socio-technical engineering. She discusses why engineering leaders must account for organizational maturity, reward structures, geopolitical climate, …",
-    "url": "https://www.infoq.com/presentations/sociotechnical-staff-engineer-architecture/",
-    "urlToImage": "https://res.infoq.com/presentations/sociotechnical-staff-engineer-architecture/en/card_header_image/twittercard-1792066457983.jpg",
-    "publishedAt": "2026-11-06T11:00:00Z",
-    "content": "Transcript\r\nVanessa Formicola: I'm Vanessa Formicola. My pronouns are she and her. Today I'll be talking about how it is and what it is to be a socio-technical staff-plus engineer in these days of ch… [+46495 chars]"
+    "author": "ANI",
+    "title": "Jefferies warns AI investment cycle may have peaked; raises India allocation to 14%",
+    "description": "Rising borrowing costs and questions over investment returns are prompting investors to reassess technology spending and explore opportunities beyond the AI supply chain",
+    "url": "https://www.thehindubusinessline.com/markets/jefferies-warns-ai-investment-cycle-may-have-peaked-raises-india-allocation-to-14/article71677867.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/gxcrcb/article71677875.ece/alternates/LANDSCAPE_1200/2026-11-05T062456Z_984604740_RC2FHOATKZKP_RTRMADP_3_USA-ELECTION-SOUTHKOREA-INVESTORS.JPG",
+    "publishedAt": "2026-11-07T09:33:41Z",
+    "content": "The global artificial intelligence (AI) investment cycle may have peaked or could be entering a mid-cycle correction, with rising financing costs and concerns over the returns on massive capital expe… [+2527 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Boredpanda.com"
+      "name": "Pypi.org"
     },
-    "author": "Mantas Kačerauskas",
-    "title": "Woman Refuses To Smile And Play Nice After Mutual Friend Steals Bestie’s Husband, Plans Revenge",
-    "description": "You know you have a good friend when she vows to make your enemy’s life a living hell. This woman was looking for petty revenge ideas for a mutual friend who stole her BFF’s ex-husband. Uninviting her from her wedding anniversary party was the first step, but…",
-    "url": "https://www.boredpanda.com/best-friends-husband-left-for-another-woman/",
-    "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/6aedb220de3d7_best-friends-husband-left-for-another-woman-fb-facebook.jpg",
-    "publishedAt": "2026-11-06T10:52:33Z",
-    "content": "Nobody likes cheaters, and sometimes that sort of betrayal can even break up friendships. According to Statista, only 7% of Americans think that adultery is an acceptable behavior, so it’s understand… [+1251 chars]"
+    "author": "bhmfly@foxmail.com",
+    "title": "lazydock 0.18.0",
+    "description": "A Python package for molecular docking",
+    "url": "https://pypi.org/project/lazydock/0.18.0/",
+    "urlToImage": null,
+    "publishedAt": "2026-11-07T09:27:44Z",
+    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "BusinessLine"
+    },
+    "author": "BL Chennai Bureau",
+    "title": "Tamil Nadu to roll out ₹2,000-crore Vetri laptop scheme for college students",
+    "description": "The scheme will cover first- and second-year undergraduate and diploma students studying in government and government-aided colleges during the 2026-27 academic year",
+    "url": "https://www.thehindubusinessline.com/news/tamil-nadu-to-roll-out-2000-crore-vetri-laptop-scheme-for-college-students/article71677804.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/k6lno8/article71562559.ece/alternates/LANDSCAPE_1200/2085_8_10_2026_13_51_26_4_DSC_2036.JPG",
+    "publishedAt": "2026-11-07T09:27:38Z",
+    "content": "The Tamil Nadu Government has issued an order for implementing the 2,000-crore Vetri Laptop Scheme to equip college students with digital tools and improve their technological and employability skill… [+1703 chars]"
   }
 ]
