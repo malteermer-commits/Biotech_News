@@ -1,198 +1,211 @@
 [
   {
     "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
+      "id": "cbs-news",
+      "name": "CBS News"
     },
-    "author": "PTI",
-    "title": "Pharma industry steps up API investments to cut import dependence, move up value chain",
-    "description": "India's pharmaceutical sector is shifting towards high-value medicines and reducing reliance on imports through local manufacturing. Investments in active pharmaceutical ingredients and advanced therapies are on the rise to meet new healthcare demands. Indust…",
-    "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/pharma-industry-steps-up-api-investments-to-cut-import-dependence-move-up-value-chain/articleshow/135636196.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135636258,width-1200,height-900,imgsize-66868,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-07T12:09:57Z",
-    "content": "New Delhi: India's pharmaceutical industry is accelerating its shift from low-cost generics to high-value medicines, complex chemistry and advanced therapies, with manufacturers investing in domestic… [+4685 chars]"
+    "author": "Dr. Jon  LaPook",
+    "title": "Seeking relief from chronic pain",
+    "description": "With about one in four American adults living with chronic pain, Dr. Jon LaPook examines some of the current treatments, from medications and surgery, to nerve stimulation, biofeedback and self-hypnosis.",
+    "url": "https://www.cbsnews.com/news/seeking-relief-from-chronic-pain/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/d31df50a-48c0-408c-bdeb-13dfbcd7bd85/thumbnail/1200x630g2/a2e9ff98398775b106d71d4f801bb78f/chronic-pain-headset-1280.jpg",
+    "publishedAt": "2026-11-08T14:15:56Z",
+    "content": "Veterinarian Dr. Troy Hudnall enjoyed an active practice in Missouri. But in 2022, during an intense delivery of a calf, he felt a sharp pain, and heard a strange sound: \"A snap or a pop, snap's prob… [+5290 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Elena Vega",
+    "title": "Cannabis Appeared in Records of 84% of Teens Needing Emergency Care for Substance Use in WashU Data",
+    "description": "A WashU study of more than 5 million encounters found cannabis listed in 84% of substance-related emergency visits involving teens, while researchers stressed the figure does not establish causation.",
+    "url": "https://www.medicaldaily.com/cannabis-teen-emergency-encounters-washu-study-480978",
+    "urlToImage": "https://d.medicaldaily.com/en/full/488356/teens-using-cannabis.jpg",
+    "publishedAt": "2026-11-08T14:15:33Z",
+    "content": "Among teens ages 16 to 18 who needed emergency or hospital care because of a substance-related problem, 84% had at least one encounter involving cannabis, according to a study published Nov. 4 in The… [+5804 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mental Floss"
+    },
+    "author": "Logan DeLoye",
+    "title": "100 Funny Jokes for Kids That Will Make the Whole Family Laugh",
+    "description": "From animal jokes to knock-knock classics you can't resist, these G-rated giggles are sure to entertain your whole family!",
+    "url": "https://www.mentalfloss.com/entertainment/funny-jokes-kids-make-whole-family-laugh",
+    "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1919,h_1079/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01m6pmqt562zb45txa6w.jpg",
+    "publishedAt": "2026-11-08T14:00:00Z",
+    "content": "You hear a joke (a really funny one), and your first instinct is to laugh. But why?\r\nLike many of our reactions, your brain needs time to process the joke before you respond. That simple joke travels… [+8430 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "Yahoo/The Telegraph",
+    "title": "‘Make America Hot Again’ generation is turning cool on Maga",
+    "description": "The American flags lay discarded on the tables, not a Maga hat in sight.The crowd had dwindled to the last dregs of the party, with people nursing their warm martinis. On the screens above the bar, the unavoidable message blared: the blue wave sweeping across…",
+    "url": "https://freerepublic.com/focus/f-chat/4402260/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-11-08T13:53:45Z",
+    "content": "Skip to comments.\r\nMake America Hot Again generation is turning cool on MagaYahoo/The Telegraph ^Posted on 11/08/2026 5:53:45 AM PST by Tench_Coxe\r\nThe American flags lay discarded on the tables, not… [+1975 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Offlinevault.dev"
+    },
+    "author": "nc",
+    "title": "Show HN: OfflineVault – AI based offline library for when the internet is down",
+    "description": "The water, food, first aid, medicine and repair answers you used to search for, already on your Mac, each with the page it came from. Works with Wi-Fi off.",
+    "url": "https://offlinevault.dev",
+    "urlToImage": "https://offlinevault.dev/img/og.png",
+    "publishedAt": "2026-11-08T13:42:10Z",
+    "content": "Questions\r\nDoes it really work with no internet?\r\nYes. After the first download every part runs on your Mac. The Readiness drill is there so you can prove it yourself with Wi-Fi off, before the day y… [+2541 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Joseph James",
+    "title": "Hims Agrees to Stop Selling Compounded Lilly Obesity Drugs as Zepbound and Foundayo Join Platform",
+    "description": "Hims will sell Lilly's Zepbound and Foundayo directly while ending compounded copies of the company's obesity drugs on its platform. Patients buying elsewhere still face quality and dosing risks.",
+    "url": "https://www.medicaldaily.com/hims-lilly-zepbound-foundayo-compounded-glp1-deal-480974",
+    "urlToImage": "https://d.medicaldaily.com/en/full/488352/hims-agrees-not-sell-compounded-lilly-obesity-drugs.jpg",
+    "publishedAt": "2026-11-08T13:30:16Z",
+    "content": "Hims &amp; Hers agreed not to sell compounded versions or knockoffs of Eli Lilly's obesity medicines as part of a deal announced Nov. 6 that lets the telehealth company sell Lilly's Zepbound and Foun… [+6545 chars]"
+  },
+  {
+    "source": {
+      "id": "medical-news-today",
+      "name": "Medical News Today"
+    },
+    "author": "Amy McLean",
+    "title": "Replacing animal protein with plant protein could better support weight loss",
+    "description": "Swapping animal protein for plant protein could better support weight loss, according to new research that examines the effects of vegan and Mediterranean diets.",
+    "url": "https://www.medicalnewstoday.com/articles/replacing-animal-protein-with-plant-protein-could-better-support-weight-loss",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/11/getty_1407102119_facebook_1200x630-1200x628.jpg",
+    "publishedAt": "2026-11-08T13:26:30Z",
+    "content": "<ul><li>Replacing animal protein with plant protein as part of a low fat vegan diet may support weight loss, according to recent research.</li><li>Compared with the vegan diet, the Mediterranean diet… [+8810 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Dailymail.com"
     },
-    "author": "Alex Bywater",
-    "title": "FIN SMITH interview: I fell a bit out of love with rugby after the Lions tour... it's not a healthy mindset at my age. Now with Jonny Wilkinson's help and England's new style of play, we can get Twickenham shaking again",
-    "description": "There is plenty to discuss - England's fortunes, Smith's ambitions, Henry Pollock's elaborate haircuts. But first, a reality check. 'I've got your GCSE PE fitness test here,' says Smith's old headmaster.",
-    "url": "https://www.dailymail.com/sport/rugbyunion/article-16268447/Fin-Smith-England-Lions-Wilkinson.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/11/06/16/112346595-0-image-m-43_1793981825177.jpg",
-    "publishedAt": "2026-11-07T12:00:46Z",
-    "content": "A packed crowd fills the main assembly hall at Warwick School to hear from Fin Smith, the England fly-half who has returned to his alma mater on the eve of a crunch autumn campaign.\r\nThere is plenty … [+10414 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Team Global",
-    "title": "Northwestern scientists put tiny particles in liquid under an electric field; they began moving together without touching, and the liquid carried the signals",
-    "description": "Engineers at Northwestern University have made a fascinating discovery: tiny plastic spheres can synchronize their movements within a liquid environment. Remarkably, this phenomenon arises from fluid interactions rather than direct communication or contact. T…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/northwestern-scientists-put-tiny-particles-in-liquid-under-an-electric-field-they-began-moving-together-without-touching-and-the-liquid-carried-the-signals/articleshow/135598551.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135598650,width-1200,height-900,imgsize-254944,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-07T12:00:00Z",
-    "content": "Imagine hundreds of strangers all clapping in time. Now imagine doing the same, but on the scale of a human hair, with particles smaller than a speck of dust, dropped into a glass of liquid. It may s… [+3749 chars]"
+    "author": "Erica Lamberg",
+    "title": "How a teaspoon of cumin could slash your weight and banish high cholesterol",
+    "description": "That jar of cumin in your spice rack may do more than add an extra kick to your tacos or curry. Could it also help with weight and cholesterol? Early clinical studies suggest it might, even with just a teaspoon.",
+    "url": "https://www.dailymail.com/health/article-16268989/cumin-weight-cholesterol-study.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/11/05/18/112329905-0-image-a-15_1793902852297.jpg",
+    "publishedAt": "2026-11-08T13:23:23Z",
+    "content": "That jar of cumin in your spice rack may do more than add an extra kick to your tacos or curry.\r\nCould it also help with weight and cholesterol? Early clinical studies suggest it might, with about a … [+5142 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "NPR"
+      "name": "Freethoughtblogs.com"
     },
-    "author": "Kamala Thiagarajan",
-    "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-    "description": "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period.",
-    "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
-    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3060x1721+0+582/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Ff7%2Fee82be5d4122ae3fb680e7233b63%2Fprincess-diana-award-winner-3.jpg",
-    "publishedAt": "2026-11-07T11:50:21Z",
-    "content": "Can a teenage boy change the way people think about menstruation?\r\nAt just 14, Aadvik Jain, studying in India's capital city, Delhi, set out to do exactly that. It all began when he had to watch a cl… [+15450 chars]"
+    "author": "PZ Myers",
+    "title": "Have a fun evening with a couple of psychopaths",
+    "description": "Yesterday, I practiced being retired. I slept in to 7am. I read a book. I took a nap. I went to a movie. I set aside my usual lecture prep (I have to catch up on that today). It felt good. Taking my work obligations off my shoulders for a day and setting them…",
+    "url": "https://freethoughtblogs.com/pharyngula/2026/11/08/have-a-fun-evening-with-a-couple-of-psychopaths/",
+    "urlToImage": "https://freethoughtblogs.com/pharyngula/wp-content/themes/ftb2-theme/images/logo.gif",
+    "publishedAt": "2026-11-08T13:19:58Z",
+    "content": "Yesterday, I practiced being retired. I slept in to 7am. I read a book. I took a nap. I went to a movie. I set aside my usual lecture prep (I have to catch up on that today). It felt good. Taking my … [+3407 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Screen Rant"
+    },
+    "author": "Nicolas Ayala",
+    "title": "Marvel Officially Confirms Carnage's Twisted Return",
+    "description": "Carnage's original host finally returns to reunite with the red symbiote after a long wait, putting an unexpected Avenger in great danger.",
+    "url": "https://screenrant.com/carnage-return-marvel-comics/",
+    "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/carnage-screams-in-front-of-an-explosion-in-venom-let-there-be-carnage.jpg?w=1600&h=900&fit=crop",
+    "publishedAt": "2026-11-08T13:00:18Z",
+    "content": "After a long wait, Carnage's original host finally returns to bond back with Marvel's most bloodthirsty symbiote. First and early hosts play a key role in shaping a symbiotes identity and skills, as … [+4119 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Rlsbb.cc"
+    },
+    "author": "Kingman",
+    "title": "Old Crow Medicine Show – OCMS Xmas (Deluxe) (2026)",
+    "description": "Tracklist:01 - Breakin' Up Xmas02 - Holly Jolly Christmas03 - Jolly Man04 - North By Northeast05 - Corn Whiskey Christmas06 - Happy Xmas (War Is Over)07 - All About A Baby08 - Jinglin' Jack Guy09 - Store-Bought Christmas10 - December 2611 - Krampus Night12 - …",
+    "url": "https://post.rlsbb.cc/old-crow-medicine-show-ocms-xmas-deluxe-2026/",
+    "urlToImage": null,
+    "publishedAt": "2026-11-08T12:41:56Z",
+    "content": "Tracklist:01 - Breakin' Up Xmas02 - Holly Jolly Christmas03 - Jolly Man04 - North By Northeast05 - Corn Whiskey Christmas06 - Happy Xmas (War Is Over)07 - All About A Baby08 - Jinglin' Jack Guy09 - S… [+284 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Github.com"
+    },
+    "author": "luka373",
+    "title": "Show HN: Neural Network Formal Verification",
+    "description": "A curated list of awesome tools, benchmarks, papers, and resources for the formal verification of neural networks. - giovanni-norbedo/awesome-nn-formal-verification",
+    "url": "https://github.com/giovanni-norbedo/awesome-nn-formal-verification",
+    "urlToImage": "https://opengraph.githubassets.com/43669e1ed0081d4d5e7e6e9b6e49c4a29998b20047352111b389eb705ab95d51/giovanni-norbedo/awesome-nn-formal-verification",
+    "publishedAt": "2026-11-08T12:32:52Z",
+    "content": "A curated list of awesome tools, benchmarks, papers, and resources for the formal verification of neural networks.\r\nFormal neural network verification is a set of techniques used to mathematically pr… [+5173 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
+    },
+    "author": null,
+    "title": "Jewish teens prepare to combat antisemitism on campus with history, humor and courage",
+    "description": "Jewish Student Union presidents gathered to prepare for antisemitism on college campuses, hearing from activists like Shai Davidai and Tessa Veksler.",
+    "url": "https://www.foxnews.com/media/jewish-teens-prepare-combat-antisemitism-campus-history-humor-courage",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/JSU-CONFERENCE-1-TESSA.jpg",
+    "publishedAt": "2026-11-08T12:00:54Z",
+    "content": "Jewish high school student leaders gathered for three days of fun and learning as part of the Jewish Student Union's (JSU) annual Presidents Conference. The event brought together student club presid… [+9848 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Nakedcapitalism.com"
     },
-    "author": "Yves Smith",
-    "title": "‘I Heard a Barnacle’ – How Paying Attention to Nature’s Background Noise Can Reveal Animal Secrets",
-    "description": "The too-often-neglected importance of sound in nature and scientific investigation.",
-    "url": "https://www.nakedcapitalism.com/2026/11/i-heard-a-barnacle-how-paying-attention-to-natures-background-noise-can-reveal-animal-secrets.html",
-    "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-6.38.12 PM.png",
-    "publishedAt": "2026-11-07T11:43:11Z",
-    "content": "Yves here. I love the title of this article. Even though I grew up mainly in small semi-rural towns, I’ve been an insulated-from-nature urban creature in my adulthood. But even then, sometimes nature… [+6221 chars]"
+    "author": "Haig Hovaness",
+    "title": "Links 11/8/2026",
+    "description": "Our strategic daily links: A friend lends a hand, flickering reality, Ebola vaccine, Brazilian beef, Chinas's robotaxis, EU challenges Tik Tok, Mideast horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk matters, struggling Democrats, immigration …",
+    "url": "https://www.nakedcapitalism.com/2026/11/links-11-8-2026.html",
+    "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/11/Angel-fish.jpg",
+    "publishedAt": "2026-11-08T11:55:31Z",
+    "content": "That time a man reached for a stuck landing gear on his friend’s plane from a sunroof of a car driven down a runway and fixed it. [St. Augustine airport, Florida, 1985] https://t.co/npbVbjDVDG\r\n Mass… [+6892 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Denver Post"
+      "name": "Linkedin.com"
     },
-    "author": "Meg Wingerter",
-    "title": "Former CU doctor sues woman who accused her of snooping in medical records",
-    "description": "A doctor sued for allegedly snooping in the medical records of her ex-husband’s girlfriend has filed her own lawsuit, alleging the girlfriend invaded her private communications and harassed her.",
-    "url": "https://www.denverpost.com/2026/11/07/cu-medicine-patient-privacy-lawsuit/",
-    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/09/20190128_034420_20151027_gavel_stock-p1.jpg?w=654&h=540",
-    "publishedAt": "2026-11-07T11:00:58Z",
-    "content": "A doctor sued for allegedly snooping in the medical records of her ex-husband’s girlfriend has filed her own lawsuit, alleging the girlfriend invaded her private communications and harassed her.\r\nDr.… [+2600 chars]"
+    "author": "Jacken Zheng",
+    "title": "China Health & MedTech Weekly — November 2–8, 2026",
+    "description": "China Health & MedTech Weekly — November 2–8, 2026 1. Policy: the \"15th Five-Year Plan\" for health care takes shape This week was heavy on medium-term policy blueprints, most of them framed around the newly issued National Medical Security \"15th Five-Year Pla…",
+    "url": "https://www.linkedin.com/pulse/china-health-medtech-weekly-november-28-2026-jacken-zheng-hoscc",
+    "urlToImage": "https://static.licdn.com/scds/common/u/images/email/artdeco/logos/96/linkedin-bug-color.png",
+    "publishedAt": "2026-11-08T11:46:59Z",
+    "content": "China Health &amp; MedTech Weekly November 28, 2026\r\n1. Policy: the \"15th Five-Year Plan\" for health care takes shape\r\nThis week was heavy on medium-term policy blueprints, most of them framed around… [+5648 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Activistpost.com"
+      "name": "Hurriyet Daily News"
     },
-    "author": "Editor",
-    "title": "The Deadliest Product in History: What Nicolas Hulscher Taught Me About mRNA Shots, Flu Vaccine Fraud, and Natural Cancer Cures",
-    "description": "Introduction: A Truth-Teller in a Captured Field I recently sat down with Nicolas Hulscher, an epidemiologist with the McCullough Foundation, for a long-form interview on my Bright Videos broadcast. Over the course of that conversation, Hulscher laid out — wi…",
-    "url": "https://activistpost.com/the-deadliest-product-in-history-what-nicolas-hulscher-taught-me-about-mrna-shots-flu-vaccine-fraud-and-natural-cancer-cures/",
-    "urlToImage": "https://activistpost.com/wp-content/uploads/2026/11/mrna-vaccines-vaccine-harms-flu-vaccine-fraud-5383-1792567520026-f06c7d0f-original.jpg",
-    "publishedAt": "2026-11-07T10:57:00Z",
-    "content": "I recently sat down with Nicolas Hulscher, an epidemiologist with the McCullough Foundation, for a long-form interview on my Bright Videos broadcast. Over the course of that conversation, Hulscher la… [+11214 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Sela Breen",
-    "title": "Could A Nasal Spray Reverse Brain Aging? What A New Study Reveals",
-    "description": "Just two doses may do the trick.",
-    "url": "https://www.mindbodygreen.com/articles/could-nasal-spray-reverse-brain-aging-what-new-study-reveals-a-new-therapy",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/on657p53qk4bk3kdd.jpg",
-    "publishedAt": "2026-11-07T10:54:00Z",
-    "content": "Your brain is a high-performance engine. And over the decades, it doesn't just wear down. It starts to run hot.\r\nTiny \"fires\" of inflammation smolder deep within the brain's memory center, creating a… [+3985 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Slate Magazine"
-    },
-    "author": "Rebecca Onion",
-    "title": "One of the Biggest Books of the Year Has Proved Polarizing for an Unexpected Reason. I Have to Defend It.",
-    "description": "There are diapers and breastfeeding galore in the latest ACOTAR book.",
-    "url": "https://slate.com/culture/2026/11/acotar-book-6-a-court-of-splintered-harmony-feyre-nyx-motherhood-baby-breastfeeding.html",
-    "urlToImage": "https://compote.slate.com/images/8212ebf9-0d0a-429e-9e3f-1e115b46930c.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-    "publishedAt": "2026-11-07T10:50:00Z",
-    "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nIts too hard to explain what happens in A Court of Thorns and Roses (ACOT… [+6475 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "lijichen365@gmail.com",
-    "title": "molcrafts-molpy-nightly 0.20.1.dev202611071016",
-    "description": "Modern Python framework for molecular simulation and analysis",
-    "url": "https://pypi.org/project/molcrafts-molpy-nightly/0.20.1.dev202611071016/",
-    "urlToImage": null,
-    "publishedAt": "2026-11-07T10:40:02Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Team Global",
-    "title": "Scientists gave mice an existing asthma drug before exposing them to peanut extract; 95% were protected from severe allergic reactions in the experiment",
-    "description": "Researchers at Northwestern University found that the asthma drug Zileuton reduces allergic reactions in mice fed peanut extract. The study indicates that Zileuton could block the inflammation that leads to anaphylaxis. While it works in mice, clinical trials…",
-    "url": "https://economictimes.indiatimes.com/news/international/us/scientists-gave-mice-an-existing-asthma-drug-before-exposing-them-to-peanut-extract-in-the-experiment-95-showed-almost-no-severe-allergic-symptoms-afterward/articleshow/135597851.cms",
-    "urlToImage": "https://img.etimg.com/thumb/msid-135597891,width-1200,height-900,imgsize-97440,overlay-economictimes/articleshow.jpg",
-    "publishedAt": "2026-11-07T10:30:00Z",
-    "content": "If you're reading ingredient labels at birthday parties, scanning menus twice, and carrying around an EpiPen wherever you go, this piece of science could be of interest to you. A 2025 study titled As… [+3625 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Sela Breen",
-    "title": "Could This Be The Real Reason Women Struggle More With Migraines?",
-    "description": "Women carry the burden of migraine disease risk globally, but the reason why is still unclear.",
-    "url": "https://www.mindbodygreen.com/articles/could-this-be-real-reason-women-struggle-more-with-migraines-how-women-can-take-back-control",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/sxtboae3bjpsiydr7.jpg",
-    "publishedAt": "2026-11-07T10:24:00Z",
-    "content": "I started struggling with migraines in the beginning of college, which was about the same time I was diagnosed with PMOS (recently renamed from PCOS). I had never had a consistent menstrual cycle, so… [+8711 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "mindbodygreen.com"
-    },
-    "author": "Sela Breen",
-    "title": "What Is Ferritin Face? We Asked An MD For The Truth About The Viral Term",
-    "description": "A hematologist breaks down what the viral term means.",
-    "url": "https://www.mindbodygreen.com/articles/what-is-ferritin-face-hematologist-explains",
-    "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/tw7mewf2ckl9xk0mh.jpg",
-    "publishedAt": "2026-11-07T10:11:00Z",
-    "content": "You may have seen the viral videos of women showing their before and after realizing they had ferritin face. Before images may show pale, dry skin paired with thinning hair, complemented by after ima… [+4558 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "ScienceAlert"
-    },
-    "author": "Carly Cassella",
-    "title": "Treating Sleep Apnea Could Improve Sperm Quality, Study Finds",
-    "description": "A two for one.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-    "url": "https://www.sciencealert.com/treating-sleep-apnea-could-improve-sperm-quality-study-finds",
-    "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-91531328-2560x1440-1.jpg",
-    "publishedAt": "2026-11-07T10:00:00Z",
-    "content": "A lack of oxygen during sleep isn't just a problem for the lungs or the brain it may also impact testicular function.\r\nA small prospective study has now found that while obstructive sleep apnea is no… [+4481 chars]"
-  },
-  {
-    "source": {
-      "id": "the-globe-and-mail",
-      "name": "The Globe And Mail"
-    },
-    "author": "Tim Kiladze",
-    "title": "Even socialist Sweden has robust private health care and education. Why shouldn’t Canada?",
-    "description": "Even socialist Sweden has robust private health care and education. Why shouldn’t Canada?theglobeandmail.com",
-    "url": "https://www.theglobeandmail.com/business/article-sweden-hybrid-private-health-care-education-social-services-case-study/",
-    "urlToImage": "https://www.theglobeandmail.com/resizer/v2/F2S7DF4WFNC5BGMACS7E77QFPI.JPG?auth=25223c1cb7b0249837d3e3d9e53b32c05bc54de461459099c704ff648a1bb195&width=1200&height=800&quality=80&smart=true",
-    "publishedAt": "2026-11-07T10:00:00Z",
-    "content": "To understand modern Sweden and how the country has transformed, consider Jens Erikssons career trajectory.\r\nIn his youth, Mr. Eriksson worked at music labels such as Stockholm Records, repping Swedi… [+21788 chars]"
+    "author": "hurriyetdailynews.com",
+    "title": "Türkiye’s engineering students turn to medicine as AI rises",
+    "description": "Hundreds of engineering students in Türkiye are switching to medicine and nursing as advances in artificial intelligence and a slowdown in the technology sector raise doubts about job prospects.",
+    "url": "https://www.hurriyetdailynews.com/turkiyes-engineering-students-turn-to-medicine-as-ai-rises-229153",
+    "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6af05a82ac182abf8dd10e4e.jpg",
+    "publishedAt": "2026-11-08T11:17:00Z",
+    "content": "ISTANBUL\r\nHundreds of engineering students in Türkiye are switching to medicine and nursing as advances in artificial intelligence and a slowdown in the technology sector raise doubts about job prosp… [+1555 chars]"
   },
   {
     "source": {
@@ -200,50 +213,50 @@
       "name": "Science Daily"
     },
     "author": null,
-    "title": "Scientists discover Europe's ancient forests were nothing like we imagined",
-    "description": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The surprising discovery challenges modern ref…",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/central-european-landscape-early-late-miocene.webp",
-    "publishedAt": "2026-11-07T09:44:48Z",
-    "content": "Picture the wilderness of central Europe 100,000 years ago, or even a million years ago. You might imagine an endless expanse of towering trees, with thick canopies blocking sunlight from reaching th… [+9345 chars]"
+    "title": "A 24-hour fast triggers a surprising repair response in the gut",
+    "description": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments that protect healthy tissue during cance…",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/rnascope-image-of-small-intestinal-crypts.webp",
+    "publishedAt": "2026-11-08T11:06:30Z",
+    "content": "A 24-hour fast may help prepare the intestines to recover from radiation damage, but scientists have discovered that a particular gut bacterium plays a crucial role in making this possible. New precl… [+5896 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "BusinessLine"
+      "name": "NPR"
     },
-    "author": "ANI",
-    "title": "Jefferies warns AI investment cycle may have peaked; raises India allocation to 14%",
-    "description": "Rising borrowing costs and questions over investment returns are prompting investors to reassess technology spending and explore opportunities beyond the AI supply chain",
-    "url": "https://www.thehindubusinessline.com/markets/jefferies-warns-ai-investment-cycle-may-have-peaked-raises-india-allocation-to-14/article71677867.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/incoming/gxcrcb/article71677875.ece/alternates/LANDSCAPE_1200/2026-11-05T062456Z_984604740_RC2FHOATKZKP_RTRMADP_3_USA-ELECTION-SOUTHKOREA-INVESTORS.JPG",
-    "publishedAt": "2026-11-07T09:33:41Z",
-    "content": "The global artificial intelligence (AI) investment cycle may have peaked or could be entering a mid-cycle correction, with rising financing costs and concerns over the returns on massive capital expe… [+2527 chars]"
+    "author": "Elaine Appleton-Grant",
+    "title": "In Maine, a new approach to practicing medicine in the sky",
+    "description": "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first. <br>",
+    "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3875x2180+0+202/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2Fb0%2F3f6e14cb4c33b4c784b12013ff0a%2Flifeflight-7086.jpg",
+    "publishedAt": "2026-11-08T11:00:00Z",
+    "content": "Clipboard in hand, pilot Will Bradbury stands near a helicopter at LifeFlight of Maine's Bangor headquarters. He's running down emergency landing tips with his crew.\r\n\"If we need to get out quickly b… [+9058 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Science Daily"
+    },
+    "author": null,
+    "title": "MIT scientists turn immune cells into cancer killers inside the body",
+    "description": "MIT scientists have developed nanoparticles that reprogram immune cells directly inside the body to attack cancer and harmful immune cells, eliminating tumors and reversing liver damage in mouse experiments. The breakthrough could make powerful immune therapi…",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261104084015.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/targeted-lipid-nanoparticles-deliver-mrna-to-nk-cells.webp",
+    "publishedAt": "2026-11-08T10:52:31Z",
+    "content": "MIT researchers have developed a new technique that allows them to transform immune cells into cancer fighters directly inside the body, potentially making advanced treatments for cancer and autoimmu… [+8877 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Pypi.org"
     },
-    "author": "bhmfly@foxmail.com",
-    "title": "lazydock 0.18.0",
-    "description": "A Python package for molecular docking",
-    "url": "https://pypi.org/project/lazydock/0.18.0/",
+    "author": "psaxe@molssi.org",
+    "title": "seamm-manager 2026.11.8.1",
+    "description": "The manager for SEAMM (Simulation Environment for Atomistic and Molecular Simulations): installs, updates and configures SEAMM in a uv-managed environment.",
+    "url": "https://pypi.org/project/seamm-manager/2026.11.8.1/",
     "urlToImage": null,
-    "publishedAt": "2026-11-07T09:27:44Z",
+    "publishedAt": "2026-11-08T10:49:21Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BusinessLine"
-    },
-    "author": "BL Chennai Bureau",
-    "title": "Tamil Nadu to roll out ₹2,000-crore Vetri laptop scheme for college students",
-    "description": "The scheme will cover first- and second-year undergraduate and diploma students studying in government and government-aided colleges during the 2026-27 academic year",
-    "url": "https://www.thehindubusinessline.com/news/tamil-nadu-to-roll-out-2000-crore-vetri-laptop-scheme-for-college-students/article71677804.ece",
-    "urlToImage": "https://bl-i.thgim.com/public/incoming/k6lno8/article71562559.ece/alternates/LANDSCAPE_1200/2085_8_10_2026_13_51_26_4_DSC_2036.JPG",
-    "publishedAt": "2026-11-07T09:27:38Z",
-    "content": "The Tamil Nadu Government has issued an order for implementing the 2,000-crore Vetri Laptop Scheme to equip college students with digital tools and improve their technological and employability skill… [+1703 chars]"
   }
 ]
