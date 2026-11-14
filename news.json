@@ -1,249 +1,249 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "The Punch"
+      "id": "fortune",
+      "name": "Fortune"
     },
-    "author": "Punch Newspapers",
-    "title": "Türkiye bars foreigners from 29 professions",
-    "description": "Türkiye has published a list of 29 professions legally prohibited for foreign nationals, covering healthcare, law, education, and private security.\n\nRead More: https://punchng.com/turkiye-bars-foreigners-from-29-professions/",
-    "url": "https://punchng.com/turkiye-bars-foreigners-from-29-professions/",
-    "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/10/02212103/Turkey-flag_1790972463.webp",
-    "publishedAt": "2026-11-12T13:25:12Z",
-    "content": "Türkiye has published a list of 29 professions that foreign nationals are legally prohibited from practising, with restrictions covering healthcare, law, education, private security, finance, tourism… [+4076 chars]"
+    "author": "Anika Goss, Angelique Power",
+    "title": "Detroit’s innovation lesson: what kids hear about careers vs. what they actually do",
+    "description": "Talent is not the problem. The pipeline is.",
+    "url": "https://fortune.com/2026/11/13/detroit-career-learning-students-business-talent-pipeline/",
+    "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/07/GettyImages-1718872572-e1721767020324.jpg?resize=1200,600",
+    "publishedAt": "2026-11-13T12:30:00Z",
+    "content": "Some of Americas most influential leaders will soon gather in Detroit for the Fortune 500 Innovation Forum to discuss innovation, the pace of change and what it takes to compete. In classrooms across… [+5288 chars]"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Elizabeth Robinson, Josephine Murphy",
+    "title": "Lutnick agrees to testify about Nvidia and Microsoft outage hits millions: Morning Rundown",
+    "description": "Commerce Secretary Howard Lutnick agreed to testify before a Senate committee about Nvidia.",
+    "url": "https://www.nbcnews.com/news/us-news/lutnick-testify-nvidia-microsoft-outlook-outage-morning-rundown-rcna609126",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261112-howard-lutnick-jensen-huang-cs-9cc09a.jpg",
+    "publishedAt": "2026-11-13T12:15:36Z",
+    "content": "Commerce Secretary Howard Lutnick agreed to testify before a Senate committee about Nvidia. A Microsoft outage hits millions of users worldwide. And a deadly Washington, D.C., shooting followed a leg… [+8011 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Soapcentral.com"
-    },
-    "author": "Ryan D'souza",
-    "title": "How old is Kimberly Powell? Age and more about Nvidia exec amid Jensen Huang affair allegations",
-    "description": "Kimberly Powell is Nvidia’s forty-eight-year-old vice president of healthcare. She has led the company’s medical AI division since 2017 and has been with the chip giant since 2008.",
-    "url": "https://www.soapcentral.com/entertainment/news-how-old-kimberly-powell-age-nvidia-exec-amid-jensen-huang-affair-allegations",
-    "urlToImage": "https://statico.soapcentral.com/editor/2026/11/fd960-17944695597226-1920.jpg",
-    "publishedAt": "2026-11-12T13:20:40Z",
-    "content": "Kimberly Powell is Nvidias forty-eight-year-old vice president of healthcare. She has led the companys medical AI division since 2017 and has been with the chip giant since 2008. This week, she made … [+6066 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Pypi.org"
-    },
-    "author": "a.boshra@gmail.com",
-    "title": "milia-py 1.20.0",
-    "description": "Molecular graph processing and machine learning framework for molecular sciences",
-    "url": "https://pypi.org/project/milia-py/1.20.0/",
-    "urlToImage": null,
-    "publishedAt": "2026-11-12T13:19:15Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Elena Vega",
-    "title": "Washtenaw County Reports Early Flu Activity as Mutated H1N1 Drives a Season Running Months Ahead Nationally",
-    "description": "Flu activity in Washtenaw County began unusually early, with officials reporting low to moderate levels and urging residents to get vaccinated before Thanksgiving travel and gatherings.",
-    "url": "https://www.medicaldaily.com/washtenaw-county-flu-season-starts-early-h1n1-481162",
-    "urlToImage": "https://d.medicaldaily.com/en/full/488546/young-adult-receiving-flu-shot.jpg",
-    "publishedAt": "2026-11-12T13:17:31Z",
-    "content": "Flu has arrived in Washtenaw County earlier than usual this fall, with county health officials describing current activity as low to moderate, WEMU reported Nov. 10. The 2026-27 season is running abo… [+6208 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "PRNewswire"
-    },
-    "author": "Eisai Inc.",
-    "title": "Eisai and Linus Health Launch New Online Resource to Help Adults Explore Their Brain Health",
-    "description": "/PRNewswire/ -- In recognition of National Alzheimer's Disease Awareness Month, Eisai Inc. and Linus Health today announced the launch of...",
-    "url": "https://www.prnewswire.com/news-releases/eisai-and-linus-health-launch-new-online-resource-to-help-adults-explore-their-brain-health-302937024.html",
-    "urlToImage": "https://mmx.prnewswire.com/media/MS1881378/July-26-CorporateLogomark_hi-res.jpg?id=OA3073380&p=facebook",
-    "publishedAt": "2026-11-12T13:05:25Z",
-    "content": "Launching during National Alzheimer's Disease Awareness Month, ExploreYourBrainHealth.com combines memory and thinking activities, lifestyle factors and personal priorities to encourage greater engag… [+6101 chars]"
-  },
-  {
-    "source": {
-      "id": "fox-news",
-      "name": "Fox News"
+      "name": "Science Daily"
     },
     "author": null,
-    "title": "Ozempic and Zepbound users face 6 rebound risks after stopping, doctor warns",
-    "description": "Thinking of quitting a GLP-1? A physician outlines six risks, from weight regain and muscle loss to worsening biomarkers and mental health consequences.",
-    "url": "https://www.foxnews.com/health/ozempic-zepbound-users-face-6-rebound-risks-stopping-doctor-warns",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-glp-1.jpg",
-    "publishedAt": "2026-11-12T13:00:40Z",
-    "content": "While GLP-1 medications like Ozempic, Wegovy and Zepbound have reshaped weight management and diabetes control, research shows that many patients stop taking them within a year.\r\nResearch has found t… [+7931 chars]"
+    "title": "Stopping statins after 70 may be safer than expected, but there's a catch",
+    "description": "A major study of nearly 1,900 older adults suggests that stopping statins after age 70 may be relatively safe in the short term for people who have never experienced a heart attack or stroke. However, a higher rate of serious cardiovascular events or death du…",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/statin-capsule-close.webp",
+    "publishedAt": "2026-11-13T12:14:39Z",
+    "content": "A major new study suggests that many adults age 70 and older who have never experienced a heart attack or stroke may be able to stop taking statins without substantially increasing their short-term c… [+6850 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Matadornetwork.com"
+      "name": "NPR"
     },
-    "author": "Lisa Kadane",
-    "title": "Cozy Up and Count Stars in the Canadian Rockies This Winter",
-    "description": "From lakeside saunas to whisky tastings and telescope tours, here’s how to spend a winter night in Jasper National Park.",
-    "url": "https://matadornetwork.com/read/jasper-in-winter/",
-    "urlToImage": "https://cdn1.matadornetwork.com/blogs/1/2026/10/MountKerkeslin_DarkSky_CRJeffBartlett-social.jpg",
-    "publishedAt": "2026-11-12T13:00:00Z",
-    "content": "When the sun sets behind the Canadian Rockies in Jasper National Park, Alberta, the soaring peaks and deep valleys plunge into a peaceful stillness defined by crisp air, inky skies, and the shimmer o… [+6006 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Kdnuggets.com"
-    },
-    "author": "Kanwal Mehreen",
-    "title": "7 FREE Books to Learn About Building AI Systems",
-    "description": "Building an AI agent is easy. Building one that actually works in production is not. These 7 free books cover the engineering knowledge you need to make that jump.",
-    "url": "https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems",
-    "urlToImage": "https://www.kdnuggets.com/wp-content/uploads/kdn-7-free-books-to-learn-about-building-ai-systems-feature.jpg",
-    "publishedAt": "2026-11-12T13:00:00Z",
-    "content": "When someone asks me, \"Can you build an AI application just by vibe coding?\" my answer is yes, you probably can. But building an application that works is one thing. Building an AI system that can ha… [+6143 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "TODAY"
-    },
-    "author": "A. Pawlowski",
-    "title": "Don’t Ignore This 1 ‘Under-Appreciated’ Warning Sign of Heart Trouble, Doctor Warns",
-    "description": "Shortness of breath can be a heart disease symptom, especially if accompanies leg swelling. Doctor explains when the warning sign should be checked out.",
-    "url": "https://www.today.com/health/disease/heart-disease-symptom-shortness-of-breath-expert-tip-rcna605693",
-    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-shortness-of-breath-as11112026-d48376.jpg",
-    "publishedAt": "2026-11-12T13:00:00Z",
-    "content": "Chest pain is a well-known heart disease warning sign, but theres another symptom to watch for when it comes to cardiovascular trouble.\r\nIt could show up gradually, disrupting everyday tasks, or even… [+2544 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Stylemepretty.com"
-    },
-    "author": "Nora Sullivan",
-    "title": "A Timeless Pink Hued Wedding at the Hillside Estate",
-    "description": "Timeless was the goal, and Hillside Estate delivered it in full! Soft ivory layered with blush set the tone for a day planned by Simply Elegant Group, where peonies and lush greenery from Lavenders Florals filled every room with scent, heirloom crystal and vi…",
-    "url": "https://www.stylemepretty.com/2026/11/12/a-timeless-pink-hued-wedding-at-the-hillside-estate/",
-    "urlToImage": "https://smp-is.stylemepretty.com/wp-content/gallery/ibb/nora.sullivan/ibb-1791991315.8764.31222$!1200x.jpg",
-    "publishedAt": "2026-11-12T13:00:00Z",
-    "content": "Timeless was the goal, and Hillside Estate delivered it in full! Soft ivory layered with blush set the tone for a day planned by Simply Elegant Group, where peonies and lush greenery from Lavenders F… [+14293 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The New York Review of Books"
-    },
-    "author": "Kristen Roupenian",
-    "title": "We Tell Ourselves Stories in Order to Change",
-    "description": "In the films and fiction of Jane Schoenbrun, the boundary between reality and fantasy is porous, alluring, and must be carefully patrolled.",
-    "url": "https://www.nybooks.com/articles/2026/12/03/we-tell-ourselves-stories-in-order-to-change-jane-schoenbrun/",
-    "urlToImage": "https://www.nybooks.com/wp-content/uploads/2026/11/schoenbrun_jane-120326-1200.jpg",
-    "publishedAt": "2026-11-12T13:00:00Z",
-    "content": "“There is a hole at the bottom of the lake where the movies come from,” the reclusive former scream queen Billy Presley announces in Jane Schoenbrun’s newest film, Teenage Sex and Death at Camp Miasm… [+18526 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Aethermug.com"
-    },
-    "author": "mrcgnc",
-    "title": "Show HN: I analyzed all 191 prompts I used to \"vibe-code\" an app",
-    "description": "One-shot performance of LLMs is a good measure of many of its capacities, but it is only sufficient for tasks that can be objectively and automatically verified. I believe that in most real-world cases this is not the case: people have vague, unquantifiable, …",
-    "url": "https://aethermug.com/posts/poft",
-    "urlToImage": "https://aethermug.com/assets/posts/poft/six-geometric-compositions.jpg",
-    "publishedAt": "2026-11-12T12:58:35Z",
-    "content": "Marco Giancotti,\r\nCover image:\r\nSix geometric compositions, André Durenceau\r\nThinking tools in this post:\r\n<ul><li>AAT Anatomy of Augmented Thought</li><li>Anti-Magic Effect</li><li>Divergent and con… [+69699 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "BBC News"
-    },
-    "author": "Claire Graham - BBC News NI",
-    "title": "Former president of Athletics NI pleads guilty to child sex abuse charge",
-    "description": "A former president of Athletics Northern Ireland has been put on the sex offenders register after pleading guilty to a child sex offence.",
-    "url": "https://www.bbc.com/news/articles/cwp83133n7dzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-    "urlToImage": "https://s.yimg.com/lo/mysterio/api/c9c65bfbe341956fa4c3ada0ba0bbb1821edd3446546ecebcb30ee2d647c02c0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc48fd009125595f0450843df2ced9743.jpg",
-    "publishedAt": "2026-11-12T12:54:55Z",
-    "content": "A former president of Athletics Northern Ireland has been put on the sex offenders register after pleading guilty to a child sex offence at Belfast Crown Court.\r\nGerry Carson, 84, from Kingsway, Dunm… [+1214 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Medical Daily"
-    },
-    "author": "Dorothy Brooks",
-    "title": "Illinois TRAIL Retirees Keep BJC Hospitals Through 2027, but WashU Doctor Access Remains Unresolved Before Nov. 16 Deadline",
-    "description": "Aetna and BJC will maintain in-network hospital access for Illinois TRAIL retirees through 2027, but coverage for WashU Medicine physicians remains uncertain as enrollment decisions approach.",
-    "url": "https://www.medicaldaily.com/illinois-retirees-bjc-washu-aetna-coverage-2027-481160",
-    "urlToImage": "https://d.medicaldaily.com/en/full/488544/retirees-reviewing-health-insurance-coverage.jpg",
-    "publishedAt": "2026-11-12T12:43:39Z",
-    "content": "Thousands of Illinois state retirees who rely on Barnes-Jewish Hospital and other BJC HealthCare facilities in St. Louis will keep in-network access through the end of 2027 under a one-year deal betw… [+6463 chars]"
+    "author": "Kamala Thiagarajan",
+    "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+    "description": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
+    "url": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+182/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F65%2F514674db4b93b8f60b71b8a5ea99%2Fkindness-7.jpg",
+    "publishedAt": "2026-11-13T12:06:28Z",
+    "content": "Editor's note: Today, November 13, is World Kindness Day!\r\nKind-minded organizations from various countries came up with the idea and announced it on November 13, 1998. (And the date stuck.) The goal… [+9661 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Dailymail.com"
     },
-    "author": "Wiliam Hunter",
-    "title": "Would your house survive the apocalypse? Interactive tool reveals how your postcode would fare in a doomsday disaster",
-    "description": "Would your house survive the apocalypse, or are you sitting in a potential doomsday death trap?",
-    "url": "https://www.dailymail.com/sciencetech/article-16286689/Interactive-tool-postcode-survive-apocalypse.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/11/12/11/112463449-0-image-m-14_1794484529814.jpg",
-    "publishedAt": "2026-11-12T12:39:58Z",
-    "content": "Would your house survive the apocalypse, or are you sitting in a potential doomsday death trap?\r\nA new interactive tool called Inspector Walls reveals just how safe your postcode would be if the miss… [+6295 chars]"
+    "author": "India Sturgis",
+    "title": "Bob spent years struggling to breathe and had to use his asthma inhaler eight times a day. Now he only uses it twice a YEAR... and it's thanks to this simple, non-surgical routine",
+    "description": "Tight chest and shoulders? Lethargy? Bloating? Palpitations? Feel like you just can't take a deep breath? If you can tick a few of these boxes, it's possible you have dysfunctional breathing.",
+    "url": "https://www.dailymail.com/health/article-16289883/Bob-spent-years-struggling-breathe-use-asthma-inhaler-eight-times-day-uses-twice-YEAR-thanks-simple-non-surgical-routine.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/11/13/10/112486605-0-image-m-20_1794566213936.jpg",
+    "publishedAt": "2026-11-13T12:05:50Z",
+    "content": "Tight chest and shoulders? Lethargy? Bloating? Palpitations? Feel like you just cant take a deep breath?\r\nIf you can tick a few of these boxes, its possible you have dysfunctional breathing.\r\nAccordi… [+8585 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Dailymail.com"
     },
-    "author": "Meike Leonard",
-    "title": "Inside the rise in weight-loss jab deaths - as analysis reveals why middle-aged users of GLP-1s could be most at risk",
-    "description": "Midlife Britons may face a greater risk of life-threatening complications from weight-loss drugs, a startling new analysis suggests.",
-    "url": "https://www.dailymail.com/health/article-16284355/weight-loss-jab-deaths-middle-aged-users-GLP-1-risk.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/11/12/11/112464541-0-image-m-15_1794484585882.jpg",
-    "publishedAt": "2026-11-12T12:38:30Z",
-    "content": "Midlife Britons may face a greater risk of life-threatening complications from weight-loss drugs, a startling new analysis suggests.\r\nFigures obtained by the Daily Mail reveal that more than four tim… [+7945 chars]"
+    "author": "Ciaran Foreman",
+    "title": "I thought nothing of the small ulcer on my tongue but within weeks I could barely eat or speak... and was diagnosed with mouth cancer. It's surging in the UK - and these are the easy-to-miss symptoms you can't ignore",
+    "description": "Unlike many in their early 20s, Olivia Collett never took risks when it came to her health. Yet at just 25, Olivia had already prepared herself to be told that she had cancer.",
+    "url": "https://www.dailymail.com/health/article-16283995/I-thought-small-ulcer-tongue-weeks-barely-eat-speak-diagnosed-mouth-cancer-surging-UK-easy-miss-symptoms-you-ignore.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/11/11/12/112436573-0-image-m-14_1794401912229.jpg",
+    "publishedAt": "2026-11-13T12:03:42Z",
+    "content": "When Olivia Collett first noticed a small sore on her tongue, she had no reason to imagine it was anything sinister.\r\nThe 25-year-old mother-of-one, from Buckinghamshire, had never smoked, rarely dra… [+9044 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "The Cut"
     },
-    "author": "Dorothy Brooks",
-    "title": "Ambulances Bypass Waukegan's Vista Medical Center East as Mayor and Congressman Urge Owner to Sell Troubled Hospital",
-    "description": "Vista Medical Center East in Waukegan is under an Illinois EMS bypass order, sending ambulance patients to farther hospitals as officials urge owner American Healthcare Systems to sell.",
-    "url": "https://www.medicaldaily.com/vista-medical-center-east-ems-bypass-waukegan-481156",
-    "urlToImage": "https://d.medicaldaily.com/en/full/488540/ambulance-outside-emergency-department.jpg",
-    "publishedAt": "2026-11-12T12:31:59Z",
-    "content": "Ambulances in northern Lake County, Illinois, are no longer taking patients to Vista Medical Center East in Waukegan after the Illinois Department of Public Health (IDPH) placed the hospital on emerg… [+6689 chars]"
+    "author": "Carol Lee",
+    "title": "The Best K-Beauty Gifts of 2026, According to Our Korean Beauty Writer",
+    "description": "Our Korean beauty writer, Carol Lee, gathered a list of gift-worthy products and sets, including a skin-care device Koreans actually use, the best-tasting protein shake she’s ever tried, and makeup products that changed her life.",
+    "url": "http://www.thecut.com/article/best-k-beauty-gifts.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/c45/009/c06be0da46d8eff537b7d53369405f6bbf-kbeauty-lede.1x.rsocial.w1200.jpg",
+    "publishedAt": "2026-11-13T12:00:25Z",
+    "content": "I love any excuse to give a gift and make someone smile. So even though I hate the cold, I welcome the fast-approaching holiday season. I cant wait to pick out all the different presents, wrap them, … [+9558 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Bitcoinfoundation.org"
+      "name": "New York Post"
     },
-    "author": "Eddie Muller",
-    "title": "Kimberly Powell Cancels Health Summit Appearance After Nvidia CEO Relationship Report",
-    "description": "Kimberly Powell Nvidia coverage details her summit withdrawal after a report alleged a relationship with Jensen Huang; no reason was announced.\nThe post Kimberly Powell Cancels Health Summit Appearance After Nvidia CEO Relationship Report appeared first on Bi…",
-    "url": "https://bitcoinfoundation.org/news/ai/kimberly-powell-cancels-health-summit-appearance-after-nvidia-ceo-relationship-report/",
-    "urlToImage": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/kimberly-powell-cancels-health-summit-appearance-after-nvidia-ceo-relationship-r.webp",
-    "publishedAt": "2026-11-12T12:26:50Z",
-    "content": "Nvidia healthcare vice president Kimberly Powell withdrew from a November 12, 2026, health summit appearance after a report alleged a romantic relationship with CEO Jensen Huang. The Kimberly Powell … [+10772 chars]"
+    "author": "Charles Gasparino",
+    "title": "After Jensen Huang’s downfall, here’s an even bigger problem that threatens the AI industry",
+    "description": "The AI debt debacle probably isn’t something that can be fixed with better corporate governance at Nvidia.",
+    "url": "https://nypost.com/2026/11/13/business/after-jensen-huangs-downfall-heres-an-even-bigger-problem-that-threatens-the-ai-industry/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/AI-Investment.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2026-11-13T12:00:00Z",
+    "content": "While Wall Street stays riveted by the fall of Jensen Huang, yet another industry threat looms namely the mountains of debt on the typical AI companys balance sheet and the fact that financing is sta… [+4077 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Medical Daily"
+      "name": "ScienceAlert"
     },
-    "author": "Amelia Palmer",
-    "title": "Yellow Jelly Drawn From a Man's Chest Was a First for This Usually Harmless Bacterium",
-    "description": "Doctors in China reported an unusually thick, jelly-like pleural effusion in a man with HIV and pneumonia. Genetic sequencing identified Streptococcus constellatus, and antibiotics cleared the infection without drainage or surgery.",
-    "url": "https://www.medicaldaily.com/jelly-like-pleural-effusion-streptococcus-constellatus-hiv-481154",
-    "urlToImage": "https://d.medicaldaily.com/en/full/488538/doctor-examining-chest-ct-scan.jpg",
-    "publishedAt": "2026-11-12T12:24:37Z",
-    "content": "When doctors in northwestern China slid a needle into the chest of a 58-year-old man with HIV, they expected to draw off fluid. What came out was about 50 milliliters of yellow jelly, so sticky it wa… [+5960 chars]"
+    "author": "Michael Irving",
+    "title": "Your Poop Schedule Says a Whole Lot About Your Overall Health, Study Reveals",
+    "description": "It matters more than you think.ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+    "url": "https://www.sciencealert.com/your-poop-schedule-says-a-whole-lot-about-your-overall-health-study-reveals",
+    "urlToImage": "https://www.sciencealert.com/images/2026/11/ToiletPaperPoopSchedule-1200x675.png",
+    "publishedAt": "2026-11-13T12:00:00Z",
+    "content": "\"How often do you poop?\" might sound like a very personal question, but your answer could reveal quite a lot about your overall health.\r\nA study published in 2024 investigated how often people had bo… [+5114 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mediatakeout.com"
+    },
+    "author": "Lyndon Abioye",
+    "title": "‘Married to Medicine’ Star Sweet Tea Files For Divorce From Quad Webb’s Ex-Husband!!",
+    "description": "Another Married to Medicine marriage has come to an end. LaTeasha “Sweet Tea” Lunceford has filed for divorce from psychiatrist Dr. Gregory Lunceford after three years together, according to court records obtained by No Chaser TV. The former Bravo personality…",
+    "url": "https://mediatakeout.com/married-to-medicine-star-sweet-tea-files-for-divorce-from-quad-webbs-ex-husband/",
+    "urlToImage": "https://mediatakeout.com/wp-content/uploads/2023/12/Screenshot-2023-12-11-at-8.30.00 AM.png",
+    "publishedAt": "2026-11-13T11:59:00Z",
+    "content": "Another Married to Medicine marriage has come to an end.\r\nLaTeasha Sweet Tea Lunceford has filed for divorce from psychiatrist Dr. Gregory Lunceford after three years together, according to court rec… [+1234 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Dailymail.com"
+    },
+    "author": "Shivali Best",
+    "title": "Fin-tastic find! 'One-in-a-million' fish caught in New York is bright yellow thanks to a rare genetic mutation",
+    "description": "Scientists in Oswego, New York, were in for a surprise last month, after catching a bright yellow burbot.",
+    "url": "https://www.dailymail.com/sciencetech/article-16289931/One-million-fish-yellow-rare-genetic-mutation.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/11/13/11/112487305-0-image-m-121_1794568802640.jpg",
+    "publishedAt": "2026-11-13T11:28:13Z",
+    "content": "Scientists in Oswego, New York, were in for a surprise last month, after catching a bright yellow burbot. \r\nMost burbot have mottled skin that ranges in colour from black to grey to olive. \r\nHowever,… [+2650 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Naked Scientists"
+    },
+    "author": "The Naked Scientists",
+    "title": "Ovarian cancer breakthrough, and Voyager milestone",
+    "description": "The breakthrough biomarker that pinpoints early ovarian cancer, bees produce biodegradable plastic, smelly-vision to transmit scents long distances, and the Voyager, space probe becomes the first craft to travel one \"light-day\" from Earth all go under the Nak…",
+    "url": "https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/ovarian-cancer-breakthrough-and-voyager-milestone",
+    "urlToImage": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/media/NASA-VOYAGER_0.jpg?itok=55yqo6AY",
+    "publishedAt": "2026-11-13T11:08:23Z",
+    "content": "A third of a million women are diagnosed with ovarian cancer worldwide each year. Its also potentially the deadliest of all gynaecological cancers, largely because cases are usually picked up late, b… [+7542 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NPR"
+    },
+    "author": "Rachel Carlson",
+    "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
+    "description": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kratom is coming.",
+    "url": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+    "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+486/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F5b%2F108062ce4ba3bd3c837c527aedad%2Fgettyimages-2274290236.jpg",
+    "publishedAt": "2026-11-13T11:00:00Z",
+    "content": "Tyler's opioid addiction began in his early 20s, and when he decided he wanted to quit, he used kratom leaf powders to help ease withdrawal symptoms.\r\nTyler, now 38, told NPR he thinks kratom helped … [+11023 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Team Global",
+    "title": "Yosemite had lost its red-legged frogs; in 2016, teams began restoring the population, and 10 years later, the program reached 10,000 releases as recovery continues",
+    "description": "The successful reintroduction of California red-legged frogs to Yosemite marks a significant achievement in conservation efforts that began in 2016. With the first breeding in 2019 and the special release of the 10,000th frog, affectionately named 'Twain', th…",
+    "url": "https://economictimes.indiatimes.com/news/international/us/yosemite-had-lost-its-red-legged-frogs-in-2016-teams-began-bringing-them-back-10-years-later-multiple-generations-live-there-after-10000-releases/articleshow/135764322.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135764362,width-1200,height-900,imgsize-243900,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-13T11:00:00Z",
+    "content": "Yosemite is known for granite rock faces, towering waterfalls, and dramatic sunsets, not frogs. But after a decade-long collaboration between multiple parties, a federally threatened frog species tha… [+3314 chars]"
+  },
+  {
+    "source": {
+      "id": "cbc-news",
+      "name": "CBC News"
+    },
+    "author": "Jennifer Keiller",
+    "title": "Doctors, nurses raise concerns as Alberta hospitals encouraged to discharge patients by 11 a.m.",
+    "description": "A directive to Alberta hospitals encouraging staff to discharge patients by 11 a.m. may be well-intentioned but is ultimately misguided, some health-care providers say.",
+    "url": "https://www.cbc.ca/news/canada/calgary/alberta-health-services-discharge-by-11-am-hospitals-9.7419239",
+    "urlToImage": "https://i.cbc.ca/ais/48a81f58-a5c8-45e9-a857-abb57137970d,1794529072187/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+    "publishedAt": "2026-11-13T11:00:00Z",
+    "content": "A directive to Alberta hospitals encouraging staff to discharge patients by 11 a.m. may be well-intentioned but is ultimately misguided, some health-care providers say. \r\nIt's not like a hotel. You c… [+4276 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Antaranews.com"
+    },
+    "author": "PR Wire",
+    "title": "Sunmax Brings Together Asia-Pacific Medical Experts for Deusaderm APAC Summit 2026, Celebrating 25 Years of Collagen Innovation",
+    "description": "Sunmax Biotechnology Co., Ltd. (stock code: 4728) celebrated its 25th anniversary by bringing together medical aesthetics experts from across Asia-Pacific at ...",
+    "url": "https://en.antaranews.com/news/442403/sunmax-brings-together-asia-pacific-medical-experts-for-deusaderm-apac-summit-2026-celebrating-25-years-of-collagen-innovation",
+    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/11/13/chang-gung.jpg",
+    "publishedAt": "2026-11-13T10:48:58Z",
+    "content": "Held in Singapore, Deusaderm APAC Summit 2026 brought together 15 international speakers and two moderators to exchange perspectives on collagen medicine, with Deusaderm ULTRA previewed at the event.… [+6011 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "National Right to Life",
+    "title": "WHO’s New Abortion Framework: All About the Product, Nothing About the Baby, or His Undernourished Mother.",
+    "description": "Ninety minutes. That was the length of the United Nations webinar I participated in last week. For ninety minutes, I listened to people discuss how to better expand abortion around the world. Not once did I hear the kind of urgency one might expect when discu…",
+    "url": "https://freerepublic.com/focus/f-chat/4402891/posts",
+    "urlToImage": null,
+    "publishedAt": "2026-11-13T10:34:29Z",
+    "content": "Skip to comments.\r\nWHOs New Abortion Framework: All About the Product, Nothing About the Baby, or His Undernourished Mother.National Right to Life ^\r\n | Nov 12, 2026\r\n | Raimundo Rojas,\r\nPosted on 11… [+8281 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Conversation Africa"
+    },
+    "author": "Jonathan R. Goodman, Assistant Research Professor, Psychiatry, University of Cambridge, Rebecca Sear, Director of the Centre for Culture and Evolution, Brunel University of London",
+    "title": "‘Race realism’: why scientifically flawed approach fails to present a realistic view of race",
+    "description": "A number of academics describe themselves as ‘race realists’. Here’s what the science says.",
+    "url": "https://theconversation.com/race-realism-why-scientifically-flawed-approach-fails-to-present-a-realistic-view-of-race-290392",
+    "urlToImage": "https://images.theconversation.com/files/767235/original/file-20261020-50-tu05wh.jpg?ixlib=rb-4.1.1&rect=0%2C68%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop",
+    "publishedAt": "2026-11-13T10:17:16Z",
+    "content": "At this year’s World Economic Forum meeting in Davos, US President Donald Trump stated that people from Somalia have low IQs. “I always say these are low-IQ people,” he said in his speech. His son, D… [+17991 chars]"
+  },
+  {
+    "source": {
+      "id": "medical-news-today",
+      "name": "Medical News Today"
+    },
+    "author": "Peter Morales-Brown",
+    "title": "Combining 2 cholesterol drugs may shrink artery plaque more effectively, trial finds",
+    "description": "Intensive cholesterol treatment by combining the two drugs rosuvastatin and ezetimibe reduced coronary plaque by up to 21%, more than statins alone, a new study has found.",
+    "url": "https://www.medicalnewstoday.com/articles/combining-two-cholesterol-drugs-may-shrink-artery-plaque-more-effectively-trial-finds",
+    "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/11/getty_2208159069_facebook_1200x630-1200x628.jpg",
+    "publishedAt": "2026-11-13T10:16:00Z",
+    "content": "<ul><li>A new study suggests that a combination therapy of rosuvastatin plus ezetimibe resulted in a greater reduction in coronary plaque volume than atorvastatin alone.</li><li>Combination therapy a… [+8922 chars]"
   }
 ]
