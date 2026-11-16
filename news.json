@@ -1,81 +1,94 @@
 [
   {
     "source": {
-      "id": "fox-news",
-      "name": "Fox News"
+      "id": null,
+      "name": "Science Daily"
     },
     "author": null,
-    "title": "Stroke survivors get FDA-approved daily pill shown to cut repeat risk by 26%",
-    "description": "Sunharbo (asundexian) is the first FDA-approved factor XIa inhibitor for secondary stroke prevention, but key limitations and risks do remain.",
-    "url": "https://www.foxnews.com/health/stroke-survivors-get-fda-approved-daily-pill-shown-cut-repeat-risk",
-    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-head-stroke.jpg",
-    "publishedAt": "2026-11-14T13:00:31Z",
-    "content": "The FDA has approved Sunharbo (asundexian) to reduce the risks of a recurring stroke in some adults.\r\nThe medication is taken as one 50-mg pill each day, along with standard blood-clot-preventing med… [+4494 chars]"
-  },
-  {
-    "source": {
-      "id": "cbs-news",
-      "name": "CBS News"
-    },
-    "author": "Kerry  Breen",
-    "title": "Man in his 70s diagnosed with heart defect usually found in infancy",
-    "description": "Carlos Perez's doctors didn't know why his heart was having trouble. Then a scan showed something they had never seen before.",
-    "url": "https://www.cbsnews.com/news/heart-defect-cor-triatriatum-diagnosis/",
-    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/24/296df983-ff02-40ab-946e-58607827feef/thumbnail/1200x630/a5553d748429cb8d2849ac5c43ba6ba7/carlos-perez-photo-i.jpg",
-    "publishedAt": "2026-11-14T13:00:15Z",
-    "content": "Mechanic Carlos Perez felt fine as he finished up work at his car repair shop in June 2025. He sat down with a glass of water, planning to relax for a few minutes before heading home. \r\nThen, out of … [+6136 chars]"
+    "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+    "description": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a …",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/radiograph-x-ray-back-bone-spinal-pain.webp",
+    "publishedAt": "2026-11-15T14:03:39Z",
+    "content": "An existing osteoporosis drug has shown surprising promise in protecting the spine from damage, raising hopes for new treatments for chronic neck and back pain. In experiments involving zebrafish, re… [+8995 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Scientific American"
+      "name": "Royals Review"
     },
-    "author": "Claire Maldarelli",
-    "title": "Is there a better way of diagnosing obesity than BMI?",
-    "description": "A landmark study proposes a new way to identify people whose excess body fat is affecting their health",
-    "url": "https://www.scientificamerican.com/article/is-there-a-better-way-of-diagnosing-obesity-than-bmi/",
-    "urlToImage": "https://static.scientificamerican.com/dam/asset/48fa4880-2328-4d0f-afdd-000ab317b513/BMI-alternative.jpg?m=1794510268.295&w=1200",
-    "publishedAt": "2026-11-14T13:00:00Z",
-    "content": "For decades, doctors have relied on body mass index, or BMI, to diagnose obesity. The calculation—simply a person’s weight divided by their squared height—gained popularity because it was quick and e… [+4587 chars]"
+    "author": "Bradford Lee",
+    "title": "Random off-season thoughts",
+    "description": "Halloween has always been kind of a big thing at our home. I’ve known people over the years who wouldn’t let their kids trick or treat since they considered it a “pagan” holiday. Come on man! Let the kids have some fun while they’re young and innocent! This o…",
+    "url": "https://www.royalsreview.com/general/108105/random-off-season-thoughts",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/f9380dd8f6da7e0bf94f59afa55efce11e0c6bab76240c02df9a987d564662e5/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fc6aee476ef8dd77aa3c302bddd3013ab.jpg",
+    "publishedAt": "2026-11-15T14:00:00Z",
+    "content": "Halloween has always been kind of a big thing at our home. I've known people over the years who wouldn't let their kids trick or treat since they considered it a \"pagan\" holiday. Come on man! Let the… [+7271 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "San Francisco Chronicle"
+      "name": "Pypi.org"
     },
-    "author": "Momo Chang",
-    "title": "Nearly 300 people report getting sick after visiting a popular California beach",
-    "description": "Linda Mar Water Quality Coalition lead scientist John Keener checks the water temperature as volunteers Amelia Milne and Joshua Boyle collect a water sample from the mouth of San Pedro Creek at Linda Mar Beach in Pacifica. (Jessica Christian/S.F. Chronicle)\n …",
-    "url": "https://www.sfchronicle.com/climate/article/linda-mar-pacifica-state-beach-22503306.php?utm_medium=referral&utm_campaign=yahoo_syndication",
+    "author": null,
+    "title": "lammps-forcefield-tools 1.1.0",
+    "description": "Automated LAMMPS and GROMACS force-field and topology generation from molecular and crystal structures",
+    "url": "https://pypi.org/project/lammps-forcefield-tools/1.1.0/",
     "urlToImage": null,
-    "publishedAt": "2026-11-14T13:00:00Z",
+    "publishedAt": "2026-11-15T13:13:10Z",
     "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Science Daily"
+      "name": "Thecoolist.com"
+    },
+    "author": "TheCoolist Team",
+    "title": "A veterinarian advises against a practice increasingly popular among dog owners",
+    "description": "More owners cook for their dogs. Vets warn about it, and a UC Davis study shows why: what goes wrong with homemade dog food and how to do it safely.\nThe post A veterinarian advises against a practice increasingly popular among dog owners appeared first on The…",
+    "url": "https://www.thecoolist.com/a-veterinarian-advises-against-a-practice-increasingly-popular-among-dog-owners-h2r4-ag3/",
+    "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/10/iStock-1170679242.jpg",
+    "publishedAt": "2026-11-15T13:10:00Z",
+    "content": "95% of homemade dog food recipes are missing at least one nutrient your dog needs, a major veterinary study found. Chicken, rice, a few vegetables: more and more owners cook their dog’s meals themsel… [+2728 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futurism"
+    },
+    "author": "Joe Wilkins",
+    "title": "People Who Got Hormone Therapy as Teenagers End Up With a Lower Regret Rate Years Later Than Knee Replacement Surgery, Research Finds",
+    "description": "\"These decisions should be reserved for the doctor's office, and not with the politicians.\"\nThe post People Who Got Hormone Therapy as Teenagers End Up With a Lower Regret Rate Years Later Than Knee Replacement Surgery, Research Finds appeared first on Futuri…",
+    "url": "https://futurism.com/future-society/hormone-therapy-transgender-care-research",
+    "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/hormone-therapy-lower-regret-rate.jpg?quality=85&w=1200",
+    "publishedAt": "2026-11-15T13:02:00Z",
+    "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nOne of the most pernicious lines of attacks used to denigrate transgender people has been “transition regret” the notion that a sign… [+2339 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
     },
     "author": null,
-    "title": "Scientists find a simple daily routine linked to less pain and depression",
-    "description": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer sy…",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/yellow-and-red-smileys-happy-sad-depression.webp",
-    "publishedAt": "2026-11-14T12:48:01Z",
-    "content": "A consistent daily routine may do more for your health than you realize. Researchers at the University of Missouri have found that older adults who follow regular daily schedules tend to experience l… [+5680 chars]"
+    "title": "Simple salt substitute could prevent three million deaths a year worldwide, study estimates",
+    "description": "A Nature Health study finds potassium salt substitutes could prevent nearly 3 million deaths yearly, but hyperkalemia poses risks for some patients.",
+    "url": "https://www.foxnews.com/health/simple-salt-substitute-could-prevent-three-million-deaths-year-worldwide-study-estimates",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-salting-eggs.jpg",
+    "publishedAt": "2026-11-15T13:00:28Z",
+    "content": "Replacing regular table salt with a potassium-enriched alternative could prevent nearly three million deaths and more than 10 million cases of heart and kidney disease worldwide every year, according… [+4977 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Tom's Hardware UK"
     },
-    "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-    "title": "China’s Air Force builds drone that shoots painkiller darts at wounded soldiers",
-    "description": "The Air Force Medical University of the Chinese People's Liberation Army (PLA) built this drone so it could remotely administer pain killers to injured soldiers and make extraction easier.",
-    "url": "https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour",
-    "urlToImage": "https://cdn.mos.cms.futurecdn.net/myZHnnUa8kGCL9qmu5HrhK-1920-80.png",
-    "publishedAt": "2026-11-14T12:30:00Z",
-    "content": "A Chinese military medical school has just developed a UAV that could remotely administer medicine, helping treat injured soldiers on the front lines without putting medical personnel at risk. Accord… [+2986 chars]"
+    "author": "editors@tomshardware.com (Jhet Borja) , Jhet Borja",
+    "title": "Modified Ender 3 becomes a $450 bioprinter for 3D printing engineered living materials",
+    "description": "Microbiologists at the University of Rochester have modified an Ender 3 FDM printer into a 3D bioprinter for $450 and outperforming 3D bioprinters costing more than $100,000.",
+    "url": "https://www.tomshardware.com/3d-printing/university-of-rochester-researchers-made-a-3d-bioprinter-from-a-modified-ender-3-usd450-bioprinter-makes-engineered-living-material-research-accessible",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZiLPdL3uLtUwWzEjcCNVWj-1920-80.jpg",
+    "publishedAt": "2026-11-15T13:00:00Z",
+    "content": "Microbiologists at the University of Rochester modified an Ender 3 FDM 3D printer into a 3D bioprinter for engineered living material (ELM) research. The team used SolidWorks to create the 3D model a… [+3064 chars]"
   },
   {
     "source": {
@@ -83,141 +96,154 @@
       "name": "Science Daily"
     },
     "author": null,
-    "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-    "description": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are u…",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-signal-processing.webp",
-    "publishedAt": "2026-11-14T12:25:05Z",
-    "content": "Subtle patterns of brain activity may reveal the risk of Alzheimer's disease years before memory problems develop or harmful proteins begin accumulating in the brain, according to new research led by… [+11573 chars]"
+    "title": "A simple supplement could help your immune system fight cancer and viral infections",
+    "description": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system&apos;s ability to rec…",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/1920/man-holding-supplement-capsule.webp",
+    "publishedAt": "2026-11-15T12:36:52Z",
+    "content": "A common amino acid found in everyday foods could play a surprisingly important role in helping the immune system recognize cancer and fight viral infections. Scientists at Rockefeller University hav… [+11604 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Premium Times"
+      "name": "Israelnationalnews.com"
     },
-    "author": "Ogalah Dunamis",
-    "title": "Diphtheria: MSF warns of treatment shortages as Nigeria records over 1,100 deaths",
-    "description": "MSF warns that shortages of diphtheria antitoxin are forcing medical teams to ration treatment in northern Nigeria. Fresh figures put the country's 2026 death toll at 1,126, while 70 of 86 patients managed by MSF teams in Katsina over 18 days had severe infec…",
-    "url": "https://www.premiumtimesng.com/health/health-news/925124-diphtheria-msf-warns-of-treatment-shortages-as-nigeria-records-over-1100-deaths.html",
-    "urlToImage": "https://media.premiumtimesng.com/wp-content/files/2026/11/MSF389856High-scaled.jpg",
-    "publishedAt": "2026-11-14T12:15:43Z",
-    "content": "Médecins Sans Frontières (MSF) has warned that shortages of a lifesaving medicine are forcing medical teams to ration treatment for diphtheria patients in northern Nigeria, where more than 28,000 con… [+7326 chars]"
+    "author": "Israel National News",
+    "title": "Israeli AI breakthrough could predict Alzheimer's years before symptoms appear",
+    "description": "Developed from pioneering research led by Clalit Health Services - Beilinson Hospital, ALZAI Health and Ariel University, the new AI model is marking a major step toward earlier Alzheimer’s risk detection",
+    "url": "https://www.israelnationalnews.com/news/436231",
+    "urlToImage": "https://2.a7.org/files/pictures/000/1102547.jpg",
+    "publishedAt": "2026-11-15T12:25:08Z",
+    "content": "An Israeli-developed artificial intelligence model that can identify individuals at risk of developing Alzheimers disease years before the first symptoms appear has successfully completed large-scale… [+6605 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "CNBC"
+      "name": "Dailymail.com"
     },
-    "author": "Isabel O'Brien",
-    "title": "Meet the seven co-founders of Anthropic",
-    "description": "Four researchers, a former journalist, a public policymaker, and an engineer founded Anthropic in 2021. They're now poised to become multi-billionaires.",
-    "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
-    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108464324-1793023646338-gettyimages-2279058111-BLOOMBERG_TECH.jpeg?v=1793023666&w=1920&h=1080",
-    "publishedAt": "2026-11-14T12:15:01Z",
-    "content": "Four researchers, a former journalist, a public policymaker, and an engineer founded Anthropic in 2021. Six years later, the artificial intelligence company is about to go public, with trading expect… [+10801 chars]"
+    "author": "Andy Beaven",
+    "title": "Can you really banish midlife wrinkles by shining red light on your face? So many stars swear by LED masks... now our experts reveal if they actually work",
+    "description": "They used to be the preserve of celebrities such as Victoria Beckham, who shared pictures of herself wearing one on Instagram.",
+    "url": "https://www.dailymail.com/health/article-16292777/banish-midlife-wrinkles-red-light-expert-guide-led-mask.html",
+    "urlToImage": "https://i.dailymail.com/1s/2026/11/14/17/112508125-0-image-m-20_1794677724388.jpg",
+    "publishedAt": "2026-11-15T12:09:35Z",
+    "content": "They used to be the preserve of celebrities such as Victoria Beckham, who shared pictures of herself wearing one on Instagram.\r\nBut now futuristic red-light face masks, which promise to banish wrinkl… [+11456 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Science Daily"
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "School boy imposter subjected ex-professor and wife to 'terrifying ordeal'",
+    "description": "Brian MacKinnon - who posed as a school boy in his 30s - targeted a former university professor as lay in bed with his wife.",
+    "url": "https://www.bbc.co.uk/news/articles/cm0jx869933zo",
+    "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f8e/live/3b9e0a00-e0ed-11f1-b441-2b33b063138f.jpg",
+    "publishedAt": "2026-11-15T12:00:09Z",
+    "content": "Last week he was brought into court in a wheelchair and pleaded guilty to a charge of attempted extortion. \r\nSean Templeton, defending, told the hearing: \"It is clear that he has had an extraordinary… [+1126 chars]"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "Isabella O'Connor",
+    "title": "Women with autoimmune diseases often misdiagnosed for 4 years or more",
+    "description": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as “psychological.”",
+    "url": "https://www.nbcnews.com/health/womens-health/autoimmune-diseases-women-lupus-arthritis-misdiagnosed-study-rcna609176",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-arthritis-sjr-1148-4870ce.jpg",
+    "publishedAt": "2026-11-15T12:00:00Z",
+    "content": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as psychologica… [+3091 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Team Global",
+    "title": "In 1973, Sheldon Kaplan developed a spring-loaded injector for emergency medicine; the design later became the EpiPen, helping people respond quickly to severe allergies",
+    "description": "EpiPens were initially designed to address military challenges but have evolved into life-saving devices for those suffering from food allergies. Current findings suggest a striking rise in food allergies among adults, with many cases emerging later in life. …",
+    "url": "https://economictimes.indiatimes.com/news/international/us/in-1973-sheldon-kaplan-developed-a-spring-loaded-injector-for-emergency-medicine-the-design-later-became-the-epipen-helping-people-respond-quickly-to-severe-allergies/articleshow/135827424.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-135827459,width-1200,height-900,imgsize-172544,overlay-economictimes/articleshow.jpg",
+    "publishedAt": "2026-11-15T11:30:00Z",
+    "content": "Youre at a busy brunch spot in Brooklyn. You take a bite of your food and suddenly feel something off in your throat. You know you should have a skinny plastic pen in your tote bag somewhere, between… [+3704 chars]"
+  },
+  {
+    "source": {
+      "id": "fox-news",
+      "name": "Fox News"
     },
     "author": null,
-    "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
-    "description": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pain, muscle strength, and quality of lif…",
-    "url": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm",
-    "urlToImage": "https://www.sciencedaily.com/images/1920/knee-joint-pain-tendon-inflammation.webp",
-    "publishedAt": "2026-11-14T12:14:57Z",
-    "content": "A serious knee injury can cause problems that persist long after surgery, but new research suggests that the right exercise program could make a major difference. A clinical trial led by researchers … [+5859 chars]"
+    "title": "Living longer may start with 3 foods a doctor eats every day",
+    "description": "Coffee, cacao and raw honey are three foods a Florida physician says he consumes daily to support longevity and healthy aging, citing antioxidants and polyphenols.",
+    "url": "https://www.foxnews.com/food-drink/living-longer-start-3-foods-doctor-eats-every-day",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/drinking-coffee-aging-well.jpg",
+    "publishedAt": "2026-11-15T11:00:43Z",
+    "content": "The secret to a longer, healthier life could start at the breakfast table.\r\nDr. Mitch Ghen, a Boca Raton, Florida-based physician who has practiced functional medicine for more than 45 years, told Fo… [+3075 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "The Denver Post"
     },
-    "author": "Zoe Hardy",
-    "title": "Anisa had no idea she was living with a condition dubbed the 'widow-maker'... until she suffered a massive heart attack at just 31. This is the little-known inherited risk factor she - and millions of others - carry unknowingly",
-    "description": "When Anisa Kelley first experienced chest pain that spread into her shoulders and neck, she didn't think much of it. After all, she was just 31 and exercised regularly.",
-    "url": "https://www.dailymail.com/health/article-16292329/widow-maker-little-known-condition-heart-attack.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/11/14/11/112505193-0-image-a-15_1794654327950.jpg",
-    "publishedAt": "2026-11-14T12:05:54Z",
-    "content": "When Anisa Kelley first experienced chest pain that spread into her shoulders and neck, she didnt think much of it. After all, she was just 31, exercised regularly and could easily clock up 20,000 st… [+12089 chars]"
+    "author": "Collective Colorado",
+    "title": "Western Slope food bank, healthcare providers expand Food for Health program",
+    "description": "Participants receive weekly Food for Health boxes based on the recommendations of 25 medical providers.",
+    "url": "https://www.denverpost.com/2026/11/15/food-for-health-food-bank-rockies/",
+    "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/10/TDP-L-FOODBANK-100625-PT-188.jpg?w=6048&h=4024",
+    "publishedAt": "2026-11-15T11:00:29Z",
+    "content": "By Nancy Lofholm,Collective Colorado\r\nMelanie Trinkle cracked open the door to her apartment on a Thursday morning in late July, clapped her hands and let out an excited woo-hoo!\r\nHer weekly Food for… [+8632 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Christiantoday.com"
+      "name": "Yahoo Entertainment"
     },
-    "author": "Martin Davie",
-    "title": "The Church of England should repent for previous calls to ban 'conversion therapy'",
-    "description": "The Church of England's uneasiness about the government's ‘conversion practices’ bill is a perfect lesson in the old adage, 'be careful what you wish for,' writes Dr Martin Davie.",
-    "url": "https://www.christiantoday.com/news/the-church-of-england-should-repent-for-previous-calls-to-ban-conversion-therapy",
-    "urlToImage": "https://www.christiantoday.com/media/original/thumbnail/14/58/145839.png",
-    "publishedAt": "2026-11-14T12:02:00Z",
-    "content": "The Church of England General Synod passed a motion in 2017 calling on the government to ban 'conversion therapy'. (Photo: Church of England)\r\nIn July 2017 the Church of Englands General Synod passed… [+13937 chars]"
+    "author": "Hayley Smith",
+    "title": "Trump plan could leave decommissioned oil rigs lying on the seafloor off California",
+    "description": "Offshore oil and gas platform Harvest, in the Point Arguello field of the Santa Maria Basin off the California coast. (Chip Chipman / Bloomberg via Getty Images)\r\nA quiet proposal from the Trump administration could change the way offshore oil platforms are m…",
+    "url": "https://www.yahoo.com/news/politics/articles/offshore-oil-rigs-could-toppled-110000945.html",
+    "urlToImage": "https://s.yimg.com/lo/mysterio/api/06b89f1d5c5cd3ed03e31da66dccc1465a7513601895360e299a7b860778beb1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fla_times_articles_853%2Ffe5ecf352379ac2dd77cb248506a4f5e.jpg",
+    "publishedAt": "2026-11-15T11:00:00Z",
+    "content": "A quiet proposal from the Trump administration could change the way offshore oil platforms are managed when they reach the end of their useful lives, leaving more of them to lie permanently on the se… [+7679 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Dailymail.com"
+      "name": "Github.com"
     },
-    "author": "Dr Ellie Cannon",
-    "title": "Why I'm worried that thousands of women may be secretly suffering with lupus without realising. If you have a combination of any of these symptoms I urge you to see your doctor: DR ELLIE CANNON",
-    "description": "Lupus, or systemic lupus erythematosus (SLE), is a condition where the immune system mistakenly targets the body's connective tissues - essentially the glue that holds us together.",
-    "url": "https://www.dailymail.com/health/article-16292327/women-secret-suffer-lupus-doctor-ellie-cannon.html",
-    "urlToImage": "https://i.dailymail.com/1s/2026/11/14/11/112505303-0-image-m-47_1794656071982.jpg",
-    "publishedAt": "2026-11-14T12:01:39Z",
-    "content": "Hugh Laurie has a lot to answer for. For eight series of the hit US drama House, his brilliant but caustic Dr Gregory House would swat away any colleague who dared suggest a patient might have lupus.… [+6198 chars]"
+    "author": "DRLogvinovich",
+    "title": "Show HN: Zero-RNG algebraic audit of codon syntax across 141M codons in RefSeq",
+    "description": "Open-source verification suite &amp; preprints on Medium-Range Conditional Codon Syntax (54 RefSeq taxa, 10 null models H0-H7) &amp; the Double-Stranded Codon Torus T_4^3 = (Z/4Z)^3: Markov lumpabi...",
+    "url": "https://github.com/Dr-Logvinovich/codon-torus-syntax",
+    "urlToImage": "https://opengraph.githubassets.com/882fed1ecc60193b9728f41f1f8b64fd6cb10826c1ce19df3dfffc61555671e4/Dr-Logvinovich/codon-torus-syntax",
+    "publishedAt": "2026-11-15T10:44:07Z",
+    "content": "Official Open-Science Verification Repository for the Three-Paper Genomic Information Theory &amp; Double-Stranded Codon Torus Research Programme (Complete with 568 MB Pre-Cached NCBI RefSeq/GenBank … [+48703 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Ms. Magazine"
+      "name": "Politicalwire.com"
     },
-    "author": "Lillian Kollross, Zaira Tirado, Mary Pfeiffer",
-    "title": "Documentary ‘Second Nature’ Reveals the Queer Animal Kingdom We Never Learned About in School",
-    "description": "Think back to your high school biology class. When you learned about how animals mate, did you ever learn about same-sex pairings? Or that some animals can change their sex? You may have heard of a few instances of queer behavior in nature—like stories of two…",
-    "url": "https://msmagazine.com/2026/11/14/second-nature-documentary-queer-animals/",
-    "urlToImage": "https://msmagazine.com/wp-content/uploads/2026/11/second-nature-documentary-queer-animals.png",
-    "publishedAt": "2026-11-14T12:00:00Z",
-    "content": "Narrated by Elliot Page, Second Nature follows scientists as they explore more than 1,500 animal species that engage in same-sex sexual behavior, raise offspring in same-sex pairs, change sex or live… [+9236 chars]"
+    "author": "Taegan Goddard",
+    "title": "Federal Employees Look to Democrats for a Lifeline",
+    "description": "“Since the start of his second term, President Trump has gone after the federal work force, shearing 17 percent of employees, stripping away centuries of experience in medicine, law and science, and politicizing jobs meant to be nonpartisan,” the New York Tim…",
+    "url": "https://politicalwire.com/2026/11/15/federal-employees-look-to-democrats-for-a-lifeline/",
+    "urlToImage": "https://politicalwire.com/wp-content/uploads/pw-social-cards/2023943-a70fff6a.png",
+    "publishedAt": "2026-11-15T10:02:00Z",
+    "content": "“Since the start of his second term, President Trump has gone after the federal work force, shearing 17 percent of employees, stripping away centuries of experience in medicine, law and science, and … [+442 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Antaranews.com"
+      "id": "the-irish-times",
+      "name": "The Irish Times"
     },
-    "author": "Fauzul Azhim Bin Fakhrurazi",
-    "title": "Why Indonesian medical breakthroughs struggle to reach patients",
-    "description": "Paulus Sudiharto had a working medical invention decades before he had a product on the market. His struggle reveals a stubborn gap in Indonesia&#39;s health ...",
-    "url": "https://en.antaranews.com/news/442671/why-indonesian-medical-breakthroughs-struggle-to-reach-patients",
-    "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2019/12/12/Pameran-Produk-Penelitian-Inovasi-ITB-121219-NA-3.jpg",
-    "publishedAt": "2026-11-14T11:48:48Z",
-    "content": "Jakarta (ANTARA) - Paulus Sudiharto had a working medical invention decades before he had a product on the market. His struggle reveals a stubborn gap in Indonesia's health research: discovery is onl… [+6689 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Retractionwatch.com"
-    },
-    "author": "Retraction Watch Staff",
-    "title": "Weekend reads: China fires researchers after death during trial; Critics question ‘baffling’ disease data; Retractions of old papers on the rise",
-    "description": "If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: In case you missed the news, the Hijacked Journal Checker now has more than 450 entries. The Retraction Watch Database has over 68,…",
-    "url": "https://retractionwatch.com/2026/11/14/weekend-reads-china-fires-researchers-after-death-during-trial-critics-question-baffling-disease-data-retractions-of-old-papers-on-the-rise/",
-    "urlToImage": "https://retractionwatch.com/wp-content/uploads/2024/01/rw.jpeg",
-    "publishedAt": "2026-11-14T11:00:00Z",
-    "content": "If your week flew by we know ours did catch up here with what you might have missed.\r\nThe week at Retraction Watch featured:\r\n<ul><li>Diabetes association VP resigns over response to editorial boycot… [+4841 chars]"
-  },
-  {
-    "source": {
-      "id": "business-insider",
-      "name": "Business Insider"
-    },
-    "author": "Hilary Brueck",
-    "title": "What if we could stop Alzheimer's before it ever starts?",
-    "description": "Doctors are starting to ask the provocative question: what if new Alzheimer's drugs make better preventive treatments?",
-    "url": "https://www.businessinsider.com/alzheimers-prevention-drugs-before-symptoms-2026-11#article",
-    "urlToImage": "https://i.insider.com/6af733d30cc3ffba8779cd73?width=1200&format=jpeg",
-    "publishedAt": "2026-11-14T10:47:01Z",
-    "content": "Growing up in Guayama, a town nicknamed \"witch city\" in Puerto Rico, Maritza Ciliberto heard the rumors that her family was cursed.\r\nShe didn't believe in curses, rejecting the idea that anyone could… [+13697 chars]"
+    "author": "Sarah O’Connor",
+    "title": "No, people have not fallen out of love with work",
+    "description": "There is a more straightforward reason for employees’ decreased willingness to go above and beyond – not enough money and control",
+    "url": "https://www.irishtimes.com/business/work/2026/11/15/no-people-have-not-fallen-out-of-love-with-work/",
+    "urlToImage": "https://www.irishtimes.com/resizer/v2/4ING4HYLKFE7ZDECBU2N5IEPFA.jpg?smart=true&auth=27f04728ab832d465abc2592f25a296882a67280cc79b6b31331fe5c4e9c43e3&width=1200&height=630",
+    "publishedAt": "2026-11-15T10:00:00Z",
+    "content": "Have people lost the will to work? This theory until now quite wishy-washy appeared to gain some quantitative heft in the UK last week thanks to the latest edition of the long-running British Social … [+4487 chars]"
   }
 ]
