@@ -1,55 +1,68 @@
 [
   {
     "source": {
-      "id": null,
-      "name": "Marcandangel.com"
+      "id": "rte",
+      "name": "RTE"
     },
-    "author": "Marc Chernoff",
-    "title": "3 Quick Morning Habits that Will Change the Rest of Your Life",
-    "description": "A good morning, and thus a good day, aren’t experiences that magically happen; they are created consciously. Most of us are distracted from the get-go every morning. Trivial activities like checking social media, watching TV, and worrying about things we can’…",
-    "url": "https://www.marcandangel.com/2026/11/18/3-little-things-you-should-do-every-day-before-noon/",
-    "urlToImage": "https://www.marcandangel.com/wp-content/uploads/3-quick-morning-habits-change-life.jpg",
-    "publishedAt": "2026-11-18T14:45:30Z",
-    "content": "A good morning, and thus a good day, aren’t experiences that magically happen; they are created consciously.\r\nMost of us are distracted from the get-go every morning. Trivial activities like checking… [+13292 chars]"
+    "author": "RTÉ News",
+    "title": "'Agonising' wait for answers - mother on daughter's death",
+    "description": "The mother of a two-year-old girl who died in hospital from complications arising from a common viral illness has said it was \"agonising\" having to wait to have the family's questions answered.",
+    "url": "https://www.rte.ie/news/2026/1119/1599862-willow-trimble-family/",
+    "urlToImage": "https://www.rte.ie/images/00255ea3-1600.jpg",
+    "publishedAt": "2026-11-19T14:19:06Z",
+    "content": "The mother of a two-year-old girl who died at Regional Hospital Mullingar three years ago, from complications arising from a common viral illness, has said it was \"agonising\" having to wait to have t… [+4282 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Pypi.org"
+      "name": "Medical Daily"
     },
-    "author": null,
-    "title": "pyadmd 3.6.2",
-    "description": "Adaptive Molecular Dynamics with Excited Normal Modes (aMDeNM) on OpenMM.",
-    "url": "https://pypi.org/project/pyadmd/3.6.2/",
-    "urlToImage": null,
-    "publishedAt": "2026-11-18T14:42:08Z",
-    "content": "A required part of this site couldnt load. This may be due to a browser\r\n extension, network issues, or browser settings. Please check your\r\n connection, disable any ad blockers, or try using a diffe… [+12 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Aryan Singh",
-    "title": "US used expired missiles in Op Epic Fury against Iran; navy officer gives odd 'stale bread' comparison",
-    "description": "The US Navy recently acknowledged deploying expired munitions in operations against Iran. According to acting navy secretary Hung Cao, the military is dealing with dwindling weapon stockpiles. To address this, previously expired munitions were refurbished for…",
-    "url": "https://timesofindia.indiatimes.com/defence/international/us-used-expired-missiles-in-op-epic-fury-against-iran-navy-officer-gives-odd-stale-bread-comparison/articleshow/135966025.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135966097/135966097.jpg",
-    "publishedAt": "2026-11-18T14:41:59Z",
-    "content": "A bottle of medicine past its expiry date is usually thrown away. But what happens when the weapon meant to destroy an enemy target is past its shelf life?The US navy faced precisely that question du… [+3818 chars]"
+    "author": "Joseph James",
+    "title": "Denmark Pays 31 Wegovy and Ozempic Users for Rare Vision Loss as FDA Adds GLP-1 Eye Warning",
+    "description": "Denmark has awarded about $2.3 million to 31 Wegovy and Ozempic users with NAION. The payments do not establish causation, but sudden visual changes require prompt medical care.",
+    "url": "https://www.medicaldaily.com/denmark-compensation-semaglutide-naion-vision-loss-481442",
+    "urlToImage": "https://d.medicaldaily.com/en/full/488828/sudden-vision-loss.jpg?w=1600&h=900&q=88&f=9aca427fd811fde9aa32be0c89905df2",
+    "publishedAt": "2026-11-19T14:17:13Z",
+    "content": "Denmark's patient compensation authority has now awarded payments to 31 people who developed a rare optic nerve condition after taking Novo Nordisk's Wegovy or Ozempic. The awards total about 15 mill… [+6241 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Fazlisyam.com"
+      "name": "BusinessLine"
     },
-    "author": null,
-    "title": "Kunyit Hitam Curcuma caesia: Ulasan Sifat Perubatan dan Potensi sebagai Bahan Makanan Berfungsi",
-    "description": "Pengenalan Kunyit hitam, atau Curcuma caesia Roxb., ialah tumbuhan daripada keluarga Zingiberaceae yang rizom dan",
-    "url": "https://fazlisyam.com/kunyit-hitam-curcuma-caesia-ulasan-sifat-perubatan-dan-potensi-sebagai-bahan-makanan-berfungsi/",
-    "urlToImage": null,
-    "publishedAt": "2026-11-18T14:33:00Z",
-    "content": "Pengenalan\r\nKunyit hitam, atau Curcuma caesia Roxb., ialah tumbuhan daripada keluarga Zingiberaceae yang rizom dan daunnya digunakan dalam perubatan Ayurveda serta sebagai ubat tradisional. Herba dan… [+8528 chars]"
+    "author": "BL Bengaluru Bureau",
+    "title": "Karnataka steps up global tech partnerships at Bengaluru Tech Summit 2026",
+    "description": "Karnataka boosts global tech partnerships at BTS 2026, signing MoUs with international partners to accelerate AI, robotics, biotech, and start-up ecosystem growth.",
+    "url": "https://www.thehindubusinessline.com/info-tech/karnataka-steps-up-global-tech-partnerships-at-bengaluru-tech-summit-2026/article71720218.ece",
+    "urlToImage": "https://bl-i.thgim.com/public/incoming/hjyqf/article71720248.ece/alternates/LANDSCAPE_1200/Bengaluru-is-InG5EGQM64M.3.jpg.jpg",
+    "publishedAt": "2026-11-19T14:10:38Z",
+    "content": "The three-day 29th edition of Bengaluru Tech Summit (BTS) 2026, themed AI &amp; Beyond, concluded on Thursday, showcasing strategic international partnerships, technology collaborations, innovation i… [+6120 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Reason"
+    },
+    "author": "Eugene Volokh",
+    "title": "[Eugene Volokh] Israeli-American Emory Professor's Defamation Case Against CAIR Georgia and Emory Student Can Go Forward (in Part)",
+    "description": "Some excerpts from the long opinion by Judge Thomas Thrash (N.D. Ga.) yesterday in Winer v. Mohammad: This action arises...",
+    "url": "https://reason.com/volokh/2026/11/19/israeli-american-emory-professors-defamation-case-against-cair-georgia-and-emory-student-can-go-forward-in-part-2/",
+    "urlToImage": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2021/11/reason-logo-featured-placeholder.jpg.webp",
+    "publishedAt": "2026-11-19T14:10:06Z",
+    "content": "Some excerpts from the long opinion by Judge Thomas Thrash (N.D. Ga.) yesterday in Winer v. Mohammad:\r\nThis action arises out of alleged defamatory statements that Defendant Umaymah Mohammad, a stude… [+14891 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Medical Daily"
+    },
+    "author": "Joseph James",
+    "title": "Liquid Statin FloLipid Faces Possible FDA Withdrawal Over Missed Reports, Leaving Patients Who Can't Swallow Pills Weighing Options",
+    "description": "The FDA proposed withdrawing FloLipid's approval after Salerno Pharmaceuticals missed required annual reports. Patients who cannot swallow pills should seek guidance before switching treatments.",
+    "url": "https://www.medicaldaily.com/fda-flolipid-liquid-statin-withdrawal-proposal-481439",
+    "urlToImage": "https://d.medicaldaily.com/en/full/488825/old-woman-swalllowing-pills.jpg?w=1600&h=900&q=88&f=1189fbe8e0f423e5cf5382b5688be3e6",
+    "publishedAt": "2026-11-19T14:07:18Z",
+    "content": "The Food and Drug Administration has proposed withdrawing approval of FloLipid, a liquid form of the cholesterol drug simvastatin, because its maker \"has repeatedly failed to file required annual rep… [+5493 chars]"
   },
   {
     "source": {
@@ -57,206 +70,193 @@
       "name": "The Times of India"
     },
     "author": "Times News Network",
-    "title": "Bengaluru researcher wins Google PhD fellowship",
-    "description": "Bengaluru NCBS PhD researcher Surya Sarathi Das wins 2026 Google PhD Fellowship to develop AI tools for predicting cervical cancer recurrence risk.",
-    "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-researcher-wins-google-phd-fellowship/articleshow/135965921.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135965917/135965917.jpg",
-    "publishedAt": "2026-11-18T14:32:47Z",
-    "content": "Bengaluru: A doctoral researcher at National Centre for Biological Sciences (NCBS) has been selected for the 2026 Google PhD fellowship, becoming the first PhD student from the institute to receive t… [+1603 chars]"
+    "title": "Indegene joins C-CAMP, Imperial College’s Indo-UK life sciences corridor",
+    "description": "Indegene becomes first industry partner in C-CAMP and Imperial College London’s Indo-UK Life Science Corridor, boosting cross-border innovation in key areas.",
+    "url": "https://timesofindia.indiatimes.com/city/bengaluru/indegene-joins-c-camp-imperial-colleges-indo-uk-life-sciences-corridor/articleshow/135994846.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-135994841/135994841.jpg",
+    "publishedAt": "2026-11-19T14:04:02Z",
+    "content": "Bengaluru: Centre for Cellular and Molecular Platforms (C-CAMP) and Imperial College London have named Indegene the first industry partner of their Indo-UK Life Science Corridor, an initiative to con… [+2513 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Freerepublic.com"
+      "name": "Www.gov.uk"
     },
-    "author": null,
-    "title": "Red Tide spreads through Bay, Walton and Gulf counties [Fl Panhandle]",
-    "description": "BAY COUNTY, Fla. (WMBB)- Red Tide is raising concerns along parts of the Florida Panhandle. State officials are tracking the bloom as beachgoers and local communities keep an eye on changing conditions. Red Tide is spreading along the panhandle coastline, cau…",
-    "url": "https://freerepublic.com/focus/f-chat/4403488/posts",
-    "urlToImage": null,
-    "publishedAt": "2026-11-18T14:29:53Z",
-    "content": "Skip to comments.\r\nRed Tide spreads through Bay, Walton and Gulf counties [Fl Panhandle]www.mypanhandle.com ^\r\n | November 16, 2026\r\n | Sammy Vickery\r\nPosted on 11/18/2026 6:29:53 AM PST by Red Badge… [+4083 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "SiliconANGLE News"
-    },
-    "author": "Ryan Stevens",
-    "title": "Quantum computing drops its decade-away tag as error rates fall 200-fold in two years",
-    "description": "Quantum computing is shedding its reputation as speculative as gains in quantum error correction turn fragile machines into reliable ones. For the supercomputing community, which now measures data centers in gigawatts of power, the more pressing question is h…",
-    "url": "https://siliconangle.com/2026/11/18/quantum-error-correction-ushers-data-center-sc26/",
-    "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/IMG_5366-scaled-e1795011521458.jpg",
-    "publishedAt": "2026-11-18T14:28:21Z",
-    "content": "Quantum computing is shedding its reputation as speculative as gains in quantum error correction turn fragile machines into reliable ones. For the supercomputing community, which now measures data ce… [+4037 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Highsnobiety"
-    },
-    "author": "Sienna Mayers",
-    "title": "Berlin Gets a Hair Transformation with L’Oréal Professionnel",
-    "description": "Haircare giant L'Oréal gave Berliners full blown hair makeovers at their bespoke Transformation Day event, which took place at Highsnobiety's Under den Linden space.",
-    "url": "https://www.highsnobiety.com/p/loreal-took-berliners-to-the-salon/",
-    "urlToImage": "https://www.highsnobiety.com/static-assets/dato/1794400883-6.jpg",
-    "publishedAt": "2026-11-18T14:25:23Z",
-    "content": "Last month, LOréal Professionnel Paris gave Berliners tresses a seasonal makeover. The iconic pro hair brands Transformation Day event arrived in the city with a full program of Hyaluron Glossing, pr… [+3374 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Fazlisyam.com"
-    },
-    "author": null,
-    "title": "Bawang Rose India di Tanah Rendah Malaysia: Ciri Fisiologi yang Membolehkan Penyesuaian Tropika",
-    "description": "Pengenalan Bawang merah kecil (shallot) ialah bahan asas dalam kebanyakan masakan Malaysia. Wan Rozita et",
-    "url": "https://fazlisyam.com/bawang-rose-india-di-tanah-rendah-malaysia-ciri-fisiologi-yang-membolehkan-penyesuaian-tropika/",
-    "urlToImage": null,
-    "publishedAt": "2026-11-18T14:16:00Z",
-    "content": "Pengenalan\r\nBawang merah kecil (shallot) ialah bahan asas dalam kebanyakan masakan Malaysia. Wan Rozita et al. (2024) menyatakan bahawa Malaysia bergantung sepenuhnya kepada import kerana tiada penge… [+8359 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "CNBC"
-    },
-    "author": "Annika Kim Constantino, Brandon Gomez",
-    "title": "Hims & Hers launches new peptide treatments — while admitting there's more to learn about efficacy",
-    "description": "The telehealth company will now offer compounded forms of sermorelin, glutathione, NAD+,  vitamin B-12 and L-carnitine, none of which are approved by the FDA.",
-    "url": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
-    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550474-1794514351694-6ae12503a2c3bf5ff4e281ad_26Q3_FDA-peptide-vial_newsroom_1920x1008_2.jpeg?v=1794514425&w=1200&h=675",
-    "publishedAt": "2026-11-18T14:02:52Z",
-    "content": "Hims &amp; Hers peptide treatments.\r\nHims &amp; Hers Health on Wednesday said it will offer five formulations of peptides and longevity treatments compounded in the U.S. as part of the initial rollou… [+9761 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "SiliconANGLE News"
-    },
-    "author": "Mike Wheatley",
-    "title": "Tesorai raises $5.3M to feed starving AI models with biological data and accelerate drug discovery",
-    "description": "Drug researchers and medical laboratories generate massive volumes of biological data every single day, yet somehow the artificial intelligence models designed to speed up drug discovery are still starved of useful information. It’s a strange paradox, but a s…",
-    "url": "https://siliconangle.com/2026/11/18/tesorai-raises-5-3m-to-feed-starving-ai-models-with-biological-data-and-accelerate-drug-discovery/",
-    "urlToImage": "https://images.siliconangle.com/blogs.dir/1/files/2026/11/Screenshot-from-2026-11-16-09-57-29.png",
-    "publishedAt": "2026-11-18T14:00:33Z",
-    "content": "Drug researchers and medical laboratories generate massive volumes of biological data every single day, yet somehow the artificial intelligence models designed to speed up drug discovery are still st… [+6166 chars]"
+    "author": "Veterinary Medicines Directorate",
+    "title": "Dexdomitor 0.5 mg/ml solution for injection for dogs and cats – SPC change",
+    "description": "Change to the information provided on indications for use for each target species, special precautions for use and adverse events in the Summary of Product Characteristics (SPC).",
+    "url": "https://www.gov.uk/government/news/dexdomitor-05-mgml-solution-for-injection-for-dogs-and-cats-spc-change",
+    "urlToImage": "https://assets.publishing.service.gov.uk/media/6afee235e715e1cb9d5d4fb1/s960_SPC_change_-_Canva_free.png",
+    "publishedAt": "2026-11-19T14:01:26Z",
+    "content": "The Summary of Product Characteristics (SPC) for Dexdomitor 0.5 mg/ml solution for injection for dogs and cats has been updated. \r\n\n\n\n Section 3.2 (Indications for use for each target species) now in… [+2829 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Plos.org"
     },
-    "author": "Gustavo Burin",
-    "title": "Migration as a key influence on ungulate eco-evolutionary history",
-    "description": "Species can overcome environmental limitations by migrating to more favorable areas. This Primer explores a new study in PLOS Biology showing that this behavior has an important effect on the diversification dynamics of ungulates, which in turn likely led to …",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004115",
-    "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3004115.g001&size=inline",
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "Citation: Burin G (2026) Migration as a key influence on ungulate eco-evolutionary history. PLoS Biol 24(11):\r\n e3004115.\r\nhttps://doi.org/10.1371/journal.pbio.3004115\r\nPublished: November 18, 2026\r\n… [+8502 chars]"
+    "author": "Yixuan Zhang, Huan Wang, Ying He, Siyuan Zhang, Pengyu Wang, Yimin Han",
+    "title": "Handheld Raman spectroscopy for ex vivo molecular assessment of cervical lesions: A methodological feasibility study",
+    "description": "Current diagnostic workflows for cervical lesions remain constrained by processing time, sampling representativeness, and limited molecular-level tissue assessment. Handheld Raman spectroscopy may provide label-free molecular profiling of ex vivo tissue speci…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363469",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0363469.g006&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Abstract\r\nCurrent diagnostic workflows for cervical lesions remain constrained by processing time, sampling representativeness, and limited molecular-level tissue assessment. Handheld Raman spectrosc… [+93419 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Plos.org"
     },
-    "author": "John J. Vastola, Tejas Ramdas, Samuel J. Gershman",
-    "title": "Storing long-lived memories via molecular error correction: A minimal mathematical model of Crick’s memory switch",
-    "description": "Author summary Cells can store memories of developmental and environmental information by attaching molecular marks to proteins and DNA, but because molecular components are continually replaced, these marks may be erroneously removed. In 1984, Francis Crick …",
-    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014948",
-    "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014948.g006&size=inline",
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "Citation: Vastola JJ, Ramdas T, Gershman SJ (2026) Storing long-lived memories via molecular error correction: A minimal mathematical model of Cricks memory switch. PLoS Comput Biol 22(11):\r\n e101494… [+45590 chars]"
+    "author": "Jonathan Feldman, Jeffrey Skolnick",
+    "title": "AlphaInterp: Revealing how AlphaFold 3 processes structure, confidence, and evolutionary information",
+    "description": "Author summary AlphaFold has transformed structural biology, but its predictions are widely used without a clear understanding of how the model arrives at them. We developed a way to examine and experimentally alter AlphaFold 3’s internal representations as i…",
+    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014981",
+    "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014981.g005&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "1. Introduction\r\nA fundamental problem in biology is understanding how evolutionary information encodes three-dimensional molecular structure. Protein sequences diverge over evolutionary time, yet st… [+99690 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Plos.org"
     },
-    "author": "Nolan Gunter, Andres Cardenas, Michael Kobor, Nicole Gladish, Julie MacIsaac, Kristy Dever, David Rehkopf, William Dow, Luis Rosero-Bixby, Alan Hubbard",
-    "title": "Aging out of the blue: Region-specific epigenetic clock calibration for a blue zone with the DNAm SuperLearner",
-    "description": "Author summary Understanding why certain populations live significantly longer than others is a central goal of aging research. “Blue Zones,” such as the Nicoya region in Costa Rica, provide a natural setting to investigate exceptional longevity. In this stud…",
-    "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014949",
-    "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014949.g004&size=inline",
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "Abstract\r\nEpigenetic clocks estimate biological age from DNA methylation patterns at CpG sites, providing robust predictions of mortality and morbidity risk. Blue zones, regions of exceptional longev… [+59463 chars]"
+    "author": "Song-Quan Ong Branko Brkljač Tamara Djerdj Maria Cholvi Angeliki F. Martinou Jessica J. Williams Domagoj K. Hackenberger Branimir K. Hackenberger",
+    "title": "Applications of computer vision in mosquito-borne diseases: A systematic review",
+    "description": "Author summary Mosquito-borne diseases such as malaria, dengue, Zika, and chikungunya continue to threaten millions of people worldwide. Early diagnosis, effective mosquito surveillance, and timely control measures are essential for reducing disease transmiss…",
+    "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014870",
+    "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014870.g006&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "1 Introduction\r\nMosquito-borne diseases (MBDs) continue to impose substantial global health burdens, with pathogens such as Plasmodium spp., dengue virus, Zika virus, chikungunya virus, and yellow fe… [+36366 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Plos.org"
     },
-    "author": "Kristina Mott, Margret Droste, Fabienne Brunner, Bastian Just, Maria Drayss, Lukas Johannes Weiss, Daniela Semeniak, Rebecca Kulawig, Harald Schulze",
-    "title": "Loss of sinusoidal laminin α5 alters megakaryocyte dynamics but preserves thrombopoiesis",
-    "description": "Platelets, the smallest cells of the hematopoietic system, are generated by megakaryocytes (MKs) in the bone marrow (BM) through transendothelial proplatelet release. This process is in part regulated by differential local expression of extracellular matrix (…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362188",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362188.g006&size=inline",
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "Abstract\r\nPlatelets, the smallest cells of the hematopoietic system, are generated by megakaryocytes (MKs) in the bone marrow (BM) through transendothelial proplatelet release. This process is in par… [+68618 chars]"
+    "author": "Oumar Gaye Khadidiatou Diallo Cheikh Bintou Fall Eva Compérat Olivier Cussenot Babacar Faye Michael Hsieh",
+    "title": "Molecular mechanisms of Schistosoma haematobium-associated bladder carcinogenesis and urinary biomarkers for early diagnosis: A review",
+    "description": "Urogenital schistosomiasis, caused by Schistosoma haematobium, remains endemic in sub-Saharan Africa and is a major risk factor for bladder cancer, primarily squamous cell carcinoma. The molecular mechanisms of carcinogenesis are still poorly understood and d…",
+    "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014868",
+    "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014868.t002&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Abstract\r\nUrogenital schistosomiasis, caused by Schistosoma haematobium, remains endemic in sub-Saharan Africa and is a major risk factor for bladder cancer, primarily squamous cell carcinoma. The mo… [+43166 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Plos.org"
     },
-    "author": "Sofia A. Haddan Asim Waqas Ghulam Rasool Matthew B. Schabath",
-    "title": "Novel risk models based on screening history results and timing of lung cancer diagnosis: Post hoc analysis of the National Lung Cancer Screening Trial",
-    "description": "Background Our group previously reported that lung cancer (LC) screening history results and subsequent timing of diagnosis are associated with significant differences in survival outcomes. As a follow-up study, we sought to develop novel personalized risk mo…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363145",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0363145.g003&size=inline",
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "Citation: Haddan SA, Waqas A, Rasool G, Schabath MB (2026) Novel risk models based on screening history results and timing of lung cancer diagnosis: Post hoc analysis of the National Lung Cancer Scre… [+51800 chars]"
+    "author": "Liuyang Du, Liping Wang, Lei Zhao, Juan Li, Yan Yan, Xiran Peng, Weiren Dong, Wei Wu, Jiyong Zhou, Jinyan Gu",
+    "title": "Deltacoronavirus modulates circRNA circC3 biogenesis to accelerate MBNL1 mRNA decay",
+    "description": "Author summary Although numerous studies have shown that viral infection can profoundly dysregulate host circRNAs, the mechanisms governing these changes remain poorly defined. Additionally, while some circRNAs modulate viral replication by acting as microRNA…",
+    "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014790",
+    "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014790.g009&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Citation: Du L, Wang L, Zhao L, Li J, Yan Y, Peng X, et al. (2026) Deltacoronavirus modulates circRNA circC3 biogenesis to accelerate MBNL1 mRNA decay. PLoS Pathog 22(11):\r\n e1014790.\r\nhttps://doi.or… [+61488 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Plos.org"
     },
-    "author": "Gabrielle A. Cooper Nicole E. Brown Amy B. Rubis How Yi Chang Caelin Cubenas Daya Marasini Adam Retchless Shalabh Sharma Sarah Meyer Lucy A. McNamara",
-    "title": "Characterization of meningococcal disease outbreaks in the United States, 2014–2019",
-    "description": "Background Meningococcal disease, caused by the bacterium Neisseria meningitidis, is a serious bacterial infection that can be fatal or leave survivors with permanent sequelae. Despite decades of declining incidence in the United States (U.S.), meningococcal …",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362457",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362457.g002&size=inline",
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "Abstract\r\nBackground\r\nMeningococcal disease, caused by the bacterium Neisseria meningitidis, is a serious bacterial infection that can be fatal or leave survivors with permanent sequelae. Despite dec… [+24898 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Fortinet.com"
-    },
-    "author": "Ali Bidabadi, Bandhan Dutta Microsoft",
-    "title": "Fortinet Brings Network Security to Microsoft Sovereign Private Cloud on Azure Local",
-    "description": "At Microsoft Ignite 2026, Fortinet will discuss how FortiGate VM protects sensitive workloads on Azure Local and how FortiManager delivers FortiGuard Security Services locally.…",
-    "url": "https://www.fortinet.com/blog/cloud-security/fortinet-brings-network-security-to-microsoft-sovereign-private-cloud-on-azure-local",
-    "urlToImage": null,
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "At Microsoft Ignite 2026 in San Francisco, Fortinet will discuss integrating FortiGate VM with Microsoft Azure Local. Even when an AI application runs locally, it can still query sensitive records, c… [+7383 chars]"
+    "author": "Tasuku Sakayori Kenji Shoda Ryosuke Nakanishi Yoshihiko Ueno Ayumu Kanbe Aki Oka Daisuke Mizutani Miyu Kitagami Keisuke Kitano Ryosuke Kikuchi Yukiko Enomoto",
+    "title": "Assessment of aspirin response in patients undergoing neuroendovascular treatments: A comparison of five platelet function tests across two platforms",
+    "description": "Aspirin is widely used for periprocedural antiplatelet therapy in neuroendovascular procedures; however, variability in patient response poses clinical challenges. This study aimed to assess five platelet function tests on two different platforms: light trans…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363376",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0363376.g002&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Abstract\r\nAspirin is widely used for periprocedural antiplatelet therapy in neuroendovascular procedures; however, variability in patient response poses clinical challenges. This study aimed to asses… [+31793 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Plos.org"
     },
-    "author": "Bernard Maumbe David Mukunya Brendah Nambozo Faith Oguttu Julian Abeso Sarah Mutonyi Joel Okwir Milton W. Musaba Susan Lunyolo Henry K. Nabudere Lawrence Ssegawa Deogratias Munube Sarah Kiguli Peter Olupot-Olupot",
-    "title": "Neurodevelopment among children under five years with sickle cell disease in Eastern Uganda: A propensity score analysis",
-    "description": "Aim We compared neurodevelopment among children under-five years with and without sickle cell disease in eastern Uganda.   Methods We conducted a cross-sectional study between March and September 2025 at the pediatric sickle cell clinic of Mbale Regional Refe…",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363134",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0363134.g001&size=inline",
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "Citation: Maumbe B, Mukunya D, Nambozo B, Oguttu F, Abeso J, Mutonyi S, et al. (2026) Neurodevelopment among children under five years with sickle cell disease in Eastern Uganda: A propensity score a… [+23720 chars]"
+    "author": "Solomon T. Wafula Trophy Akello Shakiim Mubiru Richard K. Mugambe John Bosco Isunju John Bosco Ddamulira David Musoke",
+    "title": "Clinical features, first aid practices, and hospital management of snakebites in Northern Uganda: A multi-facility cross-sectional study",
+    "description": "Snakebite envenoming is a neglected tropical disease with a disproportionate burden in sub-Saharan Africa, where weak surveillance, limited antivenom availability, and reliance on traditional remedies compound morbidity and mortality. Evidence on how snakebit…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363220",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0363220.t004&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Introduction\r\nSnakebite envenoming is a life-threatening medical emergency caused by the injection of venom through the bite of a venomous snake or, for some species, defensive spitting of venom into… [+45379 chars]"
   },
   {
     "source": {
       "id": null,
       "name": "Plos.org"
     },
-    "author": "Gayani Shashikala Amarasinghe Sucharitha Rangi Weerasuriya Christina Malatzky Sanjeewa Kularatna William Parsonage",
-    "title": "Multidisciplinary care models for managing pregnancies complicated with chronic diseases: A systematic review",
-    "description": "Multidisciplinary care is a key recommendation for the management of complicated pregnancies in contemporary obstetrics, but how to implement it in the real world remains unclear and poorly supported by research evidence. This systematic review describes the …",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362738",
-    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362738.g003&size=inline",
-    "publishedAt": "2026-11-18T14:00:00Z",
-    "content": "Title and abstract screening of the 8515 articles identified 1045 articles for full-text review. Finally, 51 reports from 45 studies were selected for data extraction. The search details are presente… [+19470 chars]"
+    "author": "Md Ramjan Sheikh Md Abu Sayed Parvez Jarin Tasnim Md Muntasir Alam Muhib Md Tanvir Ahmed Protoy Nandi S. M. Emran Ali Apu Chakraborty Asmia Iqbal Md Ekhlas Uddin",
+    "title": "Identification and structural characterization of MMP1 and MMP9 as potential targets of curcumin and resveratrol in lung adenocarcinoma",
+    "description": "Background Lung adenocarcinoma (LUAD) is a major subtype of lung cancer characterized by substantial molecular heterogeneity and limited therapeutic options. Curcumin and resveratrol are naturally occurring bioactive compounds with reported anticancer activit…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362473",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362473.g017&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Citation: Sheikh MR, Parvez MAS, Tasnim J, Alam Muhib MM, Ahmed MT, Nandi P, et al. (2026) Identification and structural characterization of MMP1 and MMP9 as potential targets of curcumin and resvera… [+82933 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Qiong Zhou, Changxian Xiong, Linshu Wang, Huai Pang, Rucong Liu, Jingkun Yi, Yu Han, Yuan Zhou",
+    "title": "IntiCom-DB v2.0: An expanded manually curated resource for inter-tissue/organ communications",
+    "description": "Inter-tissue/organ communication (ITC) is essential for coordinating metabolism, immunity, development and disease progression. However, experimentally supported ITC events are dispersed across individual studies, hindering a systematic retrieval of their mol…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363442",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0363442.g003&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Abstract\r\nInter-tissue/organ communication (ITC) is essential for coordinating metabolism, immunity, development and disease progression. However, experimentally supported ITC events are dispersed ac… [+49385 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Huiyu Ji, Zi Lin, Zhemei Liang, Fenglin Shao",
+    "title": "Risk factors for venous thromboembolism in adults with sepsis: Protocol for a systematic review and meta-analysis",
+    "description": "Introduction Adults with sepsis are at increased risk of venous thromboembolism (VTE), encompassing deep vein thrombosis (DVT) and pulmonary embolism (PE), because of sepsis-related inflammation, endothelial injury, coagulation activation and treatment-relate…",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362861",
+    "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362861.g001&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Citation: Ji H, Lin Z, Liang Z, Shao F (2026) Risk factors for venous thromboembolism in adults with sepsis: Protocol for a systematic review and meta-analysis. PLoS One 21(11):\r\n e0362861.\r\nhttps://… [+25569 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Steynonline.com"
+    },
+    "author": "Laura Rosen Cohen",
+    "title": "The Lasso Way",
+    "description": "Hello again and welcome to a brand new edition of Laura's Links. I wasn't online as much as usual this week because I had a lot of \"IRL\" (in real life) things going on; various appointments and meetings, paperwork and other various sundry activities. But",
+    "url": "https://www.steynonline.com/16515/the-lasso-way",
+    "urlToImage": "https://www.steynonline.com/pics/11134.jpg",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Hello again and welcome to a brand new edition of Laura's Links.\r\nI wasn't online as much as usual this week because I had a lot of \"IRL\" (in real life) things going on; various appointments and meet… [+9090 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Xumei Sun, Fan Xin, Siyuan Zhang",
+    "title": "N6-methyladenosine dependent glycolysis enhances viral infection by histone lactylation in an arthropod",
+    "description": "Author summary During viral infection, glycolysis serves as a critical pathway for supplying both substrates and energy, however the regulatory mechanism by which RNA modifications govern this process in invertebrates remains elusive. Our study demonstrates t…",
+    "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014789",
+    "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014789.g009&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Citation: Sun X, Xin F, Zhang S (2026) N6-methyladenosine dependent glycolysis enhances viral infection by histone lactylation in an arthropod. PLoS Pathog 22(11):\r\n e1014789.\r\nhttps://doi.org/10.137… [+52829 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Plos.org"
+    },
+    "author": "Emma Legait Charlotte Rulquin Lauranne Bouteille Raphaël Clément Cédric Maurange",
+    "title": "Local feedback governs cell fate transition to drive self-organized phenotypic equilibrium in hierarchical tumors",
+    "description": "How tumors maintain a stable proportion of cancer stem cells during continuous growth remains unclear. Using a hierarchical tumor model, this study demonstrates that local feedback between cancer stem cells and their differentiating progeny couples cell-fate …",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004086",
+    "urlToImage": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3004086.g005&size=inline",
+    "publishedAt": "2026-11-19T14:00:00Z",
+    "content": "Citation: Legait E, Rulquin C, Bouteille L, Clément R, Maurange C (2026) Local feedback governs cell fate transition to drive self-organized phenotypic equilibrium in hierarchical tumors. PLoS Biol 2… [+59684 chars]"
   }
 ]
